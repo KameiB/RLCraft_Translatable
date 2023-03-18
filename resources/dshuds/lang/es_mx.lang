@@ -1,0 +1,95 @@
+#PARSE_ESCAPES
+## Translated by KameiB for RLCraft 2.9.2. Jan/2023
+dshuds.msg.dshuds=Dynamic Surroundings: HUDs
+
+# Metadata Updates
+dshuds.metadata.Name=§3Dynamic Surroundings: HUDs
+dshuds.metadata.Credits=\n\n§eCreditos de sonido y video§r a <INSERTE AQUi>\n\n
+dshuds.metadata.Authors=§6OreCruncher§r
+dshuds.metadata.Description=Varios HUDs de Dynamic Surroundings
+
+# Keybindings
+dshuds.keybind.SelectionBox=Alternar Caja de seleccion
+dshuds.keybind.LightLevel=Alternar Nivel de iluminacion
+dshuds.keybind.ChunkBorders=Alternar Bordes de chunks
+dshuds.keybind.msg.ON=§aActivado
+dshuds.keybind.msg.OFF=§cDesactivado
+dshuds.keybind.msg.Fencing=Vayado de bloques %s
+dshuds.keybind.msg.ChunkBorder=Mostrar bordes de chunks %s
+dshuds.keybind.msg.LLDisplayMode=Nivel de luz display mode %s
+dshuds.keybind.msg.LLSafeBlocks=Nivel de luz oculto safe blocks %s
+dshuds.keybind.msg.LLDisplay=Mostrar Nivel de iluminacion %s
+
+# Version checking strings
+dshuds.msg.NewVersion=["§6Actualizaciones disponibles: §9[",{"text":"§2%1$s §ev%2$s§f","color":"gold","hoverEvent":{"action":"show_text","value":{"text":"Click for CurseForge Project Page","color":"aqua"}},"clickEvent":{"action":"open_url","value":"%3$s"}},"§9]"]
+
+# String Formatting
+dshuds.format.SessionTime=Tiempo de juego %1$d:%2$02d:%3$02d
+dshuds.season.format=%1$s %2$s
+dshuds.season.noseason=No Temporada
+dshuds.season.spring=Primavera
+dshuds.season.summer=Verano
+dshuds.season.fall=Otoño
+dshuds.season.autumn=Otoño
+dshuds.season.winter=Invierno
+dshuds.season.early=Inicios de
+dshuds.season.mid=Mediados de
+dshuds.season.late=Finales de
+
+# Configuration option strings
+config.dshuds.logging=Opciones de Registro
+config.dshuds.logging.tooltip=Define como se comportara el registro de Dynamic Surroundings: HUDs
+config.dshuds.logging.enableLogging=Depuracion de Registro
+config.dshuds.logging.enableLogging.tooltip=Activar la depuracion de registro del mod?
+config.dshuds.logging.enableVersionCheck=Verificar Version
+config.dshuds.logging.enableVersionCheck.tooltip=Activar la visualizacion de informacion de verificacion de version?
+config.dshuds.logging.chatnotices=Ocultar avisos en el chat
+config.dshuds.logging.chatnotices.tooltip=Ocultar la visualizacion de los avisos de chat de Dynamic Surroundings?
+
+config.dshuds.potionhud=Opciones del HUD de pociones
+config.dshuds.potionhud.tooltip=Opciones para el overlay del HUD de pociones
+config.dshuds.potionhud.nohud=Sin HUD de pociones
+config.dshuds.potionhud.nohud.tooltip=Desabilitar el HUD de pociones de Vanilla y Dynamic Surroundings?
+config.dshuds.potionhud.enable=HUD de pociones
+config.dshuds.potionhud.enable.tooltip=Activar la visualizacion de iconos de pociones en la pantalla?
+config.dshuds.potionhud.transparency=Transparencia
+config.dshuds.potionhud.transparency.tooltip=Factor de transparencia de los iconos\nMas alto = mas solido
+config.dshuds.potionhud.leftoffset=Desplazamiento Horizontal
+config.dshuds.potionhud.leftoffset.tooltip=Desplazamiento desde el lado izquierdo de la pantalla
+config.dshuds.potionhud.topoffset=Desplazamiento Vertical
+config.dshuds.potionhud.topoffset.tooltip=Desplazamiento desde la parte superior de la pantalla
+config.dshuds.potionhud.scale=Escala de visualizacion
+config.dshuds.potionhud.scale.tooltip=Escala de tamaño de los iconos\nMas bajo = mas pequeño
+config.dshuds.potionhud.location=Ubicacion del HUD
+config.dshuds.potionhud.location.tooltip=area de la pantalla en la que se muestra el HUD de pociones\n0 = Arriba a la izquierda\n1 = Arriba a la derecha
+
+config.dshuds.lightlevelhud=Opciones de HUD de nivel de iluminacion
+config.dshuds.lightlevelhud.tooltip=Configuraciones del HUD de nivel de iluminacion
+config.dshuds.lightlevelhud.range=Distancia de bloques
+config.dshuds.lightlevelhud.range.tooltip=Distancia de bloques para analizar su nivel de iluminacion
+config.dshuds.lightlevelhud.mobspawnthreshold=Umbral para que aparezcan mobs
+config.dshuds.lightlevelhud.mobspawnthreshold.tooltip=Nivel de iluminacion en el que pueden aparecer mobs
+config.dshuds.lightlevelhud.hidesafe=Ocultar bloques seguros
+config.dshuds.lightlevelhud.hidesafe.tooltip=No mostrar el nivel de iluminacion para los bloques donde no apareceran mobs
+config.dshuds.lightlevelhud.indicatecaution=Indicar precaucion
+config.dshuds.lightlevelhud.indicatecaution.tooltip=Indica los niveles de iluminacion actuales que cambiaran por la noche, lo que podria provocar la aparicion de mobs
+config.dshuds.lightlevelhud.colors=Conjunto de Colores
+config.dshuds.lightlevelhud.colors.tooltip=0 = Brillante\n§e1 = Oscuro
+config.dshuds.lightlevelhud.displaymode=Modo de Visualizacion
+config.dshuds.lightlevelhud.displaymode.tooltip=0: Iluminacion en el bloque\n§e1: Iluminacion en el bloque + Luz de Sol
+
+config.dshuds.compasshud=Opciones de la Brujula
+config.dshuds.compasshud.tooltip=Configuraciones del HUD de la Brujula
+config.dshuds.compasshud.enable=Habilitar HUD de Brujula
+config.dshuds.compasshud.enable.tooltip=Habilitar la visualizacion del HUD de la Brujula?
+config.dshuds.compasshud.style=Estilo de Brujula
+config.dshuds.compasshud.style.tooltip=El estilo de renderizado de la Brujula
+config.dshuds.compasshud.transparency=Transparencia del HUD de Brujula
+config.dshuds.compasshud.transparency.tooltip=Factor de transparencia a aplicar al renderizar el HUD de Brujula
+config.dshuds.compasshud.format=Formato de coordenadas
+config.dshuds.compasshud.format.tooltip=Cadena de formato de las coordenadas de ubicacion
+
+config.dshuds.clockhud=Opciones del Reloj
+config.dshuds.clockhud.tooltip=Configuraciones del HUD del Reloj
+config.dshuds.clockhud.enable=Habilitar HUD del Reloj
+config.dshuds.clockhud.enable.tooltip=Habilitar la visualizacion del HUD del reloj?

@@ -1,0 +1,46 @@
+## Translated by KameiB for RLCraft 2.9.2. Jan/2023
+item.itemJelly.name=Gelatina verde
+item.itemBacon.name=Tocino
+item.itemCookedBacon.name=Tocino crujiente
+item.itemFriedEgg.name=Huevo frito
+item.itemBaconAndEgg.name=Huevo con tocino
+item.itemCarrotSeedSoup.name=Sopa de zanahoria
+item.itemMutton.name=Carne de cordero cruda
+item.itemCookedMutton.name=Carne de cordero asada
+item.itemSquid.name=Tentaculo de calamar crudo
+item.itemCookedSquid.name=Tentaculo de calamar asado
+item.itemCompressedFlesh.name=Carne seca
+item.itemChocolateBar.name=Barra de chocolate
+item.itemSpiderSoup.name=Sopa de ojo de araña
+item.itemNetherWartSoup.name=Sopa de verruga del Nether
+item.itemCactusFruit.name=Fruta de cactus
+item.itemHorseMeat.name=Carne de caballo cruda
+item.itemCookedHorseMeat.name=Carne de caballo asada
+item.itemForbiddenFruit.name=§eFruta prohibida
+item.itemCookedMushroom.name=Hongo asado
+item.itemCarrotPie.name=Pastel de zanahoria
+item.itemBatWing.name=Ala de murcielago cruda
+item.itemCookedBatWing.name=Ala de murcielago asada
+item.itemBlazeCream.name=Sopa cremosa de blaze
+item.itemMelonSalad.name=Ensalada de sandia
+item.itemRoastedSeed.name=Semilla tostada
+item.itemDough.name=Masa
+item.itemWolfMeat.name=Carne de lobo cruda
+item.itemCookedWolfMeat.name=Carne de Lobo asada
+item.itemOcelotMeat.name=Carne de ocelote cruda
+item.itemCookedOcelotMeat.name=Carne de ocelote asada
+item.itemStarvingFruit.name=§9Fruta del Hambre
+item.itemLollipop.name=Paleta
+item.itemBeetrootNoodles.name=Tallarines de betabel
+item.itemParrotMeat.name=Carne de loro cruda
+item.itemCookedParrotMeat.name=Carne de loro asada
+item.itemLlamaMeat.name=Carne de llama cruda
+item.itemCookedLlamaMeat.name=Carne de llama asada
+item.itemPolarBearMeat.name=Carne de oso polar cruda
+item.itemCookedPolarBearMeat.name=Carne de oso polar asada
+
+itemGroup.tabFoodExpansion=Food Expansion
+
+# Added tooltips by KameiB
+item.itemBlazeCream.addedtooltip.1=Da Resistencia al fuego
+item.itemJelly.addedtooltip.1=Da Nauseas

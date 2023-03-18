@@ -1,0 +1,113 @@
+ichunutil.config.cat.general.name=Opciones generales
+ichunutil.config.cat.gameplay.name=Opciones de juego
+ichunutil.config.cat.globalOptions.name=Opciones globales
+ichunutil.config.cat.serverOptions.name=Opciones del servidor
+ichunutil.config.cat.clientOnly.name=Opciones del cliente
+ichunutil.config.cat.block.name=Bloque
+
+ichunutil.config.cat.general.comment=Estas son opciones generales que no encajan en otra categoria.
+ichunutil.config.cat.gameplay.comment=Estas opciones afectan al juego mientras se usa el mod.
+ichunutil.config.cat.globalOptions.comment=Estas opciones afectan tanto a servidores como a clientes que carguen el mod.
+ichunutil.config.cat.serverOptions.comment=Estas opciones afectan solo al servidor que carga el mod.
+ichunutil.config.cat.clientOnly.comment=Estas opciones afectan solo al cliente que carga el mod.
+ichunutil.config.cat.block.comment=Estas opciones afectan los bloques en el mod.
+
+ichunutil.config.cat.keybind.name=Atajos de teclado
+ichunutil.config.cat.keybind.comment=Si estas leyendo esto, te recomiendo encarecidamente cambiar las teclas rapidas en el juego.\niChunUtil usa teclas rapidas personalizadas. Ve a opciones y pulsa O para mostrar mas opciones.\n\nSi realmente necesitas cambiar el archivo de configuracion, el formato es: <codigo de la tecla>, y añade ":SHIFT", ":CTRL", o ":ALT" para las teclas que quieras mantener pulsadas al mismo tiempo.\nPara ver los codigos de las teclas ve a: http://minecraft.gamepedia.com/Key_codes \nExample: 48:SHIFT:ALT se vinculara a la tecla B si estas sosteniendo las teclas Shift y Alt.
+ichunutil.config.cat.keybind.tip1=Estas teclas rapidas permiten una combinacion de Shift/Ctrl/Alt
+ichunutil.config.cat.keybind.tip2=Prueba a mantenerlas pulsadas mientras estableces una tecla rapida
+ichunutil.config.cat.keybind.tip3=Si quieres establecer Shift/Ctrl/Alt, mantenla pulsada 3 segundos. Se establecera la ultima tecla pulsada.
+
+# Added by KameiB
+ichunutil.config.prop.enableStencils.name=Habilitar Plantillas?
+ichunutil.config.prop.enableLatchedRendererSpawn.name=Habilitar Spawn de Renderizador Enganchado?
+
+ichunutil.config.prop.enableStencils.comment=Asigna este valor en 0 si el juego crashea\ncuando se inicia porque no tienes las Plantillas activadas.
+ichunutil.config.prop.enableLatchedRendererSpawn.comment=Asigna este valor a 0 si iChunUtil esta apareciendo muchas de estas entidades y causa lag.\nPodria afectar a otros de mis mods.\nNo he sido capaz de ubicar el problema,\npero si no tienes problemas de memoria, ignora esta configuracion.
+
+ichunutil.config.cat.module.compactPorkchop.name=Bloque de Carne de Cerdo cruda compacta
+ichunutil.config.cat.module.compactPorkchop.comment=Configuraciones para el modulo de Bloque de Carne de Cerdo compacta en iChunUtil.
+ichunutil.config.prop.enableCompactPorkchop.name=Habilitar Bloque de Carne de Cerdo compacta?
+ichunutil.config.prop.enableCompactPorkchop.comment=Habilitar la receta para el Bloque de Carne de Cerdo compacta?
+
+ichunutil.config.cat.module.eula.name=EULA
+ichunutil.config.cat.module.eula.comment=Configuraciones del EULA.
+ichunutil.config.prop.eulaAcknowledged.name=EULA aceptado
+ichunutil.config.prop.eulaAcknowledged.comment=Texto para decir que has aceptado el EULA\nSi esta configuracion es para un servidor, debe ser true.
+
+ichunutil.config.cat.module.patreon.name=Patreon
+ichunutil.config.cat.module.patreon.comment=Configuraciones relacionadas con el Patreon.
+ichunutil.config.prop.showPatronReward.name=Mostrar Recompensa de Patron
+ichunutil.config.prop.patronRewardType.name=Tipo de Recompensa de Patron
+ichunutil.config.prop.showPatronReward.comment=Deseas mostrar tu Recompensa de Patron a otros jugadores?
+ichunutil.config.prop.patronRewardType.comment=Que tipo de Recompensa de Patron deseas ver?\n1 = Area voxel\n2 = Hocico de Cerdo\n3 = Rastros fantasma\n4 = Zumbido de abeja alrededor de tu cabeza (tributo a Bee Barker)\n5 = Rastros de fuego con velocidad de correr exagerada, rastros de fuego cuando vuelas con Elytra\n6 = Angelical
+
+ichunutil.config.cat.module.versionCheck.name=Comprobador de actualizaciones
+ichunutil.config.cat.module.versionCheck.comment=Estas configuraciones son para el comprobador de actualizaciones de mods añadido por iChunUtil.
+ichunutil.config.prop.versionNotificationTypes.name=Tipos de notificacion de las actualizaciones
+ichunutil.config.prop.versionNotificationFrequency.name=Frecuencia de notificacion de las actualizaciones.
+ichunutil.config.prop.versionSave.name=Informacion del comprobador de actualizaciones
+ichunutil.config.prop.versionNotificationTypes.comment=¿Como se notificaran las actualizaciones al CLIENTE?\n(Los servidores siempre muestran la actualizacion en la consola.\nUn jugador es tu cliente uniendose a un servidor que hospeda el mismo)\n0 = Notificar las actualizaciones sin importar el estado del jugador (administrador o normal).\n1 = Notificar solo a los administradores del servidor de las actualizaciones (Se seguiran mostrando las actualizaciones que solo afecten al cliente).\n2 = Permitir al cliente notificarse a asi mismo de las actualizaciones.
+ichunutil.config.prop.versionNotificationFrequency.comment=¿Cada cuanto tiempo se te notificara de la actualizacion? (Configuracion de cliente)\n0 = Cuando te conectas al servidor.\n1 = Una vez al dia.\n2 = Solo una vez.\n3 = Nunca (Oculta las notificaciones. El mod seguira buscando actualizaciones y lo mostrara en la consola).
+ichunutil.config.prop.versionSave.comment=Esta es la informacion guardada del comprobador de actualizaciones. No lo cambies a no ser que quieras romper cosas.
+
+ichunutil.config.cat.module.headTracking.name=Rastreo del Modelo de la Cabeza
+ichunutil.config.cat.module.headTracking.comment=Configuraciones relacionadas con el Rastreo del modelo de la Cabeza.\nEs usado por Googly Eyes y eventualmente Hats.
+ichunutil.config.prop.aggressiveHeadTracking.name=Rastreo Agresivo de la Cabeza
+ichunutil.config.prop.aggressiveHeadTracking.comment=Rastrear agresivamente el modelo de la Cabeza para tratar de arreglar\nalgun rastreo inexacto de la cabeza que pudiera ser causado por conflictos entre mods??\n1 = Todas las Entidades\n2 = Solo Jugadores
+ichunutil.config.prop.horseEasterEgg.name=Habilitar el Huevo de Pascua de Caballo/Llama?
+ichunutil.config.prop.horseEasterEgg.comment=Habilita el huevo de pascua donde la "cabeza" de los Caballos/Llamas esta detras.\nEste es un huevo de pascua para el lugar donde el mod Hats pondra sombreros en los Caballos.
+
+ichunutil.config.cat.module.worldPortals.name=Portales del Mundo
+ichunutil.config.cat.module.worldPortals.comment=Configuraciones relacionadas con Portales del Mundo.
+ichunutil.config.prop.maxRecursion.name=Recursion Maxima
+ichunutil.config.prop.stencilValue.name=Valor de Plantilla
+ichunutil.config.prop.renderDistanceChunks.name=Distancia de Renderizado (Chunks)
+ichunutil.config.prop.maxRendersPerTick.name=Renderizados Max. por Frame
+ichunutil.config.prop.maxRecursion.comment=Recursion maxima para Portales del Mundo.Asignalo a 0 para deshabilitar el renderizado de Portales del Mundo.\n\nAdvertencia! Entre mas alto el valor, mayor sera la recursion y mayor perdida de FPS!
+ichunutil.config.prop.stencilValue.comment=Las plantillas usan un valor especifico para ver si el renderizado es nuestro o no. \n\nSi tienes problemas de renderizado y no se arreglan cambiando este valor, podria haber un mod haciendo conflicto. Encuentra dicho mod e informa tanto al autor del mod como a mi (iChun).
+ichunutil.config.prop.renderDistanceChunks.comment=Asigna la distancia de renderizado para cada portal del mundo (en chunks) si no esta superpuesto por el portal del mundo.\n\nAsignar el valor a 0 enlaza las configuraciones por defecto de Minecraft.
+ichunutil.config.prop.maxRendersPerTick.comment=Renderizado maximo de portales del mundo por frame.\nEsto limitara la cantidad de renderizados por tick, a pesar de la configuracion de maxRecursion.\nEsto esta aqui con la esperanza de que tus FPS no se desplomen si resultas estar en el lugar equivocado.
+
+ichunutil.gui.newUpdate=¡Nueva actualizacion disponible!
+
+ichunutil.config.gui.options=Opciones
+ichunutil.config.gui.needsRestart=Algunos cambios requieren el reinicio del cliente.
+ichunutil.config.gui.setKeyBind=Establecer atajo del teclado
+ichunutil.config.gui.hitKeys=Estableciendo atajo... Mantener presionados SHIFT/CTRL/ALT es opcional
+ichunutil.config.gui.setStringArray=Establecer Arreglo de Cadenas
+ichunutil.config.gui.setIntArray=Establecer Arreglo de Enteros
+ichunutil.config.gui.setNestedIntArray=Establecer Arreglo de Enteros Anidado
+
+ichunutil.config.controls.moreKeys=Atajos de teclado de iChunUtil - Clic aqui
+
+ichunutil.eula.message=Al usar iChunUtil estas aceptando el EULA del mod. Puedes encontrarlo en el archivo jar del mod. La ultima version esta disponible en elsitio de iChun o en GitHub.
+ichunutil.eula.messageServer=Puedes deshabilitar este mensaje de consola yendo a la configuracion de iChunUtil y cambiando la opcion "eulaAcknowledged" a "true" (sin comillas).
+ichunutil.eula.toast1=Al usar iChunUtil
+ichunutil.eula.toast2=aceptas este EULA
+
+element.minimize=Minimizar
+element.expand=Expandir
+
+element.button.ok=OK
+element.button.cancel=Cancelar
+element.button.clear=Limpiar
+
+window.popup.title=Alerta!
+
+window.saveAs.title=Guardar como..
+window.saveAs.fileName=Nombre del archivo
+window.saveAs.overwrite=Sobre-escribir?
+window.saveAs.confirmOverwrite=El archivo ya existe! Sobre-escribir?
+window.saveAs.failed=Ha fallado el guardado del archivo.
+
+tile.ichunutil.block.compactporkchop.name=Bloque de carne de cerdo cruda compacta
+
+entity.EntityBlock.name=Entidad Bloque
+
+ichun.gui.moreOptions=Presiona %s o presiona aqui para ver mas opciones
+
+
+
+
+

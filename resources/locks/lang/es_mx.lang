@@ -1,0 +1,61 @@
+## Translated by KameiB for RLCraft 2.9.2
+# Creative tabs
+itemGroup.locks=Locks
+
+# Items
+item.locks.spring.name=Resorte
+item.locks.wood_lock_mechanism.name=Mecanismo para candado de madera
+item.locks.iron_lock_mechanism.name=Mecanismo para candado de hierro
+item.locks.steel_lock_mechanism.name=Mecanismo para candado de acero
+item.locks.wood_lock.name=Candado de madera
+item.locks.iron_lock.name=Candado de hierro
+item.locks.steel_lock.name=Candado de acero
+item.locks.gold_lock.name=Candado chapado en oro
+item.locks.diamond_lock.name=Candado chapado en diamante
+item.locks.wood_lock_pick.name=Ganzua de pasador
+item.locks.iron_lock_pick.name=Ganzua de hierro
+item.locks.steel_lock_pick.name=Ganzua de acero
+item.locks.gold_lock_pick.name=Ganzua de oro
+item.locks.diamond_lock_pick.name=Ganzua de diamante
+item.locks.key.name=Llave
+item.locks.master_key.name=Llave maestra
+item.locks.key_blank.name=Llave en blanco
+item.locks.key_ring.name=Llavero
+
+# Enchantments
+enchantment.locks.shocking=Electrochoque
+enchantment.locks.shocking.desc=Electrocuta a los ladrones que fallen en forzar un candado
+enchantment.locks.sturdy=Robusto
+enchantment.locks.sturdy.desc=Reduce la fuerza de las ganzuas
+enchantment.locks.complexity=Complejidad
+enchantment.locks.complexity.desc=Hace que el candado sea demasiado complejo para poder forzarlo con ganzuas de menor categoria
+
+# Death Mesages
+death.attack.locks.shock=%1$s fue electrocutado al intentar forzar un candado encantado
+death.attack.locks.shock.player=%1$s fue electrocutado por un candado encantado cuando intentaba forzarlo mientras peleaba contra %2$s
+
+
+# GUIs
+locks.gui.lockpicking.title=Forzando candado
+locks.gui.lockpicking.open=Presiona `ESC` para abrir
+
+# Subtitles
+locks.subtitle.key_ring=Llaves tintinean
+locks.subtitle.lock.close=Candado hace clic
+locks.subtitle.lock.open=Llave giro en candado
+locks.subtitle.lock.rattle=Candado suena
+locks.subtitle.pin.fail=Pin truena en seco
+locks.subtitle.pin.match=Pin hace clic ligeramente
+locks.subtitle.shock=Choque electrico repentino
+
+# Tooltips
+locks.tooltip.id=ID: %s
+locks.tooltip.length=Complejidad: %s
+locks.tooltip.resistance.weak=Resistencia a explosiones: Debil
+locks.tooltip.resistance.strong=Resistencia a explosiones: Fuerte
+locks.tooltip.resistance.supreme=Resistencia a explosiones: Suprema
+locks.tooltip.strength=Fuerza: %s
+
+# Status messages
+locks.status.locked=Este bloque esta asegurado
+locks.status.too_complex=Este candado es demasiado complejo para esta ganzua

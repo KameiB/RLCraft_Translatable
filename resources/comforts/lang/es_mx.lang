@@ -1,0 +1,73 @@
+## Translated by KameiB for RLCraft 2.9.2. Jan/2023
+comforts.general.autouse=Usar Bolsas de dormir automaticamente
+comforts.general.autouse.tooltip=Usar la bolsa de dormir automaticamente al colocarla?
+comforts.general.wellrested=Bien descansado
+comforts.general.wellrested.tooltip=Evitar dormir dependiendo de que tanto hayas dormido anteriormente?
+comforts.general.sleepyratio=Somnolencia
+comforts.general.sleepyratio.tooltip=Si "Bien descansado" esta habilitado, este valor se usara para determinar cuanto tiempo necesitas para poder dormir de nuevo\nEntre mayor sea el numero, mas pronto podras dormir
+comforts.general.resthammocks=Hamacas de ocio
+comforts.general.resthammocks.tooltip=Permitir relajarse en las hamacas sin necesidad de dormir?
+comforts.general.nighthammocks=Hamacas nocturnas
+comforts.general.nighthammocks.tooltip=Permitir dormir de noche en las hamacas?
+comforts.general.sleepingbagdebuffs=Efectos negativos
+comforts.general.sleepingbagdebuffs.tooltip=Lista de efectos negativos que se aplicaran a los jugadores despues de usar la Bolsa de dormir\nFormato: [effect] [duration(secs)] [power]
+comforts.general.bagbreakperc=Probabilidad de romperse
+comforts.general.bagbreakperc.tooltip=Probabilidad de que la Bolsa de dormir se destruya despues de usarla
+comforts.general.toughasnails.tooltip=Caracteristicas de integracion con el mod Tough as Nails
+comforts.general.toughasnails.warmbody=Cuerpo caliente
+comforts.general.toughasnails.warmbody.tooltip=Evitar dormir si tienes mucho calor?
+
+item.comforts.sleeping_bag.white.name=Bolsa de dormir blanca
+item.comforts.sleeping_bag.orange.name=Bolsa de dormir naranja
+item.comforts.sleeping_bag.magenta.name=Bolsa de dormir magenta
+item.comforts.sleeping_bag.lightBlue.name=Bolsa de dormir azul claro
+item.comforts.sleeping_bag.yellow.name=Bolsa de dormir amarillo
+item.comforts.sleeping_bag.lime.name=Bolsa de dormir verde lima
+item.comforts.sleeping_bag.pink.name=Bolsa de dormir rosa
+item.comforts.sleeping_bag.gray.name=Bolsa de dormir gris
+item.comforts.sleeping_bag.silver.name=Bolsa de dormir gris claro
+item.comforts.sleeping_bag.cyan.name=Bolsa de dormir cian
+item.comforts.sleeping_bag.purple.name=Bolsa de dormir morada
+item.comforts.sleeping_bag.blue.name=Bolsa de dormir azul
+item.comforts.sleeping_bag.brown.name=Bolsa de dormir cafe
+item.comforts.sleeping_bag.green.name=Bolsa de dormir verde
+item.comforts.sleeping_bag.red.name=Bolsa de dormir roja
+item.comforts.sleeping_bag.black.name=Bolsa de dormir negra
+
+item.comforts.hammock.white.name=Tela de Hamaca blanca
+item.comforts.hammock.orange.name=Tela de Hamaca naranja
+item.comforts.hammock.magenta.name=Tela de Hamaca magenta
+item.comforts.hammock.lightBlue.name=Tela de Hamaca azul claro
+item.comforts.hammock.yellow.name=Tela de Hamaca amarilla
+item.comforts.hammock.lime.name=Tela de Hamaca verde lima
+item.comforts.hammock.pink.name=Tela de Hamaca rosa
+item.comforts.hammock.gray.name=Tela de Hamaca gris
+item.comforts.hammock.silver.name=Tela de Hamaca gris claro
+item.comforts.hammock.cyan.name=Tela de Hamaca cian
+item.comforts.hammock.purple.name=Tela de Hamaca morada
+item.comforts.hammock.blue.name=Tela de Hamaca azul
+item.comforts.hammock.brown.name=Tela de Hamaca cafe
+item.comforts.hammock.green.name=Tela de Hamaca verde
+item.comforts.hammock.red.name=Tela de Hamaca roja
+item.comforts.hammock.black.name=Tela de Hamaca negra
+
+tile.sleeping_bag.noSleep=Solo puedes dormir de noche
+tile.sleeping_bag.occupied=La Bolsa de dormir esta ocupada
+tile.sleeping_bag.notSafe=No puedes dormir ahora, hay monstruos cerca
+tile.sleeping_bag.tooFarAway=No puedes dormir ahora, la Bolsa de dormir esta muy lejos
+tile.sleeping_bag.broke=La Bolsa de dormir se rompio
+
+tile.hammock.noSleep=Solo puedes dormir de dia
+tile.hammock.noSleepCustom=Aun no puedes dormir en la Hamaca
+tile.hammock.occupied=La Hamaca esta ocupada
+tile.hammock.notSafe=No puedes dormir ahora, hay monstruos cerca
+tile.hammock.tooFarAway=No puedes dormir ahora, la Hamaca esta muy lejos
+
+tile.comforts.rope.name=Cuerda y Clavo
+
+capability.comforts.notSleepy=No puedes dormir ahora, no tienes suficiente sueño
+
+itemGroup.comforts=Comforts
+
+#Added by KameiB
+comforts.general.toughasnails=Tough as Nails

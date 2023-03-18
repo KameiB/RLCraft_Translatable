@@ -1,0 +1,19 @@
+## Translated by KameiB for RLCraft 2.9.2. Jan/2023
+#General name
+ggr.configgui.rules=Configuracion de Reglas
+ggr.configgui.rules.tooltip=Contiene todas las configuraciones para asignar reglas por defecto
+ggr.configgui.misc=Configuraciones Miscelaneas
+ggr.configgui.misc.tooltip=Contiene cualquier otra configuracion que no sea una regla
+ggr.configgui.diffDisabled=Deshabilitado
+
+worldDifficulty.tooltip=Asigna la dificultad de un mundo cuando es cargado\nPuede deshabilitarse
+
+# Added by KameiB
+worldDifficulty=Dificultad del Mundo
+customGamerules=Reglas del juego person.
+customGamerules.tooltip=Sintaxis: nombre-habilitado-comando\nHabilitado es true o false. Todos los @p seran reemplazados con el nombre del jugador
+saveGameRules=Guardar Reglas del Juego
+saveGameRules.tooltip=Las reglas del juego y la dificultad del mundo deberian guardarse en el config cuando el mundo se cierra?
+worldDifficultyLocked=Dificultad del Mundo Fija
+worldDifficultyLocked.tooltip=La dificultad de un mundo deberia fijarse cuando se carga?\n§eSi un mundo ya esta fijado, no podra ser cambiada\nSi la dificultad global del mundo esta habilitada, se pondra primero
+

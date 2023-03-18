@@ -1,0 +1,94 @@
+## Translated by KameiB for RLCraft 2.9.2. Jan/2023
+# FORMATS
+## Astral Sorcery
+compatskills.requirements.format.constellation.seen=Constelacion vista: %s%s
+compatskills.requirements.format.constellation.known=Constelacion descubierta: %s%s
+compatskills.requirements.format.attuned=Sintonizado: %s%s
+compatskills.requirements.format.astral_tier=Nivel astral: %s%s
+
+## GameStages
+compatskills.requirements.format.gamestage=Etapa del juego: %s%s
+
+## Minecraft
+compatskills.requirements.format.dimension=Dimension: %s%s
+compatskills.requirements.format.item=Item: %s%s
+compatskills.requirements.format.sneak=%sAgachandose
+compatskills.requirements.format.health=Porcentaje de salud: %s%s
+compatskills.requirements.format.hearts=Medios corazones: %s%s
+compatskills.requirements.format.looking_at=Viendo a: %s%s
+
+## Forge
+compatskills.requirements.format.ore_dict=Entrada de Diccionario de minerales: %s%s
+compatskills.requirements.format.harvest_level=Nivel de ruptura: %s%s
+
+## Dynamic Sword Skills
+compatskills.requirements.format.dss=Habilidad de espada: %s%s %s
+
+## Thaumcraft
+compatskills.requirements.format.warp=Warp: %s%s
+compatskills.requirements.format.research=Investigacion: %s%s
+
+
+# Error Messages
+## Game Stages
+compatskills.error.gamestage=Los requisitos para desbloquear esta etapa no se han cumplido aun!
+
+## Reskillable
+compatskills.error.reskillable.level_lock=Para alcanzar este nivel:
+compatskills.error.reskillable.level_lock_2=Por favor cumple los siguientes requisitos!
+
+## Blood Magic
+compatskills.error.bloodmagic.binding=Energias oscuras ineditas remolinean a tu alrededor y despues se desvanecen
+compatskills.error.bloodmagic.ritual=El ritual se activa, pero no consigues el resultado deseado
+
+## Tinker's Construct
+compatskills.error.tconstruct.craft.part=Por cada golpe del martillo, el material resiste mas.
+compatskills.error.tconstruct.modify=Despues de incontables momentos, no se te ocurre como modificar la herramienta a tu manera.
+compatskills.error.tconstruct.craft.tool=No importa cuanto siga las instrucciones, un novato no puede crear una obra maestra.
+
+## ProjectE
+compatskills.error.projecte.condenser=No tienes idea de como replicar el objeto.
+compatskills.error.projecte.learn=Lograste romper el objeto, pero no conseguiste aprender como crear mas.
+compatskills.warn.projecte.transmutation=ADVERTENCIA: No eres capaz de entender este material. Sin embargo, aun puedes consumirlo para obtener EMC.
+compatskills.warn.projecte.condenser=ADVERTENCIA: No tienes idea de como replicar este material.
+
+### Thaumcraft
+compatskills.error.thaumcraft.knowledge=No importa cuanto lo intentas, no logras entender:
+compatskills.error.thaumcraft.research=Conforme te acercas al fin de tu investigacion, descrubres que es mas complejo de lo que pensabas.
+
+
+### Cyberware
+compatskills.error.cyberware.install=Al menos uno de los componentes que intentas instalar esta mas alla de tu comprension.
+
+
+### Wizardry
+compatskills.error.wizardry.crystal=No cumples los requisitos del cristal que intentas usar.
+compatskills.error.wizardry.center=No cumples los requisitos del item que intentas mejorar.
+compatskills.error.wizardry.upgrade=No cumples los requisitos de la mejora que intentas usar.
+compatskills.error.wizardry.spell=No cumples los requisitos del hechizo que intentas instalar.
+
+
+## Minecraft
+### Dimension
+compatskills.error.dimension.travel=Un poder extraño te impide alcanzar tu destino
+
+### Entity
+compatskills.error.entity.mount=No importa cuanto lo intentas, no eres capaz de encontrar tu balance y caes.
+compatskills.error.entity.tame=Intentas domesticar la criatura, pero se resiste a ti.
+compatskills.error.entity.damage=Tus ataques no logran dañar a la bestia.
+
+### Tile-Entities
+compatskills.error.tile_entity.interact=Aun despues de incontables horas, no logras entender como funciona el dispositivo.
+
+### Block Drops
+compatskills.error.drops=Conforme martilleas el bloque, te das cuenta de que podrias estar perdiendo recursos preciados...
+
+### Ore Excavation
+compatskills.error.ore_excavation=Al excavar comienzas a sentir que pierdes el control.
+
+
+## Misc:
+compatskills.misc.requirements=Requisitos:
+compatskills.misc.shift=Presiona Shift para ver los Requisitos
+
+compatskills.misc.betterquesting.requirement_task=Requisitos

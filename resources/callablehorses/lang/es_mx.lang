@@ -1,0 +1,21 @@
+##Translated by KameiB for RLCraft 2.9.2. Jan/2023
+key.callablehorses.category=Callable Horses
+key.sethorse.desc=Asignar caballo
+key.callhorse.desc=Llamar al caballo
+key.showstats.desc=Mostrar datos del caballo
+
+callablehorses.error.dim=No puedes llamar a tu caballo en esta dimension!
+callablehorses.error.riding=No puedes montar y llamar a tu caballo al mismo tiempo!
+callablehorses.error.nohorse=Actualmente no tienes un Caballo personal!
+callablehorses.error.notriding=Necesitas estar montado en tu caballo para hacer esto!
+callablehorses.error.alreadyowned=Este caballo ya tiene dueño!
+callablehorses.error.alreadypersonal=Este ya es tu caballo personal!
+callablehorses.error.area=No puedes llamar a tu caballo en esta area!
+callablehorses.error.range=Tu caballo esta demasiado lejos para oirte!
+callablehorses.error.setarea=No puedes asignar a tu caballo a esta area!
+callablehorses.error.nospace=No hay suficiente espacio aqui para llamar a tu caballo!
+
+callablehorses.success=Ahora este es tu Caballo personal!
+
+callablehorses.alert.death=Tu Caballo personal ha muerto!
+callablehorses.alert.offlinedeath=Tu Caballo personal murio mientras estabas offline!

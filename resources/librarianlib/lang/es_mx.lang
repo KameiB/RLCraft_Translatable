@@ -1,0 +1,26 @@
+## Translated by KameiB for RLCraft 2.9.2
+librarianlib.shiftinfo=&7Presiona &bSHIFT&7 para mas info
+librarianlib.subtitle.equip_bauble=La Bauble esta equipada
+librarianlib.bauble_tooltip=Presiona &b%s&7 para abrir el menu de Baubles
+
+librarianlib.book.results.notfound=No hay resultados!
+librarianlib.book.results.nresults=Se encontraron %d resultados!
+librarianlib.book.results.oneresult=Se encontro un resultado!
+librarianlib.book.results.toobroad=Busqueda demadiado amplia!! Se encontraron %d resultados para tu busqueda.
+librarianlib.book.results.kwds=%d palabras encontradas
+librarianlib.book.results.kwd=1 palabra encontrada
+librarianlib.book.results.match=%d%% encontrados
+librarianlib.book.nav.previous=Anterior
+librarianlib.book.nav.next=Siguiente
+librarianlib.book.nav.back=Volver
+
+librarianlib.error.nobook=El libro no se cargo correctamente...
+
+librarianlib.false_item.materials=Materiales necesarios
+
+librarianlib.command.liblib.usage=/liblib <subcommand> ...
+librarianlib.command.liblib.gui.usage=/liblib gui <subcommand> ...
+librarianlib.command.liblib.gui.reloadhud.usage=/liblib gui reloadhud
+librarianlib.command.liblib.option.nosuchoption=No existe tal opcion como '%s'
+
+librarianlib.command.liblibadmin.usage=/liblibadmin <subcommand> ...

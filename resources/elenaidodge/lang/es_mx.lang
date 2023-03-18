@@ -1,0 +1,84 @@
+## Translated by KameiB for RLCraft 2.9.2. Jan/2023
+key.elenaidodge.dodge=Esquivar
+elenaidodge.general.common.skystrides.skystrides=Superponerse a Skystrides
+elenaidodge.general.common.balance.potions=Lista negra de Pociones
+
+reskillable.unlock.elenaidodge.dodge=Esquivar
+reskillable.unlock.elenaidodge.dodge.desc=Tu arduo trabajo comenzo a rendir frutos. Ahora puedes esquivar ataques enemigos!
+
+reskillable.unlock.elenaidodge.walljump=Brincar en paredes
+reskillable.unlock.elenaidodge.walljump.desc=Impulsate desde una pared volteando al lado opuesto de la pared y brinca estando en el aire!
+
+reskillable.unlock.elenaidodge.ledgegrab=Agarrarse de las orillas
+reskillable.unlock.elenaidodge.ledgegrab.desc=Sujetate del ultimo bloque de las paredes y brinca para saltarlas!
+
+tutorial.dodge.title=Presiona %s
+tutorial.dodge.description=Esquiva con %s, %s, %s o %s
+
+tutorial.doubledodge.title=Presiona 2 veces %s, %s o %s
+tutorial.doubledodge.description=Corre con %s
+
+tutorial.forwardsdoubledodge.title=Esquivar
+tutorial.forwardsdoubledodge.description=Presiona 2 veces %s, %s, %s o %s
+
+potion.effect.can_dodge=Bendicion de Elenai
+splash_potion.effect.can_dodge=Pocion arrojadiza de Bendicion de Elenai
+lingering_potion.effect.can_dodge=Pocion persistente de Bendicion de Elenai
+tipped_arrow.effect.can_dodge=Flecha con Bendicion de Elenai
+effect.can_dodge=Bendicion Elenai
+
+potion.effect.sluggish=Pocion de Pereza
+splash_potion.effect.sluggish=Pocion arrojadiza de Pereza
+lingering_potion.effect.sluggish=Pocion persistente de Pereza
+tipped_arrow.effect.sluggish=Flecha con Pereza
+effect.sluggish=Pereza
+
+potion.effect.skystride=Pocion de Paso aereo
+splash_potion.effect.skystride=Pocion arrojadiza de Paso aereo
+lingering_potion.effect.skystride=Pocion persistente de Paso aereo
+tipped_arrow.effect.skystride=Flecha con Paso aereo
+effect.skystride=Paso aereo
+
+potion.effect.nimble=Pocion de Agilidad
+splash_potion.effect.nimble=Pocion arrojadiza de Agilidad
+lingering_potion.effect.nimble=Pocion persistente de Agilidad
+tipped_arrow.effect.nimble=Flecha con Agilidad
+effect.nimble=Agilidad
+
+potion.effect.climber=Pocion de Trepador
+splash_potion.effect.climber=Pocion arrojadiza de Trepador
+lingering_potion.effect.climber=Pocion persistente de Trepador
+tipped_arrow.effect.climber=Flecha con Trepador
+effect.climber=Trepador
+
+potion.effect.forceful=Pocion de Vigor
+splash_potion.effect.forceful=Pocion arrojadiza de Vigor
+lingering_potion.effect.forceful=Pocion persistente de Vigor
+tipped_arrow.effect.forceful=Flecha con Vigor
+effect.forceful=Vigor
+
+potion.effect.feeble=Pocion de Flojera
+splash_potion.effect.feeble=Pocion arrojadiza de Flojera
+lingering_potion.effect.feeble=Pocion persistente de Flojera
+tipped_arrow.effect.feeble=Flecha con Flojera
+effect.feeble=Flojera
+
+enchantment.lightweight=Ligereza
+enchantment.lightweight.desc=Reduce el peso para poder esquivar mas veces.
+enchantment.elenaidodge.lightweight.desc=Reduce el peso para poder esquivar mas veces.
+
+item.elenaidodge.golden_feather.name=Lingote Emplumado de Oro
+item.elenaidodge.iron_feather.name=Lingote Emplumado de Hierro
+
+# Added by KameiB. UsefulTooltips
+potion.effect.forceful.addedtooltip.1=Al aplicarse:
+potion.effect.forceful.addedtooltip.2=Aumenta la distancia que puedes esquivar
+
+potion.effect.feeble.addedtooltip.1=Al aplicarse:
+potion.effect.feeble.addedtooltip.2=Reduce la distancia que puedes esquivar
+
+potion.effect.sluggish.addedtooltip.1=Al aplicarse:
+potion.effect.sluggish.addedtooltip.2=Reduce dramaticamente tu velocidad de movimiento
+
+potion.effect.skystride.addedtooltip.1=Al aplicarse:
+potion.effect.skystride.addedtooltip.2=Te permite dar unos pasos en el aire

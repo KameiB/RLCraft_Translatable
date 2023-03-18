@@ -1,0 +1,73 @@
+##Translated by KameiB for RLCraft 2.9.2. Jan/2023
+bq_standard.task.retrieval=Tarea de Obtencion
+bq_standard.task.crafting=Tarea de Crafteo
+bq_standard.task.hunt=Tarea de Caceria de Mob
+bq_standard.task.scoreboard=Tarea de Marcador
+bq_standard.task.location=Tarea de Ubicacion
+bq_standard.task.fluid=Tarea de Fluido
+bq_standard.task.meeting=Tarea de Reunion
+bq_standard.task.xp=Tarea de Experiencia
+bq_standard.task.block_break=Tarea de Romper bloque
+bq_standard.task.checkbox=Tarea de Casilla de verif.
+bq_standard.task.advancement=Tarea de Logro
+bq_standard.task.tame=Tarea de Domesticar
+bq_standard.task.interact_item=Tarea de Interaccion con item
+bq_standard.task.interact_entity=Tarea de Interaccion con entidad
+bq_standard.task.trigger=Tarea de Desencadenador de criterio
+
+bq_standard.reward.choice=Premio de Seleccion
+bq_standard.reward.item=Premio de Item
+bq_standard.reward.scoreboard=Premio de Marcador
+bq_standard.reward.command=Premio de Comando
+bq_standard.reward.xp=Premio de Experiencia
+bq_standard.reward.recipe=Desbloquear Recetas
+
+bq_standard.title.edit_hunt=Editar Tarea de Caceria
+bq_standard.title.edit_meeting=Editar Tarea de Reunion
+bq_standard.title.edit_loot_groups=Editar Grupos de Loot
+bq_standard.title.edit_loot_entries=Editar Entradas de Loot
+bq_standard.title.edit_retrieval=Editar Tarea de Obtencion
+bq_standard.title.edit_crafting=Editar Tarea de Crafteo
+bq_standard.title.edit_scoreboard=Editar Tarea de Marcador
+bq_standard.title.edit_advancement=Editar Tarea de Logro
+bq_standard.title.edit_tame=Editar Tarea de Domesticar
+
+bq_standard.btn.select_mob=Seleccionar Mob
+bq_standard.btn.add_remove_drops=Agregar/Quitar Dropeos
+bq_standard.btn.edit_items=Agregar/Quitar Items
+bq_standard.btn.consume=Consume: %s
+
+bq_standard.gui.amount=Cantidad
+bq_standard.gui.kill=Matar %s
+bq_standard.gui.location=Ubicacion: %s
+bq_standard.gui.distance=Distancia: %s
+bq_standard.gui.dimension=Dimension: %s
+bq_standard.gui.biome=Bioma: %s
+bq_standard.gui.structure=Estructura: %s
+bq_standard.gui.found=Encontrado!
+bq_standard.gui.undiscovered=No descubierto
+bq_standard.gui.condition=Condicion: %s
+bq_standard.gui.meet=Reunirse con %s
+bq_standard.gui.weight=Peso
+bq_standard.gui.experience=Experienca
+bq_standard.gui.tame=Domesticar %s
+
+bq_standard.importer.hqm_bag.name=Importador de Bolsa HQM
+bq_standard.importer.hqm_bag.desc=Importa Bolsas de recompensas HQM exportadas en formato json.
+bq_standard.importer.hqm_quest.name=Importador de Misiones HQM
+bq_standard.importer.hqm_quest.desc=Importa lineas de Mision HQM exportadas en formato json. Debido a la extraña naturaleza de como se indexan las misiones HQM despues de exportarse, pueden ocurrir errores entre misiones con nombres duplicados o desbloqueos condicionales.
+bq_standard.importer.nat_file.name=Exportador de archivos Nativos
+bq_standard.importer.nat_file.desc=Importa archivos de base de datos nativos y los añade alos existentes.
+bq_standard.importer.nat_url.name=Importador de URL Nativas
+bq_standard.importer.nat_url.desc=Importa bases de datos de misiones del internet y las añade a las existentes.
+bq_standard.importer.ftbq_quest.name=Importador de Misiones FTB
+bq_standard.importer.ftbq_quest.desc=Importa capitulos y misiones los archivos NBT nativos del mod FTB Quests
+bq_standard.importer.adv_json.name=Importador de Logros (JSON)
+bq_standard.importer.adv_json.desc=Importa logros vanilla escritos en el formato JSON.%n%nADVERTENCIA: Deben ser vanilla originales o ubicaciones de archivos triumph para ser improtador correctamente!
+
+item.bq_standard.loot_chest.name=Cofre de Loot
+
+bq_standard.tooltip.fixed_loot=Set de Loot: %s
+bq_standard.tooltip.fixed_loot_size=Contiene %s items
+bq_standard.tooltip.loot_table=Tabla de Loot: %s
+bq_standard.tooltip.loot_chest=Rareza: %s

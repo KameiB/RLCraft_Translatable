@@ -1,0 +1,70 @@
+##Translated by KameiB for RLCraft 2.9.2. Jan/2023
+itemGroup.materials.base=B.A.S.E Materiales
+error.base.null_part=Parte Nula
+
+base.part.gear=Engrane %s
+base.part.plate=Placa %s
+base.part.dense_plate=Placa densa %s
+base.part.dust=Polvo %s
+base.part.ingot=Lingote %s
+base.part.nugget=Nugget %s
+base.part.beam=Rayo %s
+base.part.bolt=Bolt %s
+base.part.rod=Caña %s
+base.part.block=Bloque de %s
+base.part.ore_sample=Muestra de %s
+base.part.ore=Mena de %s
+base.part.poor_ore=Mena pobre de %s
+base.part.dense_ore=Mena densa de %s
+base.part.molten=%s Fundido
+base.part.armor.head=Casco %s
+base.part.armor.chest=Pechera %s
+base.part.armor.legs=Pantalones %s
+base.part.armor.feet=Botas %s
+base.part.casing=Caja de %s
+base.part.crystal=Cristal %s
+base.part.crushed_ore=Mena de %s aplastada
+base.part.minecart=Carro %s
+base.part.cluster=Cluster de %s
+base.part.shard=Pedazo de %s
+base.part.clump=Macizo de %s
+base.part.dirty_dust=Polvo sucio de %s
+base.part.rock=Roca de %s
+base.part.ore_rock=Mena de roca de %s
+base.part.centrifuged_ore=Mena de %s centrifugada
+base.part.chipped_gem=Gema de %s astillada
+base.part.flawed_gem=Gema de %s defectuosa
+base.part.flawless_gem=Gema de %s sin defectos
+base.part.large_spring=Resorte de %s grande
+base.part.long_rod=Varilla de %s larga
+base.part.purified_ore=Mena de %s purificada
+base.part.ring=Anillo de %s
+base.part.round=Doblez de %s
+base.part.small_dust=Polvo de %s pequeño
+base.part.small_spring=Resorte de %s pequeño
+base.part.tiny_dust=Polvo de %s diminuto
+
+item.base.wrench.name=Llave inglesa
+
+base.api.multiblock.validation.success=La validacion de la maquina fue satisfactoria.
+base.api.multiblock.validation.too_few_parts=La maquina es muy pequeña.
+base.api.multiblock.validation.machine_too_large=La maquina es muy grande, debe ser como maximo %1$d bloques en la dimension %2$s .
+base.api.multiblock.validation.machine_too_small=La maquina es muy pequeña, debe ser como minimo %1$d bloques en la dimension %2$s .
+base.api.multiblock.validation.invalid_part=La pieza en %1$d, %2$d, %3$d es incompatible con esta maquina
+base.api.multiblock.validation.invalid_part_for_frame=El bloque en %1$d, %2$d, %3$d no es valido para su uso en el marco de la maquina
+base.api.multiblock.validation.invalid_part_for_bottom=El bloque en %1$d, %2$d, %3$d no es valido para su uso en la capa inferior de la maquina
+base.api.multiblock.validation.invalid_part_for_top=El bloque en %1$d, %2$d, %3$d no es valido para su uso en la capa superior de la maquina
+base.api.multiblock.validation.invalid_part_for_sides=El bloque en %1$d, %2$d, %3$d no es valido para su uso a los lados de la maquina
+base.api.multiblock.validation.invalid_part_for_interior=El bloque %1$d, %2$d, %3$d no es valido para su uso en el interior de la maquina
+
+base.info.nofluid=No fluido
+base.info.empty=Vacio
+
+
+#sided types
+base.block_side.facing=Lado frontal
+base.block_side.opposite=Lado opuesto
+
+base.sidetype.input=Entrada
+base.sidetype.output=Salida
+base.sidetype.none=Nada

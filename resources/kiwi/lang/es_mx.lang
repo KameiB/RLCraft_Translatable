@@ -1,0 +1,20 @@
+## Translated by KameiB for RLCraft 2.9.2
+kiwi.tip.press_shift=<Presiona §f§oShift§r§7..>
+item.kiwi.my_first_item.tip=§xFF0000Lorem ipsum dolor sit amet, §oconsectetur adipisicing elit, §r§x00FF00sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+# Added by KameiB
+kiwi.config.general=General
+kiwi.config.general.tooltip=Configuraciones generales
+kiwi.config.general.oredict_preference=Preferencias de OreDict
+kiwi.config.general.oredict_preference.tooltip=Lista de ID de los Mods preferidos que resulta en procesos de Cocina de los que deberian derivar
+kiwi.config.general.press_shift=Descripciones Requieren Shift
+kiwi.config.general.press_shift.tooltip=Es necesario presionar Shift para que se muestren las descripciones
+kiwi.config.general.tip_width=Ancho de Caja de descripcion
+kiwi.config.general.tip_width.tooltip=Ancho maximo de linea que se mostrara en las descripciones
+kiwi.config.general.replaceDefaultFontRenderer=Reemplazar Renderizador por Defecto
+kiwi.config.general.replaceDefaultFontRenderer.tooltip=Usado §x (casi) en todos lados. Fix MC-109260. NO lo habilites a menos que sepas lo que estas haciendo.
+
+kiwi.config.modules=Modulos
+kiwi.config.modules.tooltip=Configuracion de los Modulos
+kiwi.config.modules.optional_modules=Modulos Opcionales
+kiwi.config.modules.optional_modules.tooltip=Puedes asignar este valor a false para forzar el deshabilitado del modulo opcional

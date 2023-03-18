@@ -1,0 +1,287 @@
+## Translated by KameiB for RLCraft 2.9.2. Jan/2023
+champions.identifier=Champion
+
+#################
+#    Affixes    #
+#################
+champions.affix.shielding=Blindado
+champions.affix.molten=Fundido
+champions.affix.reflecting=Reflejante
+champions.affix.vortex=Vortice
+champions.affix.dampening=Amortiguado
+champions.affix.infested=Infestado
+champions.affix.jailer=Encarcelador
+champions.affix.arctic=artico
+champions.affix.cinder=Carbonizado
+champions.affix.desecrator=Profanador
+champions.affix.hasty=Veloz
+champions.affix.lively=Saludable
+champions.affix.plagued=Plagado
+champions.affix.adaptable=Adaptable
+champions.affix.scrapper=Peleonero
+champions.affix.knockback=Empujador
+
+#################
+#    Effects    #
+#################
+champions.jailed=Encarcelado
+champions.plague=Plaga
+champions.injured=Herido
+champions.immune=Inmune
+
+death.attack.reflecting=%1$s tuvo una cucharada de su propia medicina!
+death.attack.cinderSpark=%1$s fue golpeado por una Chispa Carbonizadora
+
+#################
+#     Items     #
+#################
+item.champions.champion_egg.name=Generar Campeon
+champions.champion_egg.tooltip.tier=Nivel %d
+
+#################
+#    Config     #
+#################
+champions.general.hideeffects=Esconder Efectos de Campeon
+champions.general.hideeffects.tooltip=Esconder las particulas y efectos HUD del Campeon?
+champions.general.championspawners=Campeones de Spawners
+champions.general.championspawners.tooltip=Los Campeones pueden spawnear de los spawners?
+champions.general.dimensionpermission=Modo Permiso de Dimensiones
+champions.general.dimensionpermission.tooltip=La lista de dimensiones es Negra o Blanca?
+champions.general.dimensionlist=Lista de Dimensiones
+champions.general.dimensionlist.tooltip=Indica las dimensiones (con su ID) en las que pueden o no spawnear los Campeones. Deja en blanco para deshabilitar esta opcion
+champions.general.mobpermission=Modo Permiso de Mobs
+champions.general.mobpermission.tooltip=Indica si la Configuracion de los mobs es una Lista Blanca o Lista Negra
+champions.general.moblist=Lista de Mobs
+champions.general.moblist.tooltip=Indica cuales mobs estan permitidos o restringidos de ser Campeones. Deja en blanco para deshabilitar esta opcion
+champions.general.championslist=Lista de Mobs Campeones
+champions.general.championslist.tooltip=Lista de mobs que siempre spawnearan como Campeones
+champions.general.lootsource=Fuente del Loot
+champions.general.lootsource.tooltip=Indica si los drops del Campeon se tomaran de una Tabla de loot, Config o ambos
+champions.general.lootdrops=Drops
+champions.general.lootdrops.tooltip=Si la fuente del Loot es un CONFIG, indique aqui cada item a dropear. El formato es: tier;modid:name;metadata;stacksize;enchant(true/false);weight
+champions.general.lootscaling=Drops escalan con el Nivel
+champions.general.lootscaling.tooltip=Si la fuente del loot es un CONFIG, indique si la cantidad de loot escalara con el nivel del Campeon
+champions.general.lootfake=Drops de Jugadores Falsos
+champions.general.lootfake.tooltip=Permitir que jugadores falsos causen que los Campeones tiren loot?
+champions.general.championnames=Nombres Adicionales de Campeones
+champions.general.championnames.tooltip=Nombres adicionales que se agregaran a la lista de nombres que se asignan a los Campeones
+champions.general.championnamesuffixes=Sufijos adicionales para Nombres
+champions.general.championnamesuffixes.tooltip=Sufijos adicionales que se agregaran a la lista de nombres que se asignan a los Campeones
+champions.general.beaconrange=Rango de accion del Faro
+champions.general.beaconrange.tooltip=El rango de accion en el que un faro evitara la aparicion de Campeones. 0 para deshabilitar
+champions.general.deathmessagetier=Nivel para Mensaje de Muerte
+champions.general.deathmessagetier.tooltip=A partir que nivel se mostrara un mensaje en el chat por haber vencido a un Campeon.\n0 para deshabilitar
+
+champions.general.affix=Configuracion de Afijo
+champions.general.affix.tooltip=Configuraciones que afectan cada afijo (particula que se agrega antes o despues de una palabra)
+champions.general.affix.abilityrange=Distancia Maxima de Habilidad
+champions.general.affix.abilityrange.tooltip=Distancia maxima desde la cual los mobs pueden usar sus habilidades\n0 pra deshabilitar
+
+champions.general.affix.adaptable=Adaptable
+champions.general.affix.adaptable.tooltip=Configuraciones para el afijo Adaptable
+champions.general.affix.adaptable.damagereductionincrement=Aumento de la Reduccion de Daño
+champions.general.affix.adaptable.damagereductionincrement.tooltip=El incremento en la reduccion de daño, por cada ataque consecutivo del mismo tipo
+champions.general.affix.adaptable.maxdamagereduction=Reduccion Maxima de Daño
+champions.general.affix.adaptable.maxdamagereduction.tooltip=La reduccion maxima aplicada al daño recibido
+
+champions.general.affix.arctic=artico
+champions.general.affix.arctic.tooltip=Configuraciones para el afijo artico
+champions.general.affix.arctic.attackinterval=Intervalo de Ataque
+champions.general.affix.arctic.attackinterval.tooltip=Frecuencia de los proyectiles que lanzara el Campeon (en ticks)
+
+champions.general.affix.cinder=Carbonizado
+champions.general.affix.cinder.tooltip=Configuraciones para el afijo Carbonizado
+champions.general.affix.cinder.attackinterval=Intervalo de ataque
+champions.general.affix.cinder.attackinterval.tooltip=Frecuencia de los proyectiles que lanzara el Campeon (en ticks)
+
+champions.general.affix.dampening=Amortiguado
+champions.general.affix.dampening.tooltip=Configuraciones para el afijo Amortiguado
+champions.general.affix.dampening.damagereduction=Reduccion de daño
+champions.general.affix.dampening.damagereduction.tooltip=Cantidad de reduccion de daño a aplicar a los ataques indirectos
+
+champions.general.affix.desecrator=Profanador
+champions.general.affix.desecrator.tooltip=Configuraciones para el afijo Profanador
+champions.general.affix.desecrator.attackinterval=Intervalo de ataque
+champions.general.affix.desecrator.attackinterval.tooltip=Frecuencia con la que el Campeon creara nubes de daño (en ticks)
+champions.general.affix.desecrator.activationticks=Tiempo de activacion de Nubes
+champions.general.affix.desecrator.activationticks.tooltip=Cuanto tiempo tardara en activarse la nube despues de aparecer (en ticks)
+champions.general.affix.desecrator.cloudradius=Radio de Nube
+champions.general.affix.desecrator.cloudradius.tooltip=Radio del efecto de nube
+champions.general.affix.desecrator.cloudduration=Duracion de la Nube
+champions.general.affix.desecrator.cloudduration.tooltip=Duracion del efecto de nube (en ticks)
+
+champions.general.affix.hasty=Veloz
+champions.general.affix.hasty.tooltip=Configuraciones para el afijo Veloz
+champions.general.affix.hasty.movementbonus=Bonus de Movimiento
+champions.general.affix.hasty.movementbonus.tooltip=Bonus base para la Velocidad de movimiento
+
+champions.general.affix.infested=Infestado
+champions.general.affix.infested.tooltip=Configuraciones para el afijo Infestado
+champions.general.affix.infested.silverfishamount=Cantidad de Pez de plata
+champions.general.affix.infested.silverfishamount.tooltip=Cuantos Peces de flata apareceran por intervalo
+champions.general.affix.infested.silverfishinterval=Intervalo entre Peces de plata
+champions.general.affix.infested.silverfishinterval.tooltip=Intervalo de aparicion entre cada ola de Peces de plata (en ticks)
+champions.general.affix.infested.silverfishperhealth=Peces de plata segun la salud
+champions.general.affix.infested.silverfishperhealth.tooltip=Cantidad de Peces de plata que infestaran por cada punto de salud del Campeon
+champions.general.affix.infested.silverfishtotal=Cantidad total de Peces de plata
+champions.general.affix.infested.silverfishtotal.tooltip=Cantidad total de Peces de plata que puede contener el Campeon a la vez
+
+champions.general.affix.jailer=Encarcelador
+champions.general.affix.jailer.tooltip=Configuraciones para el afijo Encarcelador
+champions.general.affix.jailer.chance=Probabilidad por Ataque
+champions.general.affix.jailer.chance.tooltip=Probabilidad en porcentaje de que un ataque encarcele al objetivo
+
+champions.general.affix.knockback=Empujador
+champions.general.affix.knockback.tooltip=Configuraciones para el afijo Empujador
+champions.general.affix.knockback.multiplier=Multiplicador de Empuje
+champions.general.affix.knockback.multiplier.tooltip=Multiplicador a aplicar a la fuerza de empuje
+
+champions.general.affix.lively=Saludable
+champions.general.affix.lively.tooltip=Configuraciones para el afijo Saludable
+champions.general.affix.lively.healamount=Salud a Regenerar
+champions.general.affix.lively.healamount.tooltip=Cantidad de salud a regenerar (por segundo)
+champions.general.affix.lively.passivemultiplier=Multiplicador Pasivo
+champions.general.affix.lively.passivemultiplier.tooltip=Multiplicador de salud a regenerar cuando el Campeon no esta agresivo
+champions.general.affix.lively.cooldown=Espera al ser atacado
+champions.general.affix.lively.cooldown.tooltip=Tiempo de espera para comenzar a regenerarse despues de ser atacado (en segundos)
+
+champions.general.affix.molten=Fundido
+champions.general.affix.molten.tooltip=Configuraciones para el afijo Fundido
+champions.general.affix.molten.waterresistant=Resistente al agua
+champions.general.affix.molten.waterresistant=El Campeon sera dañado por el agua?
+
+champions.general.affix.plagued=Plagado
+champions.general.affix.plagued.tooltip=Configuraciones para el afijo Plagado
+champions.general.affix.plagued.duration=Duracion de Plaga
+champions.general.affix.plagued.duration.tooltip=Duracion del efecto Plaga (en ticks)
+champions.general.affix.plagued.infectpotion=Pocion de Infeccion
+champions.general.affix.plagued.infectpotion.tooltip=La pocion que sera esparcida mediante el efecto Plaga
+champions.general.affix.plagued.infectduration=Duracion de Infeccion
+champions.general.affix.plagued.infectduration.tooltip=Duracion de la pocion de Infeccion (en ticks)
+champions.general.affix.plagued.infectpower=Nivel de Infeccion
+champions.general.affix.plagued.infectpower.tooltip=El nivel de la pocion de Infeccion (base: 1)
+champions.general.affix.plagued.infectrange=area de Infeccion
+champions.general.affix.plagued.infectrange.tooltip=El area en que la Infeccion se esparcira desde el Campeon
+
+champions.general.affix.reflecting=Reflejante
+champions.general.affix.reflecting.tooltip=Configuraciones para el afijo Reflejante
+champions.general.affix.reflecting.minimumperc=Porcentaje minimo a Reflejar
+champions.general.affix.reflecting.minimumperc.tooltip=Porcentaje minimo de daño a reflejar de vuelta
+champions.general.affix.reflecting.maximumperc=Porcentaje maximo a Reflejar
+champions.general.affix.reflecting.maximumperc.tooltip=Porcentaje maximo de daño a reflejar de vuelta
+champions.general.affix.reflecting.maxdamage=Daño Maximo
+champions.general.affix.reflecting.maxdamage.tooltip=Cantidad maxima de daño a reflejar de vuelta
+champions.general.affix.reflecting.killingblow=Habilitar daño mortal
+champions.general.affix.reflecting.killingblow.tooltip=El daño reflejado puede llegar a matar?
+
+champions.general.affix.scrapper=Peleonero
+champions.general.affix.scrapper.tooltip=Configuraciones para el afijo Peleonero
+champions.general.affix.scrapper.chance=Probabilidad por Ataque
+champions.general.affix.scrapper.chance.tooltip=Posibilidad en porcentaje de que un ataque hiera a los objetivos
+
+champions.general.affix.vortex=Vortice
+champions.general.affix.vortex.tooltip=Configuraciones para el afijo Vortice
+champions.general.affix.vortex.strength=Fuerza del Vortice
+champions.general.affix.vortex.strength.tooltip=Fuerza del efecto de succion del vortice
+
+champions.general.client=Configuracion del Cliente
+champions.general.client.tooltip=Configuraciones aplicables solo del lado del Cliente
+champions.general.client.colors=Color de los Categoria
+champions.general.client.colors.tooltip=Lista de colores para cada Categoria (como numeros)
+champions.general.client.xoffset=Compens.-X de Barra de Salud
+champions.general.client.xoffset.tooltip=Compensacion en X para la barra de salud de los Campeones
+champions.general.client.yoffset=Compens.-Y de Barra de Salud
+champions.general.client.yoffset.tooltip=Compensacion en Y para la barra de salud de los Campeones
+champions.general.client.healthvisibility=Distancia Visible Barra de Salud
+champions.general.client.healthvisibility.tooltip=Distancia desde la cual se puede ver la barra de salud (en bloques)
+champions.general.client.namevisibility=Visibilidad del Nombre
+champions.general.client.namevisibility.tooltip=Renderizar el nombre del Campeon?
+
+champions.general.growth=Configuracion de Crecimiento
+champions.general.growth.tooltip=Configuraciones que afectan la tasa de crecimiento de los Campeones
+champions.general.growth.health=Salud
+champions.general.growth.health.tooltip=Porcentaje de incremento de la salud, multiplicado por el factor de crecimiento
+champions.general.growth.attackdamage=Daño de Ataque
+champions.general.growth.attackdamage.tooltip=Porcentaje de incremento del daño de ataque, multiplicado por el factor de crecimiento
+champions.general.growth.armor=Armadura
+champions.general.growth.armor.tooltip=Incremento de armadura, multiplicado por el factor de crecimiento
+champions.general.growth.armortoughness=Dureza de Armadura
+champions.general.growth.armortoughness.tooltip=Incremento de dureza de armadura, multiplicado por el factor de crecimiento
+champions.general.growth.knockbackresist=Resistencia a Empujes
+champions.general.growth.knockbackresist.tooltip=Incremento de la resistencia a empujes, multiplicado por el factor de crecimiento
+champions.general.growth.exp=Experienca
+champions.general.growth.exp.tooltip=Incremento de la experiencia obtenible, multiplicado por el factor de crecimiento
+champions.general.growth.creeperstrength=Potencia de Explosion de Creepers
+champions.general.growth.creeperstrength.tooltip=Incremento de la potencia de la explosion de los Creepers, multiplicado por el Nivel, NO por el factor de crecimiento
+
+champions.general.scalinghealth=Integracion con Scaling Health
+champions.general.scalinghealth.tooltip=Configuraciones para la integracion con el mod Scaling Health
+champions.general.scalinghealth.spawnmodifiers=Frecuencia de Aparicion por Nivel
+champions.general.scalinghealth.spawnmodifiers.tooltip=Lista de Niveles con numeros para multiplicar la frecuencia de aparicion, segun la dificultad (p.ej. '1;0.02' para aumentar la aparicion de Niveles 1 en 2% por nivel de dificultad)\nNota: Las probabilidades de aparicion son acumulativas, por lo que aumentar la aparicion de Niveles bajos, naturalmente aumentara la aparicion de Niveles altos
+
+#################
+#     Names     #
+#################
+champions.prefix.0=Nihlus
+champions.prefix.1=Saren
+champions.prefix.2=Brayan
+champions.prefix.3=Gilgamesh
+champions.prefix.4=Kamelot
+champions.prefix.5=Groot
+champions.prefix.6=Diarmuid
+champions.prefix.7=Archimondus
+champions.prefix.8=Kappa
+champions.prefix.9=Lancelot
+champions.prefix.10=Mercurius
+champions.prefix.11=Igor
+champions.prefix.12=Narcissus
+champions.prefix.13=Moloch
+champions.prefix.14=Nashna
+champions.prefix.15=Juandedios
+champions.prefix.16=Sovereign
+champions.prefix.17=Harbinger
+champions.prefix.18=Drakar
+champions.prefix.19=Galak
+champions.prefix.20=Ayerael
+champions.prefix.21=Maximiliano
+champions.prefix.22=Akamorn
+champions.prefix.23=Jeremias
+
+champions.suffix.0= el Olvidado
+champions.suffix.1= el Todopoderoso
+champions.suffix.2=, Triturador de piernas
+champions.suffix.3= el Desgraciado
+champions.suffix.4= el Destructor
+champions.suffix.5= el Miserable
+champions.suffix.6=, Aplastador de Sueños
+champions.suffix.7=, Bebedor de Sangre
+champions.suffix.8=, Caballero de la Noche
+champions.suffix.9= Instigador de Penas
+champions.suffix.10= Atrapasueños
+champions.suffix.11= Aplastacraneos
+champions.suffix.12=, Devorador de Gallinas
+champions.suffix.13= el Emo
+champions.suffix.14= el Asaltante
+champions.suffix.15=, Enviado del Fin
+champions.suffix.16= el Despiadado
+champions.suffix.17= la Pesadilla Errante
+champions.suffix.18= Rompehuesos
+champions.suffix.19=, Come Almas
+champions.suffix.20= el Exconvicto
+champions.suffix.21= la Abominacion
+champions.suffix.22= el Bastardo
+champions.suffix.23= la Rata de dos Patas
+
+#################
+#    Command    #
+#################
+champions.commands.spawnchampion.usage=/spawnchampion <entity> <tier> [affixes]...
+champions.commands.spawnchampion.entityError=%s no es una entrada valida
+champions.commands.spawnchampion.tierError=%s no es un nivel valido
+champions.commands.spawnchampion.affixError=%s no es un identificador de afijo valido
+champions.commands.spawnchampion.success=Se genero un Campeon en %s
+
+champions.commands.spawnchampionat.usage=/spawnchampionat <x> <y> <z> <entity> <tier> [affixes]...
+
+champions.commands.championegg.usage=/championegg <entity> <tier> [affixes]...
+champions.commands.championegg.success=Huevo de Campeon entregado a %s

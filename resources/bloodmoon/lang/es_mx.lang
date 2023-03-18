@@ -1,0 +1,7 @@
+##Translated by KameiB for RLCraft 2.9.2. Jan/2023
+text.bloodmoon.notify=La Luna de sangre ha salido...
+text.bloodmoon.nosleep=No puedes dormir...
+text.bloodmoon.force=Habra Luna de sangre mañana en la noche
+text.bloodmoon.stop=Se detuvo la Luna de sangre
+text.bloodmoon.commandError=El Handler de Bloodmoon no se cargo, intenta ejecutarlo desde el overworld.
+text.bloodmoon.entity=Monstruos a 20 bloques a la redonda:

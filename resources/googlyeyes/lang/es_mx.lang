@@ -1,0 +1,10 @@
+## Translated by KameiB for RLCraft 2.9.2. Jan/2023
+googlyeyes.config.prop.disabledGoogly.name=Ojos Saltones Deshabilitados
+googlyeyes.config.prop.acidTripEyes.name=Ojos Caidos
+googlyeyes.config.prop.googlyEyeChance.name=Probabilidad de Ojos Saltones
+googlyeyes.config.prop.allPlayersHaveGooglyEyes.name=Todos los jugadores tienen ojos saltones
+
+googlyeyes.config.prop.disabledGoogly.comment=Para deshabilitar los Ojos Saltones en una entidad en especifico, pon su nombre registrado aqui.\nEjemplo: "Pig", "Skeleton"\nPara jugadores, pon "player"
+googlyeyes.config.prop.acidTripEyes.comment=Haz que los ojos saltones caigan
+googlyeyes.config.prop.googlyEyeChance.comment=Probabilidad de Ojos Saltones (en %)
+googlyeyes.config.prop.allPlayersHaveGooglyEyes.comment=Deberian todos los jugadores tener ojos saltones?

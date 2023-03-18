@@ -1,0 +1,224 @@
+## Translated by KameiB for RLCraft 2.9.2. Jan/2023
+# Blocks
+tile.charm:barrel.name=Barril
+tile.charm:barrel_oak.name=Barril de roble
+tile.charm:barrel_spruce.name=Barril de abeto
+tile.charm:barrel_birch.name=Barril de abedul
+tile.charm:barrel_jungle.name=Barril de jungla
+tile.charm:barrel_acacia.name=Barril de acacia
+tile.charm:barrel_dark_oak.name=Barril de roble oscuro
+tile.charm:bookshelf_chest.name=Cofre estanteria
+tile.charm:bookshelf_container.name=Cofre estanteria
+tile.charm:composter.name=Compostador
+tile.charm:crate.name=Caja
+tile.charm:crate_oak.name=Caja de roble
+tile.charm:crate_spruce.name=Caja de abeto
+tile.charm:crate_birch.name=Caja de abedul
+tile.charm:crate_jungle.name=Caja de jungla
+tile.charm:crate_acacia.name=Caja de acacia
+tile.charm:crate_dark_oak.name=Caja de roble oscuro
+tile.charm:crate_sealed.name=Caja sellada
+tile.charm:crate_sealed_oak.name=Caja de roble sellada
+tile.charm:crate_sealed_spruce.name=Caja de abeto sellada
+tile.charm:crate_sealed_birch.name=Caja de abedul sellada
+tile.charm:crate_sealed_jungle.name=Caja de jungla sellada
+tile.charm:crate_sealed_acacia.name=Caja de acacia sellada
+tile.charm:crate_sealed_dark_oak.name=Caja de roble oscuro sellada
+tile.charm:ender_pearl_block.name=Bloque de perla de ender
+tile.charm:gold_lantern.name=Lampara de oro
+tile.charm:gunpowder_block.name=Bloque de polvora
+tile.charm:iron_lantern.name=Lampara
+tile.charm:nether_gold_deposit.name=Deposito de oro del Nether
+tile.charm:redstone_sand.name=Arena de redstone
+tile.charm:rotten_flesh_block.name=Bloque de carne podrida
+tile.charm:rune_portal.name=Portal del End
+tile.charm:rune_portal_frame_white.name=Marco del portal al End con runa blanca
+tile.charm:rune_portal_frame_orange.name=Marco del portal al End con runa naranja
+tile.charm:rune_portal_frame_magenta.name=Marco del portal al End con runa magenta
+tile.charm:rune_portal_frame_light_blue.name=Marco del portal al End con runa azul claro
+tile.charm:rune_portal_frame_yellow.name=Marco del portal al End con runa amarilla
+tile.charm:rune_portal_frame_lime.name=Marco del portal al End con runa verde lima
+tile.charm:rune_portal_frame_pink.name=Marco del portal al End con runa rosa
+tile.charm:rune_portal_frame_gray.name=Marco del portal al End con runa gris
+tile.charm:rune_portal_frame_silver.name=Marco del portal al End con runa gris claro
+tile.charm:rune_portal_frame_cyan.name=Marco del portal al End con runa cian
+tile.charm:rune_portal_frame_purple.name=Marco del portal al End con runa morada
+tile.charm:rune_portal_frame_blue.name=Marco del portal al End con runa azul
+tile.charm:rune_portal_frame_brown.name=Marco del portal al End con runa cafe
+tile.charm:rune_portal_frame_green.name=Marco del portal al End con runa verde
+tile.charm:rune_portal_frame_red.name=Marco del portal al End con runa roja
+tile.charm:rune_portal_frame_black.name=Marco del portal al End con runa negra
+tile.charm:variable_redstone_lamp.name=Lampara de redstone variable
+tile.charm:smooth_glowstone.name=Piedra luminosa lisa
+
+# Items
+item.charm:bat_bucket.name=Cubeta con murcielago
+item.charm:bound_compass.name=Brujula enlazada
+item.charm:charged_emerald.name=Esmeralda cargada
+item.charm:endermite_powder.name=Polvo de endermite
+item.charm:moonstone.name=Piedra lunar
+item.charm:totem_of_returning.name=Totem de retorno
+item.charm:totem_of_shielding.name=Totem de escudo
+item.charm:suspicious_soup.name=Sopa sospechosa
+
+# Potions
+charm.potion.coffee.name=Cafe
+charm.potion.decay.name=Decadencia
+charm.potion.ender_sight.name=Vista de ender
+potion.effect.coffee=Cafe
+potion.effect.decay=Decadencia
+potion.effect.ender_sight=Vista de ender
+splash_potion.effect.coffee=Pocion arrojadiza de cafe
+splash_potion.effect.decay=Pocion arrojadiza de Decadencia
+splash_potion.effect.ender_sight=Pocion arrojadiza de Vista de ender
+tipped_arrow.effect.coffee=Flecha de cafe
+tipped_arrow.effect.decay=Flecha de Decadencia
+tipped_arrow.effect.ender_sight=Flecha de Vista de ender
+lingering_potion.effect.coffee=Pocion persistente de cafe
+lingering_potion.effect.decay=Pocion persistente de Decadencia
+lingering_potion.effect.ender_sight=Pocion persistente de Vista de ender
+potion.potency.3=III
+
+# Entities
+entity.charm:spectre.name=Espectro
+
+# Enchantments
+charm.enchantment.clumsiness_curse=§cMaldicion de Torpeza§r
+charm.enchantment.harming_curse=§cMaldicion de Daño§r
+charm.enchantment.haunting_curse=§cMaldicion de Persecucion§r
+charm.enchantment.rusting_curse=§cMaldicion de Oxidacion§r
+charm.enchantment.curse_break=§bRompe-maldiciones§r
+charm.enchantment.salvage=Salvamento
+charm.enchantment.homing=Buscador
+charm.enchantment.magnetic=Magnetico
+enchantment.charm.clumsiness_curse.desc=Las armas y herramientas a veces fallan al usarlas.
+enchantment.charm.harming_curse.desc=Las armas y herramientas a veces te lastiman al usarlas.
+enchantment.charm.haunting_curse.desc=Las armas y herramientas a veces aparecen monstruos cerca de ti.
+enchantment.charm.rusting_curse.desc=La armadura, armas y herramientas se dañan mas de lo habitual.
+enchantment.charm.curse_break.desc=Remueve una maldicion de un item.
+enchantment.charm.salvage.desc=La armadura, armas y herramientas se tiran en lugar de romperse.
+enchantment.charm.homing.desc=Las azadas son atraidas por la mena de la que estan hechas.
+enchantment.charm.magnetic.desc=Las herramientas recogen items tirados automaticamente.
+
+# Sound Subtitles
+subtitle.charm.spectre.disappear=El Espectro se desvanecio
+subtitle.charm.spectre.ambient=Sonidos escalofriantes de Espectro
+subtitle.charm.spectre.walk=Pasos escalofriantes de Espectro
+subtitle.charm.spectre.hit=Un Espectro te golpeo
+subtitle.charm.whispers=Puedes escuchar Espectros susurrando a tu alrededor
+
+# Maps
+charm.map.village=Mapa de Aldea
+charm.map.mineshaft=Mapa de Mina
+charm.map.swamp_hut=Mapa de Choza de pantano
+charm.map.jungle_pyramid=Mapa de Templo de jungla
+charm.map.desert_pyramid=Mapa de Piramide del desierto
+charm.map.igloo=Mapa de Iglu
+
+# Records
+item.charm:record_creative1.name=Disco de musica Creativo
+item.charm:record_creative2.name=Disco de musica Creativo
+item.charm:record_creative3.name=Disco de musica Creativo
+item.charm:record_creative4.name=Disco de musica Creativo
+item.charm:record_creative5.name=Disco de musica Creativo
+item.charm:record_creative6=Disco de musica Creativo
+item.charm:record_nether1.name=Disco de musica del Nether
+item.charm:record_nether2.name=Disco de musica del Nether
+item.charm:record_nether3.name=Disco de musica del Nether
+item.charm:record_nether4.name=Disco de musica del Nether
+item.charm:record_calm1.name=Disco de musica del Overworld
+item.charm:record_calm2.name=Disco de musica del Overworld
+item.charm:record_calm3.name=Disco de musica del Overworld
+item.charm:record_hal1.name=Disco de musica del Overworld
+item.charm:record_hal2.name=Disco de musica del Overworld
+item.charm:record_hal3.name=Disco de musica del Overworld
+item.charm:record_hal4.name=Disco de musica del Overworld
+item.charm:record_nuance1.name=Disco de musica del Overworld
+item.charm:record_nuance2.name=Disco de musica del Overworld
+item.charm:record_piano1.name=Disco de musica del Overworld
+item.charm:record_piano2.name=Disco de musica del Overworld
+item.charm:record_piano3.name=Disco de musica del Overworld
+item.charm:record_menu1.name=Disco de musica de Menu
+item.charm:record_menu2.name=Disco de musica de Menu
+item.charm:record_menu3.name=Disco de musica de Menu
+item.charm:record_menu4.name=Disco de musica de Menu
+item.record.charm:creative1.desc=C418 - Festival de Biomas
+item.record.charm:creative2.desc=C418 - Puntos Ciegos
+item.record.charm:creative3.desc=C418 - Haunt Muskie
+item.record.charm:creative4.desc=C418 - Matematicas Arias
+item.record.charm:creative5.desc=C418 - Dreiton
+item.record.charm:creative6.desc=C418 - Taswell
+item.record.charm:nether1.desc=C418 - Pasillos de Concreto
+item.record.charm:nether2.desc=C418 - Voxel Muerto
+item.record.charm:nether3.desc=C418 - Calor
+item.record.charm:nether4.desc=C418 - Balada de los Gatos
+item.record.charm:calm1.desc=C418 - Minecraft
+item.record.charm:calm2.desc=C418 - Clark
+item.record.charm:calm3.desc=C418 - Suecia
+item.record.charm:hal1.desc=C418 - Cancion de cuna Subwoofer
+item.record.charm:hal2.desc=C418 - Ratones Vivos
+item.record.charm:hal3.desc=C418 - Haggstrom
+item.record.charm:hal4.desc=C418 - Danny
+item.record.charm:nuance1.desc=C418 - Llave
+item.record.charm:nuance2.desc=C418 - Oxygène
+item.record.charm:piano1.desc=C418 - Manos Secas
+item.record.charm:piano2.desc=C418 - Manos Mojadas
+item.record.charm:piano3.desc=C418 - Ratones de Venus
+item.record.charm:menu1.desc=C418 - Mutacion
+item.record.charm:menu2.desc=C418 - Moog City 2
+item.record.charm:menu3.desc=C418 - Comienzo 2
+item.record.charm:menu4.desc=C418 - Arboles Flotantes
+
+# Misc strings
+charm.cake_of=Pastel de
+crate=Caja
+crate_sealed=Caja sellada
+compass=Brujula
+dimension=Dimension
+number_of_uses=Cantidad de usos
+aligned_xz=En el origen
+aligned_x=Alineado al eje X
+aligned_z=Alineado al eje Z
+charm.crate_tooltip_shift=Presiona Shift para ver su contenido
+
+# Loot location classifications
+common=Comun
+common_books=Libros comunes
+common_potions=Pociones
+junk=Basura
+smith=Herrero
+librarian=Bibliotecario
+priest=Clerigo
+butcher=Carnicero
+farmer=Granjero
+shepherd=Pastor
+fisherman=Pescador
+carpenter=Carpintero
+uncommon=Poco comun
+uncommon_books=Libro poco comun
+valuable=Valioso
+rare=Raro
+explosive=Explosivo
+dangerous=Peligroso
+end_city_treasure=Tesoro raro
+simple_dungeon=Poco comun
+village_blacksmith=Comun
+abandoned_mineshaft=Poco comun
+nether_bridge=Valioso
+stronghold_library=Valioso
+stronghold_crossing=Valioso
+stronghold_corridor=Valioso
+desert_pyramid=Poco comun
+jungle_temple=Poco comun
+igloo_chest=Comun
+woodland_mansion=Poco comun
+
+# JEI descriptions
+charm.jei.flavoredcake.desc=Los pasteles saborizados se hacen dando clic derecho a un pastel en el mundo con una pocion de 8 minutos del tipo correspondiente.\n\nTambien puedes aplicarla con un dispensador.
+charm.jei.boundcompass.desc=Agachate y da clic derecho con una Brujula a un Faro activado para enlazar la Brujula a la ubicacion del Faro.\n\nPuedes combinar una Brujula enlazada con un Lingote de hierro en el Yunque para romper el enlace.
+charm.jei.crates.desc=Puedes sellar las Cajas con un Lingote de hierro en el Yunque. La unica manera de liberar los items de una Caja sellada es rompiendola. Si se coloca ya no puede ser recogida y tampoco se puede acceder a su contenido.
+charm.jei.moonstone.desc=La Piedra Lunar te ayuda a ubicar las coordenadas de un bloque especifico o ayuda a alinearlo con un eje.\n\nAgachate y haz clic derecho para enlazar una Piedra lunar a un bloque. Si te alineas con el bloque, la Piedra lunar comenzara a iluminarse. Pararte sobre el bloque hara que la Piedra lunar brille.\n\nEsto funciona a traves de las dimensiones y respeta la compresion / expansion espacial del Nether, ayudandote a alinear portales de manera precisa entre el Overworld y el Nether.
+
+
+# Added by KameiB for additional cake tooltips
+charm.cake.addedtooltip.1=Al comerlo:

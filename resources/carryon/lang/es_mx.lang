@@ -1,0 +1,88 @@
+## Translated by KameiB for RLCraft 2.9.2. Jan/2023
+carryon.category.settings=Configuraciones
+carryon.category.blacklist=Lista Negra
+carryon.category.modeloverrides=Reemplazar Modelos (Avanzado)
+carryon.category.custompickupconditions=Condiciones de Carga Personalizada (Avanzado)
+carryon.category.whitelist=Lista Blanca
+
+carryon.general.modeloverrides.modeloverrides=Reemplazar Modelos al cargar
+carryon.general.blacklist.forbiddenentities=Entidades que el jugador no puede cargar
+carryon.general.blacklist.forbiddentiles=Bloques que el jugador no puede cargar
+carryon.category.custompickupconditions.customPickupConditionsBlocks=Condiciones personalizadas de carga de bloques
+carryon.category.custompickupconditions.customPickupConditionsEntities=Condiciones personalizadas de carga de entidades
+
+key.carry.desc=Cargar
+key.carry.category=Carry On
+
+#Added by KameiB
+carryon.category.settings.tooltip=Configuraciones generales del mod
+carryon.general.settings.allowbabies=Permitir bebes
+carryon.general.settings.allowbabies.tooltip=Permitir cargar bebes aun cuando el mob adulto no esta permitido (o no esta en la lista blanca)
+carryon.general.settings.blockslownessmultiplier=Mult. de Lentitud para Bloques
+carryon.general.settings.blockslownessmultiplier.tooltip=Multiplicador de Lentitud para Bloques
+carryon.general.settings.dropcarriedwhenhit=Tirar carga cuando golpean
+carryon.general.settings.dropcarriedwhenhit.tooltip=El jugador tirara lo que esta cargando cuando es golpeado?
+carryon.general.settings.entitysizemattersstacking=Tamaño durante el apilado
+carryon.general.settings.entitysizemattersstacking.tooltip=El tamaño de la entidad importa cuando se apilan?
+carryon.general.settings.entityslownessmultiplier=Mult. de Lentitud para Entidades
+carryon.general.settings.entityslownessmultiplier.tooltip=Multiplicador de Lentitud para Entidades
+carryon.general.settings.faceplayer=Cara frontal hacia jugador
+carryon.general.settings.faceplayer.tooltip=El la cara frontal del bloque cargado debe voltear al jugador?
+carryon.general.settings.heavyentities=Entidades Pesadas
+carryon.general.settings.heavyentities.tooltip=Las Entidades Grandes ralentizan mas al jugador
+carryon.general.settings.heavytiles=Bloques Pesados
+carryon.general.settings.heavytiles.tooltip=Las Entidades de bloque mas complejas ralentizan mas al jugador
+carryon.general.settings.hitwhilecarrying=Golpear al Cargar
+carryon.general.settings.hitwhilecarrying.tooltip=El jugador puede golpear bloques y entidades mientras esta cargando?
+carryon.general.settings.maxdistance=Distancia Maxima
+carryon.general.settings.maxdistance.tooltip=Distancia maxima desde la cual los Bloques y Entidades pueden ser cargados
+carryon.general.settings.maxentityheight=Altura Maxima de Entidades
+carryon.general.settings.maxentityheight.tooltip=Altura maxima de las Entidades que pueden ser cargadas en modo Survival
+carryon.general.settings.maxentitystacklimit=Apilado Maximo de Entidades
+carryon.general.settings.maxentitystacklimit.tooltip=Cantidad maxima de Entidades que pueden apilarse
+carryon.general.settings.maxentitywidth=Ancho Maximo de Entidades
+carryon.general.settings.maxentitywidth.tooltip=Ancho maximo de las Entidades que pueden ser cargadas en modo Survival
+carryon.general.settings.pickupallblocks=Cargar todos los Bloques
+carryon.general.settings.pickupallblocks.tooltip=Permitir cargar todos los Bloques, no solo las Entidades de Bloque
+carryon.general.settings.pickuphostilemobs=Cargar mobs hostiles
+carryon.general.settings.pickuphostilemobs.tooltip=Los mobs hostiles pueden ser cargados en modo Survival?
+carryon.general.settings.renderarms=Renderizar brazos
+carryon.general.settings.renderarms.tooltip=Renderizar los brazos mientras cargas?
+carryon.general.settings.slownessincreative=Lentitud en Creativo
+carryon.general.settings.slownessincreative.tooltip=Hacer que cargar bloques y entidades en modo Creativo ralentice al jugador?
+carryon.general.settings.stackableentities=Apilar Entidades
+carryon.general.settings.stackableentities.tooltip=Permitir apilar entidades con Carry On?
+carryon.general.settings.tamedhostilemobexemption=Mobs hostiles domesticados
+carryon.general.settings.tamedhostilemobexemption.tooltip=Permitir cargar mobs hostiles que fueron domesticados?
+carryon.general.settings.usescripts=Usar Scripts
+carryon.general.settings.usescripts.tooltip=Usar scripts personalizados de Carga?\nSi es false no podras ejecutar scripts, pero mejorara el rendimiento
+carryon.general.settings.usewhitelistblocks=Usar Lista Blanca para Bloques
+carryon.general.settings.usewhitelistblocks.tooltip=Usar la Lista Blanca en lugar de la Lista Negra para los bloques
+carryon.general.settings.usewhitelistentities=Usar Lista Blanca para Entidades
+carryon.general.settings.usewhitelistentities.tooltip=Usar la Lista Blanca en lugar de la Lista Negra para las entidades
+carryon.general.settings.usewhiteliststacking=Usar Lista Blanca para Apilado
+carryon.general.settings.usewhiteliststacking.tooltip=Usar la Lista Blanca en lugar de la Lista Negra para el apilado
+
+carryon.category.blacklist.tooltip=Lista negra de Bloques y Entidades
+carryon.general.blacklist.forbiddenentities.tooltip=Entidades que NO pueden ser cargadas
+carryon.general.blacklist.forbiddenstacking=Prohibir apilado
+carryon.general.blacklist.forbiddenstacking.tooltip=Entidades a las que NO se le pueden apilar otras entidades
+carryon.general.blacklist.forbiddentiles.tooltip=Bloques que NO pueden ser cargados
+
+carryon.category.whitelist.tooltip=Lista blanca de Bloques y Entidades\n(useWhitelist debe ser true!)
+carryon.general.whitelist.allowedblocks=Bloques permitidos
+carryon.general.whitelist.allowedblocks.tooltip=Bloques que PUEDEN ser cargados
+carryon.general.whitelist.allowedentities=Entidades permitidas
+carryon.general.whitelist.allowedentities.tooltip=Entidades que PUEDEN ser cargadas
+carryon.general.whitelist.allowedstacking=Permitir apilado
+carryon.general.whitelist.allowedstacking.tooltip=Entidades a las que SI se le pueden apilar otras entidades
+
+carryon.category.modeloverrides.tooltip=Reemplazar modelos basados en NBT o en Meta\nSolo para usuarios Avanzados!
+carryon.general.modeloverrides.modeloverrides.tooltip=Modelos de entidades que se reemplzaran cuando los cargas
+
+carryon.category.custompickupconditions.tooltip=Condiciones de Carga Personalizada para ciertos bloques.\n§cSOLO FUNCIONA SI GAMESTAGES ESTA INSTALADO!\nSolo para usuarios Avanzados!
+carryon.general.custompickupconditions.custompickupconditionsblocks=Condiciones personalizadas de bloques
+carryon.general.custompickupconditions.custompickupconditionsblocks.tooltip=Condiciones personalizadas de carga de bloques
+carryon.general.custompickupconditions.custompickupconditionsentities=Condiciones personalizadas de entidades
+carryon.general.custompickupconditions.custompickupconditionsentities.tooltip=Condiciones personalizadas de carga de entidades
+

@@ -1,0 +1,20 @@
+##Translated by KameiB for RLCraft 2.9.2. Jan/2023
+#
+# ITEMS
+item.Ring.0.name=Anillo de minero
+#
+# GUI
+button.baubles=Baubles
+button.normal=Normal
+#
+# Keybinding
+keybind.baublesinventory=Inventario de Baubles
+#
+# Description
+name.AMULET=Bauble (Collar)
+name.RING=Bauble (Anillo)
+name.BELT=Bauble (Cinturon)
+name.TRINKET=Bauble (Cualquiera)
+name.HEAD=Bauble (Cabeza)
+name.BODY=Bauble (Torso)
+name.CHARM=Bauble (Talisman)

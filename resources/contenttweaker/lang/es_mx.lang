@@ -1,0 +1,16 @@
+## Translated by KameiB for RLCraft 2.9.2. Jan/2023
+item.contenttweaker.example_item.name=Item de ejemplo
+item.contenttweaker.steel_alloy.name=Aleacion de acero
+item.contenttweaker.steel_nugget.name=Pepita de acero
+item.contenttweaker.neptunium_nugget.name=Pepita de neptunio
+item.contenttweaker.glacier_cream.name=Crema de glaciar
+item.contenttweaker.blood_tear.name=Lagrima de sangre
+item.contenttweaker.sentient_core.name=Nucleo consciente
+block.contenttweaker.bone_pile.name=Monton de huesos
+tile.contenttweaker.bone_pile.name=Monton de huesos
+fluid.carrot_juice=Sopa de zanahoria
+attribute.name.xat.entityMagic.regen=Regeneracion de Mana
+
+# Added by KameiB for UsefulTooltips script
+item.contenttweaker.sentient_core.addedtooltip.1=La llama de la vida brilla fuertemente en este objeto. El nucleo que evoluciona a las armas y armaduras.
+item.contenttweaker.blood_tear.addedtooltip.1=Una horrible lagrima, derramada por un parasito muy poderoso. Parece tener vida propia.
