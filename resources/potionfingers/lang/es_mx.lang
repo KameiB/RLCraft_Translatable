@@ -1,0 +1,55 @@
+## Translated by KameiB for RLCraft 2.9.2
+potionfingers.noEffect=(Sin Efectos)
+
+item.potionfingers:ring_disabled.name=Anillo de pocion
+item.potionfingers:ring_enabled.name=Anillo de pocion de %s
+
+# Added tooltips by KameiB
+item.potionfingers.speed.addedtooltip.1=Da Velocidad
+item.potionfingers.speed.addedtooltip.2=Al aplicarse:
+item.potionfingers.speed.addedtooltip.3=Velocidad: +20%
+
+item.potionfingers.haste.addedtooltip.1=Da Prisa minera
+item.potionfingers.haste.addedtooltip.2=Al aplicarse:
+item.potionfingers.haste.addedtooltip.3=Vel. de minado: +20%
+item.potionfingers.haste.addedtooltip.4=Vel. de ataque: +10%
+
+item.potionfingers.resistance.addedtooltip.1=Da Resistencia
+item.potionfingers.resistance.addedtooltip.2=Al aplicarse:
+item.potionfingers.resistance.addedtooltip.3=Resistencia a daños: +15%
+
+item.potionfingers.jump_boost.addedtooltip.1=Da Supersalto
+item.potionfingers.jump_boost.addedtooltip.2=Al aplicarse:
+item.potionfingers.jump_boost.addedtooltip.3=Altura de salto: +0.75
+
+item.potionfingers.strength.addedtooltip.1=Da Fuerza
+item.potionfingers.strength.addedtooltip.2=Al aplicarse:
+item.potionfingers.strength.addedtooltip.3=Daño por golpe: +3
+
+item.potionfingers.regeneration.addedtooltip.1=Da Regeneracion
+item.potionfingers.regeneration.addedtooltip.2=Al aplicarse:
+item.potionfingers.regeneration.addedtooltip.3=Recupera 1/2 corazon cada 2.5s
+
+item.potionfingers.iron_skin.addedtooltip.1=Da Piel hierro
+item.potionfingers.iron_skin.addedtooltip.2=Al aplicarse:
+item.potionfingers.iron_skin.addedtooltip.3=Armadura: +2
+
+item.potionfingers.diamond_skin.addedtooltip.1=Da Piel diamante
+item.potionfingers.diamond_skin.addedtooltip.2=Al aplicarse:
+item.potionfingers.diamond_skin.addedtooltip.3=Resistencia de armadura: +4
+
+item.potionfingers.health_boost.addedtooltip.1=Da Salud mejorada
+item.potionfingers.health_boost.addedtooltip.2=Al aplicarse:
+item.potionfingers.health_boost.addedtooltip.3=Salud maxima: +4
+
+item.potionfingers.archery.addedtooltip.1=Da Arqueria
+item.potionfingers.archery.addedtooltip.2=Al aplicarse:
+item.potionfingers.archery.addedtooltip.3=Daño de proyectiles: +3
+
+item.potionfingers.reach.addedtooltip.1=Da Alcance
+item.potionfingers.reach.addedtooltip.2=Al aplicarse:
+item.potionfingers.reach.addedtooltip.3=Distancia de alcance: +0.5
+
+item.potionfingers.magic_focus.addedtooltip.1=Da Enfoque magi
+item.potionfingers.magic_focus.addedtooltip.2=Al aplicarse:
+item.potionfingers.magic_focus.addedtooltip.3=Daño magico: +75%

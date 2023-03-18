@@ -1,0 +1,13 @@
+# Realistic Torches - Language File
+# MEXICO - SPANISH (Translated by KameiB. Feb/2023)
+
+# BLOCKS
+tile.realistictorches.torch_unlit.name=Antorcha apagada
+tile.realistictorches.torch_lit.name=Antorcha encendida
+tile.realistictorches.torch_smoldering.name=Antorcha latente
+tile.realistictorches.moving_light_source.name=Fuente de luz movil
+
+# ITEMS
+item.realistictorches.matchbox.name=Caja de cerillos
+item.realistictorches.glowstone_crystal.name=Cristal de piedra luminosa
+item.realistictorches.glowstone_paste.name=Masa de piedra luminosa

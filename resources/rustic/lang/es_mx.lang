@@ -1,0 +1,402 @@
+## Translated by KameiB for RLCraft 2.9.2
+#Creative Tabs
+itemGroup.rustic.decor=Rustic: Decoraciones
+itemGroup.rustic.farming=Rustic: Agricultura
+itemGroup.rustic.alchemy=Rustic: Alquimia
+
+#Tooltips
+tooltip.rustic.olive_oil=Con aceite de oliva
+tooltip.rustic.quality=Calidad: 
+tooltip.rustic.empty=Vacio
+
+#Containers
+container.rustic.cabinet=Gabinete
+container.rustic.barrel=Barril
+container.rustic.vase=Jarron
+container.rustic.apiary=Apiario
+container.rustic.condenser=Condensador
+container.rustic.condenser_advanced=Condensador avanzado
+container.rustic.brewing_barrel=Barril de fermentacion
+
+#Blocks
+tile.rustic.chain.name=Cadena decorativa de hierro
+tile.rustic.chain_gold.name=Cadena decorativa de oro
+tile.rustic.chain_silver.name=Cadena decorativa de plata
+tile.rustic.stone_pillar.name=Pilar de piedra
+tile.rustic.andesite_pillar.name=Pilar de andesita
+tile.rustic.diorite_pillar.name=Pilar de diorita
+tile.rustic.granite_pillar.name=Pilar de granito
+tile.rustic.chandelier.name=Candelabro de hierro
+tile.rustic.chandelier_gold.name=Candelabro de oro
+tile.rustic.chandelier_silver.name=Candelabro de plata
+tile.rustic.candle.name=Candelero de hierro
+tile.rustic.candle_lever.name=Candelero-palanca de hierro
+tile.rustic.candle_gold.name=Candelero de oro
+tile.rustic.candle_lever_gold.name=Candelero-palanca de oro
+tile.rustic.candle_silver.name=Candelero de plata
+tile.rustic.candle_lever_silver.name=Candelero-palanca de plata
+tile.rustic.beehive.name=Colmena
+tile.rustic.apiary.name=Apiario
+tile.rustic.slate.name=Pizarra
+tile.rustic.slate_roof.name=Tejado de pizarra
+tile.rustic.slate_roof_slab.name=Losa de tejado de pizarra
+tile.rustic.stairs_slate_roof.name=Escaleras de tejado de pizarra
+tile.rustic.clay_wall.name=Adobe
+tile.rustic.clay_wall_cross.name=Adobe con cruz
+tile.rustic.clay_wall_diag.name=Adobe con diagonal
+tile.rustic.vase.name=Jarron
+tile.rustic.chair_acacia.name=Silla de acacia
+tile.rustic.table_acacia.name=Mesa de acacia
+tile.rustic.chair_big_oak.name=Silla de roble oscuro
+tile.rustic.table_big_oak.name=Mesa de roble oscuro
+tile.rustic.chair_birch.name=Silla de abedul
+tile.rustic.table_birch.name=Mesa de abedul
+tile.rustic.chair_jungle.name=Silla de jungla
+tile.rustic.table_jungle.name=Mesa de jungla
+tile.rustic.chair_oak.name=Silla de roble
+tile.rustic.table_oak.name=Mesa de roble
+tile.rustic.chair_spruce.name=Silla de abeto
+tile.rustic.table_spruce.name=Mesa de aberto
+tile.rustic.slate_tile.name=Teja de pizarra
+tile.rustic.slate_pillar.name=Pilar de pizarra
+tile.rustic.slate_brick.name=Ladrillo de pizarra
+tile.rustic.slate_chiseled.name=Teja cincelada
+tile.rustic.barrel.name=Barril
+tile.rustic.iron_lattice.name=Celosia de hierro
+tile.rustic.iron_lantern.name=Linterna de hierro
+tile.rustic.golden_lantern.name=Linterna de oro
+tile.rustic.silver_lantern.name=Linterna de plata
+tile.rustic.painted_wood_white.name=Madera pintada de blanco
+tile.rustic.painted_wood_orange.name=Madera pintada de naranja
+tile.rustic.painted_wood_magenta.name=Madera pintada de magenta
+tile.rustic.painted_wood_light_blue.name=Madera pintada de azul claro
+tile.rustic.painted_wood_yellow.name=Madera pintada de amarillo
+tile.rustic.painted_wood_lime.name=Madera pintada de verde lima
+tile.rustic.painted_wood_pink.name=Madera pintada de rosa
+tile.rustic.painted_wood_gray.name=Madera pintada de gris
+tile.rustic.painted_wood_silver.name=Madera pintada de girs claro
+tile.rustic.painted_wood_cyan.name=Madera pintada de cian
+tile.rustic.painted_wood_purple.name=Madera pintada de morado
+tile.rustic.painted_wood_blue.name=Madera pintada de azul
+tile.rustic.painted_wood_brown.name=Madera pintada de cafe
+tile.rustic.painted_wood_green.name=Madera pintada de verde
+tile.rustic.painted_wood_red.name=Madera pintada de rojo
+tile.rustic.painted_wood_black.name=Madera pintada de negro
+tile.rustic.stairs_slate_brick.name=Escaleras de ladrillos de pizarra
+tile.rustic.slate_brick_slab.name=Losa de ladrillos de pizarra
+tile.rustic.gargoyle.name=Gargola
+tile.rustic.cabinet.name=Gabinete
+tile.rustic.liquid_barrel.name=Barril para liquidos
+tile.rustic.fertile_soil.name=Tierra fertil
+tile.rustic.log_olive.name=Tronco de olivo
+tile.rustic.log_ironwood.name=Tronco de argan
+tile.rustic.planks_olive.name=Madera de olivo
+tile.rustic.planks_ironwood.name=Madera de argan
+tile.rustic.leaves_olive.name=Hojas de olivo
+tile.rustic.leaves_ironwood.name=Hojas de argan
+tile.rustic.sapling_olive.name=Retoño de olivo
+tile.rustic.sapling_ironwood.name=Retoño de argan
+tile.rustic.crushing_tub.name=Tina de trituracion
+tile.rustic.evaporating_basin.name=Cuenco de secado
+tile.rustic.fence_olive.name=Valla de olivo
+tile.rustic.fence_ironwood.name=Valla de argan
+tile.rustic.fence_gate_olive.name=Puerta de valla de olivo
+tile.rustic.fence_gate_ironwood.name=Puerta de valla de argan
+tile.rustic.olive_slab.name=Losa de olivo
+tile.rustic.ironwood_slab.name=Losa de argan
+tile.rustic.stairs_olive.name=Escaleras de olivo
+tile.rustic.stairs_ironwood.name=Escaleras de argan
+tile.rustic.chair_olive.name=Silla de olivo
+tile.rustic.table_olive.name=Mesa de olivo
+tile.rustic.chair_ironwood.name=Silla de argan
+tile.rustic.table_ironwood.name=Mesa de argan
+tile.rustic.aloe_vera.name=Aloe vera
+tile.rustic.blood_orchid.name=Orquidea de sangre
+tile.rustic.chamomile.name=Manzanilla
+tile.rustic.cloudsbluff.name=Nube
+tile.rustic.cohosh.name=Cohosh
+tile.rustic.core_root.name=Raiz central
+tile.rustic.deathstalk_mushroom.name=Hongo acechamuerte
+tile.rustic.ginseng.name=Ginseng
+tile.rustic.horsetail.name=Cola de caballo
+tile.rustic.marsh_mallow.name=Malvavisco
+tile.rustic.mooncap_mushroom.name=Hongo lunar
+tile.rustic.wind_thistle.name=Cardo de viento
+tile.rustic.condenser.name=Condensador alquimico
+tile.rustic.retort.name=Retorta alquimica
+tile.rustic.condenser_advanced.name=Condensador alquimico avanzado
+tile.rustic.retort_advanced.name=Retorta alquimica avanzada
+tile.rustic.crop_stake.name=Estaca de madera
+tile.rustic.tomato_crop.name=Planta de tomate
+tile.rustic.chili_crop.name=Planta de chile
+tile.rustic.wildberry_bush.name=Arbusto de mora
+tile.rustic.rope.name=Soga
+tile.rustic.stake_tied.name=Estaca con soga
+tile.rustic.grape_stem.name=Semillas de uva
+tile.rustic.grape_leaves.name=Hojas de uva
+tile.rustic.brewing_barrel.name=Barril de fermentacion
+tile.rustic.apple_seeds.name=Semillas de manzana
+tile.rustic.sapling_apple.name=Retoño de manzano
+tile.rustic.leaves_apple.name=Hojas de manzano
+tile.rustic.lantern_wood.name=Linterna de madera
+tile.rustic:olivebranch.name=Rama de olivo
+tile.rustic:ironwoodbranch.name=Rama de argan
+tile.rustic:leaves0.name=Hojas dinamicas
+
+#Items
+item.rustic.book.name=Almanaque
+item.rustic.bee.name=Abeja
+item.rustic.honeycomb.name=Panal de abeja
+item.rustic.beeswax.name=Cera de abeja
+item.rustic.tallow.name=Sebo
+item.rustic.ironberries.name=Bayas de argan
+item.rustic.olives.name=Oliva
+item.rustic.fluid_bottle.name=Botella con %s
+item.rustic.dust_tiny_iron.name=Polvo de hierro
+item.tile.rustic.cloudsbluff.name=Nube
+item.tile.rustic.core_root.name=Raiz central
+item.tile.rustic.ginseng.name=Raiz de ginseng
+item.tile.rustic.marsh_mallow.name=Raiz de malvavisco
+item.rustic.tomato.name=Tomate
+item.rustic.tomato_seeds.name=Semillas de tomate
+item.rustic.chili_pepper.name=Chile
+item.rustic.chili_pepper_seeds.name=Semillas de chile
+item.rustic.wildberries.name=Moras
+item.rustic.grapes.name=Uvas
+item.tile.rustic.olive_door.name=Puerta de olivo
+item.tile.rustic.ironwood_door.name=Puerta de argan
+item.rustic:oliveseed.name=Pepita de olivo
+item.rustic:ironwoodseed.name=Semillas de argan
+
+#Fluids
+tile.rustic.olive_oil.name=Aceite de oliva
+fluid.oliveoil=Aceite de oliva
+tile.rustic.ironberry_juice.name=Jugo de argan
+fluid.ironberryjuice=Jugo de argan
+tile.rustic.wildberry_juice.name=Jugo de mora
+fluid.wildberryjuice=Jugo de mora
+tile.rustic.grape_juice.name=Jugo de uva
+fluid.grapejuice=Jugo de uva
+tile.rustic.apple_juice.name=Jugo de manzana
+fluid.applejuice=Jugo de manzana
+tile.rustic.ale_wort.name=Mosto de cerveza
+fluid.alewort=Mosto de cerveza
+tile.rustic.honey.name=Miel
+fluid.honey=Miel
+
+fluid.ale=Cerveza
+fluid.cider=Sidra
+fluid.ironwine=Vino de argan
+fluid.mead=Aguamiel
+fluid.wildberrywine=Vino de mora
+fluid.wine=Vino de uva
+
+#Potion Effects
+effect.ironskin=Piel blindada
+effect.feather=Pluma
+effect.blazing_trail=Rastro igneo
+effect.shame=Deshonor
+effect.full=Panza llena
+effect.magic_resistance=Res. magi
+effect.wither_ward=Prot. a Wither
+
+effect.tipsy=Embriaguez
+
+#Elixirs
+rustic.elixir.prefix=Elixir de 
+rustic.elixir.separator=, 
+
+#JEI Categories
+rustic.jei.recipe.crushing_tub=Tina de trituracion
+rustic.jei.recipe.evaporating=Cuenco de secado
+rustic.jei.recipe.simple_alchemy=Alquimia simple
+rustic.jei.recipe.advanced_alchemy=Alquimia avanzada
+rustic.jei.recipe.brewing=Barril de fermentacion
+
+#Book
+book.rustic.entry.categories=Index de Almanaque
+
+book.rustic.category.decoration=Decoracion
+book.rustic.category.agriculture=Agricultura
+book.rustic.category.production=Produccion
+
+book.rustic.label.related_entries=Temas relacionados:
+
+book.rustic.entry.pots=Jarrones
+book.rustic.entry.barrels=Barriles
+book.rustic.entry.cabinets=Gabinetes
+book.rustic.entry.rope=Soga
+book.rustic.entry.chain=Cadenas
+book.rustic.entry.candles=Candeleros
+book.rustic.entry.chandeliers=Candelabros
+book.rustic.entry.lanterns=Linternas
+book.rustic.entry.lattice=Celosia
+book.rustic.entry.tables=Mesas
+book.rustic.entry.chairs=Sillas
+book.rustic.entry.gargoyles=Gargolas
+book.rustic.entry.slate=Pizarra
+book.rustic.entry.pillars=Pilares
+book.rustic.entry.clay_walls=Adobe
+book.rustic.entry.painted_wood=Madera pintada
+
+book.rustic.entry.bees=Abejas
+book.rustic.entry.fertile_soil=Tierra fertil
+book.rustic.entry.crop_stakes=Cultivos de estaca
+book.rustic.entry.tomatoes=Tomates
+book.rustic.entry.chili_peppers=Chiles
+book.rustic.entry.wildberries=Moras
+book.rustic.entry.grapes=Uvas
+book.rustic.entry.apple_trees=Manzanos
+book.rustic.entry.olive_trees=Olivos
+book.rustic.entry.ironwood_trees=Arganes
+book.rustic.entry.herbs=Hierbas
+
+book.rustic.entry.alchemy=Alquimia
+book.rustic.entry.elixirs=Elixires
+book.rustic.entry.brewing=Fermentacion
+book.rustic.entry.alcoholic_beverages=Bebidas alcoholicas
+book.rustic.entry.crushing=Trituracion
+book.rustic.entry.drying=Secado
+
+book.rustic.text.pots=Los jarrones son una opcion de almacenamiento decorativa. Pueden contener 27 items, igual que un cofre pequeño. Los jarrones tienen diferentes diseños. Puedes elegir el diseño de un jarron sujetandolo en tu mano, agacharte y girar la rueda del raton.
+book.rustic.text.barrel_item=Los barriles son una opcion de almacenamiento decorativa. Pueden contener 27 items, igual que un cofre pequeño.
+book.rustic.text.barrel_fluid=Los barriles para liquidos pueden contener hasta 16 cubetas de liquido, y mantendran su contenido cuando los destruyes. Cuando estan bajo la lluvia, recolectaran agua lentamente.
+book.rustic.text.cabinets=Los gabinetes son una alternativa mas bonita a los cofres. Pueden orientarse en las 4 direcciones, incluyendo espejo. Poner un gabinete arriba de un gabinete simple los conectara para formar un gabinete doble, siempre y cuando tengan la misma orientacion. En cuanto a almacenamiento, es el mismo de un cofre (en su forma simple y doble). Solo pueden abrirse por el frente.
+book.rustic.text.rope=La soga puede usarse como reemplazo de la escalera, como decoracion y para sostener viñedos. Pueden colocarse horizontalmente sobre bloques solidos o verticalmente, colgando de un bloque, estaca u otra soga. Puedes conectar varias sogas apuntando a su punta, segun su direccion. Soltar sogas con un dispensador hace lo mismo si lo apuntas a la soga ya colocada.
+book.rustic.text.rope_1=La soga tambien puede atarse a las estacas con cultivo. Las estacas con cultivo cuentan como bloques solidos para sostener una soga. Disparar una flecha a una soga rompera la soga.
+book.rustic.text.chain=Las cadenas pueden usarse en lugar de una escalera o para decoracion. Pueden colocarse horizontalmente sobre bloques solidos o verticalmente, colgando de un bloque solido y otra cadena. Puedes conectar varias cadenas apuntando a su punta, segun su direccion.
+book.rustic.text.candles=Los candeleros son fuentes de luz decorativas. Pueden colocarse a los lados o arriba de bloques solidos, igual que las antorchas. Se ven particularmente bien si las colocas en un candelabro.
+book.rustic.text.chandeliers=Los candelabros son bloques utiles para decoracion. Igual que las antorchas, puede colocarse a los lados de un bloque. Se caera si no esta conectado a una soga, cadena o bloque solido arriba, y un candelabro que cae hara daño como un yunque.
+book.rustic.text.lanterns=Las linternas emiten luz, haciendolas una alternativa mas estilizada a las antorchas. Pueden colocarse en cualquier cara de un bloque.
+book.rustic.text.lattice=La celosia es un bloque decorativo. Se conectara con celosias, bloques solidos y cadenas adyacentes. Usar hojas en un bloque de celosia lo decorara con esas hojas.
+book.rustic.text.tables=Las mesas son bloques decorativos. Tienen variantes segun la madera que usaste para su fabricacion. Se conectan a otras mesas, haciendo que solo las orillas tengan patas.
+book.rustic.text.chairs=Las sillas son bloques decorativos. Tienen variantes segun la madera que usaste para su fabricacion. Puedes dar clic derecho a una silla para sentarte. Agachate para levantarte de la silla.
+book.rustic.text.gargoyles=Las gargolas son estatuas de monstruos. Pueden orientarse en cualquiera de las cuatro direcciones.
+book.rustic.text.slate=La pizarra es una variante de piedra y se genera naturalmente en el mundo. Puede usarse para fabricar varios bloques de construccion.
+book.rustic.text.slate_alt_nether=La pizarra es una variante de piedra y se genera naturalmente en el Nether. Puede usarse para fabricar varios bloques de construccion.
+book.rustic.text.pillars=Los pilares de piedra pueden fabricarse de varios tipos de piedra, y pueden colocarse en tres diferentes orientaciones.
+book.rustic.text.clay_walls=El adobe es un bloque que se fabrica con arcilla y madera, funciona como un material atractivo de construccion. Hay tres bloques de este, con diferentes diseños.
+book.rustic.text.painted_wood=La madera puede pintarse de 16 diferentes colores para darle mas sabor a tus construcciones.
+
+book.rustic.text.bees=Las abejas no se generan naturalmente en RLCraft. Fueron reemplazadas por avispas. Tampoco podras encontrar colmenas de abejas, fueron reemplazados por colmenas de avispas.
+book.rustic.text.apiaries=Los apiarios no existen en RLCraft.
+book.rustic.text.honeycomb=Los panales de abeja en RLCraft necesitas fabricarlos con cera de avispa y una cubeta con miel. Sirve como ingrediente para alquimia. Para obtener cera de abeja, debes hornear cera de avispa. Con la cera de abeja puedes fabricar candeleros.
+book.rustic.text.honey=La miel se genera naturalmente en las colmenas de avispas. Puedes beberla de una botella o fermentarla para obtener aguamiel, la cual te da Revitalizacion.
+book.rustic.text.fertile_soil=La tierra fertil actua como la tierra arada de Vanilla, pero no necesita agua para mantenerse hidratada, no pierde su estado cuando brincas sobre ella y las cañas de azucar pueden crecer sobre ella sin necesidad de tener agua al lado.
+book.rustic.text.crop_stakes=Las estacas con cultivo son palos de madera usados para sostener el crecimiento de los cultivos altos, como los chiles y tomates. Se le puede atar una soga en la parte superior del cultivo.
+book.rustic.text.tomatoes=Los tomates son el fruto de la tomatera, la cual crece alrededor de una estaca. Las semillas de tomate pueden sembrarse dando clic derecho a una estaca que esta clavada a una tierra arada o fertil. Las semillas entonces creceran tallos que eventualmente daran tomates.
+book.rustic.text.tomatoes_1=Los tallos de tomate se enredan alrededor de una estaca y pueden crecer hasta tres bloques de alto. Puedes recolectar tomates dando clic derecho a la tomatera madura o rompiendola. No se recomienda romper el tallo, porque tendra que volver a crecer. Puedes comer o lanzar (agacharte y clic derecho) los tomates, aplicando Deshonor.
+book.rustic.text.chili_peppers=Los chiles son el fruto de la planta de chile, la cual crece alrededor de una estaca. Las semillas de chile pueden sembrarse dando clic derecho a una estaca que esta clavada a una tierra arada o fertil. Las semillas entonces creceran tallos que eventualmente daran chiles.
+book.rustic.text.chili_peppers_1=Los chiles pueden cosecharse dando clic derecho a la planta de chile madura o rompiendola. Puedes comerte los chiles, pero te incendiaran por su picor. Sin embargo, tambien te dara Velocidad. Tambien es ingrediente de alquima.
+book.rustic.text.wildberries=Las moras crecen en los arbustos de mora. Los arbustos de mora se generan naturalmente por el mundo en climas calidos, pero no secos. Da clic a un arbusto para obtener moras. Romper el arbusto tambien funciona, pero tendras que volver a plantarlo.
+book.rustic.text.wildberries_1=Los arbustos de mora se esparcen naturalmente en RLCraft. Las moras se comen mas rapido que otras comidas, aunque no llenan mucho.
+book.rustic.text.wildberry_juice=Puedes triturar las moras en una tina de trituracion para obtener su jugo. Cuando lo bebes, rellenas un poco de hambre, saturacion y sed. Tambien puedes fermentarlo para obtener vino de mora, el cual potencializa tus efectos positivos.
+book.rustic.text.grapes=Las uvas crecen de los viñedos, los cuales crecen al sembrar semillas de uva en tierra arada y fertil. Pon uvas en la mesa de crafteo para obtener sus semillas. Una vez sembradas, creceran sobre sogas que esten sobre ellas, formando viñedos.
+book.rustic.text.grapes_1=Las uvas pueden cosecharse dando clic derecho a los viñedos. Es mejor no romper los viñedos porque tendras que volver a esperar a que crezcan. Las uvas pueden comerse mas rapido que otras comidas.
+book.rustic.text.grape_juice=Puedes triturar uvas en una tina de trituracion para obtener su jugo. Puedes beberlo o fermentarlo en vino de uva, el cual extiende la duracion de tus efectos positivos.
+book.rustic.text.apple_trees=Los manzanos crecen de retoños de manzano o pepitas de manzana. Las pepitas de manzana se obtienen aplastando manzanas en una tina de trituracion. Los manzanos producen madera de roble, pero los manzanos producen manzanas mas rapido que los robles. Las hojas de manzano desarrollan manzanas lentamente que puedes ver colgando.
+book.rustic.text.apple_trees_1=Las manzanas pueden obtenerse dando clic derecho sobre ellas cuando estan maduras.
+book.rustic.text.apple_juice=Puedes triturar manzanas en una tina de trituracion para obtener su jugo. Puedes beberlo o fermentarlo en sidra, la cual te da Escudo magico.
+book.rustic.text.olive_trees=Los olivos crecen naturalmente en el mundo en bosques, planicies, montañas, pero no en biomas donde puede nevar. Sus troncos pueden cortarse en madera, la cual sirve para fabricar variantes de madera de varios bloques. Las hojas de olivo tiran oliva y pepitas de oliva. Las olivas sin procesar no deben consumirse, ya que contienen toxinas.
+book.rustic.text.olive_oil=Puedes triturar olivas en una tina de trituracion para obtener aceite de oliva. Toda la comida sabe mucho mejor con aceite de oliva. Puedes poner ambos en la mesa de crafteo para aplicarlo y aumentara mucho su saturacion.
+book.rustic.text.ironwood_trees=Los arboles de argan crecen naturalmente en los bosques, planicies, montañas, pantanos y junglas. No crecen naturalmente en biomas secos. Sus troncos pueden cortarse en madera, la cual sirve para fabricar variantes de madera de varios bloques. Las hojas de argan tiran semillas y bayas de argan.
+book.rustic.text.ironberry_juice=Puedes triturar bayas de argan en una tina de trituracion para obtener su jugo. Beberlo te dara Paralisis, Res. al fuego, Resistencia, Lentitud, Fatiga minera y Debilidad. Por eso es mejor fermentarlo en vino de argan, el cual te da Absorcion.
+book.rustic.text.iron_dust=Puedes poner a secar el jugo de argan en un cuenco de secado para obtener polvo de hierro. Este polvo puede hornearse en pepitas de hierro.
+book.rustic.text.herbs=Las hierbas se generan naturalmente en el Overworld y el Nether en una variedad de climas. Algunas hierbas son comestibles y todas pueden usarse como ingredientes o modificadores para alquimia. Una vez recolectadas, puedes replantarlas y farmearlas.
+book.rustic.text.aloe=El aloe vera se genera naturalmente en biomas arenosos, de sabana y de meseta.
+book.rustic.text.blood_orchid=Las orquidea de sangre se genera en los biomas de jungla.
+book.rustic.text.chamomile=La manzanilla se genera en biomas de planicie, bosque y pantano.
+book.rustic.text.cloudsbluff=La flor de nube se genera en biomas de montaña. Da Levitacion al comerla.
+book.rustic.text.cohosh=El cohosh se genera en biomas de bosque.
+book.rustic.text.core_root=La raiz central se genera en cuevas y es comestible.
+book.rustic.text.deathstalk=Los hongos acechamuerte se generan en el Nether.
+book.rustic.text.ginseng=El ginseng se genera en los biomas de planicie y bosque.
+book.rustic.text.horsetail=La cola de caballo se genera en biomas de jungla, pantano, planicie y bosque.
+book.rustic.text.marsh_mallow=El malvavisco se generan en biomas de jungla y pantano.
+book.rustic.text.mooncap=Los hongos lunares se generan en biomas de jungla y cuevas.
+book.rustic.text.wind_thistle=Los cardos de viento se generan en biomas de montaña y planicie.
+
+book.rustic.text.elixirs=Los elixires son brebajes destilados en condensadores alquimicos. Su naturaleza es similar a la de las pociones, pero pueden stackearse en grupos de dieciseis, no pueden aplicarse a flechas, ni hacerse arrojadizos ni persistentes.
+book.rustic.text.alchemy=La alquimia es el proceso de destilar elixires. La alquimia se realiza en condensadores, los cuales requieren tener retortes conectados a ellos. Crear elixires requiere agua, ingredientes y (opcionalmente) modificadores, asi como combustible para operar el condensador. Cualquier combustible para horno funciona.
+book.rustic.text.alchemy_basic=Un condensador basico sirve para hacer elixires basicos con dos o menos ingredientes. Para operarlo, necesitas conectarle retortes basicos, uno a la izquierda y otro a la derecha, relativo a la cara frontal. Los retortes deben voltear al condensador, para que sus tubos se conecten al condensador. Los condensadores tienen un tanque interno, el cual se llena o vacia cuando tienes una cubeta en la mano.
+book.rustic.text.alchemy_basic_1=Agachate y da clic derecho con la mano vacia a un condensador para vaciar su tanque por completo, destruyendo todo liquido almacenado. El liquido en el tanque puede verse en su interfase. Los dos espacios a la izquierda son para los ingredientes, no importa el orden en que los coloques. El espacio en la parte de arriba a la derecha es para botellas vacias, y el espacio debajo de el es para el resultado.
+book.rustic.text.alchemy_basic_2=El espacio en la parte inferior central es para el combustible. Si estas usando un condensador basico, se recomienda fabricar uno avanzado lo antes posible.
+book.rustic.text.alchemy_advanced=Los condensadores avanzados se parecen a su contraparte basica, pero tienen varias diferencias clave. Primero, en lugar de usar dos retortes basicos, requieren tres retortes avanzados para funcionar. Los retortes avanzados deben conectarse a la parte inferior del condensador avanzado, a su lado izquierdo, derecho y trasero, relativo a la cara frontal.
+book.rustic.text.alchemy_advanced_1=Los condensadores avanzados pueden destilar elixires con hasta tres ingredientes, junto con un modificador. Los modificadores son opcionales en las recetas, y cambian la duracion o potencia del elixir resultante. Los modificadores se colocan en el espacio superior a la mitad de la interfase, justo arriba del espacio del combustible. La interfase tambien agrega una tercer espacio para ingredientes, a la izquierda.
+book.rustic.text.alchemy_advanced_2=Finalmente, los condensadores avanzados son un poco mas rapidos que los basicos. Cualquier elixir que se pueda destilar en un condensador basico, tambien se puede destilar en uno avanzado.
+book.rustic.text.alcoholic_beverages=Las bebidas alcoholicas pueden obtenerse fermentando fluidos en un barril de fermentacion. Estas bebidas te otorgan efectos agradables o desastrozos segun su calidad. Todos los alcoholes tienen una calidad entre 0 y 1. Deben tener una calidad de al menos 0.5 para otorgarte un efecto positivo, pero si bebes un alcohol con calidad menor a 0.5 te hara daño.
+book.rustic.text.alcoholic_beverages_1=La fuerza o duracion de los efectos que te da, aumentaran entre mas cerca este su calidad de 0 o de 1. Si obtienes un alcohol con calidad menor a 0.5, es mejor que lo tires. Es mas conveniente poner esa botella de alcohol en la mesa de crafteo para vaciarla y asi poder reutilizarla.
+book.rustic.text.alcoholic_beverages_2=Todos los alcoholes te pueden embriagar, pero entre mayor sea su calidad, la probabilidad de embriagarte sera menor. La embriaguez es un efecto negativo que no se cura bebiendo leche, pero el cafe te bajara la embriaguez. Seguir bebiendo alcohol estando ebrio hara que su duracion y severidad aumenten. Embriaguez I y II no te haran nada. Embriaguez III te aplicara Lentitud I y Nauseas I. Embriaguez IV te aplicara Lentitud II, Nauseas II y Ceguera I.
+book.rustic.text.ale=La cerveza es una bebida muy saturadora que te aplica Inmunizacion, efecto que te vuelve inmune a Veneno, Hambre, Nauseas, Debilidad y Paralisis.
+book.rustic.text.ale_wort=La cerveza se obtiene fermentando mosto de cerveza, el cual se fabrica con una cubeta de agua, pan y azucar en una mesa de crafteo.
+book.rustic.text.cider=La sidra aplica Escudo magico, el cual reduce el daño que recibes por ataques magicos, incluyendo Veneno.
+book.rustic.text.iron_wine=El vino de argan aplica Absorcion, lo cual te agrega corazones amarillos sin limite de tiempo, hasta un maximo de diez corazones.
+book.rustic.text.mead=El aguamiel aplica Revitalizacion, lo cual aumenta la salud que recibes por items, comidas, encantamientos y efectos curativos.
+book.rustic.text.wildberry_wine=El vino de mora aumenta el nivel de todos tus efectos positivos, hasta un maximo de nivel III.
+book.rustic.text.wine=El vino de uva extiende la duracion de todos tus efectos positivos, hasta un maximo de 5 minutos.
+book.rustic.text.brewing=La fermentacion es el proceso de fermentar fluidos para obtener alcohol, y se realiza en un barril de fermentacion. El proceso de fermentacion consta de tres elementos: la entrada (jugo), la salida (alcohol) y opcionalmente, el alcohol base. El alcohol base solo se puede colocar si es del mismo tipo que el jugo. La interfase del barril de fermentacion contiene tres tanques de liquido, asi como espacios en las partes de arriba y abajo de cada tanque.
+book.rustic.text.brewing_1=Los espacios arriba de los tanques son sus entradas. Si colocas botellas llenas, el tanque se llenara. Si colocas botellas vacias, el tanque se vaciara. Los espacios abajo de los tanques son sus salidas. Las botellas vacias que colocaste arriba se llenaran con el liquido del tanque y apareceran en el espacio de abajo. El tanque de en medio es para el jugo de entrada, el tanque de la derecha es el resultado fermentado.
+book.rustic.text.brewing_2=El tanque de la izquierda es para el alcohol base.
+book.rustic.text.brewing_3=El proceso de fermentacion tarda medio dia (10 minutos), y comenzara en cuanto introduzcas un jugo valido en el tanque de entrada. Si el tanque de alcohol base esta vacio, el alcohol resultante se producira con una calidad entre 0.05 y 0.75.
+book.rustic.text.brewing_4=Fermentar teniendo alcohol base en el tanque de la izquierda reducira mucho el rango de aleatoriedad, y asegurara que la calidad del resultado sea cercana a la base, en un rango desde -0.01 hasta +0.04 de la calidad de la base. Por ejemplo, colocar miel en el tanque de entrada y aguamiel base con calidad 0.7 producira aguamiel con una calidad entre 0.69 y 0.74.
+book.rustic.text.brewing_5=El fluido en el tanque base no se consumira en el proceso de fermentacion.
+book.rustic.text.brewing_6=La mejor manera de fermentar es primero generar un alcohol con una calidad alrededor de 0.5, aunque mas alta es mejor. Cuando consigas un buen alcohol, usalo como base para la siguiente ronda. Si el resultante tiene una calidad mayor a la base, usalo como nueva base para una siguiente ronda. Repite el proceso hasta conseguir la calidad deseada.
+book.rustic.text.crushing=La tina de trituracion se usa para triturar solidos en liquidos. Puede contener hasta 32 items. Para usar una tina de trituracion, colocala en el piso y coloca items dando clic derecho con ellos en tu mano. Toma items de vuelta dando clic derecho con la mano vacia. Ya teniendo items validos dentro, brinca sobre la tina para triturarlos y obtener su jugo, un brinco por item.
+book.rustic.text.crushing_1=Si la tina esta demasiado llena de fluido, no seguira extrayendo fluido. De ser necesario, puedes vaciar la tina agachandote y dando clic derecho con la mano vacia. Algunas recetas como las cañas de azucar produciran agua y azucar. En ese caso el azucar aparecera sobre la tina, mientras el agua estara dentro de ella.
+book.rustic.text.drying=El cuenco de secado se usa para extraer items de los fluidos, mediante evaporacion. Puede contener hasta seis botellas de fluido. Para usar el cuenco de evaporacion, colocalo en el piso. Despues, vacia botellas como de jugo de argan dando clic derecho con ellas en la mano. Remueve el fluido dando clic derecho con tu mano vacia, o agachandote y clic derecho con la mano vacia, lo que destruira cualqueir fluido en el cuenco.
+book.rustic.text.drying_1=La evaporacion ocurre sola con el paso del tiempo. El fluido en el cuenco se evapora con la velocidad de 1/50 de una cubeta por segundo (una cubeta en menos de un minuto). Una vez que suficiente fluido se ha evaporado para formar una receta valida, el resultado aparecera en el cuenco, si hay espacio para el en el inventario del cuenco. Puedes tomar los items del cuenco dando clic derecho con la mano vacia.
+
+# Added by KameiB. From Shiv.zs
+item.rustic.chili_pepper_seeds.addedtooltip.1=Estaciones fertiles:
+item.rustic.chili_pepper_seeds.addedtooltip.2= Verano
+item.rustic.tomato_seeds.addedtooltip.1=Estaciones fertiles:
+item.rustic.tomato_seeds.addedtooltip.2= Verano
+item.rustic.tomato_seeds.addedtooltip.3= Otoño
+
+# Added by KameiB. Useful Descriptions for wines
+item.rustic.ale.addedtooltip.1=Da Inmunizacion
+item.rustic.ale.addedtooltip.2=Al aplicarse:
+item.rustic.ale.addedtooltip.3=Inmunidad a Veneno, Hambre, Nauseas, Debilidad y Paralisis
+
+item.rustic.cider.addedtooltip.1=Da Escudo magico
+item.rustic.cider.addedtooltip.2=Al aplicarse:
+item.rustic.cider.addedtooltip.3=Escudo magico: +4
+
+item.rustic.ironwine.addedtooltip.1=Da Absorcion
+item.rustic.ironwine.addedtooltip.2=Al aplicarse:
+item.rustic.ironwine.addedtooltip.3=Corazones amarillos adicionales
+
+item.rustic.mead.addedtooltip.1=Da Revitalizacion
+item.rustic.mead.addedtooltip.2=Al aplicarse:
+item.rustic.mead.addedtooltip.3=Aumenta la salud recibida
+
+item.rustic.wine.addedtooltip.1=Extiende los efectos de pocion positivos
+
+item.rustic.wildberrywine.addedtooltip.1=Potencializa los efectos de pocion positivos
+
+item.rustic.boozerating.addedtooltip.0=DAÑINO
+item.rustic.boozerating.addedtooltip.1=PROMEDIO
+item.rustic.boozerating.addedtooltip.2=Romantico
+item.rustic.boozerating.addedtooltip.3=BUENO
+item.rustic.boozerating.addedtooltip.4=PERFECTO
+
+item.rustic.olive_oil.addedtooltip.1=Craftealo con una comida para aumentar su valor nutricional y saturacion
+item.rustic.olive_oil.addedtooltip.2=Al beberse:
+item.rustic.olive_oil.addedtooltip.3=Nauseas II (0:30)
+
+item.rustic.ironberry_juice.addedtooltip.1=Jugo tan potente que lastima!
+item.rustic.ironberry_juice.addedtooltip.2=Al beberse:
+item.rustic.ironberry_juice.addedtooltip.3=Paralisis (0:30)
+item.rustic.ironberry_juice.addedtooltip.4=Resis. al fuego (0:30)
+item.rustic.ironberry_juice.addedtooltip.5=Resistencia (0:30)
+item.rustic.ironberry_juice.addedtooltip.6=Lentitud (0:30)
+item.rustic.ironberry_juice.addedtooltip.7=Fatiga minera (0:30)
+item.rustic.ironberry_juice.addedtooltip.8=Debilidad (0:30)
+
+item.rustic.ale_wort.addedtooltip.1=Podria hacer una buena Cerveza con esto
+item.rustic.ale_wort.addedtooltip.2=Al beberse:
+item.rustic.ale_wort.addedtooltip.3=Nauseas II (0:20)
+
+tooltip.holdshift=<Shift> para Kame Vision
+
+tile.rustic:ironwoodbranchx.name=Rama de argan

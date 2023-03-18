@@ -1,0 +1,26 @@
+## Translation revised by KameiB. Feb/2023
+commands.sereneseasons.usage=/sereneseasons <setseason> [args]
+commands.sereneseasons.setseason.success=Estacion establecida a %s
+commands.sereneseasons.setseason.fail=Estacion invalida %s
+commands.sereneseasons.setseason.disabled=Las estaciones se encuentran deshabilitadas!
+
+itemGroup.tabSereneSeasons=Serene Seasons
+
+tile.greenhouse_glass.name=Vidrio de invernadero
+tile.season_sensor_spring.name=Sensor de estaciones (Primavera)
+tile.season_sensor_summer.name=Sensor de estaciones (Verano)
+tile.season_sensor_autumn.name=Sensor de estaciones (Otoño)
+tile.season_sensor_winter.name=Sensor de estaciones (Invierno)
+item.ss_icon.name=Icono de SS
+
+item.season_clock.name=Reloj de estaciones
+
+# Added by KameiB. Custom tooltips from Shiv.zs
+tile.greenhouse_glass.addedtooltip.1=Permite que los cultivos que esten hasta 7 bloques debajo de este cristal, crezcan en cualquier estacion
+
+desc.sereneseasons.fertile_seasons=Estaciones fertiles:
+desc.sereneseasons.year_round= Todo el año
+desc.sereneseasons.spring= Primavera
+desc.sereneseasons.summer= Verano
+desc.sereneseasons.autumn= Otoño
+desc.sereneseasons.winter= Invierno

@@ -1,0 +1,30 @@
+## Translated by KameiB for RLCraft 2.9.2
+commands.parameters.missing=Falta el parametro requerido: %s
+commands.parameters.missing.argument=Al parametro le falta un argumento: %s
+commands.parameters.invalid.generic=Argumento invalido para el parametro: %s
+commands.parameters.unknown=Parametro desconocido: %s
+commands.parameters.toomany.ordered=Demasiados parametros
+commands.parameters.toomany.named=Demasiados parametros: %s
+
+commands.parameters.block=bloque
+commands.parameters.item=item
+
+commands.parameters.dimension=dimension
+commands.parameters.dimension.invalid=No existe dicha dimension
+
+commands.parameters.biome=bioma
+commands.parameters.biome.invalid=No existe dicho bioma
+
+commands.parameters.biometype=tipo de bioma
+commands.parameters.biometype.invalid=No existe dicho tipo de bioma
+
+commands.parameters.command=comando
+
+commands.parameters.entity=entidad
+commands.parameters.player=jugador
+
+commands.parameters.rotation=rotacion
+
+commands.parameters.x=x
+commands.parameters.y=y
+commands.parameters.z=z

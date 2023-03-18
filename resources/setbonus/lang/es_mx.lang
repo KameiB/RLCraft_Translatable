@@ -1,0 +1,43 @@
+## Translated by KameiB for RLCraft 2.9.2
+setbonus.cmd.reloaded=Se recargo la configuracion de servidor desde el archivo (los botones "resetear a predeterminado" para SB podrian verse raros hasta que reinicies Minecraft)
+
+setbonus.tooltip.pressDetailKey=Presiona el la tecla SetBonus GUI para mas detalles
+
+setbonus.keyCategory=Set Bonus
+setbonus.key.bonusScreen=Abrir pantalla Bonus
+
+setbonus.error.equipArgCount=Cantidad incorrecta de argumentos para el equipo: %s
+setbonus.error.noEquipID=No se especifico un ID para el equipo: %s
+setbonus.error.notEnoughSetArgs=Argumentos insuficientes para el set: %s
+setbonus.error.noSetID=No se especifico un ID para el set: %s
+setbonus.error.noSetReqs=No se encontraron requisitos para el set: %s
+setbonus.error.notEnoughBonusArgs=Argumentos insuficientes para el bonus: %s
+setbonus.error.noBonusID=No se especifico un ID para el bonus: %s
+setbonus.error.bonusDiscoveryMode=El tercer agumento debe ser un numero desde 0 hasta 2: %s
+setbonus.error.malformedSetReq=Requisito de set es incorrecto para el bonus: %s
+setbonus.error.unknownBonusReq=Requisito para bonus no reconocido: %s
+setbonus.error.notEnoughAttribBonusArgs=Argumentos insuficientes para el bonus de atributo: %s
+setbonus.error.attribBonusIDNotFound=No se encontro un ID de bonus (%s) para el bonus modificador de atributo: %s
+setbonus.error.notEnoughPotionBonusArgs=Argumentos insuficientes para el bonus de pocion: %s
+setbonus.error.potionBonusIDNotFound=ID de bonus no encontrado (%s) para el bonus de pocion: %s
+
+setbonus.error.wrongSlotArgCount=Cantidad incorrecta de argumentos para la definicion del espacio/equipo: %s
+setbonus.error.unknownSlot=Espacio desconocido (%s) en la definicion de espacio/equipo: %s
+setbonus.error.slotBadEquipID=ID de equipo no encontrado (%s) en la definicion de lugar/equipo: %s
+
+setbonus.config.clientSettings=Cliente
+setbonus.config.serverSettings=Servidor
+
+setbonus.config.enableTooltips=Habilitar descripciones
+setbonus.config.enableTooltips.tooltip=FIXNEWLINES FILLSCREEN Mostrar o no informacion de bonus en la descripcion de del item descubierto\n \n
+
+setbonus.config.equipment=Equipo
+setbonus.config.equipment.tooltip=FIXNEWLINES FILLSCREEN Cada item que quieras incluir en un set necesita primero ser definido aqui\n\nEl orden es...\nID de equipo, domain:item:meta > nbtkey1 = nbtvalue1 & nbtkey2 = nbtvalue2...\nEl ID de equipo debe ser unico, y solo se usa para referirse al item en la configuracion de set de equipo\n\neg...\n\nSSword, stone_sword\nDSword, diamond_sword\n\nDDagger, backstab:diamond_dagger\n\nTetraSickleSingle, tetra:duplex_tool_modular > duplex/sickle_left_material & duplex/butt_right_material\n\nWirtsLeggings, diamond_leggings > display:Name = \"Wirt's Leggings\" & ench: = minecraft:protection ; lvl:4s\n \n
+setbonus.config.sets=Sets
+setbonus.config.sets.tooltip=FIXNEWLINES FILLSCREEN Cada set de equipo esta definido aqui\nCada ID de equipo debe primero estar definido en la Lista de equipos\n\nEl orden es...\nSet id, set name, slot | slot = equip id | equip id, slot | slot = equip id | equip id, etc.\n\n- Espacios Vanilla: mainhand, offhand, head, chest, legs, feet, hotbar, inventory\n- Espacios de Baubles: bauble_amulet, bauble_ring, bauble_belt, bauble_head, bauble_body, bauble_charm, bauble_trinket\n- Tambien puedes referirte a los espacios por su numero, ej. el espacio superior izquierdo en el inventario es 9\n\neg...\n\nSnD, Sword and Dagger, mainhand | offhand = WSword | SSword | ISword | GSword | DSword, mainhand | offhand = WDagger | SDagger | IDagger | GDagger | DDagger\n\nDArmor, Diamond Armor, head = DHelm, chest = DChest, legs = DLegs, feet = DBoots\n \n
+setbonus.config.bonuses=Bonuses
+setbonus.config.bonuses.tooltip=FIXNEWLINES FILLSCREEN Cada bonus es definido aqui\n\nEl orden es...\nBonus id, bonus name, discovery mode, requirement, requirement, requirement, etc.\n\nEl modo de descubrimiento es un numero:\n0 = oculto hasta que el jugador ha activado el bonus al menos una vez\n1 = siempre visible\n2 = siempre oculto\n\nCada requisito es uno de los sig:\nUn set; solo pon el ID de set.  Para un set parcial, agrega un punto y el numero de items del set requerido\nun atributo total; pon el numero de atributo, seguido de un signo y un numero, ej.\ngeneric.armor > 7\n\neg...\n\nDualWieldSnD, Dual Wield, 0, SnD, generic.armor <= 5\n \n
+setbonus.config.attributeModifiers=Modificadores de atributo
+setbonus.config.attributeModifiers.tooltip=FIXNEWLINES FILLSCREEN Modificadores de atributo que recibes como parte del bonus\n\nEl orden es...\nID de bonus, attribute = amount @ operation, attribute = amount @ operation, etc.\n\neg...\n\nEsto hace que el bonus de Doble empuñadura del ejemplo te de un bonus de ataque de 50%%\nDualWieldSnD, generic.attackDamage = 0.5 @ 1\n \n
+setbonus.config.potionEffects=Efectos de pocion
+setbonus.config.potionEffects.tooltip=FIXNEWLINES FILLSCREEN Efectos de pocion constantes que recibiras como parte del bonus\n\nEl orden es...\nBonus id, potion.level, potion.level, etc.\n\nej...\n\nEsto hace que el bonus de Doble empuñadura del ejemplo te de Prisa minera II\nDualWieldSnD, haste.2\n\nY esto hace lo mismo, pero el efecto de pocion solo se activara por 5 segundos, cada 10 segundos (5 on, 5 off, repite)\nDualWieldSnD, haste.2.100.200\n \n
