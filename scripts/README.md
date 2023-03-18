@@ -7,3 +7,6 @@
 
 ### CustomNamesTooltips2.zs
 - Charm cakes: Replaced hardcoded names with translatable ones.
+
+### UsefulTooltips.zs
+- OPTIONAL. Extra useful tooltips for various items.
