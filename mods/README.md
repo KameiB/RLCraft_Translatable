@@ -2,7 +2,7 @@
 ### [Fishing Made Better](https://github.com/KameiB/fishing-made-better)
 - All texts became translatable
   - Fishes names and descriptions
-  - Fishes tooltips
+  - Fishes tooltips (found a way to use a Client-side tooltip function)
   - Fish fillet
   - Fish Bucket and Bait Bucket
   - Fish tracker, Bait Box texts
