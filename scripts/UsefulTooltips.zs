@@ -5,9 +5,7 @@ import crafttweaker.item.ITooltipFunction;
 #priority 0
 
 print("Kame Vision Script starting!");
-
-
-// === Advanced Fishing ===
+// Just for personal use. I thought it'd be nice to have extra info on some items.
 
 
 // === Artifacts ===
@@ -95,13 +93,6 @@ game.setLocalization("en_us", "tooltip.kamevision.shift", "<Shift> for Kame Visi
     format.white(game.localize("item.artifacts.lucky_clover.addedtooltip.1", "en_us"))
     , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
 );
-
-
-// === Better Nether ===
-
-
-// === Bountiful Baubles ===
-//<bountifulbaubles:trinketmagiclenses>.removeTooltip("When on Head:");
 
 
 // === Charm ===
@@ -292,31 +283,8 @@ game.setLocalization("en_us", "tile.equipmentforge_lesser.addedtooltip.1", "Firs
 );
 
 
-// === Minecraft ===
-
-
-// === No Tree Punching ===
-
-
-// === Quark ===
-
-
-// === RLMixins ===
-
-
 // === Rustic ===
-
-
 // *** Try to color depending on Quality ***
-//game.setLocalization("en_us", "tooltip.rustic.quality", "Quality: ");
-//<rustic:fluid_bottle>.withTag({Fluid: {FluidName: "ale", Amount: 1000, Tag: {Quality: 0.75 as float}}})
-//<rustic:fluid_bottle>.tag.Fluid.Tag.Quality
-/*
-<rustic:fluid_bottle>.withTag({Fluid: {Tag:{Quality: fQ}}}).addTooltip(format.darkRed("HARMFUL")); // 0.00 - 0.49
-<rustic:fluid_bottle>.withTag({Fluid: {Tag:{Quality: fQ}}}).addTooltip(format.gold("REGULAR")); // 0.50 - 0.75
-<rustic:fluid_bottle>.withTag({Fluid: {Tag:{Quality: fQ}}}).addTooltip(format.green("GOOD")); // 0.76 - 0.98
-<rustic:fluid_bottle>.withTag({Fluid: {Tag:{Quality: 1.0}}}).addTooltip(format.darkGreen("PERFECT")); // 0.99 - 1.00
-*/
 game.setLocalization("en_us", "item.rustic.boozerating.addedtooltip.0", "HARMFUL");
 game.setLocalization("en_us", "item.rustic.boozerating.addedtooltip.1", "AVERAGE");
 game.setLocalization("en_us", "item.rustic.boozerating.addedtooltip.2", "Romantic");
@@ -427,7 +395,7 @@ game.setLocalization("en_us", "item.rustic.boozerating.addedtooltip.4", "PERFECT
 <rustic:fluid_bottle>.withTag({Fluid: {Tag:{Quality: 0.99}}}).addTooltip(format.darkGreen(game.localize("item.rustic.boozerating.addedtooltip.4", "en_us"))); // 0.99 - 1.00
 <rustic:fluid_bottle>.withTag({Fluid: {Tag:{Quality: 1.0}}}).addTooltip(format.darkGreen(game.localize("item.rustic.boozerating.addedtooltip.4", "en_us"))); // 0.99 - 1.00
 
-
+// Bottle of Ale
 game.setLocalization("en_us", "item.rustic.ale.addedtooltip.1", "Grants Immunization");
 <rustic:fluid_bottle>.withTag({Fluid: {FluidName:"ale"}}).addTooltip(format.blue(game.localize("item.rustic.ale.addedtooltip.1", "en_us")));
 game.setLocalization("en_us", "item.rustic.ale.addedtooltip.2", "When Applied:");
@@ -519,7 +487,6 @@ game.setLocalization("en_us", "item.rustic.ale_wort.addedtooltip.3", "Nausea II 
 );
 
 
-
 // === Potion Fingers ===
 // Potion Ring of Speed
 game.setLocalization("en_us", "item.potionfingers.speed.addedtooltip.1", "Grants Speed");
@@ -607,16 +574,6 @@ game.setLocalization("en_us", "item.potionfingers.magic_focus.addedtooltip.2", "
 <potionfingers:ring:1>.withTag({effect: "potioncore:magic_focus"}).addTooltip(format.darkPurple(game.localize("item.potionfingers.magic_focus.addedtooltip.2", "en_us")));
 game.setLocalization("en_us", "item.potionfingers.magic_focus.addedtooltip.3", "+75% Magic Damage");
 <potionfingers:ring:1>.withTag({effect: "potioncore:magic_focus"}).addTooltip(format.blue(game.localize("item.potionfingers.magic_focus.addedtooltip.3", "en_us")));
-
-
-// === Serene Seasons ===
-
-
-// === Simpled Difficulty ===
-
-
-// === Varied Commodities ===
-
 
 
 print("Kame Vision Script ending!");
