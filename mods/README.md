@@ -1,11 +1,11 @@
 # Translatable forks
 ### [Fishing Made Better](https://github.com/KameiB/fishing-made-better)
 - All texts became translatable
-  - Fishes names
-  - Fishes descriptions
+  - Fishes names and descriptions
+  - Fishes tooltips
   - Fish fillet
-  - Fish Bucket
-  - Fish tracker texts
+  - Fish Bucket and Bait Bucket
+  - Fish tracker, Bait Box texts
 - I built on top of fonnymunkey's corrections and tested on old worlds with existing fishes, working properly.
 - Tested on a remote server.
 - Any corrections are welcome so it can be Pulled to the owner's project.
