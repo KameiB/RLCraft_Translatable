@@ -2,4 +2,4 @@
 
 Lines 613 to 620.
 
-Replaced oreDictionary entries with Block Ids, to make them translatable.
+Replaced oreDictionary entries with Block Ids, so they become translatable.
