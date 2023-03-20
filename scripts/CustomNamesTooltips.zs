@@ -147,6 +147,13 @@ game.setLocalization("en_us", "tile.notreepunching:cobblestone.basalt.name", "Ba
 game.setLocalization("en_us", "item.quark:ancient_tome.addedtooltip.1", "Use in off-hand to apply to matching enchanted item");
 <quark:ancient_tome:*>.addTooltip(format.gold(game.localize("item.quark:ancient_tome.addedtooltip.1", "en_us")));
 
+game.setLocalization("en_us", "quark.biomeMap.plains_defiled", "Defiled Lands Pathfinder Map");
+game.setLocalization("en_us", "quark.biomeMap.forest_vilespine", "Defiled Lands Pathfinder Map");
+game.setLocalization("en_us", "quark.biomeMap.desert_defiled", "Defiled Lands Pathfinder Map");
+game.setLocalization("en_us", "quark.biomeMap.iceandfire:glacier", "Glacier Pathfinder Map");
+game.setLocalization("en_us", "quark.biomeMap.traverse:meadow", "Meadow Pathfinder Map");
+game.setLocalization("en_us", "quark.biomeMap.traverse:badlands", "Badlands Pathfinder Map");
+
 
 // === RLMixins ===
 game.setLocalization("en_us", "item.cleansing_talisman.addedtooltip.1", "Craft with any enchanted book to convert the book's enchantment to Curse Break");

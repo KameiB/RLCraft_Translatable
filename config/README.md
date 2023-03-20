@@ -1,10 +1,3 @@
 ### Note for quark.cfg
-If you use this cfg file, remember to create its lang keys into your custom quark lang file.
-
-English (US) lang keys:
-- quark.biomeMap.plains_defiled=Defiled Lands Pathfinder Map
-- quark.biomeMap.forest_vilespine=Defiled Lands Pathfinder Map
-- quark.biomeMap.desert_defiled=Defiled Lands Pathfinder Map
-- quark.biomeMap.iceandfire:glacier=Glacier Pathfinder Map
-- quark.biomeMap.traverse:meadow=Meadow Pathfinder Map
-- quark.biomeMap.traverse:badlands=Badlands Pathfinder Map
+- This cfg file replaces the English hardcoded Pathfinder maps with lang keys (Lines 3050 to 3055), since Quark already is capable to translate names as lang keys.
+- The lang keys English definitions are included in the CustomNamesTooltips.zs file.
