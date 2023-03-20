@@ -6,8 +6,8 @@
   - Fish fillet
   - Fish Bucket
   - Fish tracker texts
-- I built on top of fonnymunkey's corrections and tested on old worlds with existing fishes and nothing crashed.
-- Haven't tested on server.
+- I built on top of fonnymunkey's corrections and tested on old worlds with existing fishes, working properly.
+- Tested on a remote server.
 - Any corrections are welcome so it can be Pulled to the owner's project.
 
 ### [Forgotten Items](https://github.com/KameiB/ForgottenItems)
