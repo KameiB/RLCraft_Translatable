@@ -1,0 +1,10 @@
+## Translated by KameiB for RLCraft 2.9.2
+tile.msc.controlled_spawner.name=Generador de %s
+itemGroup.spawnercontrol=Spawner Control
+spawnercontrol.general.vanillaspawnerconfig=Config. Generador Vanilla
+spawnercontrol.general.customspawners=Lista de Generadores personalizados
+spawnercontrol.general.altervanillaspawner=Generador alternativo Vanilla
+spawnercontrol.general.makecreativetab=Hacer pestaña Creativo Creative
+spawnercontrol.general.custom_spawners=Config. Generadores personalizados
+spawnercontrol.general.custom_spawners.tooltip=Contiene propiedades de configuracion para cada Generador agregado mediante customSpawners
+tile.msc.za_warudo.name=時を止まれ

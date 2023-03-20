@@ -1,0 +1,49 @@
+## Translated by KameiB for RLCraft 2.9.2
+container.wearablebackpacks.backpack=Mochila
+
+item.wearablebackpacks.backpack.name=Mochila
+
+tooltip.wearablebackpacks.moreInfo=Presiona %1$s para mas informacion.
+tooltip.wearablebackpacks.openHint=Presiona %1$s para abrir la mochila teniendola equipada.
+tooltip.wearablebackpacks.equipHint=§aEquipar§r mochila:\nAgachate y rompela.
+tooltip.wearablebackpacks.equipHint.extended=§aEquipar§r mochila:\nAgachate y rompela.\n\n§6Desequipar§r mochila:\nAgachate y clic derecho en el suelo con la mano vacia.
+tooltip.wearablebackpacks.unequipHint=§6Desequipar§r mochila:\nAgachate y clic derecho en el suelo con la mano vacia.
+tooltip.wearablebackpacks.used=Actualmente usada por un jugador.
+
+chat.wearablebackpacks.cantEquip=Ya tienes una mochila equipada.
+chat.wearablebackpacks.cantEquip.bauble=No puedes equiparte una mochila, teniendo una Bauble en tu torso.
+
+key.wearablebackpacks.open=Abrir mochila
+
+config.wearablebackpacks.general.equipAsBauble=Equipar como Bauble
+config.wearablebackpacks.general.equipAsBauble.tooltip=Equipar mochila como una Bauble?
+config.wearablebackpacks.general.enableEquippedInteraction=Interaccion estando equipada
+config.wearablebackpacks.general.enableEquippedInteraction.tooltip=Los jugadores pueden acceder a mochilas equipadas en otros jugadores (y entidades)?
+config.wearablebackpacks.general.enableSelfInteraction=Interaccion propia
+config.wearablebackpacks.general.enableSelfInteraction.tooltip=Los jugadores pueden acceder a su propia mochila equipara usando un atajo de teclado?
+config.wearablebackpacks.general.enableMachineInteraction=Interaccion con maquinas
+config.wearablebackpacks.general.enableMachineInteraction.tooltip=Las maquinas (como Tolvas) puede interactuar con las mochilas colocadas?
+config.wearablebackpacks.general.dropAsBlockOnDeath=Dopear como bloque al morir
+config.wearablebackpacks.general.dropAsBlockOnDeath.tooltip=Las mochilas se colocan automaticamente cuando mueres, en lugar de esparcir su contenido?
+config.wearablebackpacks.general.ignoreCancellation=Ignorar cancelacion de mochila
+config.wearablebackpacks.general.ignoreCancellation.tooltip=Intentar colocar y romper una mochila podra ignorar la cancelacion por un evento? (Arregla que la arena de los Jefes de Lycanite vacie las mochilas)
+
+config.wearablebackpacks.size.sizeColumn=Tamaño vertical de mochila
+config.wearablebackpacks.size.sizeColumn.tooltip=Tamaño vertical de una mochila normal. No afecta a mochilas colocadas o equipadas hasta que vuelvan a convertirse en un item.
+config.wearablebackpacks.size.sizeRow=Tamaño horizontal de mochila
+config.wearablebackpacks.size.sizeRow.tooltip=Tamaño horizontal de una mochila normal. No afecta a mochilas colocadas o equipadas hasta que vuelvan a convertirse en un item.
+
+config.wearablebackpacks.entity.spawnNaturally=Generar naturalmente
+config.wearablebackpacks.entity.spawnNaturally.tooltip=Los mobs generados naturalmente pueden tener una mochila equipada?
+config.wearablebackpacks.entity.spawnFromSpawners=Generar por Generadores
+config.wearablebackpacks.entity.spawnFromSpawners.tooltip=Los mobs generador por Generadores pueden tener una mochila equipada?
+
+config.wearablebackpacks.cosmetic.enchantEffectOpacity=Opacidad del efecto encantado
+config.wearablebackpacks.cosmetic.enchantEffectOpacity.tooltip=Controla la opacidad / visibilidad del efecto de encantado en las mochilas equipadas y colocadas, si aplica.
+
+config.wearablebackpacks.effect.doEffect=Aplicar efecto de pocion
+config.wearablebackpacks.effect.doEffect.tooltip=Aplicar un efecto de pocion al jugador si tiene equipada una mochila?
+config.wearablebackpacks.effect.effectAmplifier=Amplificador de efecto de pocion
+config.wearablebackpacks.effect.effectAmplifier.tooltip=Amplificador del efecto de pocion a aplicarse cuando el jugador tiene equipada una mochila.
+config.wearablebackpacks.effect.effectName=Nombre del efecto de pocion
+config.wearablebackpacks.effect.effectName.tooltip=El Resourcelocation del efecto de pocion a aplicarse cuando el jugador tiene equipada una mochila. (Ex. minecraft:weakness)

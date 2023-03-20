@@ -1,0 +1,51 @@
+## Translated by KameiB for RLCraft 2.9.2
+itemGroup.traverse=Traverse
+
+tile.traverse:brown_autumnal_leaves.name=Hojas otoñales cafes
+tile.traverse:brown_autumnal_sapling.name=Retoño otoñal cafe
+
+tile.traverse:orange_autumnal_leaves.name=Hojas otoñales naranjas
+tile.traverse:orange_autumnal_sapling.name=Retoño otoñal naranja
+
+tile.traverse:red_autumnal_leaves.name=Hojas otoñales rojas
+tile.traverse:red_autumnal_sapling.name=Retoño otoñal rojo
+
+tile.traverse:yellow_autumnal_leaves.name=Hojas otoñales amarillas
+tile.traverse:yellow_autumnal_sapling.name=Retoño otoñal amarillo
+
+tile.traverse:fir_sapling.name=Retoño de pino
+tile.traverse:fir_leaves.name=Hojas de pino
+tile.traverse:fir_log.name=Tronco de pino
+tile.traverse:fir_planks.name=Madera de pino
+tile.traverse:fir_stairs.name=Escaleras de pino
+tile.traverse:fir_slab.name=Losa de pino
+tile.traverse:fir_door.name=Puerta de pino
+tile.traverse:fir_fence.name=Valla de pino
+tile.traverse:fir_fence_gate.name=Puerta de valla de pino
+
+tile.traverse:red_rock.name=Piedra roja
+tile.traverse:red_rock_bricks.name=Ladrillos de piedra roja
+tile.traverse:red_rock_bricks_stairs.name=Escaleras de ladrillos de piedra roja
+tile.traverse:red_rock_bricks_slab.name=Losa de ladrillos de piedra roja
+tile.traverse:red_rock_bricks_chiseled.name=Ladrillos de piedra roja cincelada
+tile.traverse:red_rock_bricks_cracked.name=Ladrillos de piedra roja rotos
+tile.traverse:red_rock_slab.name=Losa de piedra roja
+tile.traverse:red_rock_cobblestone.name=Piedra roja labrada
+tile.traverse:red_rock_cobblestone_stairs.name=Escaleras de piedra roja labrada
+tile.traverse:red_rock_cobblestone_slab.name=Losa de piedra roja labrada
+tile.traverse:red_rock_cobblestone_wall.name=Pared de piedra roja labrada
+
+tile.traverse:blue_rock.name=Piedra risco
+tile.traverse:blue_rock_bricks.name=Ladrillos de piedra risco
+tile.traverse:blue_rock_bricks_stairs.name=Escaleras de ladrillos de piedra risco
+tile.traverse:blue_rock_bricks_slab.name=Losa de ladrillos de piedra risco
+tile.traverse:blue_rock_bricks_chiseled.name=Ladrillos de piedra risco cincelada
+tile.traverse:blue_rock_bricks_cracked.name=Ladrillos de piedra risco rota
+tile.traverse:blue_rock_slab.name=Losa de piedra risco
+tile.traverse:blue_rock_cobblestone.name=Piedra risco labrada
+tile.traverse:blue_rock_cobblestone_stairs.name=Escaleras de piedra risco labrada
+tile.traverse:blue_rock_cobblestone_slab.name=Losa de piedra risco labrada
+tile.traverse:blue_rock_cobblestone_wall.name=Pared de piedra risco labrada
+
+tile.traverse:dead_grass.name=Pasto muerto
+tile.traverse:cold_grass.name=Pasto frio

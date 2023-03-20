@@ -1,0 +1,459 @@
+## Translated by KameiB for RLCraft 2.9.2
+block.editIcon=Tienes 10 segundos para colocar un item normal, los bloques no funcionan
+
+itemGroup.vcweapons=VariedCommodities: Armas
+itemGroup.vcarmors=VariedCommodities: Armaduras
+itemGroup.vcblocks=VariedCommodities: Bloques
+itemGroup.vcitems=VariedCommodities: Items
+
+enchantment.damage=Daño
+enchantment.confusion=Confusion
+enchantment.infinite=Infinito
+enchantment.poison=Veneno
+
+trader.busy=Esta en uso
+trader.trade=Trueque
+trader.waiting=Esperando a que inicie el trueque
+trader.cancelled=Trueque cancelado
+trader.complete=Trueque completado satisfactoriamente
+
+tile.carpentry_bench.name=Mesa de carpinteria
+tile.blood_block.name=Bloque de sangre
+tile.banner.name=Estandarte angular de piso
+tile.wall_banner.name=Estandarte angular de pared
+tile.chair.name=Silla
+tile.crate.name=Caja grande
+tile.tall_lamp.name=Linterna alta
+tile.weapon_rack.name=Bastidor de armas
+tile.couch_wool.name=Sillon de lana
+tile.table.name=Mesa de madera
+tile.couch_wood.name=Sillon de madera
+tile.lamp.name=Linterna
+tile.candle.name=Vela
+tile.stool.name=Banquito
+tile.big_sign.name=Letrero grande
+tile.barrel.name=Barril grande
+tile.shelf.name=Repisa
+tile.sign.name=Letrero para items
+tile.tombstone.name=Lapida
+tile.campfire.name=Fogata
+tile.beam.name=Viga
+tile.pedestal.name=Pedestal para espada
+tile.trading_block.name=Bloque de trueques
+tile.crystal.name=Cristal
+
+tile.placeholder_0.name=Bloque de color
+tile.placeholder_1.name=Bloque de color
+tile.placeholder_2.name=Bloque de color
+tile.placeholder_3.name=Bloque de color
+tile.placeholder_4.name=Bloque de color
+tile.placeholder_5.name=Bloque de color
+tile.placeholder_6.name=Bloque de color
+tile.placeholder_7.name=Bloque de color
+tile.placeholder_8.name=Bloque de color
+tile.placeholder_9.name=Bloque de color
+tile.placeholder_10.name=Bloque de color
+tile.placeholder_11.name=Bloque de color
+tile.placeholder_12.name=Bloque de color
+tile.placeholder_13.name=Bloque de color
+tile.placeholder_14.name=Bloque de color
+tile.placeholder_15.name=Bloque de color
+
+item.banjo.name=Banjo
+item.violin.name=Violin
+item.violin_bow.name=Arco de violin
+item.harp.name=Harpa
+item.guitar.name=Guitarra
+item.french_horn.name=Cuerno frances
+item.ocarina.name=Ocarina
+item.clarinet.name=Clarinete
+
+item.coin_wood.name=Moneda de madera
+item.coin_stone.name=Moneda de piedra
+item.coin_bronze.name=Moneda de bronce
+item.coin_iron.name=Moneda de hierro
+item.coin_gold.name=Moneda de oro
+item.coin_diamond.name=Moneda de diamante
+item.coin_emerald.name=Moneda de esmeralda
+
+item.wooden_gun.name=Pistola de madera
+item.stone_gun.name=Pistola de piedra
+item.iron_gun.name=Pistola de hierro
+item.golden_gun.name=Pistola de oro
+item.diamond_gun.name=Pistola de diamante
+item.bronze_gun.name=Pistola de bronce
+item.emerald_gun.name=Pistola de esmeralda
+item.machine_gun.name=Ametralladora
+item.bullet.name=Bala
+
+item.wooden_trident.name=Tridente de madera
+item.stone_trident.name=Tridente de piedra
+item.iron_trident.name=Tridente de hierro
+item.golden_trident.name=Tridente de oro
+item.diamond_trident.name=Tridente de diamante
+item.bronze_trident.name=Tridente de bronce
+item.emerald_trident.name=Tridente de esmeralda
+item.cursed_trident.name=Tridente maldito
+item.demonic_trident.name=Tridente demoniaco
+item.frost_trident.name=Tridente gelido
+item.mithril_trident.name=Tridente de mithril
+
+item.spell_nature.name=Hechizo de naturaleza
+item.spell_arcane.name=Hechizo arcano
+item.spell_lightning.name=Hechizo de rayo
+item.spell_ice.name=Hechizo de hielo
+item.spell_fire.name=Hechizo de fuego
+item.spell_dark.name=Hechizo oscuro
+item.spell_holy.name=Hechizo bendito
+
+item.kunai.name=Kunai
+item.kunai_reversed.name=Kunai invertido
+item.shuriken.name=Shuriken
+item.shuriken_giant.name=Shuriken gigante
+item.katana.name=Katana
+item.kukri.name=Kukri
+item.ninja_claw.name=Garra ninja
+item.steel_claw.name=Garra de acero
+item.bear_claw.name=Garra de oso
+item.katar.name=Katar
+
+item.golf_club.name=Palo de golf
+item.magic_wand.name=Varita magica
+item.chicken_sword.name=Espada de gallina
+item.handcuffs.name=Esposas
+item.hammer.name=Martillo de carpintero
+item.baseball_bat.name=Bat de beisbol
+item.lead_pipe.name=Tubo de plomo
+item.cleaver.name=Cuchillo carnicero
+item.saber.name=Sable
+item.hockey_stick.name=Palo de Hockey
+item.sledge_hammer.name=Marro
+item.broken_bottle.name=Botella rota
+item.combat_knive.name=Cuchillo de combate
+item.lighter.name=Encendedor
+item.batton.name=Tolete
+item.chainsaw_gun.name=Motosierra
+item.rapier.name=Estoque
+item.crowbar.name=Palanca
+item.pipe_wrench.name=Llave stilson
+item.wrench.name=Llave española
+item.swiss_army_knife.name=Cuchillo suizo
+item.leaf_sword.name=Espada de hoja
+
+item.wooden_shield_round.name=Escudo redondo de madera
+item.stone_shield_round.name=Escudo redondo de piedra
+item.iron_shield_round.name=Escudo redondo de hierro
+item.golden_shield_round.name=Escudo redondo de oro
+item.diamond_shield_round.name=Escudo redondo de diamante
+item.bronze_shield_round.name=Escudo redondo de bronce
+item.emerald_shield_round.name=Escudo redondo de esmeralda
+item.demonic_shield_round.name=Escudo demoniaco
+item.frost_shield.name=Escudo gelido
+item.mithril_shield_round.name=Escudo de mithril
+item.wooden_shield.name=Escudo grande de madera
+item.stone_shield.name=Escudo grande de piedra
+item.iron_shield.name=Escudo grande de hierro
+item.golden_shield.name=Escudo grande de oro
+item.diamond_shield.name=Escudo grande de diamante
+item.bronze_shield.name=Escudo grande de bronce
+item.emerald_shield.name=Escudo grande de esmaralda
+item.tower_shield.name=Escudo torre de acero
+item.crescent_shield.name=Escudo creciente de acero
+item.scutum_shield.name=Escudo blindado de acero
+item.heater_shield.name=Escudo caliente de acero
+
+item.wooden_spear.name=Hasta de madera
+item.stone_spear.name=Hasta de piedra
+item.iron_spear.name=Hasta de hierro
+item.golden_spear.name=Hasta de oro
+item.diamond_spear.name=Hasta de diamante
+item.bronze_spear.name=Hasta de bronce
+item.emerald_spear.name=Hasta de esmeralda
+item.demonic_spear.name=Hasta demoniaca
+item.frost_spear.name=Hasta gelida
+item.mithril_spear.name=Hasta de mithril
+
+item.wooden_battleaxe.name=Hacha de combate de madera
+item.stone_battleaxe.name=Hacha de combate de piedra
+item.iron_battleaxe.name=Hacha de combate de hierro
+item.golden_battleaxe.name=Hacha de combate de oro
+item.diamond_battleaxe.name=Hacha de combate de diamante
+item.bronze_battleaxe.name=Hacha de combate de bronce
+item.emerald_battleaxe.name=Hacha de combate de esmeralda
+item.demonic_battleaxe.name=Hacha de combate demoniaca
+item.frost_battleaxe.name=Hacha de combate gelida
+item.mithril_battleaxe.name=Hacha de combate de mithril
+
+item.wooden_mace.name=Mazo medieval de madera
+item.stone_mace.name=Mazo medieval de piedra
+item.iron_mace.name=Mazo medieval de hierro
+item.golden_mace.name=Mazo medieval de oro
+item.diamond_mace.name=Mazo medieval de diamante
+item.bronze_mace.name=Mazo medieval de bronce
+item.emerald_mace.name=Mazo medieval de esmeralda
+item.demonic_mace.name=Mazo medieval demoniaco
+item.frost_mace.name=Mazo medieval gelido
+item.mithril_mace.name=Mazo medieval de mithril
+
+item.wooden_dagger.name=Daga de madera
+item.stone_dagger.name=Daga de piedra
+item.iron_dagger.name=Daga de hierro
+item.golden_dagger.name=Daga de oro
+item.diamond_dagger.name=Daga de diamante
+item.bronze_dagger.name=Daga de bronce
+item.emerald_dagger.name=Daga de esmeralda
+item.demonic_dagger.name=Daga demoniaca
+item.frost_dagger.name=Daga gelida
+item.mithril_dagger.name=Daga de mithril
+
+item.wooden_dagger_reversed.name=Daga invertida de madera
+item.stone_dagger_reversed.name=Daga invertida de piedra
+item.iron_dagger_reversed.name=Daga invertida de hierro
+item.golden_dagger_reversed.name=Daga invertida de oro
+item.diamond_dagger_reversed.name=Daga invertida de diamante
+item.bronze_dagger_reversed.name=Daga invertida de bronce
+item.emerald_dagger_reversed.name=Daga invertida de esmeralda
+item.demonic_dagger_reversed.name=Daga invertida demoniaca
+item.frost_dagger_reversed.name=Daga invertida gelida
+item.mithril_dagger_reversed.name=Daga invertida de mithril
+
+item.wooden_staff.name=Cetro de madera
+item.stone_staff.name=Cetro de piedra
+item.iron_staff.name=Cetro de hierro
+item.golden_staff.name=Cetro de oro
+item.diamond_staff.name=Cetro de diamante
+item.bronze_staff.name=Cetro de bronce
+item.emerald_staff.name=Cetro de esmeralda
+item.elemental_staff.name=Cetro elemental
+item.demonic_staff.name=Cetro demoniaco
+item.frost_staff.name=Cetro gelido
+item.mithril_staff.name=Cetro de mithril
+item.mana.name=Mana
+
+item.wooden_scythe.name=Guadaña de madera
+item.stone_scythe.name=Guadaña de piedra
+item.iron_scythe.name=Guadaña de hierro
+item.golden_scythe.name=Guadaña de oro
+item.bronze_scythe.name=Guadaña de bronce
+item.diamond_scythe.name=Guadaña de diamante
+item.emerald_scythe.name=Guadaña de esmeralda
+item.demonic_scythe.name=Guadaña demoniaca
+item.frost_scythe.name=Guadaña gelida
+item.mithril_scythe.name=Guadaña de mithril
+
+item.wooden_glaive.name=Navaja tactica de madera
+item.stone_glaive.name=Navaja tactica de piedra
+item.iron_glaive.name=Navaja tactica de hierro
+item.golden_glaive.name=Navaja tactica de oro
+item.diamond_glaive.name=Navaja tactica de diamante
+item.bronze_glaive.name=Navaja tactica de bronce
+item.emerald_glaive.name=Navaja tactica de esmeralda
+item.demonic_glaive.name=Navaja tactica demoniaca
+item.frost_glaive.name=Navaja tactica gelida
+item.mithril_glaive.name=Navaja tactica de mithril
+
+item.cow_leather_head.name=Casco de vaca
+item.cow_leather_chest.name=Pechera de vaca
+item.cow_leather_legs.name=Pantalones de vaca
+item.cow_leather_boots.name=Botas de vaca
+
+item.nanorum_head.name=Casco de nanorio
+item.nanorum_chest.name=Pechera de Nanorio
+item.nanorum_legs.name=Pantalones de Nanorio
+item.nanorum_boots.name=Botas de Nanorio
+
+item.tactical_head.name=Casco tactico
+item.tactical_chest.name=Pechera tactica
+
+item.full_leather_head.name=Casco completo de cuero
+item.full_leather_chest.name=Pechera completa de cuero
+item.full_iron_head.name=Casco completo de hierro
+item.full_iron_chest.name=Pechera completa de hierro
+item.full_golden_head.name=Casco completo de oro
+item.full_golden_chest.name=Pechera completa de oro
+item.full_diamond_head.name=Casco completo de diamante
+item.full_diamond_chest.name=Pechera completa de diamante
+item.full_bronze_head.name=Casco completo de bronce
+item.full_bronze_chest.name=Pechera completa de bronce
+item.full_bronze_legs.name=Pantalones completos de bronce
+item.full_bronze_boots.name=Botas completas de bronce
+item.full_wooden_head.name=Casco completo de madera
+item.full_wooden_chest.name=Pechera completa de madera
+item.full_wooden_legs.name=Pantalones completos de madera
+item.full_wooden_boots.name=Botas completas de madera
+
+item.tuxedo_chest.name=Pechera de esmoquin
+item.tuxedo_pants.name=Pantalones de esmoquin
+item.tuxedo_bottom.name=Gabardina de esmoquin (Botas)
+
+item.wizard_head.name=Casco de Mago
+item.wizard_chest.name=Pechera de Mago
+item.wizard_pants.name=Pantalones de Mago
+
+item.assassin_head.name=Casco de Asesino
+item.assassin_chest.name=Pechera de Asesino
+item.assassin_legs.name=Pantalones de Asesino
+item.assassin_boots.name=Botas de Asesino
+
+item.soldier_head.name=Casco de Soldado
+item.soldier_chest.name=Pechera de Soldado
+item.soldier_legs.name=Pantalones de Soldado
+item.soldier_bottom.name=Gabardina de Soldado (Botas)
+
+item.x407_head.name=Casco prototipo X407
+item.x407_chest.name=Pechera prototipo X407
+item.x407_legs.name=Pantalones prototipo X407
+item.x407_boots.name=Botas prototipo X407
+
+item.mithril_head.name=Casco de mithril
+item.mithril_chest.name=Pechera de mithril
+item.mithril_legs.name=Pantalones de mithril
+item.mithril_boots.name=Botas de mithril
+
+item.demonic_head.name=Casco demoniaco
+item.demonic_chest.name=Pechera demoniaca
+item.demonic_legs.name=Pantalones demoniacos
+item.demonic_boots.name=Botas demoniacas
+
+item.commissar_head.name=Sombrero de Comisario (Casco)
+item.commissar_chest.name=Gabardina de Comisario (Pechera)
+item.commissar_legs.name=Pantalones de Comisario
+item.commissar_bottom.name=Gabardina de Comisario (Botas)
+
+item.infantry_helmet.name=Casco de infanteria
+item.officer_chest.name=Pechera de Oficial
+
+item.crown2.name=Corona dorada
+item.crown.name=Corona plateada
+item.paper_crown.name=Corona de papel
+
+item.ninja_head.name=Gorro de Ninja (Casco)
+item.ninja_chest.name=Pechera de Ninja
+item.ninja_legs.name=Pantalones de Ninja
+
+item.full_emerald_head.name=Casco completo de esmeralda 
+item.full_emerald_chest.name=Pechera completa de esmeralda
+item.full_emerald_legs.name=Pantalones completos de esmeralda
+item.full_emerald_boots.name=Botas completas de esmeralda
+
+item.orb.name=Orbe
+item.orb_broken.name=Orbe roto
+item.letter.name=Carta
+item.plans.name=Sobre
+item.satchel.name=Bolsa
+item.bag.name=Morral
+item.crystal.name=Cristal
+item.severed_ear.name=Oreja cortada
+item.phone.name=Telefono
+item.bandit_mask.name=Antifaz de ladron
+item.broken_arrow.name=Flecha rota
+
+item.element_earth.name=Elemento tierra
+item.element_water.name=Elemento agua
+item.element_fire.name=Elemento fuego
+item.element_air.name=Elemento aire
+
+item.car_key.name=Llave de auto
+item.key.name=Llave de baul
+item.key2.name=Llave antigua
+
+item.pendant.name=Pendiente
+item.blueprint.name=Planos
+item.ring.name=Anillo dorado
+item.skull.name=Craneo Corrompido
+
+item.gem_sapphire.name=Zafiro
+item.gem_amethyst.name=Amatista
+item.gem_ruby.name=Rubi
+
+item.ingot_bronze.name=Lingote de bronce
+item.ingot_demonic.name=Lingote demoniaco
+item.ingot_mithril.name=Lingote de mithril
+item.ingot_steel.name=Lingote de acero
+
+item.macuahuitl.name=Macuahuitl
+item.bo_staff.name=Bo
+item.sai.name=Sai
+item.crossbow.name=Ballesta
+item.crossbow_bolt.name=Saeta
+item.slingshot.name=Resortera
+item.musket.name=Mosquete
+
+item.excalibur.name=Excalibur
+item.bronze_sword.name=Espada de bronce
+item.emerald_sword.name=Espada de esmeralda
+item.demonic_sword.name=Espada demoniaca
+item.frost_sword.name=Espada gelida
+item.mithril_sword.name=Espada de mithril
+
+item.ancient_coin.name=Moneda antigua
+item.ancient_scroll.name=Pergamino antiguo
+item.artifact.name=Artefacto
+item.locket.name=Medallon
+item.silk.name=Seda
+item.statuette.name=Estatuilla
+item.tablet.name=Tablilla antigua
+
+item.wooden_halberd.name=Alabarda de madera
+item.stone_halberd.name=Alabarda de piedra
+item.iron_halberd.name=Alabarda de hierro
+item.golden_halberd.name=Alabarda de oro
+item.diamond_halberd.name=Alabarda de diamante
+item.bronze_halberd.name=Alabarda de bronce
+item.emerald_halberd.name=Alabarda de esmeralda
+item.demonic_halberd.name=Alabarda demoniaca
+item.frost_halberd.name=Alabarda gelida
+item.mithril_halberd.name=Alabarda de mithril
+
+item.wooden_warhammer.name=Martillo de guerra de madera
+item.stone_warhammer.name=Martillo de guerra de piedra
+item.iron_warhammer.name=Martillo de guerra de hierro
+item.golden_warhammer.name=Martillo de guerra de oro
+item.diamond_warhammer.name=Martillo de guerra de diamante
+item.bronze_warhammer.name=Martillo de guerra de bronce
+item.emerald_warhammer.name=Martillo de guerra de esmeralda
+item.demonic_warhammer.name=Martillo de guerra de demoniaco
+item.frost_warhammer.name=Martillo de guerra de gelido
+item.mithril_warhammer.name=Martillo de guerra de mithril
+
+item.chain_skirt.name=Falda de cota de malla
+item.leather_skirt.name=Falda de cuero
+item.golden_skirt.name=Falda de oro
+item.iron_skirt.name=Falda de hierro
+item.diamond_skirt.name=Falda de diamante
+item.emerald_skirt.name=Falda de esmeralda
+item.bronze_skirt.name=Falda de bronce
+item.demonic_skirt.name=Falda demoniaca
+item.mithril_skirt.name=Falda de mithril
+
+item.wooden_broadsword.name=Espada amplia de madera
+item.stone_broadsword.name=Espada amplia de piedra
+item.iron_broadsword.name=Espada amplia de hierro
+item.golden_broadsword.name=Espada amplia de oro
+item.diamond_broadsword.name=Espada amplia de diamante
+item.bronze_broadsword.name=Espada amplia de bronce
+item.emerald_broadsword.name=Espada amplia de esmeralda
+item.demonic_broadsword.name=Espada amplia demoniaca
+item.frost_broadsword.name=Espada amplia gelida
+item.mithril_broadsword.name=Espada amplia de mithril
+
+item.heart.name=Corazon Demoniaco
+item.money.name=Billetes
+item.necklace.name=Collar
+item.usb_stick.name=Memoria USB
+item.holyhandgrenade.name=Granada de mano bendita
+
+item.vcrecipes_book.name=Libro de recetas de VariedCommodities
+
+gui.clear=Limpiar
+gui.paste=Pegar
+gui.copy=Copiar
+gui.close=Cerrar
+
+# Added by KameiB. From Shiv.zs
+item.heart.addedtooltip.1=Uno de los multiples corazones que tiro Rahovart. Aun late con energia demoniaca.
+item.skull.tooltip.1=Uno de los multiples craneos que tiro Asmodeus. Aun se oyen los gritos de las almas perdidas que tiene dentro.
+
+tile.npcCandle.name=Vela apagada
+tile.npcLamp.name=Linterna apagada
+tile.npcCampfire.name=Fogata apagada

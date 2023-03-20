@@ -148,12 +148,12 @@ notif.fishingmadebetter.fish_tracker.quantity_light=en ligeras cantidades.
 notif.fishingmadebetter.fish_tracker.quantity_sparse=en escasas cantidades.
 notif.fishingmadebetter.fish_tracker.quantity_meager=en pobres cantidades.
 notif.fishingmadebetter.fish_tracker.found_none=El Rastreador no encontro ningun pez en este lugar.
-notif.fishingmadebetter.fish_tracker.found_under_y=Se detectaron rastros de peces viviendo a una menor altura
-notif.fishingmadebetter.fish_tracker.found_outside_quality=Se detectaron rastros de peces fuera de las capacidades de este Rastreador
-notif.fishingmadebetter.fish_tracker.found_hibernating=Se detectaron peces que no se alimentan en estas condiciones
+notif.fishingmadebetter.fish_tracker.found_under_y=Peces viviendo a una menor altura
+notif.fishingmadebetter.fish_tracker.found_outside_quality=Peces fuera de las capacidades de este Rastreador
+notif.fishingmadebetter.fish_tracker.found_hibernating=Peces que no se alimentan en estas condiciones
 
-tooltip.fishingmadebetter.fish.weight=Peso:
-tooltip.fishingmadebetter.fish.scale=Escamas:
+tooltip.fishingmadebetter.fish.weight=Peso
+tooltip.fishingmadebetter.fish.scale=Escamas
 tooltip.fishingmadebetter.fish.scale_attached=Unidas
 tooltip.fishingmadebetter.fish.scale_detached=Removidas
 tooltip.fishingmadebetter.fish.dead=Muerto

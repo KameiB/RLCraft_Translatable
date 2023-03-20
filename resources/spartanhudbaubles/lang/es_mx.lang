@@ -1,0 +1,18 @@
+#Localisation for Spartan HUD: Baubles version 1.0.x
+## Translated by KameiB for RLCraft 2.9.2
+
+#Configs
+config.spartanhudbaubles:preview_hud=Previsualizar HUD
+config.spartanhudbaubles:hover_text_example=Item de ejemplo
+config.spartanhudbaubles:client.disable_hud=Deshabilitar HUD de baubles
+config.spartanhudbaubles:client.show_baubles_icon=Mostrar icono de HUD de baubles
+config.spartanhudbaubles:client.skin_type=Tipo de skin del HUD
+config.spartanhudbaubles:client.alignment=Alineacion del HUD
+config.spartanhudbaubles:client.offset_x=Desfase en X del HUD
+config.spartanhudbaubles:client.offset_y=Desfase en Y del HUD
+config.spartanhudbaubles:client.rotate_vertical=Rotacion vertical del HUD
+config.spartanhudbaubles:client.tooltip_background_colour=Skin de Descripcion: Color de fondo
+config.spartanhudbaubles:client.tooltip_frame_top_colour=Skin de descripcion: Color frontal del marco
+config.spartanhudbaubles:client.tooltip_frame_bottom_colour=Skin de descripcion: Color de fondo del marco
+config.spartanhudbaubles:client.minimal_top_colour=Skin minimalista: Color frontal
+config.spartanhudbaubles:client.minimal_bottom_colour=Skin minimalista: Color de fondo

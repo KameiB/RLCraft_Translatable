@@ -1,0 +1,78 @@
+## Translated by KameiB for RLCraft 2.9.2
+itemGroup.tabCreativTabSwitchbow=Switch-Bow
+
+tile.ArrowDispenser.name=Dispensador de flechas
+tile.Podest.name=Pedestal
+
+item.SwitchBow.name=Cambia-arco
+item.SwitchCrossbow.name=Cambia-ballesta
+item.Quiver.name=Cambia-carcaj pequeño
+item.MagicQuiver.name=Cambia-carcaj grande
+
+item.LovePotion.name=Pocion de Amor
+
+item.ArrowLightningBolt.name=Flecha de rayo
+item.ArrowTNT.name=Flecha de TNT
+item.ArrowFrost.name=Flecha gelida
+item.ArrowAir.name=Flecha de aire
+item.ArrowEnderperle.name=Flecha de ender
+item.ArrowVampier.name=Flecha de vampiro
+item.ArrowWither.name=Flecha de wither
+item.ArrowTorch.name=Flecha antorcha
+item.ArrowSplit.name=Flecha de fragilidad
+item.ArrowUnderwater.name=Flecha submarina
+item.ArrowDiamond.name=Flecha reforzada
+item.ArrowLove.name=Flecha de amor
+item.ArrowFire.name=Flecha de fuego
+item.ArrowBone.name=Flecha de hueso
+item.ArrowFirework.name=Flecha de cohete
+item.ArrowSplitLove.name=Flecha de amor (Area)
+item.ArrowLuck.name=Flecha de saqueo
+item.ArrowRedstone.name=Flecha de redstone
+item.ArrowBurial.name=Flecha de entierro
+item.ArrowChorus.name=Flecha de chorus
+item.ArrowSprinkler.name=Flecha de regadera
+item.ArrowDragonBreath.name=Flecha de aliento de dragon
+item.ArrowTriple.name=Flecha triple
+item.ArrowProtector.name=Flecha protectora
+item.ArrowKnockback.name=Flecha de empuje
+item.ArrowBouncy.name=Flecha rebotadora
+item.ArrowoftheSearcher.name=Flecha buscadora
+item.ArrowPiercing.name=Flecha penetrante
+
+item.ArrowLightningBoltStorm.name=Flecha de tormenta
+item.ArrowBoneAOE.name=Flecha de hueso (Area)
+item.ArrowSplitUpgrade.name=Flecha transformada de fragilidad
+item.ArrowBurialAOE.name=Flecha de entierro (Area)
+item.ArrowFireUpgrade.name=Flecha de tormenta de fuego
+item.ArrowLuckUpgrade.name=Flecha transformada de saqueo
+item.ArrowAirUpgrade.name=Flecha de aire (Area)
+item.ArrowSplitLoveUpgrade.name=Flecha transformada de amor (Area)
+
+Potion.Freeze=Congelado
+Potion.Love=Enamorado
+
+enchantment.pullSpeed=Apertura veloz
+enchantment.activeScope=Mira
+enchantment.cooldownReduce=Carga reducida
+
+tooltips.inventory=Almacena:
+
+category.switchbow=Switch-Bow
+key.switchbow.switchup=Flecha siguiente
+key.switchbow.switchdown=Flecha anterior
+
+achievement.startswitchbow=Cambia-arco
+achievement.startswitchbow.desc=Una pulsacion mistica rodea este arco.
+
+achievement.firstlove=Primer amor
+achievement.firstlove.desc=Te enamoraste por primera vez.
+
+TEMC.shootangle=Angulo disparo
+TEMC.range=Rango disparo
+TEMC.count=Cant. disparos
+
+# Added by KameiB
+enchantment.switchbow.pullspeed.desc=Aumenta la velocidad de apertura del Cambia-arco
+enchantment.switchbow.activescope.desc=Agrega una mira de francotirador a los arcos y algunas ballestas
+enchantment.switchbow.cooldownreduce.desc=Reduce el tiempo de carga de la Cambia-ballesta
