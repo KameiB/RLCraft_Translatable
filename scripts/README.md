@@ -8,5 +8,5 @@
 - Charm cakes: Replaced hardcoded names with translatable ones.
 - Armor Under: Chestplates and Leggings with Ozzy liner MILD, WARM, COOL hardcoded texts replaced with translatable, colored ones.
 
-### UsefulTooltips.zs (Totally optional)
-- OPTIONAL. Extra useful tooltips for various items.
+### UsefulTooltips.zs (For KameiB's personal use)
+- OPTIONAL. Additional useful tooltips for various items.
