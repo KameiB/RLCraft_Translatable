@@ -137,13 +137,15 @@ ability.firstaid_reflex.name=Reflejos rapidos
 ability.firstaid_reflex.tooltip1=Probabilidad de ignorar tiros a la cabeza fatales
 
 damagetype.xat.water=agua
-death.attack.xat.water=%1$s murio %2$s mientras llevaba puesta la Corona de reina ender
+death.attack.xat.water=%1$s murio %2$s mientras llevaba puesta la Corona de Reina ender
 
 xat.jump=Salto
 xat.stepheight=Altura de paso
+xat.entityMagic.maxMana=Mana max.
 xat.entityMagic.regen=Regen. MP
 attribute.name.xat.jump=Altura de salto
 attribute.name.xat.stepheight=Altura de paso
+attribute.name.xat.entityMagic.maxMana=Mana max.
 attribute.name.xat.entityMagic.regen=Regen. MP
 
 ####################################Materials####################################
@@ -160,11 +162,11 @@ item.glowing_gem.tooltip1=§6Componente de crafteos Clase 3
 item.mana_candy.name=§bDulce de mana
 
 item.mana_crystal.name=§6Cristal de mana
-item.mana_crystal.tooltip1=§6Mana max: +§b$mpmax:
+item.mana_crystal.tooltip1=§6Mana max:§b +$mpmax:
 
 item.mana_reagent.name=§6Reactivo de mana
 item.mana_reagent.tooltip1=§cDañino al consumirlo
-item.mana_reagent.tooltip2=§cMana max: -§b$mpmax:
+item.mana_reagent.tooltip2=§cMana max:§b -$mpmax:
 
 item.restoration_serum.name=§6Suero de restauracion
 item.restoration_serum.tooltip1=Revierte los efectos de transformacion permanentes
@@ -292,7 +294,7 @@ item.wither_ring.0.tooltip3=@leech:
 item.wither_ring.0.wither=§2Prob. de aplicar Descomposicion a enemigos: §3$witherchance:
 item.wither_ring.0.leech=§2Atacar enemigos con Descomposicion te curara §3$leechamount:§2 corazones
 
-item.ender_tiara.0.name=Corona de reina ender
+item.ender_tiara.0.name=Corona de Reina ender
 item.ender_tiara.0.tooltip1=§6Realeza
 item.ender_tiara.0.tooltip2=§2Los Enderman pelearan por ti @endermenfollow:
 item.ender_tiara.0.tooltip3=@damageignored:
@@ -320,10 +322,10 @@ item.damage_shield.0.compat.enhancedvisuals=Deshabilita la vista borrosa por exp
 item.arcing_orb.0.name=Orbe electrica
 item.arcing_orb.0.tooltip1=@dodge:
 item.arcing_orb.0.tooltip2=@dodge.stun:
-item.arcing_orb.0.tooltip3=§6Presiona §r<§e*arckb:§r>§6 para lanzar un rayo: §3hasta $boltcost:MP§r
-item.arcing_orb.0.tooltip4=§6Daño por MP consumido: §3$boltdamage:§r
-item.arcing_orb.0.dodge=§2Permite esquivar presionando 2 veces§r
-item.arcing_orb.0.dodge.stun=§6Aturdir enemigos al esquivar: §3$dodgecost:MP§r
+item.arcing_orb.0.tooltip3=§6Presiona §r<§e*arckb:§r>§6 para lanzar electricidad: §3hasta $boltcost:MP
+item.arcing_orb.0.tooltip4=§6Daño por MP consumido: §3$boltdamage:
+item.arcing_orb.0.dodge=§2Permite esquivar presionando 2 veces
+item.arcing_orb.0.dodge.stun=§6Aturdir enemigos al esquivar: §3$dodgecost:MP
 
 item.faelis_claw.0.name=Garra felina
 item.faelis_claw.0.tooltip1=§6Atacar enemigos los hace sangrar
@@ -491,7 +493,7 @@ xat.config.client.debug.oredict=Mostrar entradas de OreDict
 xat.config.client.debug.speed=Mostrar Velocidad de movimiento
 
 xat.config.client.gui.settings=Contenedor de Joyas
-xat.config.client.gui.settings.tooltip=Configuraciones relacionadas con el Contenedor de joyas del Cliente.
+xat.config.client.gui.settings.tooltip=Configuraciones relacionadas con el Contenedor de Joyas del Cliente.
 
 xat.config.client.magic.hud.settings=Barra de Mana
 xat.config.client.magic.hud.settings.tooltip=Configuracion de la Barra de Mana
@@ -540,7 +542,7 @@ xat.config.server.food.transformation.effect.keep.tooltip=Deberia el jugador man
 xat.config.server.potion.registry.enabled=Habilitar pociones
 xat.config.server.potion.registry.enabled.tooltip=Agregar las pociones de Trinkets and Baubles al registro durante el arranque?
 xat.config.server.potion.toughasnails.water=Pociones hidratan
-xat.config.server.potion.toughasnails.water.tooltip=Si Tough as Nails o Simple Difficulty estan instalados, hidratar
+xat.config.server.potion.toughasnails.water.tooltip=Si Tough as Nails o Simple Difficulty estan instalados, las pociones te hidratan
 
 xat.config.server.potion.catalyst=Catalizador
 xat.config.server.potion.catalyst.tooltip=Item a usar para destilar esta pocion en el Alambique alquimico
@@ -575,7 +577,8 @@ xat.config.server.potion.playersonly.tooltip=Las pociones de transformacion debe
 #####################################[Item Configs]#####################################
 
 xat.config.items=Items
-xat.config.items.transformation=Configuracion de los Baubles al equiparse
+xat.config.items.tooltip=Configuracion de los Baubles al equiparse
+xat.config.items.transformation=Items de transformacion
 
 xat.config.glow_ring=Anillo de ojos encantados
 xat.config.glow_ring.tooltip=Configuracion del Anillo de ojos encantados
@@ -601,7 +604,7 @@ xat.config.server.dragons_eye.orefinder.blocks.list.tooltip=Que bloques puede de
 xat.config.server.dragons_eye.toughasnails.immunity.heat=Inmunidad al Calor
 xat.config.server.dragons_eye.toughasnails.immunity.heat.tooltip=Si Tough as Nails o Simple Difficulty estan instalados, el jugador sera inmune al calor?
 
-xat.config.server.dragons_eye.iceandfire.recipe.stage=Nivel del Craneo
+xat.config.server.dragons_eye.iceandfire.recipe.stage=Nivel de Craneo
 xat.config.server.dragons_eye.iceandfire.recipe.stage.tooltip=Si Ice and Fire esta instalado, deberia el Ojo de Dragon requerir un craneo de un Nivel especifico para su receta?.\nAsignalo en 0 para cualquier nivel
 xat.config.server.dragons_eye.iceandfire.ice.variant=Variante de hielo
 xat.config.server.dragons_eye.iceandfire.ice.variant.tooltip=Deberia haber una variante de hielo para el Ojo de Dragon?
@@ -611,14 +614,14 @@ xat.config.server.dragons_eye.iceandfire.ice.frostwalker.tooltip=Deberia la vari
 xat.config.client.dragons_eye.growl.enabled=Rugido de dragon
 xat.config.client.dragons_eye.growl.enabled.tooltip=Cuando el Buscador de tesoros esta Habilitado, deberia reproducirse un rugido de dragon cuando se encuentra un tesoro?
 xat.config.client.dragons_eye.growl.activation=Disparador del rugido de dragon
-xat.config.client.dragons_eye.growl.activation.tooltip=Determina que accion dispara el rugido de dragon\nOpciones:\nAgacharse\nPararse\nAmbos
+xat.config.client.dragons_eye.growl.activation.tooltip=Determina que accion dispara el rugido de dragon\nOpciones:\nSNEAK (Agacharse)\nSTAND (Pararse)\nBOTH (Ambos)
 xat.config.client.dragons_eye.growl.volume=Volumen del rugido de dragon
 xat.config.client.dragons_eye.growl.volume.tooltip=Control del volumen del rugido de dragon
 xat.config.client.dragons_eye.orefinder.refresh.rate=Tasa de actualizacion
 xat.config.client.dragons_eye.orefinder.refresh.rate.tooltip=Determina que tan frecuentemente el Buscador de tesoros busca tesoros
 
-xat.config.ender_tiara=Corona de reina de ender
-xat.config.ender_tiara.tooltip=Configuracion de la Corona de reina de ender
+xat.config.ender_tiara=Corona de Reina ender
+xat.config.ender_tiara.tooltip=Configuracion de la Corona de Reina ender
 
 xat.config.server.ender_tiara.waterhurts=El agua hiere
 xat.config.server.ender_tiara.waterhurts.tooltip=El jugador recibira daño al estar sumergido o expuesto a la lluvia?
@@ -642,7 +645,7 @@ xat.config.server.ender_tiara.endermen.items=Enderman dropean items
 xat.config.server.ender_tiara.endermen.items.tooltip=Cuando matas Enderman, deberian dropear items?
 xat.config.server.ender_tiara.endermen.teleport=Enderman se teletransportan
 xat.config.server.ender_tiara.endermen.teleport.tooltip=Los Enderman pueden teletransportarse?
-xat.config.server.ender_tiara.toughasnails.immunity.cold=Inmunidad al drio
+xat.config.server.ender_tiara.toughasnails.immunity.cold=Inmunidad al frio
 xat.config.server.ender_tiara.toughasnails.immunity.cold.tooltip=Si Tough as Nails o Simple Difficulty estan instalados, el jugador sera inmune al frio?
 
 xat.config.dwarf_ring=Anillo de los Enanos
@@ -716,13 +719,13 @@ xat.config.server.greater_inertia_stone.jumpheight.amount.tooltip=La altura de s
 xat.config.poison_stone=Piedra de veneno
 xat.config.poison_stone.tooltip=Configuraciones de la Piedra de veneno
 xat.config.server.poison_stone.damagebonus=Daño adicional
-xat.config.server.poison_stone.damagebonus.tooltip=Si un enemigos esta envenenado, hacer adño adicional?
+xat.config.server.poison_stone.damagebonus.tooltip=Si un enemigo esta envenenado, hacer adño adicional?
 xat.config.server.poison_stone.damagebonus.amount=Valor del daño adicional
-xat.config.server.poison_stone.damagebonus.amount.tooltip=Cuando un enemigo esta envenendado, el daño infligido se multiplicada por este valor
+xat.config.server.poison_stone.damagebonus.amount.tooltip=Cuando un enemigo esta envenenado, el daño infligido se multiplicada por este valor
 xat.config.server.poison_stone.poison=Puede envenenar
 xat.config.server.poison_stone.poison.tooltip=Puede la Piedra de veneno, envenenar enemigos?
 xat.config.server.poison_stone.poison.chance=Probabilidad de envenenar
-xat.config.server.poison_stone.poison.chance.tooltip=Probabilidad de envenenar un enemigo al atacarlo (1 en X) durante un tiempo.\nPredeterminado: 2 segundos
+xat.config.server.poison_stone.poison.chance.tooltip=Probabilidad de envenenar un enemigo durante 2 segundos al atacarlo (1 en X)
 xat.config.server.poison_stone.poison.duration=Duracion del veneno
 xat.config.server.poison_stone.poison.duration.tooltip=Cuanto tiempo deberia durar el efecto Veneno? (en ticks)
 
@@ -761,10 +764,10 @@ xat.config.server.sea_stone.betterswimming=Nado mejorado
 xat.config.server.sea_stone.betterswimming.tooltip=Habilitarlo mejora la velocidad de movimiento al estar sumergido en el agua
 xat.config.server.sea_stone.betterswimming.old=Mejora anterior
 xat.config.server.sea_stone.betterswimming.old.tooltip=Usar la version anterior de Nado mejorado
-xat.config.server.sea_stone.waterbreathing=Oxigeno infinito
-xat.config.server.sea_stone.waterbreathing.tooltip=Habilitarlo da oxigeno infinito (Respiracion acuatica)
+xat.config.server.sea_stone.waterbreathing=Respiracion acuatica
+xat.config.server.sea_stone.waterbreathing.tooltip=Habilitarla da oxigeno infinito
 xat.config.server.sea_stone.waterbreathing.bubbles=Burbujas completas
-xat.config.server.sea_stone.waterbreathing.bubbles.tooltip=Cuando Oxigeno infinito esta Habilitado, deberia activarse cuando se tienen todas las burbujas de aire? o a la ultima burbuja de oxigeno?
+xat.config.server.sea_stone.waterbreathing.bubbles.tooltip=Cuando Respiracion acuatica esta Habilitado, deberia activarse cuando se tienen todas las burbujas de aire? o a la ultima burbuja de oxigeno?
 xat.config.server.sea_stone.toughasnails.thirst=Prevenir envenenado de sed de TAN
 xat.config.server.sea_stone.toughasnails.thirst.tooltip=Si Tough as Nails o Simple Difficulty estan instalados, Deberia la Piedra del mar prevenir el efecto Sediento?
 
@@ -777,7 +780,7 @@ xat.config.server.wither_ring.leech.amount.tooltip=Cuanta salud puedes absorber 
 xat.config.server.wither_ring.wither=Wither a enemigos
 xat.config.server.wither_ring.wither.tooltip=Aplicar Descomposicion a enemigos?
 xat.config.server.wither_ring.wither.chance=Probabilidad de Wither
-xat.config.server.wither_ring.wither.chance.tooltip=Probabilidad de aplicar Descomposicion a un enemigo cuando lo golpeas (1 en X) durante un tiempo.\nPredeterminado: 2 segundos
+xat.config.server.wither_ring.wither.chance.tooltip=Probabilidad de aplicar Descomposicion a un enemigo durante 2 segundos cuando lo golpeas (1 en X)
 xat.config.server.wither_ring.wither.duration=Duracion de Wither
 xat.config.server.wither_ring.wither.duration.tooltip=Cuanto tiempo deberia durar Descomposicion? (en ticks)
 
@@ -831,6 +834,10 @@ xat.config.magic.mana.cap.max=Mana maximo
 xat.config.magic.mana.cap.max.tooltip=
 xat.config.magic.mana.cap.affinity=Afinidad con el tope
 xat.config.magic.mana.cap.affinity.tooltip=Si se habilita el Tope de Mana, deberia la afinidad de cada raza aplicarse antes del tope o despues?
+xat.config.magic.mana.bonus=Mana adicional
+xat.config.magic.mana.bonus.tooltip=Mana adicional obtenido de Cristales de mana y la Rosa lunar
+xat.config.magic.mana.cap.bonus=Limite de Mana adicional
+xat.config.magic.mana.cap.bonus.tooltip=Limite del Mana adicional obtenido de los Cristales de mana y la Rosa lunar. Asignalo en 0 para deshabilitar
 xat.config.magic.mana.recovery.list=Items que dan Mana
 xat.config.magic.mana.recovery.list.tooltip=Items para recuperar Mana\n modid:item_name;meta;amount
 
@@ -869,13 +876,13 @@ xat.config.races.dwarf.static_mining.tooltip=Cuando minas, la Velocidad de minad
 xat.config.races.elf=Elfo
 xat.config.races.elf.tooltip=Configuraciones de la raza Elfo
 xat.config.races.elf.chargeshot.enabled=Disparo de poder
-xat.config.races.elf.chargeshot.enabled.tooltip=Deberian los Elfos tener la habilidad de aumentar sus ataques con arco usando Mana?
+xat.config.races.elf.chargeshot.enabled.tooltip=Deberian los Elfos tener la habilidad de aumentar el poder de sus ataques con arco usando Mana?
 xat.config.races.elf.chargeshot.cost=Costo del Disparo de poder
 xat.config.races.elf.chargeshot.cost.tooltip=Cuanto Mana costara la habilidad Disparo de poder?
 xat.config.races.elf.chargeshot.base.multiplier=Multiplicador de daño base
-xat.config.races.elf.chargeshot.base.multiplier.tooltip=Un Disparo de poder es '(daño base * multiplicador) * duracion de carga'
+xat.config.races.elf.chargeshot.base.multiplier.tooltip=Un Disparo de poder es '(daño * multiplicador base) * duracion de carga'
 xat.config.races.elf.chargeshot.minimum.damage.multiplier=Multip. minimo de daño
-xat.config.races.elf.chargeshot.minimum.damage.multiplier.tooltip=Si '(daño base * multiplicador)' es menor que este valor, se calculara asi: `(daño min * multiplicador) * duracion de carga`
+xat.config.races.elf.chargeshot.minimum.damage.multiplier.tooltip=Si '(daño * multiplicador base)' es menor que este valor, se calculara asi: `(daño min * multiplicador base) * duracion de carga`
 xat.config.races.elf.chargeshot.max.time=Duracion max de carga
 xat.config.races.elf.chargeshot.max.time.tooltip=Entre mayor sea el valor, mas tiempo tomara llegar a la carga maxima
 xat.config.races.elf.chargeshot.bow.blacklist=Lista negra de Arcos
@@ -896,7 +903,7 @@ xat.config.races.fairy.flight.cost.tooltip=Costo de mana por segundo mientras vu
 xat.config.races.fairy.climbing=Escalar
 xat.config.races.fairy.climbing.tooltip=Deberia el jugador poder escalar bloques?
 xat.config.races.fairy.climbing.whitelist=Habilitar lista de escalado
-xat.config.races.fairy.climbing.whitelist.tooltip=Habilitar la lista de bloques que pueden ser escalados
+xat.config.races.fairy.climbing.whitelist.tooltip=Habilitar la lista blanca de bloques que pueden ser escalados
 xat.config.races.fairy.climbing.blocks.list=Bloques escalables
 xat.config.races.fairy.climbing.blocks.list.tooltip=Lista de bloques que el jugador puede escalar cuando esta transformado en Hada
 xat.config.races.fairy.jumpheight=Alturas de salto y paso
@@ -939,7 +946,7 @@ xat.config.races.titan.mount.enabled=Puedes montar entidades
 xat.config.races.titan.mount.enabled.tooltip=Si se habilita, podras montar entidades.\nEjemplo: Caballo, Bote, Vagon.
 xat.config.races.titan.mount.whitelist=Lista negra a blanca
 xat.config.races.titan.mount.whitelist.tooltip=Tomar la Lista negra como Lista blanca?
-xat.config.races.titan.mount.blacklist=Lista negra de monturasa
+xat.config.races.titan.mount.blacklist=Lista negra de monturas
 xat.config.races.titan.mount.blacklist.tooltip=Entidades que no pueden ser montadas (Modo Lista negra), o que solo estas pueden ser montadas (Modo Lista blanca)
 
 xat.config.races.faelis=Felino
@@ -1034,7 +1041,7 @@ xat.config.baubles.type=Tipo de Bauble
 xat.config.baubles.type.tooltip=si el mod Baubles esta instalado, cual espacio deberia usarse?\nTipos disponibles:\nJoya, Cualquiera, Todos\nAmuleto, Collar, Pendiente\nAnillo, Anillos\nCinturon\nCabeza, Sombrero\nCuerpo, Torso\nTalisman
 
 xat.config.immunities.potions=Inmunidad a pociones
-xat.config.immunities.potions.tooltip=Las pociones en esta lista no haran efecto
+xat.config.immunities.potions.tooltip=Las pociones en esta lista no te haran efecto
 
 xat.config.attributes=Atributos
 xat.config.attributes.tooltip="Para mas informacion sobre Atributos, visita:"\n"https://minecraft.gamepedia.com/Attribute"
