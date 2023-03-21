@@ -188,7 +188,7 @@ game.setLocalization("en_us", "tile.greenhouse_glass.addedtooltip.1", "Allows cr
 <sereneseasons:greenhouse_glass:*>.addTooltip(format.green(game.localize("tile.greenhouse_glass.addedtooltip.1", "en_us")));
 
 
-// === Simpled Difficulty ===
+// === Simple Difficulty ===
 game.setLocalization("en_us", "tile.simpledifficulty:heater.name", "Heating Coil");
 game.setLocalization("en_us", "tile.simpledifficulty:chiller.name", "Cooling Coil");
 game.setLocalization("en_us", "item.simpledifficulty:wool_helmet.name", "Wool Hood");

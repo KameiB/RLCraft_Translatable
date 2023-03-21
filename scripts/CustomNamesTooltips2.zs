@@ -7,7 +7,7 @@ import crafttweaker.item.ITooltipFunction;
 print("Translations Script2 starting!");
 // This script makes some little details translatable.
 // Charm cakes: Had to recreate their tooltip from scratch, just to make the names translatable
-// Ozzy liners: When applying to chestplates/leggings, the ">MILD, WARM, COOL" words are originally not translatable,
+// Ozzy liners: When applying to chestplates/leggings, the ">MILD, WARM, COOL" words are originally hardcoded,
 // these commands replace the originals with translatable, colored texts.
 // * If your consider these details are too much of a hassle, you can ignore this script.
 
