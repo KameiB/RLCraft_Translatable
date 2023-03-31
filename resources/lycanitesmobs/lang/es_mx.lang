@@ -767,7 +767,7 @@ tile.streamstone_stairs.description=La esencia pura del oceano fluye por esta pi
 tile.streamstone_slab.name=Losa de piedra torrente
 tile.streamstone_slab.description=La esencia pura del oceano fluye por esta piedra.
 #
-tile.streamstonebrick_fence.name=Cerca de ladrillos de piedra torrente
+tile.streamstonebrick_fence.name=Valla de ladrillos de piedra torrente
 tile.streamstonebrick_fence.description=La esencia pura del oceano fluye por esta piedra.
 #
 tile.streamstonepillar.name=Pilar de piedra torrente
