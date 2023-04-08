@@ -86,40 +86,40 @@ game.setLocalization("en_us", "desc.sereneseasons.autumn", " Autumn");
 game.setLocalization("en_us", "desc.sereneseasons.winter", " Winter");
 
 val crop1 = <minecraft:beetroot_seeds> as crafttweaker.item.IIngredient;
-crop1.removeTooltip(2);
-crop1.removeTooltip(3);
+crop1.removeTooltip("Fertile Seasons");
+crop1.removeTooltip("Autumn");
 <minecraft:beetroot_seeds>.addTooltip(game.localize("desc.sereneseasons.fertile_seasons", "en_us"));
 <minecraft:beetroot_seeds>.addTooltip(format.gold(game.localize("desc.sereneseasons.autumn", "en_us")));
 
 val crop2 = <minecraft:carrot> as crafttweaker.item.IIngredient;
-crop2.removeTooltip(2);
-crop2.removeTooltip(3);
-crop2.removeTooltip(4);
+crop2.removeTooltip("Fertile Seasons");
+crop2.removeTooltip("Spring");
+crop2.removeTooltip("Autumn");
 <minecraft:carrot>.addTooltip(game.localize("desc.sereneseasons.fertile_seasons", "en_us"));
 <minecraft:carrot>.addTooltip(format.green(game.localize("desc.sereneseasons.spring", "en_us")));
 <minecraft:carrot>.addTooltip(format.gold(game.localize("desc.sereneseasons.autumn", "en_us")));
 
 val crop3 = <minecraft:melon_seeds> as crafttweaker.item.IIngredient;
-crop3.removeTooltip(2);
-crop3.removeTooltip(3);
+crop3.removeTooltip("Fertile Seasons");
+crop3.removeTooltip("Summer");
 <minecraft:melon_seeds>.addTooltip(game.localize("desc.sereneseasons.fertile_seasons", "en_us"));
 <minecraft:melon_seeds>.addTooltip(format.yellow(game.localize("desc.sereneseasons.summer", "en_us")));
 
 val crop4 = <minecraft:potato> as crafttweaker.item.IIngredient;
-crop4.removeTooltip(2);
-crop4.removeTooltip(3);
+crop4.removeTooltip("Fertile Seasons");
+crop4.removeTooltip("Spring");
 <minecraft:potato>.addTooltip(game.localize("desc.sereneseasons.fertile_seasons", "en_us"));
 <minecraft:potato>.addTooltip(format.green(game.localize("desc.sereneseasons.spring", "en_us")));
 
 val crop5 = <minecraft:pumpkin_seeds> as crafttweaker.item.IIngredient;
-crop5.removeTooltip(2);
-crop5.removeTooltip(3);
+crop5.removeTooltip("Fertile Seasons");
+crop5.removeTooltip("Autumn");
 <minecraft:pumpkin_seeds>.addTooltip(game.localize("desc.sereneseasons.fertile_seasons", "en_us"));
 <minecraft:pumpkin_seeds>.addTooltip(format.gold(game.localize("desc.sereneseasons.autumn", "en_us")));
 
 val crop6 = <minecraft:reeds> as crafttweaker.item.IIngredient;
-crop6.removeTooltip(2);
-crop6.removeTooltip(3);
+crop6.removeTooltip("Fertile Seasons");
+crop6.removeTooltip("Summer");
 <minecraft:reeds>.addTooltip(game.localize("desc.sereneseasons.fertile_seasons", "en_us"));
 <minecraft:reeds>.addTooltip(format.yellow(game.localize("desc.sereneseasons.summer", "en_us")));
 
@@ -130,9 +130,9 @@ crop6.removeTooltip(3);
 //<minecraft:sapling>.addTooltip(format.gold(game.localize("desc.sereneseasons.autumn", "en_us")));
 
 val crop7 = <minecraft:wheat_seeds> as crafttweaker.item.IIngredient;
-crop7.removeTooltip(2);
-crop7.removeTooltip(3);
-crop7.removeTooltip(4);
+crop7.removeTooltip("Fertile Seasons");
+crop7.removeTooltip("Summer");
+crop7.removeTooltip("Autumn");
 <minecraft:wheat_seeds>.addTooltip(game.localize("desc.sereneseasons.fertile_seasons", "en_us"));
 <minecraft:wheat_seeds>.addTooltip(format.yellow(game.localize("desc.sereneseasons.summer", "en_us")));
 <minecraft:wheat_seeds>.addTooltip(format.gold(game.localize("desc.sereneseasons.autumn", "en_us")));
@@ -173,10 +173,10 @@ game.setLocalization("en_us", "item.scarlite_boots.name", "\u00A74\u00A7kScarlit
 <rustic:tomato_seeds>.addTooltip(format.gold(game.localize("desc.sereneseasons.autumn", "en_us")));
 
 val crop8 = <rustic:grape_stem> as crafttweaker.item.IIngredient;
-crop8.removeTooltip(2);
-crop8.removeTooltip(3);
-crop8.removeTooltip(4);
-crop8.removeTooltip(5);
+crop8.removeTooltip("Fertile Seasons");
+crop8.removeTooltip("Spring");
+crop8.removeTooltip("Summer");
+crop8.removeTooltip("Autumn");
 <rustic:grape_stem>.addTooltip(game.localize("desc.sereneseasons.fertile_seasons", "en_us"));
 <rustic:grape_stem>.addTooltip(format.green(game.localize("desc.sereneseasons.spring", "en_us")));
 <rustic:grape_stem>.addTooltip(format.yellow(game.localize("desc.sereneseasons.summer", "en_us")));

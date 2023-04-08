@@ -4,6 +4,19 @@ import crafttweaker.block.IBlockDefinition;
 
 print("Script starting!");
 
+events.onPlayerTick(function(event as crafttweaker.event.PlayerTickEvent) {
+  var player = event.player;
+  var potionToRemove = <potion:srparasites:viral>;
+  var maxAmplifierAllowed = 9;
+  if player.isPotionActive(potionToRemove) {
+    var active = player.getActivePotionEffect(potionToRemove);
+    if active.amplifier > maxAmplifierAllowed {
+      player.removePotionEffect(potionToRemove);
+      player.addPotionEffect(<potion:srparasites:viral>.makePotionEffect(active.duration, 9));
+    }
+  }
+});
+
 /*
 <simpledifficulty:wool_helmet:*>.addTooltip(format.darkRed("+2 Warmth"));
 <simpledifficulty:wool_chestplate:*>.addTooltip(format.darkRed("+2 Warmth"));
