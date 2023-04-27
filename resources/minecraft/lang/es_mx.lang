@@ -1,4 +1,6 @@
 ## Translated by KameiB for RLCraft 2.9.2
+options.graphics.fancy=Detallado
+options.graphics.fast=Rápido
 
 item.fishingRod.name=Caña de pescar ancestral
 item.fishingRod.addedtooltip.1=Solo es un componente de crafteo!
@@ -200,7 +202,6 @@ item.shulkerShell.name=Caparazon de shulker
 item.skull.skeleton.name=Craneo de esqueleto
 item.skull.wither.name=Craneo de Wither
 
-
 tile.pistonBase.name=Piston
 tile.pistonStickyBase.name=Piston pegajoso
 
@@ -226,7 +227,6 @@ item.reeds.name=Cañas de azucar
 item.sugar.name=Azucar
 item.compass.name=Brujula
 item.ghastTear.name=Lagrima de ghast
-
 
 item.brewingStand.name=Alambique alquimico
 
@@ -258,6 +258,7 @@ enchantment.vanishing_curse=§cMaldicion de desaparicion§r
 enchantment.waterWalker=Agilidad acuatica
 enchantment.waterWorker=Afinidad acuatica
 
+death.attack.drown=%1$s descanse en pez.
 
 # Added by KameiB for UsefulTooltips.zs
 effect.moveSpeed.detail.1=Vel. de movimiento: +20%

@@ -408,6 +408,7 @@ message.srparasites.fearitem=El terror te inmobiliza!
 message.srparasites.fearblock=El terror te inmobiliza! 
 message.srparasites.feargui=El terror te inmobiliza! 
 message.srparasites.evolutionsleep=No puedes dormir ahora...
+message.srparasites.armortooltips1=Adaptacion actual
 
 tootip.srparasites.lurecomp.1=Un trozo de entrañas de rupter. Componente de carnada.
 tootip.srparasites.lurecomp.2=Un corazon asquerosamente hinchado, cosechado de un cuerpo asimilado. Componente de carnada.
