@@ -810,4 +810,8 @@ legs48.removeTooltip("> COOL");
 <variedcommodities:diamond_skirt:*>.withTag({"carrots:ArmorXLining_value": -1}).addTooltip(format.gold(game.localize("tooltip.auw.xlining.ozzy.auto_adjust", "en_us")) ~ " " ~ format.darkAqua(game.localize("tooltip.auw.xlining.ozzy_cool", "en_us")));
 
 
+// === Custom Main Menu ===
+game.setLocalization("en_us","menu.custommainmenu.hostyourserver", "Host your own server!");
+game.setLocalization("en_us","menu.quit.hover", "Embrace Cowardice?");
+
 print("Translations Script2 ending!");
