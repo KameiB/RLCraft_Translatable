@@ -56,7 +56,7 @@ events.onPlayerTick(function(event as crafttweaker.event.PlayerTickEvent) {
   }
 });
 
-/*  
+/*
 <rustic:chili_pepper_seeds>.addTooltip("Fertile Seasons:");
 <rustic:chili_pepper_seeds>.addTooltip(format.yellow(" Summer"));
 <rustic:tomato_seeds>.addTooltip("Fertile Seasons:");
@@ -86,7 +86,8 @@ events.onPlayerTick(function(event as crafttweaker.event.PlayerTickEvent) {
 <betternether:bone_block>.displayName = "Smooth Bone Block";
 
 <bountifulbaubles:reforger>.displayName = "Baubles Reforging Station";
-*/  
+*/
+
 game.setLocalization("en_us", "item.fish.cod.raw.name", "River Fish");
 <minecraft:fish:0>.displayName = game.localize("item.fish.cod.raw.name", "en_us");
 game.setLocalization("en_us", "item.fish.salmon.raw.name", "Mountain Fish");
@@ -100,7 +101,8 @@ game.setLocalization("en_us", "item.fish.cod.cooked.name", "Cooked River Fish");
 game.setLocalization("en_us", "item.fish.salmon.cooked.name", "Cooked Mountain Fish");
 <minecraft:cooked_fish:1>.displayName = game.localize("item.fish.salmon.cooked.name", "en_us");
 
-/*  
+
+/*
 <minecraft:fish:0>.displayName = "River Fish";
 <minecraft:fish:1>.displayName = "Mountain Fish";
 <minecraft:fish:2>.displayName = "Tropical Fish";
@@ -127,7 +129,7 @@ game.setLocalization("en_us", "item.fish.salmon.cooked.name", "Cooked Mountain F
 <variedcommodities:skull>.addTooltip(format.green("One of many skulls dropped by Asmodeus, the lost souls inside can still be heard screaming."));
 
 <minecraft:saddle>.displayName = "Basic Saddle";
-*/  
+*/
 
 //stupid dupe bug lmaoooooooooooooooooo
 
