@@ -3,7 +3,7 @@
 enchantment.RinsPurity=Pureza
 enchantment.somanyenchantments.rinspurity.desc=Pureza de Rin
 
-enchantment.Rune_PiercingCapabilities=Runa: Capacidades de perforacion
+enchantment.Rune_PiercingCapabilities=§aRuna: Capacidades de perforacion
 enchantment.somanyenchantments.rune_piercingcapabilities.desc=Una de las runas. Permite que tu ataque atraviese la armadura de un enemigo. (25%% * Nivel).
 
 enchantment.AtomicDeconstructor=Deconstructor atomico
@@ -93,8 +93,8 @@ enchantment.somanyenchantments.culling.desc=Mientras atacas a enemigos con poca 
 enchantment.AdvancedKnockback=Empuje avanzado
 enchantment.somanyenchantments.advancedknockback.desc=Version avanzada de Empuje.
 
-enchantment.Rune_MagicalBlessing=Runa: Bendicion magica
-enchantment.somanyenchantments.rune_magicalblessing.desc=Convierte tu daño en magia (en otras palabras, es como si hubieras infligido un daño magico) en un 25%% con cada nivel. Tambien otorga un daño adicional (como filo).
+enchantment.Rune_MagicalBlessing=§aRuna: Bendicion magica
+enchantment.somanyenchantments.rune_magicalblessing.desc=Una de las runas. Convierte tu daño en magia (en otras palabras, es como si hubieras infligido un daño magico) en un 25%% con cada nivel. Tambien otorga un daño adicional (como filo).
 
 enchantment.PenetratingEdge=Hoja penetrante
 enchantment.somanyenchantments.penetratingedge.desc=Los adversarios con armaduras resistentes recibiran daño adicional.
@@ -135,8 +135,8 @@ enchantment.somanyenchantments.advancedpower.desc=Version avanzada de Poder. (1.
 enchantment.CriticalStrike=Golpe critico
 enchantment.somanyenchantments.criticalstrike.desc=Da a tu ataque una oportunidad de aplicar mas daño basado en tu daño por golpe. Usa distribucion pseudo-aleatoria en lugar de completamente aleatoria.
 
-enchantment.Rune_Resurrection=Runa: Resurreccion
-enchantment.somanyenchantments.rune_resurrection.desc=Cuando el usuario (debe ser un jugador) muere, reaparecera en su punto de muerte con sus elementos intactos.
+enchantment.Rune_Resurrection=§aRuna: Resurreccion
+enchantment.somanyenchantments.rune_resurrection.desc=Una de las runas. Cuando el usuario (debe ser un jugador) muere, reaparecera en su punto de muerte con sus elementos intactos.
 
 enchantment.AdvancedLooting=Saqueo avanzado
 enchantment.somanyenchantments.advancedlooting.desc=Version avanzada de Saqueo. Desde [3 + (Nivel -1) * 2]%% hasta (minimo + 2 + Nivel * 2).
@@ -168,8 +168,8 @@ enchantment.somanyenchantments.levitator.desc=Los ataques aplican levitacion. (N
 enchantment.Powerless=Impotente
 enchantment.somanyenchantments.powerless.desc=Reduce el daño de flecha disparada desde un arco. (-0.5 + (Nivel / 2))
 
-enchantment.Rune_Revival=Runa: Renacimiento
-enchantment.somanyenchantments.rune_revival.desc=Da al objeto la oportunidad de volver a restaurarse si esta a punto de ser destruido dependiendo del nivel. La durabilidad restaurada tambien depende del nivel.  
+enchantment.Rune_Revival=§aRuna: Renacimiento
+enchantment.somanyenchantments.rune_revival.desc=Una de las runas. Da al objeto la oportunidad de volver a restaurarse si esta a punto de ser destruido dependiendo del nivel. La durabilidad restaurada tambien depende del nivel.  
 
 enchantment.AdvancedPunch=Retroceso avanzado
 enchantment.somanyenchantments.advancedpunch.desc=Version avanzada de Retroceso. (1 + (Nivel * 2)) bloques
@@ -257,7 +257,7 @@ enchantment.somanyenchantments.supremebaneofarthropods.desc=Version maxima, el n
 enchantment.SupremeSmite=Castigo supremo
 enchantment.somanyenchantments.supremesmite.desc=Version maxima, el nivel mas potente de Castigo (5 * Nivel).
 
-enchantment.CurseofPossession=§cMaldicion de posesion§r
+enchantment.CurseofPossession=§cMaldicion de posesion
 enchantment.somanyenchantments.curseofpossession.desc=Los objetos no pueden abandonar el inventario del jugador
 
 enchantment.fieryshield=Escudo ardiente
@@ -302,8 +302,8 @@ enchantment.somanyenchantments.afl.desc=Version avanzada de Flecha incendiaria (
 enchantment.sfl=Flecha incendiaria suprema
 enchantment.somanyenchantments.sfl.desc=Version maxima, el nivel mas potente de Flecha incendiaria (30 segundos).
 
-enchantment.rune_starfall=Runa: Lluvia de estrellas
-enchantment.somanyenchantments.rune_starfall.desc=Las flechas disparadas hacia el cielo crearan una pequeña tormenta de flechas.
+enchantment.rune_starfall=§aRuna: Lluvia de estrellas
+enchantment.somanyenchantments.rune_starfall.desc=Una de las runas. Las flechas disparadas hacia el cielo crearan una pequeña tormenta de flechas.
 
 enchantment.strengthenedvitality=Vitalidad fortalecida
 enchantment.somanyenchantments.strengthenedvitality.desc=Aumenta tu salud dependiendo de tu salud maxima. (10 * Nivel)%%
@@ -353,7 +353,7 @@ enchantment.somanyenchantments.innerberserk.desc=Aumenta el daño que hace el us
 enchantment.CurseofVulnerability=§cMaldicion de vulnerabilidad
 enchantment.somanyenchantments.curseofvulnerability.desc=Amplifica el daño recibido por el usuario.
 
-enchantment.CurseInflicter=§cRuna: Maldiciones selladas§r
+enchantment.CurseInflicter=§cRuna: Maldiciones selladas
 enchantment.somanyenchantments.curseinflicter.desc=Los ataques dan la oportunidad de hechizar con un encantamiento de maldicion a la entidad atacada si esta usando equipo.
 
 enchantment.CurseOfInaccuracy=§cMaldicion de inexactitud
@@ -365,19 +365,19 @@ enchantment.somanyenchantments.inhumane.desc=Los ataques infligen daño adiciona
 enchantment.DarkShadows=Sombras oscuras
 enchantment.somanyenchantments.darkshadows.desc=Los ataques infligen daño adicional si tanto el usuario como el objetivo estan en areas oscuras. El nivel III y superiores aplican ceguera.
 
-enchantment.Rune_ArrowPiercing=§aRuna: Perforacion de flecha§r
-enchantment.somanyenchantments.rune_armorpiercing.desc=Las flechas perforaran armaduras. 
+enchantment.Rune_ArrowPiercing=§aRuna: Flecha perforadora
+enchantment.somanyenchantments.rune_armorpiercing.desc=Una de las runas. Permite que tus flechas atraviesen la armadura de un enemigo. (25%% * Nivel).
 
-enchantment.CurseAmplifier=§cAmplificador de maldicion§r
+enchantment.CurseAmplifier=§cAmplificador de maldicion
 enchantment.somanyenchantments.curseamplifier.desc=Amplifica las maldiciones que el usuario tiene actualmente.
 
-enchantment.AncientCurseInflicter=§cMaldiciones antiguas selladas§r
+enchantment.AncientCurseInflicter=§cMaldiciones antiguas selladas
 enchantment.somanyenchantments.ancientcurseinflicter.desc=Un antiguo encantamiento que hace que los ataques maldigan los equipos usados y desgastados de una entidad.
 
 enchantment.CurseofHolding=§cMaldicion de retencion
 enchantment.somanyenchantments.curseofholding.desc=Maldice a un jugador si tiene este objeto. (Te aplica efectos negativos como Lentitud, Debilidad, Hambre, Fatiga minera
 
-enchantment.CurseofDecay=§cMaldicion de decadencia§r
+enchantment.CurseofDecay=§cMaldicion de decadencia
 enchantment.somanyenchantments.curseofdecay.desc=Maldice un objeto para que se rompa muy rapido si se deja en el suelo.
 
 enchantment.LightWeight=Peso ligero
@@ -416,7 +416,7 @@ enchantment.somanyenchantments.swordmastery.desc=Un encantamiento ancestral que 
 enchantment.TrueStrike=Golpe certero
 enchantment.somanyenchantments.truestrike.desc=Permite al usuario penetrar a traves del encantamiento Evasion del oponente en un 75%% y previene que el usuario reciba la maldicion de inexactitud. 
 
-enchantment.Pandora=§4Maldicion de Pandora§r
+enchantment.Pandora=§4Maldicion de Pandora
 enchantment.somanyenchantments.pandora.desc=Esta maldicion ira maldiciendo items en tu inventario hasta que se desvanezca sola. Fase 1: Su nombre estara oculto, pero comenzara a maldecir items en tu inventario. Fase 2: Cuando haya aplicado 3 maldiciones, revelara su nombre. Fase 3: Cuando haya aplicado 5 maldiciones, dejara el item inicial, pero las maldiciones que trajo se quedaran.
 
 potion.potency.4=V
