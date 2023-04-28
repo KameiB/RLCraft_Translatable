@@ -9,14 +9,15 @@ gui.createWorld.worldtype.line3=§9Tipo de mundo: %s§r bajo §9Mas Opciones de 
 gui.createWorld.worldtype.line4=Para usarlo en un servidor dedicado, asigne
 gui.createWorld.worldtype.line5=§9level-type=RTG§r en §9server.properties§r
 
-gui.createWorld.customize.clipboard=Copiar condiguraciones al portapapeles
-gui.createWorld.customize.clipboard.tooltip=Da clic a este boton para copiar las configuraciones actuales al portapapeles, para pegarlas facilmente al campo generator-settings del archivo server.properties.
+gui.createWorld.customize.clipboard=Copiar al portapapeles
+gui.createWorld.customize.clipboard.tooltip=Copiar las configuraciones actuales al portapapeles, para pegarlas facilmente al campo generator-settings del archivo server.properties.
 
 gui.createWorld.customize.title.maintitle=Configuraciones de Mundo Personalizado RTG
 
 gui.createWorld.customize.title.PAGE1=Configuraciones de Terreno y Superficie
 
 gui.createWorld.customize.category.WORLD=Configuraciones de Mundo
+gui.createWorld.customize.setting.seaLevel=Nivel del mar
 gui.createWorld.customize.setting.fixedBiome=Bioma Fijo
 gui.createWorld.customize.setting.fixedBiome.tooltip=Elige el bioma para un mundo mono-bioma
 gui.createWorld.customize.setting.biomeSize=Tamaño de Bioma
@@ -25,7 +26,7 @@ gui.createWorld.customize.setting.biomeSize.tooltip=Cambia el tamaño promedio d
 gui.createWorld.customize.category.SURFACE=Configuraciones de Superifice
 gui.createWorld.customize.setting.useBoulders=Habilitar Peñascos
 gui.createWorld.customize.setting.useBoulders.tooltip=Habilita la generacion de Peñascos
-gui.createWorld.customize.setting.boulderMult=Probabilidad de Peñasco 1/x
+gui.createWorld.customize.setting.boulderMult=Probab. de Peñasco 1/x
 gui.createWorld.customize.setting.boulderMult.tooltip=La probabilidad de que se genere un peñasco
 gui.createWorld.customize.setting.sandDuneHeight=Altura de Dunas de Arena
 gui.createWorld.customize.setting.sandDuneHeight.tooltip=Ajusta la altura de las dunas de arena
@@ -45,7 +46,7 @@ gui.createWorld.customize.setting.caveChance=Probabilidad de Cueva
 gui.createWorld.customize.setting.caveChance.tooltip=Valores MAYORES = MENOS cuevas
 gui.createWorld.customize.setting.caveDensity=Densidad de Cueva
 gui.createWorld.customize.setting.caveDensity.tooltip=Valores MAYORES = Cuevas MaS GRANDES
-gui.createWorld.customize.setting.useRavines=Ravines
+gui.createWorld.customize.setting.useRavines=Habilitar Ravines
 gui.createWorld.customize.setting.useRavines.tooltip=Habilitar generacion de barrancos (Ravines)
 gui.createWorld.customize.setting.ravineChance=Prob. de Ravine
 gui.createWorld.customize.setting.ravineChance.tooltip=Valores MAYORES = MENOS barrancos (Ravines)
@@ -53,9 +54,9 @@ gui.createWorld.customize.setting.ravineChance.tooltip=Valores MAYORES = MENOS b
 gui.createWorld.customize.title.PAGE2=Configuracion de Caracteristicas del Agua
 
 gui.createWorld.customize.category.RIVERS=Configuracion de Rios
-gui.createWorld.customize.setting.riverSize=Tamaño
-gui.createWorld.customize.setting.riverSize.tooltip=Ajusta el ancho de los rios
-gui.createWorld.customize.setting.riverFrequency=Multiplicador de frecuencia
+gui.createWorld.customize.setting.riverSizeMult=Tamaño del río
+gui.createWorld.customize.setting.riverSizeMult.tooltip=Ajusta el ancho de los rios
+gui.createWorld.customize.setting.riverFrequency=Multip. de frecuencia
 gui.createWorld.customize.setting.riverFrequency.tooltip=Ajusta que tan frecuentemente se generan los rios
 gui.createWorld.customize.setting.riverBendMult=Multiplicador de curvas
 gui.createWorld.customize.setting.riverBendMult.tooltip=Ajusta cuantas curvas tendran los rios
@@ -67,9 +68,9 @@ gui.createWorld.customize.setting.riverCutOffScale.tooltip=Numeros mayores hacen
 gui.createWorld.customize.category.RTGLAKES=Config de Lagos RTG
 gui.createWorld.customize.setting.RTGlakeSizeMult=Multiplicador de tamaño
 gui.createWorld.customize.setting.RTGlakeSizeMult.tooltip=Tamaño de los lagos personalizados RTG (Bioma de Rio)
-gui.createWorld.customize.setting.RTGlakeFreqMult=Multiplicador de frecuencia
+gui.createWorld.customize.setting.RTGlakeFreqMult=Multip. de frecuencia
 gui.createWorld.customize.setting.RTGlakeFreqMult.tooltip=La frecuencia con que se generaran los lagos personalizados RTG
-gui.createWorld.customize.setting.RTGlakeShoreBend=Multip. difuminacion de playa
+gui.createWorld.customize.setting.RTGlakeShoreBend=Difuminacion de playa
 gui.createWorld.customize.setting.RTGlakeShoreBend.tooltip=Ajusta cuanto se difuminaran las playas.
 
 gui.createWorld.customize.category.VANILLASURFACELAKES=Config lagos de superficie Vanilla
@@ -112,7 +113,7 @@ gui.createWorld.customize.setting.villageSize.tooltip=Ajusta el tamaño promedio
 gui.createWorld.customize.category.MINESHAFTS=Config. Minas abandonadas
 gui.createWorld.customize.setting.useMineShafts=Minas abandonadas
 gui.createWorld.customize.setting.useMineShafts.tooltip=Habilitar generacion de minas abandonadas
-gui.createWorld.customize.setting.mineShaftChance=Prob. Minas abandonadas
+gui.createWorld.customize.setting.mineShaftChance=Prob. Mina abandonada
 gui.createWorld.customize.setting.mineShaftChance.tooltip=Probabilidad de generar una mina abandonada
 
 gui.createWorld.customize.category.DUNGEONS=Config. Mazmorras
@@ -124,7 +125,7 @@ gui.createWorld.customize.setting.dungeonChance.tooltip=Probabilidad de generar 
 gui.createWorld.customize.category.TEMPLES=Config. estructuras esparcidas
 gui.createWorld.customize.setting.useTemples=Estructuras esparcidas
 gui.createWorld.customize.setting.useTemples.tooltip=Habilitar estructuras esparcidas (templos de desierto/jungla, cabañas de bruja, iglus, etc..)
-gui.createWorld.customize.setting.templeDistance=Distancia entre estructuras
+gui.createWorld.customize.setting.templeDistance=Dist. entre estructuras
 gui.createWorld.customize.setting.templeDistance.tooltip=Distancia entre estructuras esparcidas
 
 gui.createWorld.customize.category.MONUMENTS=Config. Monumento oceanico
