@@ -38,4 +38,10 @@
 ### [Shield Break](https://github.com/KameiB/ShieldBreak)
 > [Lang Keys] Added lang key for tooltip "Shielding Power:".  
 > [Tooltip] Replaced hardcoded "Shielding Power:" text with lang key.  
-- Any corrections are welcome so it can be Pulled to the owner's project.
+- Any corrections are welcome so it can be Pulled to the owner's project.  
+
+### [Bountiful Baubles](https://github.com/KameiB/BountifulBaubles/tree/forge-1.12.x)
+> Added cobweb immunity to Ankh Charm and Ankh Shield.  
+> Tooltip doesn't add a space before the bauble name if the modifier text is empty in the lang file.  
+> Added lang keys for config items.  
+> Added es_mx.lang (texts specific for RLCraft).  
