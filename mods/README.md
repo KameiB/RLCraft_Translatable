@@ -27,6 +27,7 @@
 ### [Forgotten Items](https://github.com/KameiB/ForgottenItems)
 > [Lang Keys] Added items descriptions lang keys.  
 > [Tooltips] Replaced hardcoded items descriptions with lang keys and call I18n on Client side.  
+> [Server messages] Ender Talisman and item recipes messages are translatable now.  
 - Any corrections are welcome so it can be Pulled to the owner's project.
 
 ### [Rough Tweaks](https://github.com/KameiB/Rough-Tweaks)
