@@ -12,7 +12,7 @@ enchantment.aquacultureMagnetic=Magnetico
 enchantment.aquacultureShortCast=Lanzamiento corto
 
 # Rod
-item.fishingRod.name=Caña de pescar de madera
+item.fishingRod.name=Caña de pescar Ancestral
 item.IronFishingRod.name=Caña de pescar de hierro
 item.GoldFishingRod.name=Caña de pescar de oro
 item.DiamondFishingRod.name=Caña de pescar de diamante

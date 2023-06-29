@@ -55,8 +55,8 @@ firstaid.config.scalemaxhealth=Escalar Salud Max.
 firstaid.config.scalemaxhealth.tooltip=Si es true, la salud maxima de cada parte del cuerpo se escalara a tus corazones generales, y las entradas de configuracion se multiplicaran para coincidir con la salud maxima
 firstaid.config.capmaxhealth=Topar la Salud Max.
 firstaid.config.capmaxhealth.tooltip=Si es true, la salud maxima sera topada a 6 corazones y la absorcion a 2 corazones por extremidad.\nSi es false, el tope de salud sera mucho mas alto (hasta 64 corazones normales y 16 de absorcion)
-firstaid.config.experimental=Monitorear setHealth
-firstaid.config.experimental.tooltip=Si es true, todos los usos de setHealth de otros mods seran capturados. No deberia causar problemas, pero le permite a mods como Scaling Health usar los Vendajes. Solo del lado del servidor
+firstaid.config.sethealth=Monitorear setHealth
+firstaid.config.sethealth.tooltip=Si es true, todos los usos de setHealth de otros mods seran capturados. No deberia causar problemas, pero le permite a mods como Scaling Health usar los Vendajes. Solo del lado del servidor
 firstaid.config.bandage=Venda basica
 firstaid.config.bandage.tooltip=Configuraciones para el item Venda basica
 firstaid.config.plaster=Curitas
@@ -84,7 +84,7 @@ firstaid.config.visibledurationticks.tooltip=Especifica cuantos ticks (20 ticks 
 firstaid.config.flash=HUD brilla con cambios de salud
 firstaid.config.flash.tooltip=Si es true, la barra de estado brillara por un momento si tu salud cambio.\nSolo afecta al estilo PLAYER_MODEL
 firstaid.config.position=Posicion
-firstaid.config.position.tooltip=La posicion relativa de la barra de estado.\n0 = Superior Izquierda\n1 = Superior Derecha\n2 = Inferior Izquierda\n3 = Inferior Derecha
+firstaid.config.position.tooltip=La posicion relativa de la barra de estado.\nTOP_LEFT §7(Superior Izquierda)\nTOP_RIGHT §7(Superior Derecha)\nBOTTOM_LEFT §7(Inferior Izquierda)\nBOTTOM_RIGHT §7(Inferior Derecha)
 firstaid.config.xoffset=Desfase Eje X
 firstaid.config.xoffset.tooltip=Desfase en el eje X
 firstaid.config.yoffset=Desfase Eje Y
@@ -115,7 +115,24 @@ firstaid.config.hardmode.tooltip=Si se activa, varias distribuciones de daño se
 #firstaid.config.vanillaHealthCalculation=Calculo de Daño Vanilla
 #firstaid.config.vanillaHealthCalculation.tooltip=Especifica como se calcula la salud Vanilla. Afecta a la barra de salud Vanilla, asi como los valores que pueden ver otros mods cuando solicitan conocer la salud del jugador.\n§dAVERAGE_ALL §7Simplemente toma todas las extremidades y calcula el promedio de ellas.\n§dAVERAGE_CRITICAL §7Toma las extremidades criticas y calcula el promedio de ellas.\n§dMIN_CRITICAL §7Toma el valor de salud mas bajo de las extremidades criticas\n\nNo tendra ningun efecto si las extremidades criticas han sido deshabilitadas.\n§eValores validos:\nAVERAGE_ALL §7(Promedio de todas)\nAVERAGE_CRITICAL §7(Promedio de criticas)\nMIN_CRITICAL §7(Minimos de las Criticas)\nCRITICAL_50_PERCENT_OTHER_50_PERCENT §7(Criticas 50%%, Otras 50%%)
 
-# Trying to use a script to differenciate this items from Rough Tweaks
+firstaid.Overlay.armortooltipmode=Descr. de armaduras1
+firstaid.Overlay.armorTooltipMode=Descr. de armaduras2
+firstaid:Overlay.armortooltipmode=Descr. de armaduras3
+firstaid:Overlay.armorTooltipMode=Descr. de armaduras4
+firstaid.Overlay.tooltipmode=Descr. de armaduras5
+firstaid.Overlay.tooltipMode=Descr. de armaduras6
+firstaid:Overlay.tooltipmode=Descr. de armaduras7
+firstaid:Overlay.tooltipMode=Descr. de armaduras8
+firstaid:Overlay:armortooltipmode=Descr. de armaduras1_
+firstaid:Overlay:armorTooltipMode=Descr. de armaduras2_
+firstaid:Overlay:armortooltipmode=Descr. de armaduras3_
+firstaid:Overlay:armorTooltipMode=Descr. de armaduras4_
+firstaid:Overlay:tooltipmode=Descr. de armaduras5_
+firstaid:Overlay:tooltipMode=Descr. de armaduras6_
+firstaid:Overlay:tooltipmode=Descr. de armaduras7_
+firstaid:Overlay:tooltipMode=Descr. de armaduras8_
+
+# Trying to differenciate this items from Rough Tweaks' ones
 item.firstaid.bandage.name=Venda basica
 item.firstaid.plaster.name=Curitas
 

@@ -904,7 +904,7 @@ entity.abtu.combat=Una vez que abtu detecta a su presa, no se detendra para devo
 entity.aegis.name=Aegis
 entity.aegis.description=Elementales de orden encargados de hacer respetar la ley en las aldeas. No dejaran que ningun malechor se salga con la suya y sera perseguido sin piedad.
 entity.aegis.habitat=Se manifiestan en areas ricas con el elemento orden. Las aldeas crean comunmente a estas criaturas.",
-entity.lycanitesmobs.aegis.combat=Tienen dos modos: un modo defensivo en el que bloquearan la gran parte del daño con dos escudos giratorios, y el modo ofensivo en el que usaran cuatro cuchillas giratorias debilitando a los que se pasen de listos.
+    "entity.lycanitesmobs.aegis.combat": "Tienen dos modos: un modo defensivo en el que bloquearan la gran parte del daño con dos escudos giratorios, y el modo ofensivo en el que usaran cuatro cuchillas giratorias debilitando a los que se pasen de listos.
 # ========================================================================
 entity.afrit.name=Afrit
 entity.afrit.description=Diablillos de fuego muy malvados que estan concentrados en la destruccion. Quemaran agresivamente el mundo que los rodea. Tenerlo como mascota garantiza Resistencia al fuego.

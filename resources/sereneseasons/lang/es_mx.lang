@@ -15,6 +15,41 @@ item.ss_icon.name=Icono de SS
 
 item.season_clock.name=Reloj de estaciones
 
+# Added by KameiB. Config screens
+sereneseasons.general_category=General
+sereneseasons.general_category.tooltip=Configuraciones generales
+sereneseasons.general_category.seasonal_crops=Cultivos estacionales
+sereneseasons.general_category.seasonal_crops.tooltip=Los cultivos son afectados por las estaciones?
+sereneseasons.general_category.crops_break=Cultivos se rompen
+sereneseasons.general_category.crops_break.tooltip=Los cultivos se romperán fuera de su estación?\nSi es falso, simplemente no crecerán.
+sereneseasons.general_category.ignore_unlisted_crops=Ignorar cultivos no listados
+sereneseasons.general_category.ignore_unlisted_crops.tooltip=Las semillas no listadas son fértiles todas las estaciones?\nFalso = Son fértiles todas excepto Invierno.
+sereneseasons.general_category.crop_tooltips=Descripción en cultivos
+sereneseasons.general_category.crop_tooltips.tooltip=Incluir a la descripción de los cultivos, sus estaciones fértiles?\nNota: Sólo aplica a cultivos listados.
+sereneseasons.general_category.greenhouse_glass_max_height=Alcance Vidrio invernadero
+sereneseasons.general_category.greenhouse_glass_max_height.tooltip=Altura máxima a la que el vidrio de invernadero puede colocarse sobre un cultivo para que sea fértil fuera de su estación.
+seed_tooltips=Descripción en semillas
+seed_tooltips.tooltip=Incluir a la descripción de las semillas, sus estaciones fértiles?\nNota: Sólo aplica a semillas listadas.
+
+sereneseasons.seasonal_fertility=Fertilidad
+sereneseasons.seasonal_fertility.tooltip=Fertilidad por estaciones
+sereneseasons.seasonal_fertility.spring_crops=Cultivos de Primavera
+sereneseasons.seasonal_fertility.spring_crops.tooltip=Cultivos fértiles en Primavera\n(Enlista ya sea la semilla, el cultivo o el bloque de cultivo)
+spring_seeds=Semillas de Primavera
+spring_seeds.tooltip=Semillas fértiles en Primavera\n(Enlista la semilla)
+sereneseasons.seasonal_fertility.summer_crops=Cultivos de Verano
+sereneseasons.seasonal_fertility.summer_crops.tooltip=Cultivos fértiles en Verano\n(Enlista ya sea la semilla, el cultivo o el bloque de cultivo)
+summer_seeds=Semillas de Verano
+summer_seeds.tooltip=Semillas fértiles en Verano\n(Enlista la semilla)
+sereneseasons.seasonal_fertility.autumn_crops=Cultivos de Otoño
+sereneseasons.seasonal_fertility.autumn_crops.tooltip=Cultivos fértiles en Otoño\n(Enlista ya sea la semilla, el cultivo o el bloque de cultivo)
+autumn_seeds=Semillas de Otoño
+autumn_seeds.tooltip=Semillas fértiles en Otoño\n(Enlista la semilla)
+sereneseasons.seasonal_fertility.winter_crops=Cultivos de Invierno
+sereneseasons.seasonal_fertility.winter_crops.tooltip=Cultivos fértiles en Invierno\n(Enlista ya sea la semilla, el cultivo o el bloque de cultivo)
+winter_seeds=Semillas de Invierno
+winter_seeds.tooltip=Semillas fértiles en Invierno\n(Enlista la semilla)
+
 # Added by KameiB. Custom tooltips from Shiv.zs
 tile.greenhouse_glass.addedtooltip.1=Permite que los cultivos que esten hasta 7 bloques debajo de este cristal, crezcan en cualquier estacion
 

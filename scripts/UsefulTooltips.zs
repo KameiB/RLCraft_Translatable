@@ -5,7 +5,7 @@ import crafttweaker.item.ITooltipFunction;
 #priority 0
 
 print("Kame Vision Script starting!");
-// Just for personal use. I thought it'd be nice to have extra info on some items.
+// Optional script. I thought it'd be nice to have extra info on some items.
 
 
 // === Artifacts ===
@@ -246,6 +246,536 @@ game.setLocalization("en_us", "potion.effect.skystride.addedtooltip.2", "Lets yo
 <minecraft:lingering_potion>.withTag({Potion: "elenaidodge:skystride"}).addTooltip(format.blue(game.localize("potion.effect.skystride.addedtooltip.2", "en_us")));
 <minecraft:lingering_potion>.withTag({Potion: "elenaidodge:long_skystride"}).addTooltip(format.darkPurple(game.localize("potion.effect.skystride.addedtooltip.1", "en_us")));
 <minecraft:lingering_potion>.withTag({Potion: "elenaidodge:long_skystride"}).addTooltip(format.blue(game.localize("potion.effect.skystride.addedtooltip.2", "en_us")));
+
+// === Fishing Made Better ===
+game.setLocalization("en_us", "tooltip.fishingmadebetter.eats", "Eats");
+var fishbait1 = game.localize("item.fish.clownfish.raw.name", "en_us") ~ ", " ~
+                    game.localize("item.spiderEye.name", "en_us") ~ ", " ~
+                    game.localize("item.rottenFlesh.name", "en_us");
+var fishbait2 = game.localize("item.carrots.name", "en_us") ~ ", " ~
+                    game.localize("item.potato.name", "en_us") ~ ", " ~
+                    game.localize("item.beetroot.name", "en_us");
+var fishbait3 = game.localize("item.carrots.name", "en_us") ~ ", " ~
+                    game.localize("item.potato.name", "en_us") ~ ", " ~
+                    game.localize("item.beetroot.name", "en_us") ~ ", " ~
+                    game.localize("item.beetroot_seeds.name", "en_us") ~ ", " ~
+                    game.localize("item.apple.name", "en_us") ~ ", " ~
+                    game.localize("item.seeds.name", "en_us") ~ ", " ~
+                    game.localize("item.seeds_pumpkin.name", "en_us") ~ ", " ~
+                    game.localize("item.melon.name", "en_us") ~ ", " ~
+                    game.localize("item.seeds_melon.name", "en_us");
+var fishbait4 = game.localize("item.fish.clownfish.raw.name", "en_us") ~ ", " ~
+                    game.localize("item.spiderEye.name", "en_us") ~ ", " ~
+                    game.localize("item.rottenFlesh.name", "en_us") ~ ", " ~
+                    game.localize("item.muttonRaw.name", "en_us") ~ ", " ~
+                    game.localize("item.porkchopRaw.name", "en_us") ~ ", " ~
+                    game.localize("item.chickenRaw.name", "en_us") ~ ", " ~
+                    game.localize("item.beefRaw.name", "en_us") ~ ", " ~
+                    game.localize("item.rabbitRaw.name", "en_us");
+var fishbait5 = game.localize("item.carrots.name", "en_us") ~ ", " ~
+                    game.localize("item.potato.name", "en_us") ~ ", " ~
+                    game.localize("item.beetroot.name", "en_us") ~ ", " ~
+                    game.localize("item.beetroot_seeds.name", "en_us") ~ ", " ~
+                    game.localize("item.seeds.name", "en_us") ~ ", " ~
+                    game.localize("item.seeds_pumpkin.name", "en_us") ~ ", " ~
+                    game.localize("item.seeds_melon.name", "en_us");
+var fishbait6 = game.localize("item.fish.clownfish.raw.name", "en_us") ~ ", " ~
+                    game.localize("item.spiderEye.name", "en_us") ~ ", " ~
+                    game.localize("item.rottenFlesh.name", "en_us") ~ ", " ~
+                    game.localize("item.carrots.name", "en_us") ~ ", " ~
+                    game.localize("item.potato.name", "en_us") ~ ", " ~
+                    game.localize("item.beetroot.name", "en_us") ~ ", " ~
+                    game.localize("item.beetroot_seeds.name", "en_us") ~ ", " ~
+                    game.localize("item.seeds.name", "en_us") ~ ", " ~
+                    game.localize("item.seeds_pumpkin.name", "en_us") ~ ", " ~
+                    game.localize("item.seeds_melon.name", "en_us");
+var fishbait7 = game.localize("item.apple.name", "en_us") ~ ", " ~
+                    game.localize("item.melon.name", "en_us");
+var fishbait8 = game.localize("item.fish.clownfish.raw.name", "en_us") ~ ", " ~
+                    game.localize("item.spiderEye.name", "en_us") ~ ", " ~
+                    game.localize("item.rottenFlesh.name", "en_us") ~ ", " ~
+                    game.localize("item.carrots.name", "en_us") ~ ", " ~
+                    game.localize("item.potato.name", "en_us") ~ ", " ~
+                    game.localize("item.beetroot.name", "en_us") ~ ", " ~
+                    game.localize("item.beetroot_seeds.name", "en_us") ~ ", " ~
+                    game.localize("item.apple.name", "en_us") ~ ", " ~
+                    game.localize("item.seeds.name", "en_us") ~ ", " ~
+                    game.localize("item.seeds_pumpkin.name", "en_us") ~ ", " ~
+                    game.localize("item.melon.name", "en_us") ~ ", " ~
+                    game.localize("item.seeds_melon.name", "en_us");
+var fishbait9 = game.localize("item.fish.clownfish.raw.name", "en_us") ~ ", " ~
+                    game.localize("item.spiderEye.name", "en_us") ~ ", " ~
+                    game.localize("item.rottenFlesh.name", "en_us") ~ ", " ~
+                    game.localize("item.carrots.name", "en_us") ~ ", " ~
+                    game.localize("item.potato.name", "en_us") ~ ", " ~
+                    game.localize("item.beetroot.name", "en_us");
+var fishbait10 = game.localize("item.beetroot_seeds.name", "en_us") ~ ", " ~
+                    game.localize("item.seeds.name", "en_us") ~ ", " ~
+                    game.localize("item.seeds_pumpkin.name", "en_us") ~ ", " ~                
+                    game.localize("item.seeds_melon.name", "en_us");
+var fishbait11 = game.localize("item.beetroot_seeds.name", "en_us") ~ ", " ~
+                    game.localize("item.apple.name", "en_us") ~ ", " ~
+                    game.localize("item.seeds.name", "en_us") ~ ", " ~
+                    game.localize("item.seeds_pumpkin.name", "en_us") ~ ", " ~
+                    game.localize("item.melon.name", "en_us") ~ ", " ~
+                    game.localize("item.seeds_melon.name", "en_us");
+var fishbait12 = game.localize("item.fish.clownfish.raw.name", "en_us") ~ ", " ~
+                    game.localize("item.spiderEye.name", "en_us") ~ ", " ~
+                    game.localize("item.rottenFlesh.name", "en_us") ~ ", " ~
+                    game.localize("item.beetroot_seeds.name", "en_us") ~ ", " ~
+                    game.localize("item.apple.name", "en_us") ~ ", " ~
+                    game.localize("item.seeds.name", "en_us") ~ ", " ~
+                    game.localize("item.seeds_pumpkin.name", "en_us") ~ ", " ~
+                    game.localize("item.melon.name", "en_us") ~ ", " ~
+                    game.localize("item.seeds_melon.name", "en_us");
+var fishbaitA = game.localize("item.fmb.aquaculture:fish:0.name", "en_us") ~ ", " ~ // Bluegill
+                    game.localize("item.fmb.aquaculture:fish:1.name", "en_us") ~ ", " ~ // Perch
+                    game.localize("item.fmb.aquaculture:fish:17.name", "en_us") ~ ", " ~ // Frog
+                    game.localize("item.Seaweed.name", "en_us") ~ ", " ~
+                    game.localize("item.Algae.name", "en_us");
+var fishbaitB = game.localize("item.fmb.aquaculture:fish:0.name", "en_us") ~ ", " ~ // Bluegill
+                    game.localize("item.fmb.aquaculture:fish:1.name", "en_us") ~ ", " ~ // Perch
+                    game.localize("item.fmb.aquaculture:fish:17.name", "en_us"); // Frog
+var fishbaitC = game.localize("item.Seaweed.name", "en_us") ~ ", " ~
+                    game.localize("item.Algae.name", "en_us") ~ ", " ~
+                    game.localize("item.fmb.aquaculture:fish:19.name", "en_us") ~ ", " ~ // Leech
+                    game.localize("item.fmb.aquaculture:fish:37.name", "en_us"); // Goldfish
+var fishbaitD = game.localize("item.fmb.aquaculture:fish:19.name", "en_us") ~ ", " ~ // Leech
+                    game.localize("item.fmb.aquaculture:fish:37.name", "en_us"); // Goldfish
+var fishbaitE = game.localize("item.fmb.aquaculture:fish:9.name", "en_us") ~ ", " ~ // Red Grouper
+                    game.localize("item.fmb.aquaculture:fish:10.name", "en_us") ~ ", " ~ // Arctic Salmon
+                    game.localize("item.fmb.aquaculture:fish:15.name", "en_us") ~ ", " ~ // Giant Squid
+                    game.localize("item.fmb.aquaculture:fish:16.name", "en_us") ~ ", " ~ // Jellyfish
+                    game.localize("item.fmb.aquaculture:fish:26.name", "en_us"); // Herring
+var fishbaitF = game.localize("item.Seaweed.name", "en_us") ~ ", " ~
+                    game.localize("item.Algae.name", "en_us");
+
+<minecraft:fish:1>.addShiftTooltip( // Red Salmon / Mountain Fish. Category 1
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait1
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<minecraft:fish:3>.addShiftTooltip( // Pufferfish / Ocean Fish. Category 1
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait1
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<minecraft:fish:0>.addShiftTooltip( // Cod / River Fish. Category 1
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait1
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<minecraft:fish:2>.addShiftTooltip( // Clownfish / Tropical Fish. Category 2
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait2
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<advanced-fishing:fish:5>.addShiftTooltip( // Golden Koi. Category 3
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait3
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<advanced-fishing:fish:9>.addShiftTooltip( // Wrackke / Nether Sturgeon. Category 4
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait4
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<advanced-fishing:fish:10>.addShiftTooltip( // Quartzander / Quartz Chub. Category 1
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait1
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<advanced-fishing:fish:27>.addShiftTooltip( // Red Fungalfish / Red Shroomfin. Category 5
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait5
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<advanced-fishing:fish:19>.addShiftTooltip( // Angelfish. Category 3
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait3
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<advanced-fishing:fish:11>.addShiftTooltip( // Flarefin Koi. Category 4
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait4
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<advanced-fishing:fish:28>.addShiftTooltip( // Brown Fungalfish / Brown Shroomfin. Category 5
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait5
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<advanced-fishing:fish:6>.addShiftTooltip( // Specular Snapper. Category 6
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait6
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<advanced-fishing:fish:34>.addShiftTooltip( // Sunfish. Category 7
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait7
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<advanced-fishing:fish:3>.addShiftTooltip( // Frost Minnow. Category 5
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait5
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<advanced-fishing:fish:15>.addShiftTooltip( // Chorus Koi. Category 7
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait7
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<advanced-fishing:fish:29>.addShiftTooltip( // Warthead / Fungi Catfish. Category 1
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait1
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<advanced-fishing:fish:23>.addShiftTooltip( // Squid. Category 1
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait1
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<advanced-fishing:fish:0>.addShiftTooltip( // Bluebottle Jellyfish / Jellyfish. Category 1
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait1
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<advanced-fishing:fish:4>.addShiftTooltip( // Mudskinned Piranha / Piranha. Category 4
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait4
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<advanced-fishing:fish:37>.addShiftTooltip( // Pike. Category 4
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait4
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<advanced-fishing:fish:20>.addShiftTooltip( // Prismatic Angler / Angler Fish. Category 4
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait4
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<advanced-fishing:fish:35>.addShiftTooltip( // Glacier Anchovy. Category 5
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait5
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<advanced-fishing:fish:24>.addShiftTooltip( // Withered Crucian. Category 3
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait3
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<advanced-fishing:fish:33>.addShiftTooltip( // Abyssal Lurker. Category 1
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait1
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<advanced-fishing:fish:17>.addShiftTooltip( // Ruffe. Category 8
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait8
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<advanced-fishing:fish:22>.addShiftTooltip( // Snowy Walleye. Category 5
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait5
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<advanced-fishing:fish:38>.addShiftTooltip( // Magikarp. Category 7
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait7
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<advanced-fishing:fish:39>.addShiftTooltip( // Fluorencent Slimefish / Green Jellyfish. Category 1
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait1
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<advanced-fishing:fish:7>.addShiftTooltip( // Carbonic Trout / Cave Trout. Category 9
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait9
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<advanced-fishing:fish:2>.addShiftTooltip( // Mud Tuna. Category 5
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait5
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<advanced-fishing:fish:13>.addShiftTooltip( // Ender Synanceia / Ender Shad. Category 6
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait6
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<advanced-fishing:fish:14>.addShiftTooltip( // Pearlfish / Pearl Sardine. Category 4
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait4
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<advanced-fishing:fish:16>.addShiftTooltip( // Nitric Crucian / Explosive Crucian. Category 4
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait4
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<advanced-fishing:fish:40>.addShiftTooltip( // Bonefish. Category 1
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait1
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<advanced-fishing:fish:41>.addShiftTooltip( // Cursed Koi. Category 3
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait3
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<advanced-fishing:fish:30>.addShiftTooltip( // Green-Finned Plaice / Swamp Plaice. Category 2
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait2
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<advanced-fishing:fish:26>.addShiftTooltip( // Mandarin Dragonet / Mandarinfish. Category 8
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait8
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<advanced-fishing:fish:36>.addShiftTooltip( // Brown Bullhead / Catfish. Category 9
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait9
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<advanced-fishing:fish:25>.addShiftTooltip( // Barred Sand Bass / Sandy Bass. Category 10
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait10
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<advanced-fishing:fish:8>.addShiftTooltip( // Midnight Bream / Obsidian Bream. Category 4
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait4
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<advanced-fishing:fish:12>.addShiftTooltip( // Blazing Chichlid / Blaze Pike. Category 4
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait4
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<advanced-fishing:fish:18>.addShiftTooltip( // Sparkling Eel. Category 1
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait1
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<advanced-fishing:fish:21>.addShiftTooltip( // Bluehead Porifcian / Sponge Eater. Category 3
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait3
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<advanced-fishing:fish:31>.addShiftTooltip( // Lazulicanth / Crystal Mullet. Category 9
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait9
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<advanced-fishing:fish:42>.addShiftTooltip( // Phantasmal Tetra / Spookyfin. Category 4
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait4
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<advanced-fishing:fish:32>.addShiftTooltip( // Charged Bullhead. Category 9
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait9
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<advanced-fishing:fish:1>.addShiftTooltip( // Magmatic Jellyfish / Magma Jellyfish. Category 4
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait4
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<aquaculture:fish:21>.addShiftTooltip( // Electric Eel. Category 1
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait1 ~ ", " ~ fishbaitA
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<aquaculture:fish:27>.addShiftTooltip( // Halibut. Category 1, A
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait1 ~ ", " ~ fishbaitB
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<aquaculture:fish:33>.addShiftTooltip( // Bagrid. Category 5, C
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait5 ~ ", " ~ fishbaitC
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<aquaculture:fish:4>.addShiftTooltip( // Muskellunge. Category 1, B
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait1 ~ ", " ~ fishbaitB
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<aquaculture:fish:5>.addShiftTooltip( // Brown Trout. Category 1, D
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait1 ~ ", " ~ fishbaitD
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<aquaculture:fish:13>.addShiftTooltip( // Shark. Category 1, E
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait1 ~ ", " ~ fishbaitE
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<aquaculture:fish:29>.addShiftTooltip( // Rainbow Trout. Category 1, D
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait1 ~ ", " ~ fishbaitD
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<aquaculture:fish:0>.addShiftTooltip( // Bluegill. Category 9, C
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait9 ~ ", " ~ fishbaitC
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<aquaculture:fish:32>.addShiftTooltip( // Boulti. Category 10, C
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait10 ~ ", " ~ fishbaitC
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<aquaculture:fish:9>.addShiftTooltip( // Red Grouper. Category 1, D
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait1 ~ ", " ~ fishbaitD
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<aquaculture:fish:20>.addShiftTooltip( // Piranha / Pirahna. Category 4, B
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait4 ~ ", " ~ fishbaitB
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<aquaculture:fish:31>.addShiftTooltip( // Capitaine. Category 1, B
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait1 ~ ", " ~ fishbaitB
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<aquaculture:fish:19>.addShiftTooltip( // Leech. Category 4
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait4
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<aquaculture:fish:28>.addShiftTooltip( // Chinook Salmon / Pink Salmon. Category 1, B
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait1 ~ ", " ~ fishbaitB
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<aquaculture:fish:35>.addShiftTooltip( // Red Shrooma. Category 5, F
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait5 ~ ", " ~ fishbaitF
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<aquaculture:fish:36>.addShiftTooltip( // Brown Shrooma. Category 5, F
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait5 ~ ", " ~ fishbaitF
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<aquaculture:fish:6>.addShiftTooltip( // Catfish. Category 9, C
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait9 ~ ", " ~ fishbaitC
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<aquaculture:fish:22>.addShiftTooltip( // Tambaqui. Category 11, F
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait11 ~ ", " ~ fishbaitF
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<aquaculture:fish:24>.addShiftTooltip( // Polar Cod / Cod. Category 1, B
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait1 ~ ", " ~ fishbaitB
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<aquaculture:fish:25>.addShiftTooltip( // Pollock. Category 9, C
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait9 ~ ", " ~ fishbaitC
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<aquaculture:fish:37>.addShiftTooltip( // Goldfish. Category 8, F
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait8 ~ ", " ~ fishbaitF
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<aquaculture:fish:12>.addShiftTooltip( // Swordfish / Sword Fish. Category 1, E
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait1 ~ ", " ~ fishbaitE
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<aquaculture:fish:3>.addShiftTooltip( // Bass. Category 1, B
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait1 ~ ", " ~ fishbaitB
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<aquaculture:fish:30>.addShiftTooltip( // Tautog / Blackfish. Category 1, D
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait1 ~ ", " ~ fishbaitD
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<aquaculture:fish:18>.addShiftTooltip( // Turtle. Category 9, F
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait9 ~ ", " ~ fishbaitF
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<aquaculture:fish:10>.addShiftTooltip( // Arctic Salmon / Salmon. Category 1, B
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait1 ~ ", " ~ fishbaitB
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<aquaculture:fish:7>.addShiftTooltip( // Carp. Category 6, C
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait6 ~ ", " ~ fishbaitC
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<aquaculture:fish:17>.addShiftTooltip( // Frog. Category 9, F
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait9 ~ ", " ~ fishbaitF
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<aquaculture:fish:15>.addShiftTooltip( // Giant Squid / Squid. Category 1, E
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait1 ~ ", " ~ fishbaitE
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<aquaculture:fish:23>.addShiftTooltip( // Arapaima. Category 12, A
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait12 ~ ", " ~ fishbaitA
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<aquaculture:fish:16>.addShiftTooltip( // Jellyfish. Category 1, D
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait1 ~ ", " ~ fishbaitD
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<aquaculture:fish:11>.addShiftTooltip( // Tuna. Category 1, E
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait1 ~ ", " ~ fishbaitE
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<aquaculture:fish:14>.addShiftTooltip( // Whale. Category 1, E
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait1 ~ ", " ~ fishbaitE
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<aquaculture:fish:26>.addShiftTooltip( // Herring. Category 5, F
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait5 ~ ", " ~ fishbaitF
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<aquaculture:fish:34>.addShiftTooltip( // Synodontis / Syndontis. Category 5, C
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait5 ~ ", " ~ fishbaitC
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<aquaculture:fish:1>.addShiftTooltip( // Perch. Category 1, D
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait1 ~ ", " ~ fishbaitD
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<aquaculture:fish:2>.addShiftTooltip( // Gar. Category 9, B
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait9 ~ ", " ~ fishbaitB
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+<aquaculture:fish:8>.addShiftTooltip( // Blowfish. Category 1, C
+    format.white(game.localize("tooltip.fishingmadebetter.eats", "en_us")) ~ ": " ~
+    fishbait1 ~ ", " ~ fishbaitC
+    , format.gray(game.localize("tooltip.kamevision.shift", "en_us"))
+);
+
 
 // === Food Expansion ===
 game.setLocalization("en_us", "item.itemBlazeCream.addedtooltip.1", "Grants Fire resistance");
