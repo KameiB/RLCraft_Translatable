@@ -1,40 +1,40 @@
-All Myrmex Chitin weapons are
-weak against arthropods, but
-do extra damage to non-arthropods
-and death worms.
+Todas las armas de Quitina de Mirmex
+son debiles contra los artropodos,
+pero hacen danio adicional a los no-
+artropodos y Gusanos de la Muerte.
 
 
 
 
-Myrmex Stingers are used to create
-poisonous swords that are more
-poweful than normal myrmex weapons.
+Los Aguijones de Mirmex sirven para
+crear armas venenosas mas potentes
+que las normales de Mirmex.
 
 
 
-Myrmex Resin Chunks are dropped by
-myrmex of all castes. Myrmex
-produce this strange material
-by themselves, yet they still
-will seek out any of it, if
+Los Fragmentos de resina de Mirmex
+se consiguen de Mirmex de cualquier
+colonia. Ellos producen este curioso
+material por si mismos, pero tambien
+aceptaran fragmentos gratis si los
 
-they can find it. By throwing
-resin chunks on the ground near
-Myrmex Workers, one can raise
-their reputation with the hive.
+encuentran tirados. Tiralos fuera
+de la entrada de la colonia, donde
+los Obreros los vean. Asi aumenta-
+ras tu reputacion ante la colonia.
 
-Reputation is an important
-concept to consider when dealing
-with Myrmex colonies. Reputation
-can be raised by gifting and
-trading, and can be lowered by
-attacking or killing any colony
-members.
+La reputacion es un concepto
+importante a considerar, hablando
+de colonias de Mirmex. Puedes
+aumentarla regalando y comprando,
+y disminuirla atacando o matando
+miembros de la colonia.
 
-The default reputation towards
-humans for every colony is 0.
-At 25, Myrmex will become neutral.
-At 50, they will open up to trade.
-At 75, they will allow one to use
-myrmex staffs on the colony as a
-whole.
+
+La reputacion por defecto de la
+colonia hacia los humanos es 0.
+En 25, los Mirmex son neutrales.
+En 50, comerciaran contigo.
+En 75, te permitiran usar el
+Baston de Mirmex para modificar
+toda la colonia.

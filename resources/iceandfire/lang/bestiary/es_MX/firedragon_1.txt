@@ -1,6 +1,6 @@
-Simplemente el crear fuego no es
-la única forma en que ellos atacan.
-También poseen muchos ataques
+Crear fuego no es la unica forma
+en que ellos matan a su presa.
+Tambien poseen muchos ataques
 diferentes.
 
 
@@ -9,14 +9,13 @@ diferentes.
 
 
 
-Ataque explosivo de fuego del 
-dragón, dispara una corriente
-constante de llamas desde la boca
-de la bestia. Mas débil mientras
-mas joven el dragón, mientra que
-los mas grandes inclusive pueden
-quemar el terreno cercano, 
-infligiendo mucho daño.
+El ataque de lanzallamas genera
+un flujo constante de fuego desde
+la boca de la bestia. Los dragones
+jovenes lanzan fuego mas debil,
+mientras que los adultos pueden
+incinerar el terreno, infligiendo
+mucho danio.
 
 
 
@@ -24,17 +23,18 @@ infligiendo mucho daño.
 
 
 
-La explosión de hielo no es el único
-ataque elemental. El dragón tambien
-puede elaborar una explosión de llamas
-en un bloque solidificado. Este bola
-de fuego explosiva es entonces arrojada
-hacia la presa del dragón. Solo los 
-dragones mas viejos son los capaces de
+
+El lanzallamas no es su unico
+ataque elemental. El dragon tambien
+puede concentrar el fuego en un
+bloque solidificado. Esta bola
+de fuego explosiva es entonces
+lanzada hacia su presa. Solo los
+dragones adultos pueden hacer
 este ataque.
 
 
 
 
-Uno de los ataques más 
-comunes es la mordida del dragón.
+Uno de los ataques mas
+comunes es la mordida de dragon.

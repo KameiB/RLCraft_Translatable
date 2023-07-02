@@ -1,20 +1,19 @@
-Una criatura elusiva, rápida y
-hermosa raramente encontrada en los
-Océanos. El hipocampo parece
-ser una extraña mezcla de
-animales con rasgos equinos
-y de peces. Excepcionalmentes
-rápidos cuando están sumergidos, no hay
-registros de alguna criatura que
-puede acompañar el hipocampo bajo 
-el agua. Sin embargo, su habilidad
-en tierra seca es completamente
-débil.
+Una criatura elusiva, rapida y
+hermosa raramente encontrada en
+Oceanos. El hipocampo parece
+ser una extrania mezcla de
+equino y pez.
+Excepcionalmente rapidos bajo
+el agua, no hay criatura que
+compita con ellos.
+Sin embargo, sus habilidades en
+tierra firme son casi nulas.
 
 El hipocampo es una criatura
-extremadamente pacífica y
-nunca atacará a otro ser,
-ni para salvar su propia vida.
+pacifica y nunca atacara a otro
+ser, ni siquiera para salvar su
+propia vida.
+
 
 
 
@@ -33,9 +32,9 @@ ni para salvar su propia vida.
 
 
 Los hipocampos son criaturas
-diversas y coloridas, aparecen
-en muchos colores.
+diversas y coloridas, que
+aparecen en muchos colores.
 
-Se puede notar que los hipocampos
+Cabe notar que los hipocampos
 tienen una afinidad a las esponjas
-y al cristal de prismarina
+y al cristal de prismarina.

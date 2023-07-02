@@ -5,14 +5,14 @@ Esta dice:
 
 "Este manuscrito es una guia
 dedicada a aquellas personas que
-que buscan informarse sobre las
+buscan conocer mas acerca de las
 maravillas del reino sobrenatural.
 Abarca conceptos basicos para
 craftear herramientas, armaduras y
 y armas para cazar y aprender
 sobre esas misteriosas criaturas."
 
-    El bestiario luego pasa a
+    El bestiario fue escrito para
 describir cambios sobrenaturales en
 la generacion del mundo, comenzando
 con minerales nuevos.
@@ -35,6 +35,6 @@ cuales tienen variedad de usos.
 
 
 
-Las armas de plata hacen son
+Las armas fabricadas con plata son
 efectivas contra muertos vivientes,
 debido a sus propiedades magicas.

@@ -1,7 +1,4 @@
-Estas escamas brillantes se pueden utilizar
-para crear pociones misteriosas que
-conceden respiración acuática.
-
-Cuanto más escamas uses en
-proceso, mayor será la
-duración del efecto de la poción.
+Mezclando estas escamas brillantes
+y botellas con agua en un
+alambique alquimico, se pueden
+destilar pociones de Respiracion.

@@ -11,9 +11,10 @@ negociar con aldeanos de nieve.
 
 
 
-Pepitas de oro o de plata
-pueden almacenarse en
-pilas, asi.
+
+Las pepitas de oro o de plata
+pueden almacenarse en pilas,
+como en la siguiente pagina:
 
 
 
@@ -24,8 +25,7 @@ pilas, asi.
 
 
 
-
-Solo puedo obtener mas informacion
+Solo podre obtener mas informacion
 sobre el mundo magico, leyendo la
 investigacion de otros escritores.
 Necesitare fabricar un Atril e ir

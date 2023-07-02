@@ -1,5 +1,5 @@
-These arrows instead glide through
-the water as if it were air.
+Estas flechas se deslizan en el
+agua como si fuera aire.
 
 
 
@@ -9,24 +9,25 @@ the water as if it were air.
 
 
 
-Secondly, the scales of these
-creatures can be combined with
-those of hippocampus or sirens
-in order to craft tide guardian
-armor.
+En segundo, las escamas de estas
+criaturas pueden combinarse con
+las de los hipocampos o sirenas
+para craftear la armadura del
+Guardian de la Marea.
 
 
 
 
-Tide guardian armor can provide
-multiple benefits to its wearer.
 
-Each piece of tide guardian
-armor provides water breathing.
-Each additional peice worn provides
-an extra level of Strength when the
-wearer is either in water or rain.
+Esta armadura ofrece varios
+beneficios a quien la usa.
 
-The set of armor, overall, is
-slightly better than a full set of
-dragon scale armor.
+Cada pieza da Respiracion y
+Fuerza al contacto con el agua.
+Cada pieza adicional puesta aplica
+un nivel adicional de Fuerza al
+contacto con el agua.
+
+Un set completo de esta armadura
+ofrece una proteccion ligeramente
+mayor a la armadura de dragon.

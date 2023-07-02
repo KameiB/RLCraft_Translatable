@@ -1,25 +1,25 @@
-    Después de haber matado a un
-dragón o encontrarse con el cadáver de uno,
-uno puede saquear al interactuar
-con sus restos.
+    Despues de haber matado a un
+dragon o encontrar el cadaver de
+uno, pude saquearlo haciendo clic
+derecho a sus restos.
 
 
 
 
 
 
-Las escamas del dragón son una de las más
-artículos comunes que pueden ser recuperados
-de bestias muertas. Con ellas pueden ser
-elaborados trajes de armadura, que son muy
+Las escamas son uno de los objetos
+mas comunes que obtuve del cadaver
+de dragon. Con ellas pude
+fabricar armaduras, que son muy
 duraderas.
 
 
 
 
 
-El segundo botín más común que uno puede
-recibir son huesos de dragón.
+       El segundo botin mas comun
+son los huesos de dragon.
 
 
 
@@ -27,10 +27,10 @@ recibir son huesos de dragón.
 
 
 
-Los huesos del dragón se usan en muchos
-recetas, pero son principalmente para la 
-elaboración herramientas y armas. Estas
-recetas por lo general implican el uso 
-de hueso de Wither en lugar de palos.
-El hueso de Wither se puede obtener de
-esqueletos de Wither en el Nether.
+Los huesos de dragon se usan en
+muchas recetas, pero principal-
+mente herramientas y armas. Estas
+recetas por lo general requieren
+hueso de Wither en lugar de palos.
+Este hueso se obtiene de esquele-
+tos de Wither y Cocatrices.

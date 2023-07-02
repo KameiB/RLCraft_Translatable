@@ -1,9 +1,9 @@
-Trolls are terrifying beasts that
-live deep underground in caverns.
-These powerful monsters can be
-encountered in the caves of
-forest, hills, and icy biomes of
-the world.
+Los Trolls son bestias terrorificas
+que viven en lo profundo de cuevas.
+Estos poderosos monstruos se
+encuentran en las cuevas bajo los
+bosques, sierras y biomas helados
+del overworld.
 
 
 
@@ -15,13 +15,11 @@ the world.
 
 
 
-These hulking creatures each
-weild a massive weapon that
+Estas pesadas criaturas empunian
+una enorme arma, la cual usan
 
-they use to crush their
-potential prey.
-
-
+para aplastar a cualquier presa
+potencial.
 
 
 
@@ -31,9 +29,11 @@ potential prey.
 
 
 
-Whether by a strike from the side
-or a over-the-head slam, the troll
-bashes its target with whatever
-club-like object it can find,
-including: stone pillars, tree
-logs, and rudimentary axes.
+
+
+El Troll golpeara a su objetivo
+asestando poderosos golpes a la
+cabeza, usando cualquier objeto
+parecido a un garrote que encuen-
+tre, incluidos pilares de piedra,
+troncos y hachas rudimentarias.

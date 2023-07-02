@@ -5,30 +5,30 @@
 
 
 
-§nQueen
-The queen is the sole reproductive
-member of the entire colony. In
-rare cases, there many be more
-than one, but most colonies are
-run by one single queen. This
-results in her being the colony's
-weakness: kill the queen, and you
-kill the colony. Without a
-constant stream of eggs and pupae,
-the colony will quickly be
-depleted and attacked. She is
 
-armoured with an extremely
-powerful stinger that can launch
-attackers ten blocks away, and
-bone-crushing mandibles.
+§nReina
+La Reina es el unico miembro repro-
+ductivo de toda la colonia. En raras
+ocasiones puede haber mas de una,
+pero la mayoria de las colonias son
+gobernadas por una sola reina. Esto
+la convierte en la debilidad de la
+colonia: Mata a la Reina y matas a
+la colonia. Sin un flujo constante
+de huevos y pupas, la colonia sera
+rapidamente atacada y exterminada.
 
-Myrmex drop an assortment of
-unique items that are important
-crafting materials.
+Ella esta armada con un aguijon
+extremadamente poderoso que lanza
+a sus enemigos a diez bloques,
+tambien mandibulas rompe-huesos.
+
+Los Mirmex dropean una variedad de
+items unicos que son importantes
+materiales de crafteo.
 
 
 
-Myrmex chitin can be used to
-craft extremely strong weapons
-and armor.
+La Quitina de Mirmex puede usarse
+para craftear armas y armadura
+poderosas.
