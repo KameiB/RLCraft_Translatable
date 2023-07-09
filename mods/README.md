@@ -3,30 +3,30 @@
 - (Forked from fonny's corrections)
 > [Config files] Original config json files left intact.  
 > [Fish NBTTags] Removed the text formatting because it's now handled by onItemTooltip.  
->    Caught fish entity name is translatable now. Call setTranslatableName instead of setStackDisplayName.  
->    Now if you use /ct hand on caught fishes and try to copy that info, server won't crash (bug from original FMB).    
+>    Caught fish entity name is translatable now. Call setTranslatableName ("LocName") instead of setStackDisplayName ("Name").  
+>    Now if you use CraftTweaker's /ct hand command on caught fishes and try to copy that info, server won't crash (bug from original FMB).    
 >    Caught fish NBT tags now look like this:  
->    <advanced-fishing:fish:21>.withTag({FishId: "Bluehead Porifcian", display: {LocName: "item.fmb.advanced-fishing:fish:21.name", Lore: ["Weight: 1", "Dead"]}, FishWeight: 1, FishCaughtTime: 0 as long})  
-> [Fish Fillet] Reverted my previous NBTTag modifications. Using the original ones.  
-> [Fish Bucket] Reverted my previous NBTTag modifications. Using the original ones.  
-> [Lang Keys] Added lang keys for custom Fishes names and descriptions, Fish Tracker messages, Config screen texts, etc.  
+>    <advanced-fishing:fish:21>.withTag({FishId: "Bluehead Porifcian", display: {LocName: "item.fmb.advanced-fishing:fish:21.name"}, FishWeight: 1, FishCaughtTime: 0 as long})  
+> [Fish Fillet] Using the original ones.  
+> [Fish Bucket] Using the original ones.  
+> [Lang Keys] Added lang keys for custom Fishes names and descriptions, Fish Tracker messages, Config screen texts, aquaculture and advanced-fishing fish lang keys to override them to match FMB fish names, etc.  
 > [BetterFishUtil] Added utility functions to make translations easier.  
-> [Fish Tooltips] Using the Client-side onItemTooltip function. Now all fishes tooltips (even on JEI) show FMB custom names.  
+> [Fish Tooltips] Using the Client-side onItemTooltip function.
 > [Other Tooltips] Fish Fillet, Fish Bucket, Bait Bucket tooltip functions translate their contents properly.  
 > [Tracker] Chat messages have color format now, so the important info is easier to read. Creative mode messages are translatable now. (Using TextComponentTranslation, etc.)  
 > [Bait Box] Contents are properly translated when Right-click on it.  
 > [Mini-game] Added a little on-screen help text for players that don't know how to control the Reel. It only appears when line is near the break point.  
-> [Config screen] Texts are translatable now.  
+> [Config screen] Texts are translatable now. Using @Config.Name, @Config.Comment, @Config.LangKey  
 > [Command] Success / Failed chat messages are translatable now.  
-> [Lava Fish Bucket] Removed for compatibility with RLCraft 2.9.2c+  
-> [Void Bucket] Removed for compatibility with RLCraft 2.9.2c+  
-> [Void Fish Bucket] Removed for compatibility with RLCraft 2.9.2c+  
+> [Lava Fish Bucket] Removed for compatibility with RLCraft 2.9.3 servers  
+> [Void Bucket] Removed for compatibility with RLCraft 2.9.3 servers  
+> [Void Fish Bucket] Removed for compatibility with RLCraft 2.9.3 servers  
 - Tested on a private server located inside a virtual machine, tested old worlds with existing fishes, working properly.
 - Any corrections are welcome so it can be Pulled to the owner's project.
 
 ### [Forgotten Items](https://github.com/KameiB/ForgottenItems)
 > [Lang Keys] Added items descriptions lang keys.  
-> [Tooltips] Replaced hardcoded items descriptions with lang keys and call I18n on Client side.  
+> [Tooltips] Replaced hardcoded items descriptions with lang keys and call I18n at addInformation. For talismans, replaced "lore" hardcoded text with a lang key.  
 > [Server messages] Ender Talisman and item recipes messages are translatable now.  
 - Any corrections are welcome so it can be Pulled to the owner's project.
 
