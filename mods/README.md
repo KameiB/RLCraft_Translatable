@@ -46,3 +46,8 @@
 > Tooltip doesn't add a space before the bauble name if the modifier text is empty in the lang file.  
 > Added lang keys for config items.  
 > Added es_mx.lang (texts specific for RLCraft).  
+
+### [Roguelike Dungeons](https://github.com/KameiB/minecraft-roguelike)
+> Replaced following NBT tags: "Name" -> "LocName" and "Lore" -> "rldLocLore" to make them translatable.  
+> Made lang keys for all possible custom item name combinations, so they can be saved in "LocName" tag.  
+> Command messages made translatable.  
