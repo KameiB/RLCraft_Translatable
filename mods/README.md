@@ -36,7 +36,7 @@
 > [Tooltips] Healing description now don't need Shift to show.  
 - Any corrections are welcome so it can be Pulled to the owner's project.
 
-### [Shield Break](https://github.com/KameiB/ShieldBreak)
+### Shield Break (pull request got accepted by fonny, yay!)
 > [Lang Keys] Added lang key for tooltip "Shielding Power:".  
 > [Tooltip] Replaced hardcoded "Shielding Power:" text with lang key.  
 - Any corrections are welcome so it can be Pulled to the owner's project.  
@@ -49,5 +49,5 @@
 
 ### [Roguelike Dungeons](https://github.com/KameiB/minecraft-roguelike)
 > Replaced following NBT tags: "Name" -> "LocName" and "Lore" -> "rldLocLore" to make them translatable.  
-> Made lang keys for all possible custom item name combinations, so they can be saved in "LocName" tag.  
+> Made lang keys for all possible custom item name combinations, so they can be saved in the "LocName" tag.  
 > Command messages made translatable.  
