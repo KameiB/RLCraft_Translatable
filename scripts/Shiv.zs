@@ -88,17 +88,17 @@ events.onPlayerTick(function(event as crafttweaker.event.PlayerTickEvent) {
 <bountifulbaubles:reforger>.displayName = "Baubles Reforging Station";
 */
 
-game.setLocalization("en_us", "item.fish.cod.raw.name", "River Fish");
+//game.setLocalization("en_us", "item.fish.cod.raw.name", "River Fish");
 <minecraft:fish:0>.displayName = game.localize("item.fish.cod.raw.name", "en_us");
-game.setLocalization("en_us", "item.fish.salmon.raw.name", "Mountain Fish");
+//game.setLocalization("en_us", "item.fish.salmon.raw.name", "Mountain Fish");
 <minecraft:fish:1>.displayName = game.localize("item.fish.salmon.raw.name", "en_us");
-game.setLocalization("en_us", "item.fish.clownfish.raw.name", "Tropical Fish");
+//game.setLocalization("en_us", "item.fish.clownfish.raw.name", "Tropical Fish");
 <minecraft:fish:2>.displayName = game.localize("item.fish.clownfish.raw.name", "en_us");
-game.setLocalization("en_us", "item.fish.pufferfish.raw.name", "Ocean Fish");
+//game.setLocalization("en_us", "item.fish.pufferfish.raw.name", "Ocean Fish");
 <minecraft:fish:3>.displayName = game.localize("item.fish.pufferfish.raw.name", "en_us");
-game.setLocalization("en_us", "item.fish.cod.cooked.name", "Cooked River Fish");
+//game.setLocalization("en_us", "item.fish.cod.cooked.name", "Cooked River Fish");
 <minecraft:cooked_fish:0>.displayName = game.localize("item.fish.cod.cooked.name", "en_us");
-game.setLocalization("en_us", "item.fish.salmon.cooked.name", "Cooked Mountain Fish");
+//game.setLocalization("en_us", "item.fish.salmon.cooked.name", "Cooked Mountain Fish");
 <minecraft:cooked_fish:1>.displayName = game.localize("item.fish.salmon.cooked.name", "en_us");
 
 

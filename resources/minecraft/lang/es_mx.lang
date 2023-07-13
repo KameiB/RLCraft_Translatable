@@ -1,7 +1,9 @@
 ## Translated by KameiB for RLCraft 2.9.2
+## Removed accents from vanilla texts for easier JEI search
 options.graphics.fancy=Detallado
 options.graphics.fast=Rápido
 
+# For Shivaxi's scripts
 item.fishingRod.name=Caña de pescar ancestral
 item.fishingRod.addedtooltip.1=Solo es un componente de crafteo!
 item.fish.cod.raw.name=Pez de rio
@@ -10,9 +12,9 @@ item.fish.salmon.raw.name=Pez de montaña
 item.fish.salmon.cooked.name=Pez de montaña asado
 item.fish.clownfish.raw.name=Pez tropical
 item.fish.pufferfish.raw.name=Pez de oceano
-
 item.saddle.name=Montura basica
 
+# Armor parts. Renamed them so all armor parts are consistent between mods
 item.helmetCloth.name=Casco de cuero
 item.chestplateCloth.name=Pechera de cuero
 item.helmetChain.name=Casco de cota de malla
@@ -43,8 +45,6 @@ tile.pressurePlateStone.name=Placa de presion de piedra
 tile.weightedPlate_heavy.name=Placa de presion de peso (pesada)
 tile.weightedPlate_light.name=Placa de presion de peso (ligera)
 tile.tripWire.name=Hilo de activacion
-
-# POCIONES
 
 effect.absorption=Absorcion
 effect.confusion=Nauseas
@@ -136,6 +136,7 @@ item.expBottle.name=Botella con experiencia
 
 tile.prismarine.dark.name=Prismarina oscura
 
+# NoTreePunching adds ceramic buckets, so I changed "Cubeta de" with "Cubeta con" for consistency
 item.bucketWater.name=Cubeta con agua
 item.bucketLava.name=Cubeta con lava
 item.milk.name=Cubeta con leche
@@ -243,7 +244,6 @@ tile.structureVoid.name=Vacio estructural
 item.flintAndSteel.name=Mechero
 subtitles.item.flintandsteel.use=Mechero enciende
 
-# LIBROS ENCANTADOS
 enchantment.binding_curse=§cMaldicion de ligamiento§r
 enchantment.damage.arthropods=Perdicion de los artropodos
 enchantment.fishingSpeed=Atraccion

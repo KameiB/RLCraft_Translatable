@@ -1,0 +1,11 @@
+## Roguelike dungeons JSON loot names and lore ##
+# loot_paintings.json
+json.roguelike.painting.yourmum.name=§o!!??
+json.roguelike.painting.yourmum.lore=§iIt's a picture of your mum??
+json.roguelike.painting.dogspoker.name=§oDogs Playing Poker
+json.roguelike.painting.dogspoker.lore=§iIt is what it is.
+json.roguelike.painting.babyshiv.name=§1§oShivaxi's Baby Photo
+json.roguelike.painting.babyshiv.lore=§iWasn't he cute as a hatchling? n_n
+json.roguelike.painting.fnar.name=§2§oPhotograph of Fnar
+json.roguelike.painting.fnar.lore=§iWhat does Fnar mean anyway?
+

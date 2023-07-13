@@ -74,10 +74,10 @@ cake12.clearTooltip(false);
 
 
 // === OZZY LINERS ===
-game.setLocalization("en_us", "tooltip.auw.xlining.ozzy.auto_adjust", "Temp-Adjust Lining>");
-game.setLocalization("en_us", "tooltip.auw.xlining.ozzy_mild", "MILD");
-game.setLocalization("en_us", "tooltip.auw.xlining.ozzy_warm", "WARM");
-game.setLocalization("en_us", "tooltip.auw.xlining.ozzy_cool", "COOL");
+//game.setLocalization("en_us", "tooltip.auw.xlining.ozzy.auto_adjust", "Temp-Adjust Lining>");
+//game.setLocalization("en_us", "tooltip.auw.xlining.ozzy_mild", "MILD");
+//game.setLocalization("en_us", "tooltip.auw.xlining.ozzy_warm", "WARM");
+//game.setLocalization("en_us", "tooltip.auw.xlining.ozzy_cool", "COOL");
 
 // === All Chestplates ===
 val chest01 = <minecraft:leather_chestplate:*> as crafttweaker.item.IIngredient;
@@ -811,7 +811,7 @@ legs48.removeTooltip("> COOL");
 
 
 // === Custom Main Menu ===
-game.setLocalization("en_us","menu.custommainmenu.hostyourserver", "Host your own server!");
-game.setLocalization("en_us","menu.quit.hover", "Embrace Cowardice?");
+//game.setLocalization("en_us","menu.custommainmenu.hostyourserver", "Host your own server!");
+//game.setLocalization("en_us","menu.quit.hover", "Embrace Cowardice?");
 
 print("Translations Script2 ending!");

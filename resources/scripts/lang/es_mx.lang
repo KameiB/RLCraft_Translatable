@@ -1,0 +1,43 @@
+## For Shivaxi's scripts
+# === Used for multiple items ===
+tooltip.scripts.onlycrafting=Solo es un componente de crafteo!
+tooltip.scripts.weapon.steelbonus=Daño adicional a mobs del Nether y Elementales de fuego: +2
+
+# === Armor Underwear ===
+tooltip.scripts.ozzyliner.destroys=Se destruye si lo quitas!
+
+# === Better Survival ===
+tooltip.scripts.bettersurvival.steelbonus=Daño contra mobs del Nether y Elementales de fuego: +2
+
+# === Bountiful Baubles ===
+tooltip.scripts.amuletSinWrath=Un trofeo perdido en el tiempo, que recuerda a otro mundo.
+
+# === Content Tweaker ===
+item.contenttweaker.sentient_core.desc=La llama de la vida brilla fuertemente en este objeto. El nucleo que evoluciona a las armas y armaduras.
+item.contenttweaker.blood_tear.desc=Una horrible lagrima, derramada por un parasito muy poderoso. Parece tener vida propia.
+
+# === Quark ===
+item.quark:ancient_tome.desc=En tu mano izquierda sosten este Tomo. En la derecha el item con el mismo encantamiento. Da clic derecho y se aumentara su nivel.
+
+# === RLMixins ===
+item.cleansing_talisman.desc=Craftealo con cualquier libro encantado para convertirlo en Rompe maldiciones
+
+# === Serene Seasons ===
+tile.greenhouse_glass.desc=Permite que los cultivos que esten hasta 7 bloques debajo de este cristal, crezcan en cualquier estacion
+
+# === Simple Difficulty ===
+tooltip.scripts.simpledifficulty:wool_helmet=Calor (+2)
+tooltip.scripts.simpledifficulty:wool_chestplate=Calor (+2)
+tooltip.scripts.simpledifficulty:wool_leggings=Calor (+2)
+tooltip.scripts.simpledifficulty:wool_boots=Calor (+2)
+tooltip.scripts.simpledifficulty:ice_helmet=Frio (-2)
+tooltip.scripts.simpledifficulty:ice_chestplate=Frio (-2)
+tooltip.scripts.simpledifficulty:ice_leggings=Frio (-2)
+tooltip.scripts.simpledifficulty:ice_boots=Frio (-2)
+
+# === Varied Commodities ===
+item.heart.desc=Uno de los multiples corazones que tiro Rahovart. Aun late con energia demoniaca.
+item.skull.desc=Uno de los multiples craneos que tiro Asmodeus. Aun se oyen los gritos de las almas perdidas que tiene dentro.
+
+# (Backwards compatibility)
+item.fishingRod.addedtooltip.1=Solo es un componente de crafteo!

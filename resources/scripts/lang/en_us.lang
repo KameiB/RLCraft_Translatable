@@ -1,0 +1,113 @@
+## For Shivaxi's scripts
+# === Used for multiple items ===
+tooltip.scripts.onlycrafting=Only used for crafting!
+tooltip.scripts.weapon.steelbonus=+2 damage against Nether mobs and Fire elementals
+
+# === Advanced Fishing ===
+item.advanced-fishing.blazing_fishing_pole.name=Ancient Lava Fishing Rod
+
+# === Armor Underwear ===
+tooltip.scripts.ozzyliner.destroys=Destroyed upon removal!
+tooltip.auw.xlining.ozzy.auto_adjust=Temp-Adjust Lining>
+tooltip.auw.xlining.ozzy_mild=MILD
+tooltip.auw.xlining.ozzy_warm=WARM
+tooltip.auw.xlining.ozzy_cool=COOL
+
+# === Better Nether ===
+tile.bone_block.name=Smooth Bone Block
+
+# === Better Survival ===
+item.smallshield.name=Round Shield
+item.bigshield.name=Big Shield
+
+# === Bountiful Baubles ===
+tile.bountifulbaubles.reforger.name=Baubles Reforging Station
+item.bountifulbaubles.ringIron.name=Holy Ring
+tooltip.scripts.amuletSinWrath=A trophy lost to time, reminiscent of another world.
+
+# === Corpse Complex ===
+item.corpsecomplex.scroll.desc=Return to death location
+
+# === Craft Tweaker ===
+item.contenttweaker.sentient_core.desc=The flame of life shines strongly in it, almost horribly. The Core that fuels Evolved armor and weapons.
+item.contenttweaker.blood_tear.desc=A horrible tear, dropped by a very powerful parasite. It almost feels alive.
+
+# === Ice and Fire ===
+item.iceandfire.fishing_spear.name=Ancient Fishing Spear
+
+# === Main Menu ===
+menu.custommainmenu.hostyourserver=Host your own server!
+menu.quit.hover=Embrace Cowardice?
+
+# === Minecraft ===
+item.fish.cod.raw.name=River Fish
+item.fish.salmon.raw.name=Mountain Fish
+item.fish.clownfish.raw.name=Tropical Fish
+item.fish.pufferfish.raw.name=Ocean Fish
+item.fish.cod.cooked.name=Cooked River Fish
+item.fish.salmon.cooked.name=Cooked Mountain Fish
+item.fishingRod.name=Ancient Fishing Rod
+item.saddle.name=Basic Saddle
+tile.button.name=Stone Button
+
+# === No Tree Punching ===
+item.notreepunching:rock.basalt.name=Basalt Rock
+tile.notreepunching:cobblestone.basalt.name=Basalt Cobblestone
+
+# === Quark ===
+item.quark:ancient_tome.desc=Use in off-hand to apply to matching enchanted item
+quark.biomeMap.plains_defiled=Defiled Lands Pathfinder Map
+quark.biomeMap.forest_vilespine=Defiled Lands Pathfinder Map
+quark.biomeMap.desert_defiled=Defiled Lands Pathfinder Map
+quark.biomeMap.iceandfire:glacier=Glacier Pathfinder Map
+quark.biomeMap.traverse:meadow=Meadow Pathfinder Map
+quark.biomeMap.traverse:badlands=Badlands Pathfinder Map
+
+# === RLMixins ===
+item.cleansing_talisman.desc=Craft with any enchanted book to convert the book's enchantment to Curse Break
+item.scarlite_helmet.name=§4§kScarlite§r§4 Helmet
+item.scarlite_chestplate.name=§4§kScarlite§r§4 Chestplate
+item.scarlite_leggings.name=§4§kScarlite§r§4 Leggings
+item.scarlite_boots.name=§4§kScarlite§r§4 Boots
+
+# === Serene Seasons ===
+desc.sereneseasons.fertile_seasons=Fertile Seasons:
+desc.sereneseasons.year_round= Year-Round
+desc.sereneseasons.spring= Spring
+desc.sereneseasons.summer= Summer
+desc.sereneseasons.autumn= Autumn
+desc.sereneseasons.winter= Winter
+tile.greenhouse_glass.desc=Allows crops up to 7 blocks directly beneath to grow in any season
+
+# === Simple Difficulty ===
+tile.simpledifficulty:heater.name=Heating Coil
+tile.simpledifficulty:chiller.name=Cooling Coil
+item.simpledifficulty:wool_helmet.name=Wool Hood
+item.simpledifficulty:wool_chestplate.name=Wool Coat
+item.simpledifficulty:wool_leggings.name=Wool Leggings
+item.simpledifficulty:wool_boots.name=Wool Boots
+tooltip.scripts.simpledifficulty:wool_helmet=+2 Warmth
+tooltip.scripts.simpledifficulty:wool_chestplate=+2 Warmth
+tooltip.scripts.simpledifficulty:wool_leggings=+2 Warmth
+tooltip.scripts.simpledifficulty:wool_boots=+2 Warmth
+tooltip.scripts.simpledifficulty:ice_helmet=+2 Cooling
+tooltip.scripts.simpledifficulty:ice_chestplate=+2 Cooling
+tooltip.scripts.simpledifficulty:ice_leggings=+2 Cooling
+tooltip.scripts.simpledifficulty:ice_boots=+2 Cooling
+
+# === Varied Commodities ===
+item.heart.name=Demonic Heart
+item.heart.desc=One of many hearts dropped by Rahovart, still beating with demonic energy.
+item.skull.name=Corrupted Skull
+item.skull.desc=One of many skulls dropped by Asmodeus, the lost souls inside can still be heard screaming.
+
+# Backwards compatibility with previous scripts
+item.advanced-fishing.blazing_fishing_pole.addedtooltip.1=Only used for crafting!
+item.auw_auto_chestplate_liner.addedtooltip.1=Destroyed upon removal!
+item.auw_auto_leggings_liner.addedtooltip.1=Destroyed upon removal!
+item.bettersurvival.steel_bonus.addedtooltip.1=+2 damage against Nether mobs and Fire elementals
+item.bountifulbaubles.amuletSinWrath.addedtooltip.1=A trophy lost to time, reminiscent of another world.
+item.contenttweaker.sentient_core.addedtooltip.1=The flame of life shines strongly in it, almost horribly. The Core that fuels Evolved armor and weapons.
+item.quark:ancient_tome.addedtooltip.1=Use in off-hand to apply to matching enchanted item
+item.cleansing_talisman.addedtooltip.1=Craft with any enchanted book to convert the book's enchantment to Curse Break
+tile.greenhouse_glass.addedtooltip.1=Allows crops up to 7 blocks directly beneath to grow in any season
