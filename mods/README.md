@@ -41,7 +41,7 @@
 > For example, "amlp":  
 > <minecraft:shears>.withTag({ench: [{lvl: 3 as short, id: 16 as short}, {lvl: 2 as short, id: 19 as short}, {lvl: 1 as short, id: 20 as short}], display: {LocName: "novelty.roguelike.amlp.name", rldLocLore: ["novelty.roguelike.amlp.lore"]}})  
 > - In order to support translatable lore entries, I registered the Client-side onItemTooltip event. It looks for the "rldLocLore" tag list and calls I18.format to translate the lang key.  
-> - Since RLD creates custom names depending on RNG + the item's enchantments, I created an Excel file (included) that generates all the possible combinations (lang keys). For example:
+> - Since RLD creates custom names depending on RNG + the item's enchantments, I created an Excel file (included) that generates all the possible combinations (lang keys). For example:  
 > <minecraft:chainmail_boots>.withTag({ench: [{lvl: 2 as short, id: 4 as short}, {lvl: 2 as short, id: 34 as short}], display: {LocName: "item.roguelike.unbr2.chainmail.boots.projprot", rldLocLore: ["lore.roguelike.unbreaking2"]}})  
 > - Also added lang keys for custom paintings, books and "trading cards".  
 > - Command messages made translatable.  
