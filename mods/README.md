@@ -34,20 +34,28 @@
 > Changed item Unlocalized names, so they don't conflict with mods like First Aid. (item.plaster.name -> item.roughtweaks.plaster.name, etc).  
 > [Lang Keys] Added lang key for items description.  
 > [Tooltips] Healing description now don't need Shift to show.  
-- Any corrections are welcome so it can be Pulled to the owner's project.
+- Any corrections are welcome so it can be Pulled to the owner's project.  
+
+### [Roguelike Dungeons](https://github.com/KameiB/minecraft-roguelike)
+> - Reworked the special items NBT tags. "Name" -> "LocName" and "Lore" -> "rldLocLore"  
+> For example, "amlp":  
+> <minecraft:shears>.withTag({ench: [{lvl: 3 as short, id: 16 as short}, {lvl: 2 as short, id: 19 as short}, {lvl: 1 as short, id: 20 as short}], display: {LocName: "novelty.roguelike.amlp.name", rldLocLore: ["novelty.roguelike.amlp.lore"]}})  
+> - In order to support translatable lore entries, I registered the Client-side onItemTooltip event. It looks for the "rldLocLore" tag list and calls I18.format to translate the lang key.  
+> - Since RLD creates custom names depending on RNG + the item's enchantments, I created an Excel file (included) that generates all the possible combinations (lang keys). For example:
+> <minecraft:chainmail_boots>.withTag({ench: [{lvl: 2 as short, id: 4 as short}, {lvl: 2 as short, id: 34 as short}], display: {LocName: "item.roguelike.unbr2.chainmail.boots.projprot", rldLocLore: ["lore.roguelike.unbreaking2"]}})  
+> - Also added lang keys for custom paintings, books and "trading cards".  
+> - Command messages made translatable.  
 
 ### Shield Break (pull request got accepted by fonny, yay!)
 > [Lang Keys] Added lang key for tooltip "Shielding Power:".  
 > [Tooltip] Replaced hardcoded "Shielding Power:" text with lang key.  
-- Any corrections are welcome so it can be Pulled to the owner's project.  
 
+# Modified mods
 ### [Bountiful Baubles](https://github.com/KameiB/BountifulBaubles/tree/forge-1.12.x)
 > Added cobweb immunity to Ankh Charm and Ankh Shield.  
 > Tooltip doesn't add a space before the bauble name if the modifier text is empty in the lang file.  
 > Added lang keys for config items.  
 > Added es_mx.lang (texts specific for RLCraft).  
 
-### [Roguelike Dungeons](https://github.com/KameiB/minecraft-roguelike)
-> Replaced following NBT tags: "Name" -> "LocName" and "Lore" -> "rldLocLore" to make them translatable.  
-> Made lang keys for all possible custom item name combinations, so they can be saved in the "LocName" tag.  
-> Command messages made translatable.  
+### Ice and Fire
+> Just replaced the original Bestiary english text files with spanish files, because the folder route is hardcoded to en_US.
