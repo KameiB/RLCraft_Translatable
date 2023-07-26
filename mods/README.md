@@ -62,4 +62,5 @@
 
 # Support Mixin
 ### [LocLore Mixin](https://github.com/KameiB/LocLoreMixin)  
-> A Mixin that adds "LocLore" NBT tag support to Minecraft's ItemStack getTooltip method.
+> A Mixin that adds "LocLore" NBT tag support to Minecraft's ItemStack getTooltip method.  
+
