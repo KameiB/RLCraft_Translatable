@@ -58,4 +58,8 @@
 > Added es_mx.lang (texts specific for RLCraft).  
 
 ### Ice and Fire
-> Just replaced the original Bestiary english text files with spanish files, because the folder route is hardcoded to en_US.
+> Just replaced the original Bestiary english text files with spanish files, because the folder route is hardcoded to en_US.  
+
+# Support Mixin
+### [LocLore Mixin](https://github.com/KameiB/LocLoreMixin)  
+> A Mixin that adds "LocLore" NBT tag support to Minecraft's ItemStack getTooltip method.
