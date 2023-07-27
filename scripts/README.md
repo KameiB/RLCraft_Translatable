@@ -1,6 +1,10 @@
 # Custom names and translations
+### Shiv.sz, Shiv2.sz
+- Commented all hardcoded names and tooltips.  
+
 ### CustomNamesTooltips.zs
-- Replaced Shivaxi's hardcoded english names and tooltips with translatable texts. So if you plan to use this, I suggest commenting all hardcoded stuff on Shiv.zs and Shiv2.zs
+- Replaced Shivaxi's hardcoded english names and tooltips with translatable texts.  
+  So if you plan to use this, I suggest commenting all hardcoded stuff on Shiv.zs and Shiv2.zs (or use my files)  
 - Grave scroll: Replaced default hardcoded description with a translatable one.
 - Seeds' "Fertile Seasons" hardcoded texts: Replaced with translatable ones.
 

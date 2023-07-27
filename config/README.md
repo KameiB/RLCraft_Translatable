@@ -1,5 +1,28 @@
-### Note for quark.cfg
-- This cfg file replaces the English hardcoded Pathfinder maps with lang keys (Lines 3050 to 3055), since Quark already is capable to translate names as lang keys.
-- The lang keys English definitions are included in its corresponding lang file.
+# Unlocalized stuff
+### bountiful/rewards.json
+- Lines 33, 521:  Added lang keys.   
+
+### CustomMainMenu/mainmenu.json
+- Lines 78, 127: Added lang keys.  
+
+### DLDungeonsJBG/nbt.cfg
+- Lines 48, 63, 64, 65, 75, 76, 85, 86, 96, 97, 98: Added lang keys.    
+
+### roguelike_dungeons/settings/fnar/vanilla/loot
+- Added lang keys to all files.  
+
+### quark.cfg
+- Lines 3050-3055: Added lang keys.  
+
+### trinkets/Trinkets_And_Baubles.cfg
+- Lines 613-620: Replaced oreDictionary entries with Block Ids, so they become translatable.
+
+# Spanish-only stuff
 ### enhancedvisuals.json
-- This cfg file contains the translated death messages (messages are sent from server)
+- Spanish death messages (messages are sent from server).
+
+### rlmixins/dsurround_chat_es_mx.cfg
+- Add this file for spanish users.  
+
+### setbonus/1.12.2.009+.cfg
+- Lines 178-199, 222-259: Added lang keys.
