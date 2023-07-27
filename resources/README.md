@@ -1,4 +1,12 @@
-### This folder contains everything inside my Resource Pack
-- English (US) Lang keys for translatable stuff  
-- Spanish (MX) All lang keys for all mods  
-- 
+# This folder contains everything inside my Resource Pack
+### English (US) lang keys for unlocalized stuff 
+- battletowers  
+- bountiful  
+- custommainmenu  
+- dldungeons  
+- quark  
+- roguelike  
+- scripts  
+
+### Spanish (MX) All lang keys for all mods  
+
