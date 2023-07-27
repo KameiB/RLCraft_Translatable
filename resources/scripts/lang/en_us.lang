@@ -7,7 +7,7 @@ tooltip.scripts.weapon.steelbonus=+2 damage against Nether mobs and Fire element
 item.advanced-fishing.blazing_fishing_pole.name=Ancient Lava Fishing Rod
 
 # === Armor Underwear ===
-tooltip.scripts.ozzyliner.destroys=Destroyed upon removal!
+tooltip.scripts.ozzyliner.destroys= Destroyed upon removal!
 tooltip.auw.xlining.ozzy.auto_adjust=Temp-Adjust Lining>
 tooltip.auw.xlining.ozzy_mild=MILD
 tooltip.auw.xlining.ozzy_warm=WARM
@@ -35,10 +35,6 @@ item.contenttweaker.blood_tear.desc=A horrible tear, dropped by a very powerful 
 # === Ice and Fire ===
 item.iceandfire.fishing_spear.name=Ancient Fishing Spear
 
-# === Main Menu ===
-menu.custommainmenu.hostyourserver=Host your own server!
-menu.quit.hover=Embrace Cowardice?
-
 # === Minecraft ===
 item.fish.cod.raw.name=River Fish
 item.fish.salmon.raw.name=Mountain Fish
@@ -56,12 +52,6 @@ tile.notreepunching:cobblestone.basalt.name=Basalt Cobblestone
 
 # === Quark ===
 item.quark:ancient_tome.desc=Use in off-hand to apply to matching enchanted item
-quark.biomeMap.plains_defiled=Defiled Lands Pathfinder Map
-quark.biomeMap.forest_vilespine=Defiled Lands Pathfinder Map
-quark.biomeMap.desert_defiled=Defiled Lands Pathfinder Map
-quark.biomeMap.iceandfire:glacier=Glacier Pathfinder Map
-quark.biomeMap.traverse:meadow=Meadow Pathfinder Map
-quark.biomeMap.traverse:badlands=Badlands Pathfinder Map
 
 # === RLMixins ===
 item.cleansing_talisman.desc=Craft with any enchanted book to convert the book's enchantment to Curse Break

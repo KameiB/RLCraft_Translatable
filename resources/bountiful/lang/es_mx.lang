@@ -40,3 +40,7 @@ bountiful.tooltip.requirements=Requisitos no satisfechos.
 
 bountiful.tooltip.requiredDetails=§6Requiere:§f
 bountiful.tooltip.rewardsDetails=§6Recompensas:§f
+
+# From rewards.json
+reward.bountiful.sharper.lore=§6Más afilada de lo normal.
+reward.bountiful.eternaldooter.name=§oEl Tuutuu eterno

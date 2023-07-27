@@ -1,0 +1,7 @@
+# Custom PathFinder maps from quark.cfg
+quark.biomeMap.plains_defiled=Defiled Lands Pathfinder Map
+quark.biomeMap.forest_vilespine=Defiled Lands Pathfinder Map
+quark.biomeMap.desert_defiled=Defiled Lands Pathfinder Map
+quark.biomeMap.iceandfire:glacier=Glacier Pathfinder Map
+quark.biomeMap.traverse:meadow=Meadow Pathfinder Map
+quark.biomeMap.traverse:badlands=Badlands Pathfinder Map
