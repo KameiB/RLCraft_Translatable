@@ -1,4 +1,4 @@
-# Unlocalized stuff
+# Translatable stuff
 ### bountiful/rewards.json
 - Lines 33, 521:  Added lang keys.   
 
