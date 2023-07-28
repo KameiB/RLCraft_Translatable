@@ -1,0 +1,29 @@
+##Translated by KameiB for RLCraft 2.9.2. Jan/2023
+itemGroup.adhooks=Ganchos avanzados
+
+item.spear_hook.name=Gancho de Lanza
+item.pudge_hook.name=Gancho Pudge
+item.web_hook.name=Gancho Telaraña
+
+item.prototype_launcher.name=Lanza-gancho Prototipo
+item.spear_launcher.name=Lanza-gancho de Lanza
+item.pudge_launcher.name=Lanza-gancho Pudge
+item.web_launcher.name=Lanza-gancho telaraña
+
+entity.adhooks.hookshot.name=Enganchar
+
+key.unhook=Desenganchar
+
+tooltip.launcher.hook_strength=Fuerza de enganche
+tooltip.launcher.rope_elasticity=Elasticidad de la cuerda
+tooltip.launcher.rope_max_length=Longitud max de la cuerda
+tooltip.launcher.reeling_speed=Vel. de la cuerda
+tooltip.launcher.boostup_strength=Fuerza de impulso
+tooltip.launcher.launch=%1$sLanzar: %2$s
+tooltip.launcher.reel_unhook=%1$sEnrollar / Desenganchar: presiona %2$s o %3$s
+tooltip.launcher.pull=%1$sJalar: %2$s (manten presionado)
+tooltip.launcher.loosen=%1$sAflojar: %2$s (manten presionado)
+tooltip.launcher.boost_up=%1$sImpulsarse: presiona %2$s o %3$s mientras jalas
+tooltip.launcher.release=%1$sSoltar: %2$s mientras presionas %3$s
+tooltip.launcher.more_info=%1$s para detalles
+tooltip.launcher.controls=%1$s para ayuda de controles

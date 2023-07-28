@@ -1,0 +1,40 @@
+## Translated by KameiB for RLCraft 2.9.2
+reborncore.message.active=Activo
+reborncore.message.inactive=Inactivo
+
+item.reborncore.manual.name=Manual de Team Reborn
+
+reborncore.tooltip.energy.maxEnergy=Max energia
+reborncore.tooltip.energy.inputRate=Tasa de entrada
+reborncore.tooltip.energy.outputRate=Tasa de salida
+reborncore.tooltip.energy.tier=Nivel
+reborncore.tooltip.energy.change=Cambio de energia
+
+reborncore.gui.heat=Calor
+reborncore.gui.missingmultiblock=Multibloque incompleto
+
+reborncore.gui.tooltip.config_slots=Configurar espacios
+reborncore.gui.tooltip.config_fluids=Configurar fluidos
+reborncore.gui.tooltip.hologram=Alternar holograma multibloque
+reborncore.gui.tooltip.lock_items=Fijar items
+reborncore.gui.tooltip.power_charged=Cargado
+reborncore.gui.tooltip.power_click=Clic para cambiar las unidades a mostrar
+reborncore.gui.tooltip.power_moreinfo=para mas info
+reborncore.gui.tooltip.dsu_fullness=Lleno
+reborncore.gui.tooltip.tank_amount=%smB/%smB
+reborncore.gui.tooltip.tank_empty=Tanque vacio
+reborncore.gui.tooltip.tank_fullness=Lleno
+reborncore.gui.tooltip.unlock_items=Des-fijar items
+reborncore.gui.tooltip.upgrades=Mejoras de maquinas
+
+reborncore.gui.tooltip.energy_storage_redstone_mode_0=Comportamiento redstone: Nada
+reborncore.gui.tooltip.energy_storage_redstone_mode_1=Comportamiento redstone: Emitir si esta lleno
+reborncore.gui.tooltip.energy_storage_redstone_mode_2=Comportamiento redstone: Emitir si esta parcialmente lleno
+reborncore.gui.tooltip.energy_storage_redstone_mode_3=Comportamiento redstone: Emitir si esta parcialmente lleno o vacio
+reborncore.gui.tooltip.energy_storage_redstone_mode_4=Comportamiento redstone: Emitir si esta vacio
+reborncore.gui.tooltip.energy_storage_redstone_mode_5=Comportamiento redstone: No emitir energia
+reborncore.gui.tooltip.energy_storage_redstone_mode_6=Comportamiento redstone: No emitir energia a menos que este lleno
+
+reborncore.gui.slotconfigtip.slot=Clic a un espacio para configurar.
+reborncore.gui.slotconfigtip.side=El lado naranja significa salida, azul significa entrada.
+#reborncore.gui.slotconfigtip.side=Ctrl+C para copiar la configuracion del espacio, Ctrl+V para pegar la configuracion del espacio.

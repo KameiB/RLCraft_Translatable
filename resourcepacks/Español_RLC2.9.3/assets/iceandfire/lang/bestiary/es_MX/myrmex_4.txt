@@ -1,0 +1,37 @@
+Intercambiar con los Mirmex es un
+negocio lucrativo. Los Obreros
+ofrecen baja calidad, pero desean
+intercambiar resina por sedimentos
+y una gema ocasional.
+Los Soldados ofrecen drops comu-
+nes de mobs y los Sentinelas ofre-
+cen drops raros e items venenosos.
+La Realeza ofrece artefactos e
+ingredientes alquimicos.
+La Reina solo ofrece huevos.
+
+
+
+
+
+
+El Baston de Mirmex te permite
+editar la estructura de la colonia.
+
+Para enlazarlo a una colonia,
+da clic derecho a un Mirmex.
+Con el puedes eliminar ciertas salas
+de la colonia e incluso deshabilitar
+la reproduccion de la Reina.
+Agacharte y clic derecho te permite
+agregar una nueva Sala en esa
+coordenada.
+Solo puedes usar el Baston si tu
+reputacion es 75 o mayor.
+
+Los Huevos de Mirmex eclosionan
+bajo tierra. Si un Huevo de Reina
+eclosiona cerca de un jugador, se
+enlazara a este y la colonia que se
+forme tendra una reputacion de 100
+permanente.

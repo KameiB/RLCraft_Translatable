@@ -1,0 +1,25 @@
+## Translated by Copper. Jan/2023. Reivsed by KameiB
+tile.disenchanter:disenchantmenttable.name=Mesa de desencantamiento
+item.disenchanter:experience_jar.name=Jarra de experiencia
+container.disenchant=Desencantar
+msg.shift_for_tooltip.txt=Presiona SHIFT para mas informacion
+msg.extract_from_jar.txt=- Bebe de la jarra para obtener un poco de experiencia
+msg.extract_all_from_jar.txt=- Agachate mientras bebes la jarra para extraer toda la experiencia
+msg.insert_into_jar.txt=- Agachate mientras golpeas con la jarra para almacenar experiencia
+msg.stored_xp.txt=Experiencia almacenada: %d/%d
+msg.overload.txt=Sobrecarga
+msg.overload_detailed.txt=Sobrecarga: Desencanta al maximo posible
+msg.automatic.txt=automatico
+msg.bulkdisenchanting.txt=desencantacion masiva
+msg.cycling.txt=ciclando
+msg.voiding.txt=vaciando
+
+# Added by KameiB. Config GUI
+disenchanter.crafting=Fabricacion
+disenchanter.crafting.tooltip=Configuraciones de fabricacion de items de este mod
+disenchanter.disenchanting=Mesa de desencantamiento
+disenchanter.disenchanting.tooltip=Configuraciones de la Mesa de desencantamiento
+disenchanter.experiencejar=Jarra de experiencia
+disenchanter.experiencejar.tooltip=Configuraciones de la Jarra de experiencia
+disenchanter.visual=Visual
+disenchanter.visual.tooltip=Configuraciones visuales

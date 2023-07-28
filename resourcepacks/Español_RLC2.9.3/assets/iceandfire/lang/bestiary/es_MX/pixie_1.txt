@@ -1,0 +1,32 @@
+﻿Interactua con un hada usando
+un frasco para capturarla.
+
+Consumir polvo de hada te da
+Levitacion y Luminiscencia, pero
+puede ser usado para craftear
+algo mucho mas poderoso:
+Ambrosia.
+
+
+
+
+Esta, al ser consumida, restaura
+una gran cantidad de salud y
+aplica muchos potentes efectos
+de pocion.
+
+Tambien puedes hacerte amigo
+de un hada ofreciendole pastel.
+
+Si tiras un pastel cerca de un
+hada y esta lo recoge, se
+deleitara con su dulce sabor
+y seguira a aquel que lo haya
+lanzado.
+
+Cuando te vuelves amigo de un
+hada, ella puede seguirte o
+deambular. Si un hada amiga se
+encuentra cerca de ti, te dara
+un efecto de pocion, dependiendo
+del color del hada.

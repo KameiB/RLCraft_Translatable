@@ -1,13 +1,13 @@
-# RLCraft, but in _Spanish_  
+# RLCraft, but translatable  
 =========================  
 
-[![CurseForge Downloads](https://cf.way2muchnoise.eu/espanol-para-rlcraft.svg)](https://www.curseforge.com/minecraft/texture-packs/espanol-para-rlcraft)
-[![CurseForge Versions](https://cf.way2muchnoise.eu/versions/espanol-para-rlcraft.svg)](https://www.curseforge.com/minecraft/texture-packs/espanol-para-rlcraft)  
-[![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3DKameiB%26type%3Dpatrons&style=flat)](https://patreon.com/KameiB)
+### This repository includes all the changes needed to make RLCraft language-sensitive.  
+- [config] Config files for the lastest RLCraft (cfg, json)  
+- [mods]  
+  - Forks (FishingMadeBetter and RogueLike Dungeons PRs waiting for approval)  
+  - A Mixin to add "LocLore" NBT tag support, for custom loot created by config files.  
+- [resourcepacks] All files inside my Spanish Resource Pack (lang, ogg, png)  
+- [resources] en_us lang files needed to support the modified config and scripts  
+- [scripts] Scripts for the latest version of RLCraft  
 
-
-This repository includes:  
-- All files inside my Resource Pack (lang, ogg, png)  
-- Scripts for the latest version of RLCraft (zs)  
-- Config files for the lastest RLCraft (cfg, json)
-- Mods I worked on (jar files)  
+Please read the README file inside each folder.  

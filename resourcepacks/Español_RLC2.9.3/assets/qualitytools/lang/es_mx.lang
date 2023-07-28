@@ -1,0 +1,135 @@
+## Translated by KameiB for RLCraft 2.9.2
+itemGroup.qualitytools=Quality Tools
+
+item.emerald_amulet.name=Amuleto de esmeralda
+item.emerald_ring.name=Anillo de esmeralda
+
+item.reforging_station.name=Estacion de reforja
+tile.reforging_station.name=Estacion de reforja
+container.reforging_station=Estacion de reforja
+
+info.quality.name=Cualidad: 
+
+#Trinkets
+quality.aiming.name=Arquero
+#Trinkets, Helmet, Chestplate, Leggings, Boots, Shield, Horse
+quality.arcane.name=Arcano
+#Trinkets
+quality.armored.name=Blindado
+#Trinkets
+quality.athletic.name=Atletico
+#Tools
+quality.broad.name=Ancho
+#Tools
+quality.broken.name=Roto
+#Tools
+quality.bulky.name=Voluminoso
+#Tools
+quality.chipped.name=Astillado
+#Tools, Bow
+quality.clumsy.name=Torpe
+#Trinkets
+quality.clunky.name=Antiguo
+#Bow
+quality.cracked.name=Agrietado
+#Helmet, Chestplate, Leggings, Boots, Horse
+quality.crumbling.name=Desmoronado
+#Chestplate,
+quality.cumbersome.name=Incomodo
+#Helmet, Chestplate, Leggings, Boots, Horse
+quality.dented.name=Abollado
+#Magic
+quality.enhancing.name=Potenciador
+#Trinkets
+quality.flailing.name=Agitado
+#Trinkets
+quality.focusing.name=Enfocado
+#Trinkets, Tools
+quality.graceful.name=Agraciado
+#Trinkets
+quality.healthy.name=Saludable
+#Helmet, Chestplate, Leggings, Boots, Shield, Horse
+quality.heavy.name=Pesado
+#Trinkets
+quality.horrible.name=Horrible
+##quality.hulking.name=Grueso
+#Magic
+quality.ineffective.name=Ineficaz
+#Magic
+quality.inept.name=Inepto
+#Tools
+quality.keen.name=Astuto
+#Tools, Bow
+quality.legendary.name=§dLegendario
+#Trinkets, Helmet, Fishing
+quality.lucky.name=Suertudo
+#Bow
+quality.light.name=Ligero
+#Tools
+quality.long.name=Largo
+#Helmet, Chestplate, Leggings, Boots, Horse
+quality.masterful.name=Maestro
+#Magic
+quality.mystical.name=Mistico
+#Tools
+quality.pokey.name=Picudo
+#Bow
+quality.powerful.name=Poderoso
+#Trinkets
+quality.prospecting.name=Minero
+#Helmet, Chestplate, Leggings, Boots, Horse
+quality.protective.name=Protector
+#Trinkets
+quality.punishing.name=Castigador
+quality.quick.name=Rapido
+#Tools
+quality.rusted.name=Oxidado
+#Tools
+quality.sharp.name=Agudo
+#Trinkets
+quality.shielding.name=Defensor magi
+#Tools
+quality.short.name=Corto
+#Trinkets, Boots, Horse
+quality.speedy.name=Veloz
+#Chestplate,
+quality.solid.name=Solido
+#Trinkets, Leggings,
+quality.springy.name=Rebotador
+#Trinkets
+quality.strengthening.name=Fortalecedor
+#Tools
+quality.sweeping.name=Barredor
+#Boots
+quality.tall.name=Alto
+#Helmet, Chestplate, Leggings, Boots, Shield, Horse
+quality.thick.name=Denso
+#Tools
+quality.thin.name=Delgado
+#Helmet, Chestplate, Leggings, Boots
+quality.tough.name=Duro
+#Trinkets
+quality.undying.name=Inmortal
+#Trinkets, Fishing
+quality.unlucky.name=Desafortunado
+#Tools
+quality.vicious.name=Violento
+#Tools
+quality.worthless.name=Inutil
+
+item.modifiers.baubles_amulet=Puesto como collar:
+item.modifiers.baubles_ring=Puesto como anillo:
+item.modifiers.baubles_belt=Puesto como cinturon:
+item.modifiers.baubles_head=Puesto en la cabeza:
+item.modifiers.baubles_body=Puesto en el torso:
+item.modifiers.baubles_charm=Puesto como talisman:
+item.modifiers.baubles_trinket=Puesto como Bauble:
+item.modifiers.inventory=En el inventario:
+item.modifiers.horse=Puesto en un caballo:
+
+commands.qualitytoolsreload.usage=/qualitytoolsreload
+commands.qualitytoolsreload.success=Se volvieron a cargar las configuraciones de cualidad de herramientas
+commands.qualitytoolsreload.problems=Se encontraron problemas mientras se volvian a cargar las configuraciones de herramientas
+
+message.qualitytoolsreload.problems=Quality Tools encontro %s problema(s) mientras se cargaban las configuraciones:
+message.qualitytoolsreload.problems.saved=Los problemas fueron guardados en config/Quality Tools/problems.txt.

@@ -1,0 +1,30 @@
+## Translated by KameiB for RLCraft 2.9.2. Mar/2023
+fml.menu.mods=Mods...
+fml.menu.mods.search=Buscar:
+fml.menu.modoptions=Opciones de Mods...
+
+fml.configgui.applyGlobally=Aplicar global
+fml.configgui.confirmRestartMessage=Entiendo
+fml.configgui.gameRestartRequired=Uno o más cambios requieren reiniciar Minecraft para aplicarse.
+fml.configgui.gameRestartTitle=Requiere reiniciar
+fml.configgui.sampletext=Texto de ejemplo
+fml.configgui.tooltip.addNewEntryAbove=Agregar nueva entrada
+fml.configgui.tooltip.applyGlobally=Aplicar Deshacer cambios o Resetear a predeterminados globalmente.
+fml.configgui.tooltip.removeEntry=Eliminar entrada
+fml.configgui.tooltip.resetAll=Resetea Todos a su valor predeterminado. Si Aplicar global está activado, también se resetearán los valores de las pantallas hijas.
+fml.configgui.tooltip.resetToDefault=Resetear
+fml.configgui.tooltip.undoAll=Deshacer todos los cambios. Si Aplicar global está activado, se desharán los cambios a los calores de las pantallas hijas.
+fml.configgui.tooltip.undoChanges=Deshacer cambios
+
+item.forge.bucketFilled.name=Cubeta con %s
+
+fml.button.continue=Continuar
+fml.button.open.mods.folder=Carpeta de Mods
+fml.button.open.file=Abrir %s
+
+forge.client.shutdown.internal=Apagando servidor interno...
+
+forge.container.enchant.limitedEnchantability=Encantabilidad limitada
+attribute.name.generic.reachDistance=Distancia de alcance
+attribute.name.forge.swimSpeed=Velocidad de nado
+

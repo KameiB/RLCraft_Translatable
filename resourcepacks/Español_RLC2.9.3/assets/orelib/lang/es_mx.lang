@@ -1,0 +1,31 @@
+## Translated by KameiB for RLCraft 2.9.2
+#PARSE_ESCAPES
+# Mexico ES Translations
+orelib.msg.orelib=OreLib
+
+# Version checking strings
+orelib.msg.NewVersion=["§6Actualizacion disponible: §9[",{"text":"§2%1$s §ev%2$s§f","color":"gold","hoverEvent":{"action":"show_text","value":{"text":"Clic para ir a la pagina del proyecto en CurseForge","color":"aqua"}},"clickEvent":{"action":"open_url","value":"%3$s"}},"§9]"]
+
+# Metadata Updates
+orelib.metadata.Name=§3Biblioteca de soporte de OreLib
+orelib.metadata.Credits=§cSolo es una biblioteca de soporte, verdad?§r
+orelib.metadata.Authors=§aOreCruncher§r
+orelib.metadata.Description=Agrega funciones de soporte para los mods de OreCruncher
+
+# String formatting
+orelib.format.TimeOfDay=Dia %1$d, %2$d:%3$02d %4$s
+orelib.format.AM=AM
+orelib.format.PM=PM
+orelib.format.NoSky=Sin cielo
+orelib.format.Sunrise=Amanecer
+orelib.format.Sunset=Atardecer
+orelib.format.Daytime=De dia
+orelib.format.Nighttime=De noche
+
+# Configuration option strings
+config.orelib.logging=Opciones de registro
+config.orelib.logging.tooltip=Define como se comportara el registro de OreLib
+config.orelib.logging.enableLogging=Registro de depuracion
+config.orelib.logging.enableLogging.tooltip=Habilita/deshabilita el registro de depuracion del mod
+config.orelib.logging.enableVersionCheck=Revisar versiones en linea
+config.orelib.logging.enableVersionCheck.tooltip=Habilita/deshabilita mostrar la informacion de revision de version

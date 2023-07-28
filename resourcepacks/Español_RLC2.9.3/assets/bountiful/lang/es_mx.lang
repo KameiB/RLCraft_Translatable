@@ -1,0 +1,46 @@
+##Translated by KameiB for RLCraft 2.9.2. Jan/2023
+item.bountiful.bounty.name=Recompensa
+bountiful.bounty.board=Tablero de recompensas
+tile.bountiful.bountyboardblock.name=Tablero de recompensas
+
+# Interface
+bountiful.bounty.expired=§4Esta recompensa ha expirado.
+bountiful.bounty.fulfilled=§6Recompensa cobrada!
+bountiful.cannot.fulfill=§aNo se puede cobrar la recompensa, no tienes todo lo solicitado!
+bountiful.board.empty=§6Aun no hay recompensas, vuelve mas tarde!
+
+# Commands
+
+bountiful.reloaded.data=Se volvieron a cargar los archivos de configuracion Json
+bountiful.reloading.data=Volviendo a cargar los datos..
+bountiful.requirements.met=§aSe cumplieron los requisitos de la recompensa. Cobrala dando clic derecho en un Tablero de recompensas.
+bountiful.requirements.mobs.needed=§cNecesitas matar mas mobs para completar esta recommpensa.
+bountiful.command.gen.invalid=§6No se encontro el nivel de rareza!
+
+bountiful.rarity.Common=Comun
+bountiful.rarity.Uncommon=Poco comun
+bountiful.rarity.Rare=Raro
+bountiful.rarity.Epic=Epico
+
+bountiful.stat.bountiesTaken=Recompensas tomadas
+bountiful.stat.bountiesCompleted=Recompensas completadas (Total)
+bountiful.stat.bountiesCommon=Recompensas completadas (Comun)
+bountiful.stat.bountiesUncommon=Recompensas completadas (Poco comun)
+bountiful.stat.bountiesRare=Recompensas completadas (Raro)
+bountiful.stat.bountiesEpic=Recompensas completadas (epico)
+
+bountiful.toofew.bounties=§4Tu archivo de configuracion no contiene suficientes Recompensas validas. Revirtiendo a los datos anteriores de Recompensa.
+
+bountiful.tooltip.advanced=Presiona Shift para detalles
+bountiful.tooltip.time=Tiempo para completar
+bountiful.tooltip.required=Requerido(s)
+bountiful.tooltip.rewards=Recompensas
+bountiful.tooltip.expired=Expirado
+bountiful.tooltip.requirements=Requisitos no satisfechos.
+
+bountiful.tooltip.requiredDetails=§6Requiere:§f
+bountiful.tooltip.rewardsDetails=§6Recompensas:§f
+
+# From rewards.json
+reward.bountiful.sharper.lore=§6Más afilada de lo normal.
+reward.bountiful.eternaldooter.name=§oEl Tuutuu eterno

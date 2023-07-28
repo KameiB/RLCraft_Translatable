@@ -1,0 +1,43 @@
+## Translated by KameiB for RLCraft 2.9.2
+item.wolfarmor.leatherWolfArmor.name=Armadura de cuero para lobos
+item.wolfarmor.chainWolfArmor.name=Armadura de cota de malla para lobos
+item.wolfarmor.ironWolfArmor.name=Armadura de hierro para lobos
+item.wolfarmor.goldWolfArmor.name=Armadura de oro para lobos
+item.wolfarmor.diamondWolfArmor.name=Armadura de diamante para lobos
+
+config.wolfarmor.general.enableChests=Habilitar cofre en lobos
+config.wolfarmor.general.enableChests.comment=Habilita o deshabilita las mochilas de los lobos.
+config.wolfarmor.client.enableWolfArmorRender=Mostrar modelo de armadura de lobo
+config.wolfarmor.client.enableWolfArmorRender.comment=Habilita o deshabilita el renderizado de la armadura para lobos.
+config.wolfarmor.client.enableWolfChestRender=Mostrar modelo de cofre en lobos
+config.wolfarmor.client.enableWolfChestRender.comment=Habilita o deshabilita el renderizado de las mochilas de los lobos.
+config.wolfarmor.client.enableWolfArmorDisplay=Mostrar armadura para lobos en el inventario
+config.wolfarmor.client.enableWolfArmorDisplay.comment=Habilita o deshabilita mostrar el valor de la armadura para lobo en la pantalla del inventario del lobo.
+config.wolfarmor.client.enableWolfHealthDisplay=Mostrar la salud del lobo en el inventario
+config.wolfarmor.client.enableWolfHealthDisplay.comment=Habilita o deshabilita mostrar la salud del lobo en la pantalla de inventario del lobo.
+config.wolfarmor.behavior.enableHowlingUntamedWolves=Habilitar aullido de lobos salvajes
+config.wolfarmor.behavior.enableHowlingUntamedWolves.comment=Habilitar o deshabilitar que los lobos salvajes aullen durante la luna llena.
+config.wolfarmor.behavior.shouldWolvesEatWhenDamaged=Habilitar regeneracion en lobos
+config.wolfarmor.behavior.shouldWolvesEatWhenDamaged.comment=Si se habilita, los lobos se comeran automaticamente la carne almacenada en su inventario.
+config.wolfarmor.general.chestSize.horizontal=Tamaño del cofre horizontal
+config.wolfarmor.general.chestSize.horizontal.comment=Asigna el tamaño horizontal del cofre del lobo
+config.wolfarmor.general.chestSize.vertical=Tamaño del cofre vertical
+config.wolfarmor.general.chestSize.vertical.comment=Asigna el tamaño vertical del cofre del lobo
+
+advancements.husbandry.armor_up.title=Protegido!
+advancements.husbandry.armor_up.description=Ponle armadura a tu lobo
+advancements.husbandry.wolf_pack.title=Lobo con paquete
+advancements.husbandry.wolf_pack.description=Equipa a tu lobo con un cofre
+
+inventory.wolfarmor.wolf=%1$s
+
+gui.wolfarmor.config=Wolf Armor Mod
+gui.wolfarmor.config.subtitle=Configuraciones
+gui.wolfarmor.config.category.general=Configuraciones Generales
+gui.wolfarmor.config.category.client=Configuraciones lado Cliente
+gui.wolfarmor.config.category.client.render=Configuraciones de Renderizado
+gui.wolfarmor.config.category.client.gui=Config de Interfaz de Usuario
+gui.wolfarmor.config.category.behavior=Comportamiento Personalizado
+gui.wolfarmor.inventory.remove_chest=Remover Cofre
+
+entity.wolfarmor.wolf_armored.name=Lobo

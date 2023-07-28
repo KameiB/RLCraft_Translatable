@@ -1,0 +1,115 @@
+## Translated by KameiB for RLCraft 2.9.2
+levelup.cost=Costo: %s
+levelup.levels.track=Nivel actual: %s | Nivel original: %s
+levelup.skill.increase=Aumentar
+levelup.skill.decrease=Disminuir
+levelup:mining_bonus.desc=Gana mas experiencia al minar minerales.
+levelup:craft_bonus.desc=Gana experiencia al craftear.
+levelup:combat_bonus.desc=Gana mas experiencia al combatir.
+
+levelup:woodcutting.desc=Aumenta la velocidad al talar arboles.
+levelup:woodcutting.desc.1=+4%% velocidad, por nivel.
+levelup:lumbering.desc=Posibilidad de recibir mas madera.
+levelup:lumbering.desc.1=+3%% posibilidad, por nivel.
+levelup:stonecutting.desc=Aumenta la velocidad de minado de piedra.
+levelup:stonecutting.desc.1=+5%% velocidad, por nivel.
+levelup:prospecting.desc=Posibilidad de duplicar minerales.
+levelup:prospecting.desc.1=+5%% posibilidad, por nivel.
+levelup:flintloot.desc=Posibilidad de recibir pedernal al minar grava.
+levelup:flintloot.desc.1=+10%% posibilidad, por nivel.
+levelup:treasurehunting.desc=Posibilidad de encontrar un tesoro al cavar.
+levelup:treasurehunting.desc.1=+5%% posibilidad, por nivel.
+levelup:swordcrit.desc=Duplica el daño que haces aleatoriamente.
+levelup:swordcrit.desc.1=+5%% posibilidad, por nivel.
+levelup:sworddamage.desc=Aumenta la fuerza de tus golpes fisicos.
+levelup:sworddamage.desc.1=+5%% daño por golpe, por nivel.
+levelup:bowdraw.desc=Aumenta la velocidad con la que jalas el arco.
+levelup:arrowspeed.desc=Tus flechas viajaran mas rapido.
+levelup:arrowspeed.desc.1=+10%% velocidad, por nivel.
+levelup:stealth.desc=Agacharte reduce la distancia a la que te detectan los mobs.
+levelup:stealth.desc.1=-5%% distancia de vision, por nivel.
+levelup:stealthdamage.desc=Agacharte aumenta la fuerza de tus ataques.
+levelup:stealthdamage.desc.1=+15%% daño de proyectiles, por nivel.
+levelup:stealthdamage.desc.2=+30%% daño por golpe, por nivel.
+levelup:shieldblock.desc=Tu escudo bloqueara daño inbloqueable ocasionalmente.
+levelup:shieldblock.desc.1=+10%% oportunidad de bloqueo total, por nivel
+levelup:naturalarmor.desc=Reduce el daño que recibas.
+levelup:naturalarmor.desc.1=+5%% reduccion de daño, por nivel.
+levelup:cropgrowth.desc=Ocasionalmente haras que los cultivos
+levelup:cropgrowth.desc.1=a tu alrededor crezcan mas rapido.
+levelup:cropgrowth.desc.2=+2%% posibilidad de crecimiento y aumento del radio, por nivel.
+levelup:harvestbonus.desc=Posibilidad de recibir mas cultivos.
+levelup:harvestbonus.desc.1=+10%% posibilidad, por nivel.
+levelup:sprintspeed.desc=Aumenta tu velocidad al correr.
+levelup:sprintspeed.desc.1=+5%% velocidad, por nivel.
+levelup:fallprotect.desc=Reduce el daño por caida.
+levelup:fallprotect.desc.1=-10%% daño por caida, por nivel.
+levelup:stealthspeed.desc=Aumenta tu velocidad de movimiento al agacharte.
+levelup:stealthspeed.desc.1=+10%% velocidad, por nivel.
+levelup:furnacespeed.desc=Aumenta la velocidad de trabajo del horno.
+levelup:furnacespeed.desc.1=+1 tick mas rapido, por nivel.
+levelup:furnacespeed.desc.2=SHIFT + Clic derecho con tu mano vacia para vincular un horno a ti.
+levelup:furnacebonus.desc=Posibilidad de duplicar el resultado horneado.
+levelup:furnacebonus.desc.1=+4%% posibilidad, por nivel.
+levelup:brewingspeed.desc=Aumenta la velocidad de trabajo del soporte para pociones.
+levelup:brewingspeed.desc.1=+1 tick mas rapido, por nivel.
+levelup:brewingspeed.desc.2=SHIFT + Clic derecho con tu mano vacia para vincular un horno a ti.
+levelup:fishbonus.desc=Posibilidad de obtener algo extra al pescar.
+levelup:fishbonus.desc.1=+5%% posibilidad, por nivel.
+
+item.levelup:orechunk.name=Fragmento de %s
+item.levelup:orechunk_null.name=Fragmento de mineral
+item.levelup:respec.name=Libro de cambio de especializacion
+
+skill.levelup:mining_bonus.short=Mineria
+skill.levelup:craft_bonus.short=Artesania
+skill.levelup:combat_bonus.short=Combate
+skill.levelup:mining.desc=+EXP de minerales
+skill.levelup:craft.desc=+EXP al craftear
+skill.levelup:combat.desc=+EXP de los mobs
+
+skill.levelup:mining_bonus.name=Minero
+skill.levelup:craft_bonus.name=Artesano
+skill.levelup:combat_bonus.name=Guerrero
+skill.levelup:stonecutting.name=Velocidad de minado
+skill.levelup:prospecting.name=Fortuna de minado
+skill.levelup:woodcutting.name=Velocidad de talado
+skill.levelup:lumbering.name=Fortuna de talado
+skill.levelup:flintloot.name=Cosechador de pedernal
+skill.levelup:treasurehunting.name=Cazador de tesoros
+skill.levelup:swordcrit.name=Criticos aleatorios
+skill.levelup:sworddamage.name=Daño por golpe
+skill.levelup:bowdraw.name=Arco veloz
+skill.levelup:arrowspeed.name=Flecha veloz
+skill.levelup:stealth.name=Sigilo
+skill.levelup:stealthdamage.name=Daño sigiloso
+skill.levelup:shieldblock.name=Maestro del escudo
+skill.levelup:naturalarmor.name=Piel de hierro
+skill.levelup:cropgrowth.name=Pulgar verde
+skill.levelup:harvestbonus.name=Fortuna de cosecha
+skill.levelup:sprintspeed.name=Pies rapidos
+skill.levelup:fallprotect.name=Pies ligeros
+skill.levelup:stealthspeed.name=Velocidad sigilosa
+skill.levelup:furnacespeed.name=Horneado rapido
+skill.levelup:furnacebonus.name=Fortuna de horneado
+skill.levelup:brewingspeed.name=Velocidad de destilado
+skill.levelup:fishbonus.name=Fortuna de pesca
+
+gui.levelup.skillmenu.0=Mineria
+gui.levelup.skillmenu.1=Crafteo
+gui.levelup.skillmenu.2=Combate
+gui.levelup.budget=Niveles gastados: %s
+levelup.prereq=Pre-requisitos: %s
+skill.inactive=Habilidad inactiva.
+flag.noplace=No puede ser colocado
+
+levelup.interact.register=Maquina vinculada a %s
+levelup.interact.unregister=Maquina desvinculada de %s
+levelup.interact.notowned=La maquina ya esta registrada a %s
+levelup.respec.lowlevel=§eNivel muy bajo, debe ser %s §r
+
+sneak.attack=Daño sigiloso multiplicado por %d!
+level.invalid=§e§l[Level Up!]§r§e Debes tener 5 niveles de experiencia antes de poder elegir una especializacion.§r
+
+# Added by KameiB
+key.categories.gui=LevelUp2

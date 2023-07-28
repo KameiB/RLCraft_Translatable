@@ -1,0 +1,168 @@
+## Translated by KameiB for RLCraft 2.9.2
+# Items
+item.notreepunching:grass_fiber.name=Fibra vegetal
+item.notreepunching:grass_string.name=Hilo vegetal
+item.notreepunching:flint_shard.name=Fragmento de pedernal
+item.notreepunching:clay_brick.name=Ladrillo de arcilla
+
+item.notreepunching:rock.stone.name=Roca
+item.notreepunching:rock.andesite.name=Roca de andesita
+item.notreepunching:rock.diorite.name=Roca de diorita
+item.notreepunching:rock.granite.name=Roca de granito
+item.notreepunching:rock.sandstone.name=Roca de arenisca
+item.notreepunching:rock.red_sandstone.name=Roca de arenisca roja
+item.notreepunching:rock.marble.name=Roca de marmol
+item.notreepunching:rock.limestone.name=Roca de caliza
+item.notreepunching:rock.slate.name=Roca de pizarra
+
+item.notreepunching:clay_tool.name=Herramienta para arcilla
+item.notreepunching:fire_starter.name=Iniciador de fuego
+item.notreepunching:ceramic_small_vessel.name=Vaso pequeño de ceramica
+item.notreepunching:ceramic_bucket.name=Cubeta de ceramica
+item.notreepunching:ceramic_bucket.filled.name=Cubeta de ceramica con %s
+
+item.notreepunching:axe.flint.name=Hacha de pedernal
+item.notreepunching:shovel.flint.name=Pala de pedernal
+item.notreepunching:hoe.flint.name=Azada de pedernal
+item.notreepunching:pickaxe.flint.name=Pico de pedernal
+item.notreepunching:knife.flint.name=Cuchillo de pedernal
+
+item.notreepunching:knife.iron.name=Cuchillo de hierro
+item.notreepunching:knife.gold.name=Cuchillo de oro
+item.notreepunching:knife.diamond.name=Cuchillo de diamante
+item.notreepunching:knife.copper.name=Cuchillo de cobre
+item.notreepunching:knife.tin.name=Cuchillo de hojalata
+item.notreepunching:knife.bronze.name=Cuchillo de bronce
+item.notreepunching:knife.steel.name=Cuchillo de acero
+
+item.notreepunching:saw.iron.name=Sierra de hierro
+item.notreepunching:saw.gold.name=Sierra de oro
+item.notreepunching:saw.diamond.name=Sierra de diamante
+item.notreepunching:saw.copper.name=Sierra de cobre
+item.notreepunching:saw.tin.name=Sierra de hojalata
+item.notreepunching:saw.bronze.name=Sierra de bronce
+item.notreepunching:saw.steel.name=Sierra de acero
+
+item.notreepunching:mattock.iron.name=Azadon de hierro
+item.notreepunching:mattock.gold.name=Azadon de oro
+item.notreepunching:mattock.diamond.name=Azadon de diamante
+item.notreepunching:mattock.copper.name=Azadon de cobre
+item.notreepunching:mattock.tin.name=Azadon de hojalata
+item.notreepunching:mattock.bronze.name=Azadon de bronce
+item.notreepunching:mattock.steel.name=Azadon de acero
+
+# Blocks
+tile.notreepunching:cobblestone.andesite.name=Andesita labrada
+tile.notreepunching:cobblestone.diorite.name=Diorita labrada
+tile.notreepunching:cobblestone.granite.name=Granito labrado
+tile.notreepunching:cobblestone.sandstone.name=Arenisca labrada
+tile.notreepunching:cobblestone.marble.name=Marmol labrado
+tile.notreepunching:cobblestone.limestone.name=Caliza labrada
+tile.notreepunching:cobblestone.slate.name=Pizarra labrada
+
+tile.notreepunching:pottery.worked.name=Arcilla trabajada
+tile.notreepunching:pottery.large_vessel.name=Vaso grande de arcilla
+tile.notreepunching:pottery.small_vessel.name=Vaso pequeño de arcilla
+tile.notreepunching:pottery.bucket.name=Cubeta de arcilla
+tile.notreepunching:pottery.flower_pot.name=Maceta de arcilla
+
+tile.notreepunching:ceramic_large_vessel.name=Vaso grande de ceramica
+tile.notreepunching:fire_pit.name=Pozo de fuego
+
+# JEI
+jei.category.knife_recipe=Cortar con cuchillo
+jei.category.firepit_recipe=Pozo de fuego
+
+jei.description.rock=Las rocas sueltas se encuentran tiradas en la tierra. Rompelas o haz clic derecho para tomarlas.
+jei.description.grass_fiber=Las fibras vegetales se consiguen rommpiendo pasto alto con un cuchillo.
+jei.description.stick=Las hojas ocasionalmente tiran palos. Usar un cuchillo aumenta la posibilidad de obtener palos.
+jei.description.flint_shard=Los trozos de pedernal se obtienen golpeando (clic derecho) pedernal contra la superficie de cualquier roca. A veces se separa en dos trozos.
+jei.description.knife=Los cuchillos pueden usarse para cortar materiales. Sosten el cuchillo en una mano y un material en la otra. Clic derecho para cortar el material.
+jei.description.mattock=Los azadones son herramientas multi uso: Hacha, pala y azada todo en uno!
+jei.description.saw=Las sierras se usan para cortar troncos y madera, como si fuera un hacha. Ponla en tu mesa de trabajo con un tronco o madera al lado para obtener palos, o arriba de un tronco para obtener madera.
+jei.description.clay_tool=La herramienta para arcilla se usa para hacer alfareria. Clic derecho con una herramienta para arcilla a una pieza de arcilla para cambiar su forma.
+
+# Misc
+itemGroup.notreepunching.items=No Tree Punching: Items
+itemGroup.notreepunching.tools=No Tree Punching: Herramientas
+
+notreepunching.subtitle.knapping.name=Piedra chocando
+
+# Guidebook
+
+notreepunching.guide.item_name=Manual de No Tree Punching
+notreepunching.guide.title=No Tree Punching
+
+notreepunching.guide.category.intro=Introduccion
+notreepunching.guide.category.early_game=Juego temprano
+notreepunching.guide.category.tools=Herramientas
+notreepunching.guide.category.pottery=Alfareria
+
+notreepunching.guide.intro.overview=Resumen
+notreepunching.guide.intro.block_breaking=Romper bloques
+notreepunching.guide.intro.world_gen=Generacion en el mundo
+notreepunching.guide.intro.mechanics=Mecanicas
+
+notreepunching.guide.intro.page.1=“No golpees arboles.” - AlcatrazEscapee
+notreepunching.guide.intro.page.2=Este mod agrega algunas nuevas mecanicas, un poco de generacion en el mundo, y cambia la manera en que se rompen los bloques.
+notreepunching.guide.intro.page.3=Los bloques ahora solo dropearan sus items si usas la herramienta correcta. Si no usas la herramienta correcta, tardaras mucho mas en romper bloques.
+notreepunching.guide.intro.page.4=Hay algunas reglas adicionales: Los picos de metal pueden romper materiales de tipo tierra sin castigos, los Azadones funcionan como sierra y pala, y cualquier bloque puede agregarse a la lista blanca en la configuracion para deshabilitar este comportamiento.
+notreepunching.guide.intro.page.5=Algunas rocas sueltas en el suelo
+notreepunching.guide.intro.page.6=Este mod agrega rocas sueltas a la generacion del mundo. Se encuentran tiradas en el suelo, son de diferentes tipos. Las rocas de arenisca solo se encuentran sobre la arena, el resto se encuentran en todas partes.
+notreepunching.guide.intro.page.7=Ademas de los cambios en la generacion del mundo y la ruptura de bloques, No Tree Punching agrega unas nuevas mecanicas y herramientas. Esto agrega la mecanica de golpear piedras para obtener herramientas de pedernal y la mecanica de talar troncos en piezas mas pequeñas. NTP tambien agrega un pozo de fuego, un sistema basico de alfareria y mas. Disfruta!
+
+notreepunching.guide.early_game.sticks=Palos
+notreepunching.guide.early_game.stones=Piedras
+notreepunching.guide.early_game.knapping=Golpear
+notreepunching.guide.early_game.knife=Cuchillo de pedernal
+notreepunching.guide.early_game.plant_fiber=Fibra vegetal
+notreepunching.guide.early_game.hatchet=Hacha
+notreepunching.guide.early_game.chopping=Talar arboles
+notreepunching.guide.early_game.fire_pit=Pozo de fuego
+
+notreepunching.guide.early_game.page.1=Los palos se obtienen de las hojas. Usar un cuchillo aumenta la posibilidad de obtener palos. Los palos tambien pueden obtenerse de cortar retoños, ve “Cuchillo” para mas info.
+notreepunching.guide.early_game.page.2=Las piedras sueltas se encuentran tiradas en el mundo. Vienen en distintas variantes: Piedra, Andesita, Granito, Diorita and Arenisca. Rompelas o da clic derecho en ellas para recogerlas. Cuando rompes piedra y sus variantes, obtendras rocas. Puedes unirlas en una mesa de fabricacion para obtener piedra labrada.
+notreepunching.guide.early_game.page.3=Golpeando pedernal para obtener sus trozos
+notreepunching.guide.early_game.page.4=Para golpear pedernal, necesitas una superficie expuesta de piedra y un pedernal. Simplemente da clic derecho con el pedernal sobre la cara superior de la piedra y obtendras hasta dos trozos de pedernal.
+notreepunching.guide.early_game.page.5=La primera herramienta que querras fabricar es el cuchillo de pedernal. Los cuchillos se usan para cortar materiales. Sujeta el cuchillo en una mano y el material a cortar, en la otra. Despues da clic derecho para cortar.
+notreepunching.guide.early_game.page.6=La fibra vegetal dropea del pasto alto, cuando lo rompes con un cuchillo. Puede usarse para hacer hilo vegetal, componente esencial para las herramientas de pedernal.
+notreepunching.guide.early_game.page.7=El hacha de pedernal es la forma primitiva del hacha comun. Puede usarse para talar arboles y obtener madera.
+notreepunching.guide.early_game.page.8=Cualquier hacha puede usarse para cortar troncos en sus derivados. No es muy efectiva y mucho menos el hacha de pedernal. Coloca un tronco sobre una superficie solida (no de madera) y da clic derecho. Despues de unos intentos, el tronco se rompera en madera. Tambien puedes cortar madera en palos.
+notreepunching.guide.early_game.page.9=El pozo de fuego es una manera facil de cocinar comida, hornear alfareria, hacer antorchas, iluminar y dar calor. Para encenderlo, necesitaras un iniciador de fuego.
+notreepunching.guide.early_game.page.10=Lanza al suelo un tronco, tres palos y una pieza vegetal (hilo vegetal, papel, etc.). Ahora sujeta el iniciador de fuego donde lanzaste los items. Deberias ver particulas de humo. Despues de un segundo o dos, se formara un pozo de fuego.
+notreepunching.guide.early_game.page.11=Pozo de fuego
+notreepunching.guide.early_game.page.12=Para hacer antorchas usando un pozo de fuego, da clic derecho al pozo de fuego con un palo. Se consumira, creando dos antorchas.
+
+notreepunching.guide.tools.flint=Herramientas de pedernal
+notreepunching.guide.tools.knife=Cuchillos
+notreepunching.guide.tools.saw=Sierras
+notreepunching.guide.tools.mattock=Azadones
+notreepunching.guide.tools.fire_starter=Iniciador de fuego
+notreepunching.guide.tools.clay_tool=Herramienta para arcilla
+
+notreepunching.guide.tools.page.1=Las herramientas de pedernal son la categoria mas baja de herramientas, ya que las herramientas de madera y piedra fueron removidas. Hay cinco herramientas: Cuchillo, Hacha, Pico, Azada y Pala. Todas se fabrican con trozos de pedernal, palos y un material de union (hilo vegetal o animal)
+notreepunching.guide.tools.page.2=Los cuchillos son un nuevo tipo de herramienta. Pueden usarse como material para cortar, trasquilar ovejas, romper pasto alto y como un arma debil. Para cortar un item usando un cuchillo: Sostenlo en una mano, el material en la otra, da clic derecho una vez y el item sera cortado.
+notreepunching.guide.tools.page.3=Las sierras son herramientas avanzadas de carpinteria. Funcionan como hachas, pero son mas utiles para cortar troncos en madera, y madera en palos. Con ella obtienes 4 maderas por tronco y 2 palos por madera.
+notreepunching.guide.tools.page.4=Los azadones son herramientas multi uso. Combina el uso de un hacha, pala y azada, todo en uno.
+notreepunching.guide.tools.page.5=El iniciador de fuego son una forma primitiva del mechero. Da clic derecho y mantenlo presionado mientras apuntas a un bloque y veras particulas de humo. Despues de un segundo, el bloque se encendera. El iniciador de fuego tambien se usa para crear o volver a encender un pozo de fuego.
+
+notreepunching.guide.pottery.intro=Introduccion
+notreepunching.guide.pottery.clay_brick=Ladrillos de arcilla
+notreepunching.guide.pottery.firing=Horneando alfareria
+notreepunching.guide.pottery.large_vessel=Vaso grande
+notreepunching.guide.pottery.small_vessel=Vaso pequeño
+notreepunching.guide.pottery.bucket=Cubeta
+notreepunching.guide.pottery.flower_pot=Maceta
+
+notreepunching.guide.pottery.page.1=No Tree Punching agrega un sistema basico de alfareria. Para comenzar, necesitaras arcilla y la herramienta para arcilla.
+notreepunching.guide.pottery.page.2=Para comenzar a fabricar alfareria, primero coloca un bloque de arcilla en el suelo. Despues, dale clic derecho con la herramienta para arcilla. Comenzara a tomar forma en una pieza de alfareria. Para obtener pequeños bloques de alfareria, usa la herramienta para arcilla en bloques grandes.
+notreepunching.guide.pottery.page.3=La alfareria cruda (de arcilla) puede ser horneada de dos maneras: en un pozo de fuego o en un horno. Cada item de alfareria tiene sus propios usos al hornearse.
+notreepunching.guide.pottery.page.4=La herramienta para arcilla tambien se usa para fabricacion. Al fabricarla con bolas de arcilla, puedes hacer ladrillos de arcilla, los cuales pueden ser horneados en ladrillos normales. Tambien pueden fabricarse bloques de arcilla en cuatro ladrillos de arcilla.
+notreepunching.guide.pottery.page.5=El vaso grande es un inventario que puede contener nueve items cuando lo colocas. No mantiene su inventario cuando lo recoges.
+notreepunching.guide.pottery.page.6=El vaso pequeño es un contenedor portatil que puede contener cuatro items. Tambien puedes poner vasos pequeños dentro de otros vasos para un almacenamiento casi infinito!
+notreepunching.guide.pottery.page.7=La cubeta de ceramica es una cubeta simple que puede contener fluidos. Por defecto, solo puede contener agua.
+notreepunching.guide.pottery.page.8=Tambien puedes fabricar la maceta normal vanilla! Urra?
+
+# Added by KameiB (from Shiv.sz)
+item.notreepunching:rock.basalt.name=Roca de basalto
+tile.notreepunching:cobblestone.basalt.name=Basalto labrado

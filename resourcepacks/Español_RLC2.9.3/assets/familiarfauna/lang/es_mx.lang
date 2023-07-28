@@ -1,0 +1,27 @@
+itemGroup.tabFamiliarFauna=Familiar Fauna
+
+config.category.mobSettings.title=Ajustes de mobs
+#this key is not linked to Config GUI
+config.category.mobSettings.title.tooltip=Habilitar/deshabilitar mobs, tasa de generacion, etc.
+
+entity.familiarfauna.butterfly.name=Mariposa
+entity.familiarfauna.deer.name=Ciervo
+entity.familiarfauna.dragonfly.name=Libelula
+entity.familiarfauna.pixie.name=Hadita
+entity.familiarfauna.snail.name=Caracol
+entity.familiarfauna.turkey.name=Pavo
+
+item.bug_habitat.name=Caja de insectos
+item.bug_habitat_butterfly.name=Caja de insectos (Mariposas)
+item.bug_habitat_dragonfly.name=Caja de insectos (Libelulas)
+item.bug_habitat_pixie.name=Caja de insectos (Haditas)
+item.bug_net.name=Red para insectos
+item.pixie_dust.name=Polvo de Hadita
+item.snail_shell.name=Caparazon de caracol
+item.turkey_leg_raw.name=Pierna de pavo cruda
+item.turkey_leg_cooked.name=Pierna de pavo asada
+item.venison_raw.name=Carne de ciervo cruda
+item.venison_cooked.name=Carne de ciervo asada
+
+# Added by KameiB
+item.ff_icon.name=Icono de Familiar Fauna

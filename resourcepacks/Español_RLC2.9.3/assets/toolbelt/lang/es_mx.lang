@@ -1,0 +1,18 @@
+## Translated by: Dorzar / VeryHardChamp
+## ultima actualizacion: 23/07/2017
+## Revised by KameiB. Feb/2023
+item.toolbelt.belt.name=Cinturon de herramientas
+item.toolbelt.pouch.name=Bolsa para cinturon
+key.toolbelt.open=Cambiar herramienta
+key.toolbelt.category=Tool Belt
+text.toolbelt.empty=VACIO
+text.toolbelt.swap=CAMBIAR
+text.toolbelt.insert=INSERTAR
+text.toolbelt.extract=EXTRAER
+text.toolbelt.tooltip=Mejoras: %s (%s espacios)
+text.toolbelt.name=Cinturon de herramientas
+
+# Added by KameiB
+key.toolbelt.slot=Abrir inventario del cinturon
+key.toolbelt.cycle.left=Ciclar a la izquierda
+key.toolbelt.cycle.right=Ciclar a la derecha

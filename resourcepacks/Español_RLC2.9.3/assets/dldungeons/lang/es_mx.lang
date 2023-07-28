@@ -1,0 +1,13 @@
+## Doomlike dungeons cfg loot names and lore ##
+# nbt.cfg
+item.dldungeons.SLICE=§a§oRebanador limpio
+item.dldungeons.EEGG5=§a§oFortuna Major
+item.dldungeons.EGGLORE0=Aunque no lo creas, existía
+item.dldungeons.EGGLORE1=en un mundo Vanilla antiguo.
+item.dldungeons.AP5=§a§oBotas escaladoras galácticas
+item.dldungeons.APLORE0=Forjadas cuidadosamente en un yunque
+item.dldungeons.FV4=§a§oHacha de la verdad de hierro
+item.dldungeons.FVLORE0=Para cortar árboles dinámicamente
+item.dldungeons.LC5=§a§oLa primera varita de Wolfman
+item.dldungeons.LCLORE0=Tal vez el mayor invocador del
+item.dldungeons.LCLORE1=mundo era de la raza Lycan.

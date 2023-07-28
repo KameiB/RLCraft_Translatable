@@ -1,0 +1,35 @@
+  Luego de obtener sangre del
+cadaver de un dragon con una
+botella de vidrio, finalmente 
+descrubri como usarla para 
+crear un arma efectiva.
+
+
+
+
+
+
+
+
+
+Al combinar sangre de dragon de
+fuego o hielo con una espada de
+hueso de dragon, esta se convirtio
+en una potente arma para luchar
+contra el dragon del elemento
+opuesto.
+
+
+
+
+
+
+
+Las espadas infundidas con fuego
+encienden al enemigo y hacen danio
+extra a los dragones de hielo.
+Las espadas infundidas con hielo
+ralentizan al enemigo y hacen danio
+extra a los dragones de fuego.
+Ambas espadas tambien tienen
+grandes efectos de retroceso.

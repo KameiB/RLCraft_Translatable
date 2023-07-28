@@ -1,0 +1,34 @@
+## Translated by KameiB for RLCraft 2.9.2
+#PARSE_ESCAPES
+loottweaker.commands.dump.desc=§2/ct loottables [mode] <args>\n§3Tira las tablas de loot especificadas\n§3to <game directory>/dumps
+loottweaker.commands.dump.usage=Uso: ct loottables [mode] <args>\nModes: all | target | byName | list\nArgs: none | none | tableName | none
+loottweaker.commands.dump.unknownSubcommand=Subcomando desconocido %s
+loottweaker.commands.dump.all.done=Hecho!
+loottweaker.commands.dump.all.exception=Ocurrio un error inesperado mientras se tiraba %s. Revisa el log del juego para mas detalles.
+loottweaker.commands.dump.byName.missingName=Se requiere un nombre para la tabla de loot!
+loottweaker.commands.dump.byName.invalidName=Nombre de tabla de loot invalido!
+loottweaker.commands.dump.target.noTable=El objetivo no tiene tabla de loot
+loottweaker.commands.dump.target.noTarget=Nada en rango
+loottweaker.commands.dump.target.senderNotEntity=Este comando solo puede ejecutarse por entidades
+loottweaker.commands.dump.dumpLink=Se tiro la tabla de loot %s a
+
+#Deliberately left in for future implementation in a side safe manner
+loottweaker.messages.error.invalidTableName=No existe una table de loot llamada %s!
+loottweaker.messages.error.invalidPoolName=No existe una pool de loot llamada %s en la tabla %s!
+loottweaker.messages.error.invalidEntryName=No existe una entrada llamada %s en el pool %s
+loottweaker.messages.error.unparseableFunctionType=%s no es una instancia de IData o LootFunction!
+loottweaker.messages.error.unparseableConditionType=%s no es una instancia de IData o LootCondition!
+loottweaker.messages.error.functionhelper.invalidEnchant=%s no es un ID de encantamiento valido
+loottweaker.messages.error.functionhelper.damageOver100=Los items no pueden recibir mas de 100% de daño!
+loottweaker.messages.error.deprecation.warning1=LootTweaker: Uno o mas scripts usan metodos obsoletos. Revisa el archivo crafttweaker.log para mas informacion.
+loottweaker.messages.error.deprecation.warning2=%s es obsoleto
+loottweaker.messages.error.deprecation.warning3=Revisa https://github.com/Leviathan143/LootTweaker/wiki/Deprecations para mas informacion. Esta advertencia puede deshabilitarse en la configuracion.
+
+loottweaker.messages.info.locatingLootTables=Todas las tablas de loot han sido ubicadas. Esto podria tomar unos segundos.
+
+loottweaker.config.warnings.category=Advertencias
+loottweaker.config.warnings.deprecation=Obsolesencia
+loottweaker.config.warnings.newTableMinecraftNamespace=newTable() Minecraft Namespace
+loottweaker.config.workarounds.category=Arreglos flojos
+loottweaker.config.workarounds.forceInitClasses=Clases para inicializar forzadamente
+loottweaker.config.lastCfgVersion=Do not touch!

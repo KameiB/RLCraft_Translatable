@@ -1,0 +1,9 @@
+## Translated by KameiB for RLCraft 2.9.2
+gui.llibrary.update=Actualizar
+gui.llibrary.update.title=Actualizaciones del Mod
+gui.llibrary.currentVersion=Version actual
+gui.llibrary.latestVersion=Version mas reciente
+gui.llibrary.updated.1=Todo actualizado!
+gui.llibrary.updated.2=LLibrary no encontro mods desactualizados.
+
+snackbar.llibrary.updates_found=LLibrary encontro mods desactualizados!

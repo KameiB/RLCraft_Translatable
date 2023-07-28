@@ -1,0 +1,18 @@
+##Revised by KameiB for RLCraft 2.9.2. Jan/2023
+item.astikorcarts:cargocart.name=Carreta
+item.astikorcarts:plowcart.name=Arado
+item.astikorcarts:mobcart.name=Carreta de transporte
+item.astikorcarts:wheel.name=Rueda
+itemGroup.astikorcarts=AstikorCarts
+entity.astikorcarts:cargocart.name=Carreta
+entity.astikorcarts:plowcart.name=Arado
+entity.astikorcarts:mobcart.name=Carreta de transporte
+key.categories.astikorcarts=AstikorCarts
+key.astikorcarts.desc=Boton de accion
+config.astikorcarts:speedmodifier=Modificador de Velocidad
+
+#Added by KameiB. Config GUI
+config.astikorcarts:canPull=Pueden jalarlo:1
+config.astikorcarts:cargocart.canPull=Pueden jalarlo:2
+astikorcarts:canPull=Pueden jalarlo:3
+astikorcarts.canPull=Pueden jalarlo:4

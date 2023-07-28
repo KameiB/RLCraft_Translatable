@@ -1,0 +1,213 @@
+#Localisation for Spartan Shields version 1.5.x
+## Translated by KameiB for RLCraft 2.9.2
+#Items
+item.spartanshields:shield_basic_wood.name=Escudo crudo de madera
+item.spartanshields:shield_basic_stone.name=Escudo reforzado con piedra
+item.spartanshields:shield_basic_iron.name=Escudo chapado de hierro
+item.spartanshields:shield_basic_gold.name=Escudo chapado de oro
+item.spartanshields:shield_basic_diamond.name=Escucho reforzado con diamante
+
+item.spartanshields:shield_basic_bronze.name=Escudo chapado de bronce
+item.spartanshields:shield_basic_steel.name=Escudo chapado de acero
+item.spartanshields:shield_riot_enderio.name=Escudo del motin de acero oscuro
+
+item.spartanshields:shield_basic_copper.name=Escudo reforzado con cobre
+item.spartanshields:shield_basic_tin.name=Escudo reforzado con estaño
+item.spartanshields:shield_basic_silver.name=Escudo chapado de plata
+item.spartanshields:shield_basic_obsidian.name=Escudo voluminoso de obsidiana
+item.spartanshields:shield_riot_rftools.name=Escudo del motin infundido
+
+item.spartanshields:shield_basic_enderium.name=Escudo reforzado con enderio
+item.spartanshields:shield_basic_invar.name=Escudo chapado de invar
+item.spartanshields:shield_basic_platinum.name=Escudo chapado de platino
+item.spartanshields:shield_basic_electrum.name=Escudo chapado de electrio
+item.spartanshields:shield_basic_nickel.name=Escudo reforzado con niquel
+item.spartanshields:shield_basic_lead.name=Escudo chapado de plomo
+item.spartanshields:shield_basic_lumium.name=Escudio radiante de lumio
+item.spartanshields:shield_basic_signalum.name=Escudo reforzado con signalio
+item.spartanshields:shield_flux_ra.name=Escudo infundido de flux
+
+item.spartanshields:shield_botania_manasteel.name=Escudo chapado de manaacero
+item.spartanshields:shield_botania_terrasteel.name=Escudo reforzado con terraacero
+item.spartanshields:shield_botania_elementium.name=Escudo chapado de elementio
+
+item.spartanshields:shield_basic_constantan.name=Escudo chapado de constantan
+item.spartanshields:shield_basic_soulforged_steel.name=Escudo chapado de acero forjaalma
+
+item.spartanshields:shield_abyssalcraft_darkstone.name=Escudo reforzado con piedra oscura
+item.spartanshields:shield_abyssalcraft_abyssalnite.name=Escudo chapado de abismalnita
+item.spartanshields:shield_abyssalcraft_coralium.name=Escudo chapado de coralio
+item.spartanshields:shield_abyssalcraft_dreadium.name=Escudo reforzado con horrorio
+item.spartanshields:shield_abyssalcraft_ethaxium.name=Escudo reforzado con etaxio
+
+item.spartanshields:shield_tc_thaumium.name=Escudo chapado de taumio
+item.spartanshields:shield_tc_void.name=Escudo chapado de vacio
+
+item.spartanshields:shield_tower_wood.name=Escudo torre de madera
+item.spartanshields:shield_tower_stone.name=Escudo torre de piedra
+item.spartanshields:shield_tower_iron.name=Escudo torre de hierro
+item.spartanshields:shield_tower_gold.name=Escudo torre de oro
+item.spartanshields:shield_tower_diamond.name=Escudo torre de diamante
+
+item.spartanshields:shield_tower_bronze.name=Escudo torre de bronce
+item.spartanshields:shield_tower_steel.name=Escudo torre de acero
+item.spartanshields:shield_tower_copper.name=Escudo torre de cobre
+item.spartanshields:shield_tower_tin.name=Escudo torre de estaño
+item.spartanshields:shield_tower_silver.name=Escudo torre de plata
+item.spartanshields:shield_tower_obsidian.name=Escudo torre de obsidiana
+item.spartanshields:shield_tower_enderium.name=Escudo torre de enderio
+item.spartanshields:shield_tower_invar.name=Escudo torre de invar 
+item.spartanshields:shield_tower_platinum.name=Escudo torre de platino
+item.spartanshields:shield_tower_electrum.name=Escudo torre de electrio
+item.spartanshields:shield_tower_nickel.name=Escudo torre de niquel
+item.spartanshields:shield_tower_lead.name=Escudo torre de plomo
+item.spartanshields:shield_tower_lumium.name=Escudo torre de lumio
+item.spartanshields:shield_tower_signalum.name=Escudo torre de signalio
+item.spartanshields:shield_tower_constantan.name=Escudo torre de constantan
+
+#Items not part of this mod
+item.spartanshields:ingotBronze=Lingote de bronce
+item.spartanshields:ingotSteel=Lingote de acero
+item.spartanshields:ingotCopper=Lingote de cobre
+item.spartanshields:ingotTin=Lingote de tin
+item.spartanshields:ingotSilver=Lingote de plata
+item.spartanshields:ingotEnderium=Lingote de enderio
+item.spartanshields:ingotInvar=Lingote de invar
+item.spartanshields:ingotPlatinum=Lingote de platino
+item.spartanshields:ingotElectrum=Lingote de electrio
+item.spartanshields:ingotNickel=Lingote de niquel
+item.spartanshields:ingotLead=Lingote de plomo
+item.spartanshields:ingotLumium=Lingote de lumio
+item.spartanshields:ingotSignalum=Lingote de signalio
+item.spartanshields:ingotConstantan=Lingote de constantan
+
+#Other mods
+mod.spartanshields:enderio=Ender IO
+mod.spartanshields:rftools=RFTools
+mod.spartanshields:abyssalcraft=AbyssalCraft
+mod.spartanshields:betterwithmods=Better With Mods
+mod.spartanshields:redstonearsenal=Redstone Arsenal
+mod.spartanshields:botania=Botania
+mod.spartanshields:thaumcraft=Thaumcraft
+
+#Creative Tabs
+itemGroup.spartanshields:tabBasic.name=Spartan Shields
+
+#Tooltips
+tooltip.spartanshields:dev.wip=Trabajo en proceso (TeP)
+tooltip.spartanshields:dev.unimplemented=Aun no implementado!
+
+tooltip.spartanshields:protection=Proteccion max: %d
+tooltip.spartanshields:shieldBash=Bloquea y [%s] para golpear con el escudo
+tooltip.spartanshields:onBlock=Al bloquear: %s
+tooltip.spartanshields:buttonShieldBash=Clic izq
+tooltip.spartanshields:shieldSilver.desc=Daña a monstruos no-muertos
+tooltip.spartanshields:shieldSignalum.desc=Inflige Debilidad (%ds) a los enemigos
+tooltip.spartanshields:shieldLumium.desc=Inflige Luminiscencia (%ds) a los enemigos
+tooltip.spartanshields:shieldEnderium.desc=Inflige Lentitud (%ds) a los enemigos
+tooltip.spartanshields:shieldElementium.desc=Aparece un Hada (%d%% probab.)
+tooltip.spartanshields:rfCapacity=%,d/%,d RF
+tooltip.spartanshields:rfPerDamage=Usa %,d RF por corazon de daño absorbido
+tooltip.spartanshields:rfShield.desc=Alimentado con Flux de redstone
+tooltip.spartanshields:uiCapacity=%,d/%,d µI
+tooltip.spartanshields:uiPerDamage=Usa %,d µI por corazon de daño absorbido
+tooltip.spartanshields:feCapacity=%,d/%,d FE
+tooltip.spartanshields:fePerDamage=Usa %,d FE por corazon de daño absorbido
+tooltip.spartanshields:feShield.desc=Acepta RF, Micro infinidad, Energia de forja, etc.
+
+tooltip.spartanshields:hasPatterns=Tiene los siguientes patrones de estandarte:
+
+tooltip.spartanshields:cantCraftMissingMods=No puede ser crafteado. Mods faltantes:
+tooltip.spartanshields:cantCraftMissingMaterial=No puede ser crafteado. Falta el material %s.
+
+#Configs
+config.spartanshields:category.general=General
+config.spartanshields:category.vanilla=Escudos Vanilla
+config.spartanshields:category.moddedCommon=Escudos modificados comunes
+config.spartanshields:category.moddedThermal=Escudos modificados de Thermal Foundation
+config.spartanshields:category.moddedBotania=Escudos de Botania
+config.spartanshields:category.moddedAbyssalcraft=Escudos de Abyssalcraft
+config.spartanshields:category.moddedThaumcraft=Escudos de Thaumcraft
+config.spartanshields:category.moddedBWM=Escudos de Better With Mods
+config.spartanshields:category.moddedPowered=Escudos de RF & FE Powered
+
+config.spartanshields:durabilityWoodShield=Durabilidad del Escudo crudo de madera
+config.spartanshields:durabilityStoneShield=Durabilidad del Escudo reforzado con piedra
+config.spartanshields:durabilityIronShield=Durabilidad del Escudo chapado de hierro
+config.spartanshields:durabilityGoldShield=Durabilidad del Escudo chapado de oro
+config.spartanshields:durabilityDiamondShield=Durabilidad del Escudo reforzado con diamante
+config.spartanshields:durabilityBronzeShield=Durabilidad del Escudo chapado de bronce
+config.spartanshields:enableBronzeShield=Habilitar Escudo chapado de bronce
+config.spartanshields:durabilitySteelShield=Durabilidad del Escudo chapado de acero
+config.spartanshields:enableSteelShield=Habilitar Escudo chapado de acero
+config.spartanshields:durabilityCopperShield=Durabilidad del Escudo reforzado con cobre
+config.spartanshields:enableCopperShield=Habilitar Escudo reforzado con cobre
+config.spartanshields:durabilityTinShield=Durabilidad del Escudo reforzado con estaño
+config.spartanshields:enableTinShield=Habilitar Escudo reforzado con estaño
+config.spartanshields:durabilitySilverShield=Durabilidad del Escudo chapado de plata
+config.spartanshields:enableSilverShield=Habilitar Escudo chapado de plata
+config.spartanshields:durabilityObsidianShield=Durabilidad del Escudo voluminoso de obsidiana
+config.spartanshields:enableObsidianShield=Habilitar Escudo voluminoso de obsidiana
+config.spartanshields:durabilityEnderiumShield=Durabilidad del Escudo reforzado con enderio
+config.spartanshields:enableEnderiumShield=Habilitar Escudo reforzado con enderio
+config.spartanshields:durabilityInvarShield=Durabilidad del Escudo chapado de invar
+config.spartanshields:enableInvarShield=Habilitar Escudo chapado de invar
+config.spartanshields:durabilityPlatinumShield=Durabilidad del Escudo chapado de platino
+config.spartanshields:enablePlatinumShield=Habilitar Escudo chapado de platino
+config.spartanshields:durabilityElectrumShield=Durabilidad del Escudo chapado de electrio
+config.spartanshields:enableElectrumShield=Habilitar Escudo chapado de electrio
+config.spartanshields:durabilityNickelShield=Durabilidad del Escudo reforzado con niquel
+config.spartanshields:enableNickelShield=Habilitar Escudo reforzado con niquel
+config.spartanshields:durabilityLeadShield=Durabilidad del Escudo chapado de plomo
+config.spartanshields:enableLeadShield=Habilitar Escudo chapado de plomo
+config.spartanshields:durabilitySignalumShield=Durabilidad del Escudo reforzado con signalio
+config.spartanshields:enableSignalumShield=Habilitar Escudo reforzado con signalio
+config.spartanshields:durabilityLumiumShield=Durabilidad del Escudo radiante de lumio
+config.spartanshields:enableLumiumShield=Habilitar Escudo radiante de lumio
+config.spartanshields:durabilityManasteelShield=Durabilidad del Escudo chapado de manaacero
+config.spartanshields:enableManasteelShield=Habilitar Escudo chapado de manaacero
+config.spartanshields:durabilityTerrasteelShield=Durabilidad del Escudo reforzado con terraacero
+config.spartanshields:enableTerrasteelShield=Habilitar Escudo reforzado con terraacero
+config.spartanshields:durabilityElementiumShield=Durabilidad del Escudo chapado de elementio
+config.spartanshields:enableElementiumShield=Habilitar Escudo chapado de elementio
+config.spartanshields:enableEnderIOShield=Habilitar Escudo del motin de acero oscuro
+config.spartanshields:enableRFToolsShield=Habilitar Escudo del motin de acero oscuro
+config.spartanshields:enableRAShield=Habilitar Escudo infundido de flux
+config.spartanshields:damageToRFMultiplier=Multiplicador de Daño a RF
+config.spartanshields:damageToFEMultiplier=Multiplicador de Daño a FE
+config.spartanshields:vanillaOnly=Solo escudos Vanilla
+config.spartanshields:durabilityConstantanShield=Durabilidad del Escudo chapado de constantan
+config.spartanshields:enableConstantanShield=Habilitar Escudo chapado de constantan
+config.spartanshields:durabilitySoulforgedSteelShield=Durabilidad del Escudo chapado de acero forjaalma
+config.spartanshields:enableSoulforgedSteelShield=Habilitar Escudo chapado de acero forjaalma
+config.spartanshields:durabilityDarkstoneShield=Durabilidad del Escudo reforzado con piedra oscura
+config.spartanshields:enableDarkstoneShield=Habilitar Escudo reforzado con piedra oscura
+config.spartanshields:durabilityAbyssalniteShield=Durabilidad del Escudo chapado de abismalnita
+config.spartanshields:enableAbyssalniteShield=Habilitar Escudo chapado de abismalnita
+config.spartanshields:durabilityCoraliumShield=Durabilidad del Escudo chapado de coralio
+config.spartanshields:enableCoraliumShield=Habilitar Escudo chapado de coralio
+config.spartanshields:durabilityDreadiumShield=Durabilidad del Escudo reforzado con horrorio
+config.spartanshields:enableDreadiumShield=Habilitar Escudo reforzado con horrorio
+config.spartanshields:durabilityEthaxiumShield=Durabilidad del Escudo reforzado con etaxio
+config.spartanshields:enableEthaxiumShield=Habilitar Escudo reforzado con etaxio
+config.spartanshields:durabilityThaumiumShield=Durabilidad del Escudo chapado de taumio
+config.spartanshields:enableThaumiumShield=Habilitar Escudo chapado de taumio
+config.spartanshields:durabilityVoidShield=Durabilidad del Escudo chapado de vacio
+config.spartanshields:enableVoidShield=Habilitar Escudo chapado de vacio
+config.spartanshields:forceDisableUncraftableTooltips=Deshabilitar descripciones de escudos incrafteables
+config.spartanshields:enableSpikesEnchantment=Habilitar encantamiento Picos
+config.spartanshields:disableTowerShields=Deshabilitar escudos torre
+config.spartanshields:disableStandardShields=Deshabilitar escudos estandar
+config.spartanshields:cooldownShieldBash=Tiempo de espera para Golpe de escudo
+config.spartanshields:disableShieldBash=Deshabilitar Golpe de escudo
+
+#Enchantments
+enchantment.spartanshields:spikes=Picos
+enchantment.spartanshields:deflect=Desviar
+enchantment.spartanshields.ssenchspikes.desc=Daña a enemigos que golpeen el escudo mientras bloqueas
+
+#Messages
+message.spartanshields:poweredShieldBlockFail=No se pudo absorber el daño. Al escudo se le acabo la energia.
+
+# Added by KameiB. Translation Script
+tooltip.spartanshields:shieldingpower=Poder de escudado:

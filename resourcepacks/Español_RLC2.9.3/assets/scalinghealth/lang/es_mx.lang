@@ -1,0 +1,75 @@
+# Translate by: Allinxter_910
+# ultima actualizacion: 20/07/2018
+## Revisado por KameiB para RLCraft. Feb/2023
+itemGroup.scalinghealth=Scaling Health
+##########
+# Blocks #
+##########
+
+tile.scalinghealth.crystalore.name=Mineral de cristal de corazon
+
+#########
+# Items #
+#########
+
+item.scalinghealth.crystalshard.name=Fragmento de cristal de corazon
+item.scalinghealth.enchanted_heart.name=Corazon encantando
+item.scalinghealth.cursed_heart.name=Corazon maldito
+item.scalinghealth.difficultychanger.effectDesc=Dificultad %s
+item.scalinghealth.heartcontainer.name=Contenedor de corazon
+item.scalinghealth.heartcontainer.desc=Clic derecho para incrementar tu salud maxima en 1 corazon. Maximo 10 corazones.
+item.scalinghealth.heartcontainer.notEnoughXP=Necesitas %d niveles de EXP para usar esto
+item.scalinghealth.heartdust.name=Polvo de corazon
+item.scalinghealth.bandage.name=Vendaje
+item.scalinghealth.medkit.name=Kit de primeros auxilios
+item.scalinghealth.healingitem.healingValue=Regenera %d%% de tu salud en %d segundos.
+item.scalinghealth.healingitem.howToUse=Manten presionado el clic derecho por %d segundos para usarlo.
+
+
+###########
+# Potions #
+###########
+
+effect.scalinghealth.bandaged=Vendado
+
+
+
+###########
+# Blights #
+###########
+
+blight.scalinghealth.name=%s brillante
+blight.scalinghealth.killedByPlayer=¡%s brillante fue asisesinado por %s!
+
+
+
+############
+# Commands #
+############
+
+command.scalinghealth.outOfBounds=Los valores deben variar entre %s y %s.
+command.scalinghealth.recalculate.result=Se recalcularon la dificultad y los estatus de %d entidades, revisa el log para mas detalles.
+command.scalinghealth.showDifficulty=Dificultad de %s: %s / %s
+command.scalinghealth.setDifficulty=La dificultad de %s fue cambiada a %s.
+command.scalinghealth.showHealth=Salud de %s: %s / %s (%s)
+command.scalinghealth.setHealth=La salud de %s fue cambiada a %d.
+command.scalinghealth.showWorldDifficulty=Dificultad del mundo: %s / %s
+command.scalinghealth.setWorldDifficulty=La dificultad del mundo fue cambiada a %s.
+
+
+
+########
+# Misc #
+########
+
+misc.scalinghealth.sleepWarning=[Scaling Health] Advertencia: ¡Dormir cambiara tu dificultad!
+misc.scalinghealth.difficultyMeterText=DIFICULTAD
+
+# Sound effect subtitles
+
+scalinghealth.subtitle.cursed_heart_use=Se uso un corazon maldito
+scalinghealth.subtitle.enchanted_heart_use=Se uso un corazon encantado
+scalinghealth.subtitle.heart_container_use=Se uso un contenedor de corazon
+
+# April Fool's sounds
+scalinghealth.subtitle.player_died=Alguien murio (LOL)

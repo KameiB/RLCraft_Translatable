@@ -6,11 +6,11 @@
 - Replaced Shivaxi's hardcoded english names and tooltips with translatable texts.  
   So if you plan to use this, I suggest commenting all hardcoded stuff on Shiv.zs and Shiv2.zs (or use my files)  
 - Grave scroll: Replaced default hardcoded description with a translatable one.
-- Seeds' "Fertile Seasons" hardcoded texts: Replaced with translatable ones.
+- Replaced Seeds' "Fertile Seasons" hardcoded texts with translatable ones.
 
 ### CustomNamesTooltips2.zs (Optional)
-- Charm cakes: Replaced hardcoded names with translatable ones.
-- Armor Under: Chestplates and Leggings with Ozzy liner MILD, WARM, COOL hardcoded texts replaced with translatable, colored ones.
+- Charm cakes: Replaced hardcoded names with translatable ones. (may be more elegant to make a mixin for this)  
+- Armor Under: Chestplates and Leggings with Ozzy liner MILD, WARM, COOL hardcoded texts replaced with translatable, colored ones. (may be more elegant to make a mixin for this)
 
 ### UsefulTooltips.zs (For KameiB's personal use)
 - OPTIONAL. Additional useful tooltips for various items.

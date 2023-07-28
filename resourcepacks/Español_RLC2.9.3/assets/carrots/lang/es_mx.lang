@@ -1,0 +1,46 @@
+## Translated by KameiB for RLCraft 2.9.2. Jan/2023
+item.carrotslib_icon.name=Carrots Lib
+
+enchantment.level.11=XI
+enchantment.level.12=XII
+enchantment.level.13=XIII
+enchantment.level.14=XIV
+enchantment.level.15=XV
+enchantment.level.16=XVI
+enchantment.level.17=XVII
+enchantment.level.18=XVIII
+enchantment.level.19=XIX
+enchantment.level.20=XX
+enchantment.level.25=XXV
+enchantment.level.30=XxX
+
+potion.potency.3=IV
+potion.potency.4=V
+potion.potency.5=VI
+
+entity.UNKNOWN.name=Desconocido
+entity.HIDDEN.name=Oculto
+
+tooltip.itemsuffix.footnoted=%s*
+tooltip.itemsuffix.XofY.int=%1$s (%2$d/%3$d)
+
+carrots.requires.hcb=Requiere el mod SuperBlocks
+carrots.requires.vfp=Requiere el mod VanillaFoodPantry
+carrots.requires.smh=Requiere el mod SmartHoppers
+
+carrots.tooltip.key.RSHIFT=+RSHIFT
+carrots.tooltip.key.LSHIFT=+LSHIFT
+carrots.tooltip.more.itemdetails.howto=+LSHIFT para mas detalles...
+carrots.tooltip.full.description.howto=+RSHIFT para descripcion completa...
+carrots.tooltip.owner=Dueño:
+
+carrots.tooltip.itemsuffix.heated=Calentando
+carrots.tooltip.itemsuffix.cooled=Enfriando
+
+carrots.tooltip.tan.warmfood.name=Comida Caliente
+carrots.tooltip.tan.colddrink.name=Bebida Fria
+carrots.tooltip.tan.xlining.temp.name=Interior de armadura
+carrots.tooltip.tan.xlining.auto.name=Interior de armadura*
+carrots.tooltip.tan.xlining.COOL=Interior enfriador (%1s)
+carrots.tooltip.tan.xlining.WARM=Interior calentador (%1s)
+carrots.tooltip.tan.temppak.name=Parche(s) caliente(s)/frio(s)

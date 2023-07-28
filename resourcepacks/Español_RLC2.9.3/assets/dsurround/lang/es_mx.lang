@@ -1,0 +1,274 @@
+## Translated by KameiB for RLCraft 2.9.2. Jan/2023
+#PARSE_ESCAPES
+# US English Translations
+dsurround.msg.dsurround=Dynamic Surroundings
+
+# Metadata Updates
+dsurround.metadata.Name=§3Dynamic Surroundings
+dsurround.metadata.Credits=\n\n§6Wirsbo§r for §2BetterRain§r\n§6MrRube§r for §2Aurora Rubealis§r\n§6Hurricaaane§r for §2Presence Footsteps§r and §2MAtmos§r\n§6Mr_okushama§r for §2Battle Music§r\n§6Ezer'Arch§r for §2Galacticraft §rconfigurations§r\n§eSound and Texture Attributions§r at https://tinyurl.com/mggnl76\n\n
+dsurround.metadata.Authors=§6OreCruncher§r,§6Abastro§r
+dsurround.metadata.Description=Agrega una variedad de efectos §6visuales§r y §6de sonido§r para mejorar tu experiencia de Minecraft
+
+# Minecraft dialog related things
+soundCategory.ds_footsteps=Pasos
+soundCategory.ds_biome=Biomas
+
+# String formatting
+dsurround.format.TimeOfDay=Dia %1$d, %2$d:%3$02d %4$s
+dsurround.format.AM=AM
+dsurround.format.PM=PM
+dsurround.format.SessionTime=Tiempo de la Sesion %1$d:%2$02d:%3$02d
+dsurround.format.NoSky=Sin cielo
+dsurround.format.Sunrise=Amanecer
+dsurround.format.Sunset=Atardecer
+dsurround.format.Daytime=De dia
+dsurround.format.Nighttime=De noche
+dsurround.format.Play=Reproducir
+dsurround.format.Stop=DETENER
+dsurround.format.Block=Block
+dsurround.format.Cull=Cull
+
+# Keybindings
+dsurround.cfg.keybind.SelectionBox=Caja de seleccion
+dsurround.cfg.keybind.LightLevel=Alternar Niveles de iluminacion
+dsurround.cfg.keybind.ChunkBorders=Alternar Bordes de Chunk
+dsurround.cfg.keybind.AnimaniaBadges=Mostrar Medallas de Mob Animania
+dsurround.cfg.keybind.msg.ON=§aON
+dsurround.cfg.keybind.msg.OFF=§cOFF
+dsurround.cfg.keybind.msg.Fencing=Cercado de bloques %s
+dsurround.cfg.keybind.msg.ChunkBorder=Mostrar bordes de Chunks %s
+dsurround.cfg.keybind.msg.LLDisplayMode=Mostrar Niveles de iluminacion. Modo: %s
+dsurround.cfg.keybind.msg.LLSafeBlocks=Ocultar bloques seguros segun su nivel de iluminacion: %s
+dsurround.cfg.keybind.msg.LLDisplay=Mostrar Nivel de iluminacion %s
+
+dsurround.msg.RainIntensitySet=§9La intensidad de la lluvia ahora es: %1$s
+dsurround.msg.MinRainIntensitySet=§9La intensidad minima de la lluvia ahora es: %1$s
+dsurround.msg.MaxRainIntensitySet=§9La intensidad maxima de la lluvia ahora es: %1$s
+dsurround.msg.RainReset=§9Se han reseteado los parametros para la lluvia en el mundo
+dsurround.msg.BiomeReload=§9Se han reseteado las configuraciones de los Json
+
+dsurround.msg.RainTimeSet=§9La hora para la lluvia ahora es: %1$s
+dsurround.msg.ThunderTimeSet=§9La hora para los relampagos ahora es: %1$s
+dsurround.msg.ThunderThresholdSet=§9El umbral para los relampagos ahora es: %1$s
+
+# Version checking strings
+dsurround.msg.NewVersion=["§6Actualizacion disponible: §9[",{"text":"§2%1$s §ev%2$s§f","color":"gold","hoverEvent":{"action":"show_text","value":{"text":"Click for CurseForge Project Page","color":"aqua"}},"clickEvent":{"action":"open_url","value":"%3$s"}},"§9]"]
+
+# Configuration option strings
+dsurround.cfg.individual=Sonidos Individuales
+dsurround.cfg.individual.tooltip=Configuracion individual para cada sonido
+
+dsurround.cfg.asm=Transformador ASM
+dsurround.cfg.asm.tooltip=Controla las transformaciones ASM que Dynamic Surroundings realiza al inicio
+dsurround.cfg.asm.EnableWeather=Control del Clima
+dsurround.cfg.asm.EnableWeather.tooltip=Habilita/Deshabilita transformaciones ASM para permitir el clima (lluvia, nieve, salpicaduras, tormentas de arena, auroras)
+dsurround.cfg.asm.DisableArrow=Rastro de Particulas de Flechas
+dsurround.cfg.asm.DisableArrow.tooltip=Habilitar el rastro de particulas que dejan las flechas cuando vuelan?
+dsurround.cfg.asm.DisablePotionIcons=Deshab. Iconos de Pociones en Invent.
+dsurround.cfg.asm.DisablePotionIcons.tooltip=Deshabilitar el renderizado de los efectos de pocion cuando se abre el inventario?
+dsurround.cfg.asm.EnableOptionSearch=Habilitar la Busqueda en la Config.
+dsurround.cfg.asm.EnableOptionSearch.tooltip=Habilitar la caja de texto del filtro de busqueda dentro de las opciones de configuracion de los Mods?
+
+dsurround.cfg.logging=Inicio de Sesion
+dsurround.cfg.logging.tooltip=Define como se comportara el inicio de sesion de Dynamic Surroundings
+dsurround.cfg.logging.EnableDebug=Depuracion
+dsurround.cfg.logging.EnableDebug.tooltip=Habilitar el registro de depuracion de inicio de sesion del Mod?
+dsurround.cfg.logging.VersionCheck=Verificacion de Version
+dsurround.cfg.logging.VersionCheck.tooltip=Mostrar la informacion de verificacion de la version?
+dsurround.cfg.logging.ServerStats=Reportar Estado del Servidor
+dsurround.cfg.logging.ServerStats.tooltip=Habilitar el reporte de el estado del servidor?
+dsurround.cfg.logging.FlagMask=Enmascarado de Banderas de Depu.
+dsurround.cfg.logging.FlagMask.tooltip=Enmascarado de bits para habilitar o deshabilitar varios rastreos de depuracion
+
+dsurround.cfg.rain=Lluvia
+dsurround.cfg.rain.tooltip=Opciones para controlar los efectos de Lluvia en el cliente
+dsurround.cfg.rain.RippleStyle=Estilo de ondas de agua de lluvia
+dsurround.cfg.rain.RippleStyle.tooltip=§f0: Redondo original\n1: Redondo mas oscuro\n2: Cuadrado\n3: Pixelado
+dsurround.cfg.rain.RainVolume=Efecto de Sonido de Lluvia
+dsurround.cfg.rain.RainVolume.tooltip=Factor de escala del volumen de la Lluvia
+dsurround.cfg.rain.VanillaRain=Usar Algoritmos Vanilla
+dsurround.cfg.rain.VanillaRain.tooltip=Dejar que Vanilla maneje la intensidad y rangos de hora de la lluvia?
+dsurround.cfg.rain.EnableThunder=Relampagos de Fondo
+dsurround.cfg.rain.EnableThunder.tooltip=Permitir Relampagos de fondo durante las tormentas?
+dsurround.cfg.rain.ThunderThreshold=Intensidad para Relampagos de Fondo
+dsurround.cfg.rain.ThunderThreshold.tooltip=Nivel minimo de intensidad de la lluvia para que aparezcan relampagos de fondo
+dsurround.cfg.rain.MinRainStrength=Fuerza Minima por Defecto
+dsurround.cfg.rain.MinRainStrength.tooltip=Fuerza minima de la lluvia por defecto para una dimension
+dsurround.cfg.rain.MaxRainStrength=Fuerza Maxima por Defecto
+dsurround.cfg.rain.MaxRainStrength.tooltip=Fuerza maxima de la lluvia por defecto para una dimension
+dsurround.cfg.rain.UseVanillaSound=Usar Sonidos Vanilla
+dsurround.cfg.rain.UseVanillaSound.tooltip=Usar sonidos de lluvia Vanilla en lugar de sonidos modificados
+dsurround.cfg.rain.EnableMagmaNetherrack=Efecto Goteo del Netherrack y Magma
+dsurround.cfg.rain.EnableMagmaNetherrack.tooltip=Habilitar los efectos de lava goteando del Netherrack y Bloques de Magma cuando llueve?
+
+dsurround.cfg.fog=Niebla
+dsurround.cfg.fog.tooltip=Opciones para controlar los diferentes efectos de niebla en el cliente
+dsurround.cfg.fog.Enable=Procesar Niebla
+dsurround.cfg.fog.Enable.tooltip=Habilitar el procesamiento de Niebla?
+dsurround.cfg.fog.EnableMorning=Niebla Matutina
+dsurround.cfg.fog.EnableMorning.tooltip=Mostrar niebla matutina que se desvanece con el paso del tiempo?
+dsurround.cfg.fog.MorningFogChance=Probab. de Niebla Matutina
+dsurround.cfg.fog.MorningFogChance.tooltip=Probabilidad de que se genere niebla matutina\nExpresado como 1 en N
+dsurround.cfg.fog.EnableWeather=Clima con Niebla
+dsurround.cfg.fog.EnableWeather.tooltip=Aumentar la niebla basado en la fuerza de la lluvia?
+dsurround.cfg.fog.EnableBedrock=Niebla de Piedra Madre
+dsurround.cfg.fog.EnableBedrock.tooltip=Aumentar la niebla en las capas cerca de la Piedra Madre
+dsurround.cfg.fog.DesertFog=Niebla de Desierto
+dsurround.cfg.fog.DesertFog.tooltip=Habilitar la niebla en el desierto cuando llueve?
+dsurround.cfg.fog.ElevationHaze=Neblina por Elevacion
+dsurround.cfg.fog.ElevationHaze.tooltip=Entre mayor sea la elevacion del jugador, se vera mas neblina
+dsurround.cfg.fog.BiomeFog=Niebla segun Bioma
+dsurround.cfg.fog.BiomeFog.tooltip=Habilitar una densidad y color en la niebla especificos del bioma actual
+
+dsurround.cfg.general=Opciones Generales
+dsurround.cfg.general.tooltip=Configuraciones Varias
+dsurround.cfg.general.HideChat=Notificaciones en Chat
+dsurround.cfg.general.HideChat.tooltip=Mostrar notificaciones en chat de Dynamic Surroundings?
+dsurround.cfg.general.ExternalScripts=Archivos Confg Externos
+dsurround.cfg.general.ExternalScripts.tooltip=Alrchivos de Configuracion para personalizacion
+dsurround.cfg.general.StartupSounds=Sonidos al Iniciar
+dsurround.cfg.general.StartupSounds.tooltip=Sonidos disponibles para reproducir cuando el cliente llegue al Menu Principal del juego
+dsurround.cfg.general.ChunkCaching=Cacheo de Chunks en Cliente
+dsurround.cfg.general.ChunkCaching.tooltip=Habilitar el almacenamiento en cache de los chunks del lado del cliente para mejorar el rendimiento?
+
+dsurround.cfg.aurora=Auroras
+dsurround.cfg.aurora.tooltip=Opciones que controlan el comportamiento y renderizado de las Auroras
+dsurround.cfg.aurora.EnableAurora=Auroras
+dsurround.cfg.aurora.EnableAurora.tooltip=Habilitar el procesamiento de las Auroras tanto en cliente como servidor?
+dsurround.cfg.aurora.EnableShader=Usar Shaders
+dsurround.cfg.aurora.EnableShader.tooltip=Usar shaders cuando se renderizan las Auroras?
+dsurround.cfg.aurora.MaxBands=Bandas Maximas
+dsurround.cfg.aurora.MaxBands.tooltip=Limite de las bandas maximas que se renderizaran
+
+dsurround.cfg.biomes=Biomas
+dsurround.cfg.biomes.tooltip=Opciones para controlar los efectos/sonidos de los biomas
+dsurround.cfg.biomes.Sealevel=Nivel del Mar para Overworld
+dsurround.cfg.biomes.Sealevel.tooltip=Nivel del mar asignado para el Overworld\n0 = usar el automatico para el Mundo
+dsurround.cfg.biomes.Aliases=Alias de Biomas
+dsurround.cfg.biomes.Aliases.tooltip=Lista de alias para los Biomas
+dsurround.cfg.biomes.DimBlacklist=Lista Negra de Dimensiones
+dsurround.cfg.biomes.DimBlacklist.tooltip=IDs de las Dimensiones donde no se reproduciran los sonidos de los biomas
+
+dsurround.cfg.effects=Efectos Visuales
+dsurround.cfg.effects.tooltip=Opciones para controlar efectos visuales diversos
+dsurround.cfg.effects.WaterfallCutoff=Corte por Cascada
+dsurround.cfg.effects.WaterfallCutoff.tooltip=Los sonidos no se reproduciran cuando se esta debajo de una cascada de cierta fuerza
+dsurround.cfg.effects.FXRange=Distancia
+dsurround.cfg.effects.FXRange.tooltip=Radio/Distancia en bloques alrededor del jugador para aplicar efectos especiales
+dsurround.cfg.effects.Suspend=Particulas Suspendidas de Agua
+dsurround.cfg.effects.Suspend.tooltip=Habilitar efecto de particulas segun la profundidad del agua?
+dsurround.cfg.effects.Steam=Chorros de Vapor
+dsurround.cfg.effects.Steam.tooltip=Habilitar Chorros de Vapor donde se encuentran lava y agua?
+dsurround.cfg.effects.Fire=Chorros de Fuego
+dsurround.cfg.effects.Fire.tooltip=Habilitar Chorros de Fuego en la lava?
+dsurround.cfg.effects.Bubble=Chorros de Burbujas
+dsurround.cfg.effects.Bubble.tooltip=Habilitar Chorros de Burbujas bajo el agua?
+dsurround.cfg.effects.Dust=Motas de Polvo
+dsurround.cfg.effects.Dust.tooltip=Habilitar Motas de Polvo que caen desde los bloques?
+dsurround.cfg.effects.Fountain=Chorros de Fuente
+dsurround.cfg.effects.Fountain.tooltip=Habilitar Chorros de Fuente salpicando?
+dsurround.cfg.effects.Fireflies=Luciernagas
+dsurround.cfg.effects.Fireflies.tooltip=Habilitar el efecto de luciernagas alrededor de las plantas?
+dsurround.cfg.effects.Splash=Agua Salpicando
+dsurround.cfg.effects.Splash.tooltip=Habilitar efectos de agua salpicando cuando gotea el agua?
+dsurround.cfg.effects.Popoffs=Numeros de Salud
+dsurround.cfg.effects.Popoffs.tooltip=Mostrar numeros cuando una entidad pierde/gana salud?
+dsurround.cfg.effects.CritWords=Palabras en Criticos
+dsurround.cfg.effects.CritWords.tooltip=Mostrar palabras aleatorias cuando se da un golpe critico?
+dsurround.cfg.effects.Footprints=Huellas de Entidades
+dsurround.cfg.effects.Footprints.tooltip=Habilitar huellas de las entidades?
+dsurround.cfg.effects.FootprintStyle=Estilo de Huellas
+dsurround.cfg.effects.FootprintStyle.tooltip=§f0: huella de zapato\n1: huella cuadrada\n2: pezuña de caballo\n3: pajaro\n4: pata\n5: cuadrado solido\n6: cuadrado de baja res.
+dsurround.cfg.effects.ShowBreath=Aliento Frio
+dsurround.cfg.effects.ShowBreath.tooltip=Mostrar aliento frio de las entidades en climas helados?
+
+dsurround.cfg.sound=Efectos de Sonido
+dsurround.cfg.sound.tooltip=Opciones generales para definir los efectos de sonido
+dsurround.cfg.sound.BiomeSounds=Sonidos de Biomas
+dsurround.cfg.sound.BiomeSounds.tooltip=Habilitar sonidos de fondo y lugar en los biomas?
+dsurround.cfg.sound.AutoConfig=Canales de Sonido Autom.
+dsurround.cfg.sound.AutoConfig.tooltip=Configurar automaticamente los canales de sonido?
+dsurround.cfg.sound.NormalChannels=Canales Normales
+dsurround.cfg.sound.NormalChannels.tooltip=Cantidad de canales de sonido normales a configurar en el sistema de sonidos\n(Manual)
+dsurround.cfg.sound.StreamingChannels=Canales de Transmision
+dsurround.cfg.sound.StreamingChannels.tooltip=Cantidad de canales de sonido de transmision a configurar en el sistema de sonidos\n(Manual)
+dsurround.cfg.sound.StreamBufferSize=Tam. del Bufer de Transmision
+dsurround.cfg.sound.StreamBufferSize.tooltip=Tamaño del bufer de transmision en kilobytes\n0: por defecto del sistema - usualmente 128K bytes
+dsurround.cfg.sound.StreamBufferCount=Bufers de Transmision por Canal
+dsurround.cfg.sound.StreamBufferCount.tooltip=Cantidad de bufers de transmision por canal\n0: por defecto del sistema - usualmente 3 bufers
+dsurround.cfg.sound.Mute=Silenciar en 2do Plano
+dsurround.cfg.sound.Mute.tooltip=Silenciar sonidos cuando Minecraft esta en segundo plano?
+dsurround.cfg.sound.ThunderVolume=Volumen de Relampagos
+dsurround.cfg.sound.ThunderVolume.tooltip=Volumen del sonido que se usara cuando se sobreescriben los sonidos de relampago de Minecraft
+dsurround.cfg.sound.Jump=Sonido de Salto
+dsurround.cfg.sound.Jump.tooltip=Habilitar el efecto de sonido cuando el jugador salta?
+dsurround.cfg.sound.Equip=Sonido de Equipamiento
+dsurround.cfg.sound.Equip.tooltip=Habilitar efectos de sonido de las Armas/Herramientas?
+dsurround.cfg.sound.SwordEquipAsTool=Equipar Espada como Herramienta
+dsurround.cfg.sound.SwordEquipAsTool.tooltip=Reproducir sonido de Espada a las Herramientas?
+dsurround.cfg.sound.Craft=Sonido de Crafteo
+dsurround.cfg.sound.Craft.tooltip=Habilitar el efecto de sonido cuando se craftea un item?
+dsurround.cfg.sound.FootstepQuad=Pasos de Cuadrupedo
+dsurround.cfg.sound.FootstepQuad.tooltip=Simular el sonido de pasos de un cuadrupedo (caballo)?
+dsurround.cfg.sound.FootstepCadence=Cadencia de Pasos en 1era Persona
+dsurround.cfg.sound.FootstepCadence.tooltip=§sTrue: Coincidir con el braceo en 1era persona\nFalse: Coincidir con la animacion de las piernas en 3era persona
+dsurround.cfg.sound.Armor=Sonidos de Armadura
+dsurround.cfg.sound.Armor.tooltip=Habilitar los sonidos de armadura cuando te mueves?
+dsurround.cfg.sound.Swing=Sonidos de Braceo
+dsurround.cfg.sound.Swing.tooltip=Habilitar el sonido al agitar un item?
+dsurround.cfg.sound.Puddle=Sonido de Charcos de Lluvia
+dsurround.cfg.sound.Puddle.tooltip=Habilitar el sonido de los charcos al correr en la lluvia
+dsurround.cfg.sound.CullInterval=Intervalo de Omision de Sonido
+dsurround.cfg.sound.CullInterval.tooltip=Ticks entre cada omision de evento de sonido\n0: Deshabilitar omisiones
+dsurround.cfg.sound.SoundSettings=Sonidos Individuales
+dsurround.cfg.sound.SoundSettings.tooltip=Configurar como se manejara cada sonido
+dsurround.cfg.sound.BattleMusic=Musica de Batalla
+dsurround.cfg.sound.BattleMusic.tooltip=Habilitar la reproduccion de Musica de Batalla cuando inicia un combate
+
+dsurround.cfg.player=Opciones de Jugador
+dsurround.cfg.player.tooltip=Opciones generales para definir los sonidos y efectos de la entidad jugador
+dsurround.cfg.player.PotionParticles=Suprimir Particulas de Pocion
+dsurround.cfg.player.PotionParticles.tooltip=Suprime el renderizado de las particulas de pocion en el jugador
+dsurround.cfg.player.HurtThreshold=Umbral de Heridas
+dsurround.cfg.player.HurtThreshold.tooltip=Porcentaje de salud restante para reproducir el sonido de Jugador herido\n0: Deshabilitar
+dsurround.cfg.player.HungerThreshold=Umbral de Hambre
+dsurround.cfg.player.HungerThreshold.tooltip=Cantidad de hambre restante para reproducir el sonido Jugador hambriento\n0: Deshabilitar
+
+dsurround.cfg.speech=Globos de Dialogo
+dsurround.cfg.speech.tooltip=Opciones para configurar los globos de dialogo
+dsurround.cfg.speech.EnableSpeechBubbles=Globos de Dialogo
+dsurround.cfg.speech.EnableSpeechBubbles.tooltip=Habilitar globos de dialogo sobre la cabeza de los jugadores?
+dsurround.cfg.speech.EnableEntityChat=Chat en Entidades
+dsurround.cfg.speech.EnableEntityChat.tooltip=Habilitar burbujas de chat para las entidades?
+dsurround.cfg.speech.Duration=Tiempo de Visualizacion
+dsurround.cfg.speech.Duration.tooltip=Numero de segundos que se mostraran las burbujas de dialogo antes de desaparecer
+dsurround.cfg.speech.Range=Distancia de Visibilidad
+dsurround.cfg.speech.Range.tooltip=Distancia desde la cual seran visibles las burbujas de dialogo.\nEl filtrado ocurre del lado del servidor.
+dsurround.cfg.speech.AnimaniaBadges=Medallas Animania
+dsurround.cfg.speech.AnimaniaBadges.tooltip=Habilitar la visualizacion de las medallas de comida/agua sobre los mobs de Animania?
+
+dsurround.cfg.commands=Comandos
+dsurround.cfg.commands.tooltip=Opciones para los comandos de configuracion
+dsurround.cfg.commands.DS.Name=Nombre del comando /ds
+dsurround.cfg.commands.DS.Name.tooltip=Nombre a asignar al comando /ds
+dsurround.cfg.commands.DS.Alias=Alias para el comando /ds
+dsurround.cfg.commands.DS.Alias.tooltip=Nombre(s) de alias a asignar al comando /ds \nSeparados por Espacio
+dsurround.cfg.commands.Calc.Name=Nombre del comando /calc
+dsurround.cfg.commands.Calc.Name.tooltip=Nombre a asignar al comando /calc
+dsurround.cfg.commands.Calc.Alias=Alias para el comando /calc
+dsurround.cfg.commands.Calc.Alias.tooltip=Nombre(s) de alias a asignar al comando /calc \nSeparados por Espacio
+
+dsurround.cfg.profiles=Perfiles Incorporados
+dsurround.cfg.profiles.tooltip=Habilitar perfiles de configuracion incorporados?
+
+dsurround.season.format=%1$s %2$s
+dsurround.season.noseason=Sin Estacion
+dsurround.season.spring=Primavera
+dsurround.season.summer=Verano
+dsurround.season.fall=Otoño
+dsurround.season.autumn=Otoño
+dsurround.season.winter=Invierno
+dsurround.season.early=Inicios de
+dsurround.season.mid=Mediados de
+dsurround.season.late=Finales de
+

@@ -1,0 +1,105 @@
+## Translated by KameiB for RLCraft 2.9.2. Jan/2023
+# HUD
+hud.freeze=§LEfecto Freeze
+
+# Menu
+menu.fbp=§l= Fancier Block Particles =
+menu.disabled=§l= Deshabilitado =
+menu.bugreport=Encontraste un §cbug§a? Da clic aqui para reportarlo!
+
+menu.enable=§cHabilitar
+menu.disable=§aDeshabilitar
+
+menu.on=§aON
+menu.off=§cOFF
+
+menu.yes=§aSi
+menu.no=§cNo
+
+menu.defaults=Predeterminados
+menu.done=Hecho
+menu.reloadconfig=Re-cargar archivo Config
+
+menu.period=§f.
+
+menu.confirmation=Estas seguro de resetear tu configuracion? §cNo se puede deshacer!§f
+
+# Menu Blacklist
+menu.blacklist.title=§LIgnorar Bloque
+menu.blacklist.placeanimation=§f§lANIMACIoN AL COLOCAR
+menu.blacklist.particles=§f§lPARTICULAS
+menu.blacklist.add=§a§lAGREGAR
+menu.blacklist.remove=§c§lQUITAR
+menu.blacklist.cantanimate=§c§lNO PUEDE SER ANIMADO
+menu.blacklist.cantadd=§c§lNO PUEDE AGREGARSE
+
+# Menu Page 0
+menu.destroyparticles.info=Cant. de particulas al destruir
+menu.minduration.info=Duracion min.
+menu.maxduration.info=Duracion max.
+menu.scalemult.info=Mult. de Particulas
+menu.gravityscale.info=Mult. Fuerza de gravedad
+menu.rotationspeed.info=Mult. Velocidad de rotacion
+
+menu.particlelife.description.duration=Tiempo de vida de las particulas
+menu.particlelife.description.duration.range= - Rango entre §6
+menu.particlelife.description.duration.and= §fy §6
+menu.particlelife.description.duration.to= en §6
+menu.particlelife.description.infinity=Asigna el tiempo de vida de las particulas a §6infinito§f.
+menu.destroyparticles.description=Asigna la cantidad de particulas cuando se destruye un bloque en §6
+menu.particlescale.description=Asigna el multiplicador de tamaño de particulas en §6
+menu.particlegravity.description=Multiplica la fuerza de gravedad predeterminada por §6
+menu.particlerotation.description=Multiplica la rotacion de las particulas por §6
+menu.infiniteduration.description= §ftiempo de vida infinito de las particulas.
+menu.time.description=Mostrar el tiempo en §6
+menu.timems.description=milisegundos
+
+# Menu Page 1
+menu.randomrotation.info=Rotacion aleatoria
+menu.cartonmode.info=Modo caricatura
+menu.randomizedscale.info=Escala aleatoria
+menu.randomfadespeed.info=Vel. aleatoria al desvanecer
+menu.redstoneblock.info=Particulas en bloquies de Redstone
+menu.spawnfreeze.info=Particulas en Modo Freeze
+
+menu.randomrotation.description=Habilita las matematicas simples y aleatorias para la rotacion
+menu.cartonmode.description=§4OBSOLETO§f/§4REMOVIDO §fHace que las particulas se vean estilo caricatura.
+menu.randomizedscale.description=Hace que el tamaño de las particulas sea ligeramente aleatorio.
+menu.randomfadespeed.description=Hace que la velocidad de desvanecimiento de las particulas sea aleatoria.
+menu.redstoneblock.description=Hace que aparezcan particulas de los bloques de redstone.
+menu.spawnfreeze.description=Hace que aparezcan particulas en el Modo Freeze.
+
+# Menu Page 2
+menu.entitycollide.info=Colisionar con Entidades
+menu.bounceoffwalls.info=Rebotar en las paredes
+menu.lowtraction.info=Baja traccion
+menu.smartbreaking.info=Romper Inteligente
+menu.fancyplaceanimation.info=Animacion lujosa
+menu.spawnplaceparticles.info=Particulas al colocar
+
+menu.entitycollide.description=Habilita la colision entre particulas y entidades.
+menu.bounceoffwalls.description=Hace que las particulas reboten en las paredes.
+menu.lowtraction.description=Reduce la desaceleracion por traccion con el suelo.
+menu.smartbreaking.description=Movimientos y escalado de particulas inteligente al romper bloques.
+menu.fancyplaceanimation.description=Agrega una animacion lujosa al colocar bloques.
+menu.spawnplaceparticles.description=Hace que aparezcan particulas al colocar bloques.
+
+# Menu Page 3
+menu.fancyflame.info=Fuego lujoso
+menu.fancysmoke.info=Humo lujoso
+menu.fancyrain.info=Lluvia lujosa
+menu.fancysnow.info=Nieve lujosa
+menu.waterphysics.info=Agua con fisicas
+menu.restonfloor.info=Descansar en el suelo
+
+menu.fancyflame.description=Hace que las particulas del fuego se vean mejor.
+menu.fancysmoke.description=Hace que las particulas del humo se vean mejor.
+menu.fancyrain.description=Hace que las particulas de las lluvia se vean mejor.
+menu.fancysnow.description=Hace que las particulas de la nieve se vean mejor.
+menu.waterphysics.description=Hace que las particulas de madera floten y otras se hundan lentamente.
+menu.restonfloor.description=Hace que las particulas descansen alineadas con el suelo.
+
+# Menu Page 4
+menu.weatherdensity.info=Densidad de Particulas del clima
+
+menu.weatherdensity.description=Las particulas del clima tendran una densidad de §6

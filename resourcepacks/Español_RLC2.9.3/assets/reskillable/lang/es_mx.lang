@@ -1,0 +1,143 @@
+## Translated by KameiB for RLCraft 2.9.2
+# MISC
+reskillable.misc.capped=MAX
+reskillable.misc.skills=Habilidades
+reskillable.misc.requirements=Requisitos:
+reskillable.misc.requirements_shift=Presiona Shift para ver los requisitos
+reskillable.misc.skill_points=%d Puntos de habilidad
+reskillable.misc.shift=Presiona Shift para ver la descripcion
+reskillable.misc.unlocked=Desbloqueado!
+
+reskillable.misc.locked.item=No cumples los requisitos para usar este item
+reskillable.misc.locked.block_break=No cumples los requisitos para romper este bloque
+reskillable.misc.locked.block_use=No cumples los requisitos para usar este bloque
+reskillable.misc.locked.armor_equip=No cumples los requisitos para ponerte esta armadura
+
+# FORMATS
+reskillable.requirements.format.skill=%s%s: %s%d
+reskillable.requirements.format.advancement=Logro: %s%s
+reskillable.requirements.format.trait=Rasgo: %s%s
+reskillable.requirements.format.unobtainable=Inusable
+reskillable.requirements.format.and=AND
+reskillable.requirements.format.nand=NAND
+reskillable.requirements.format.or=OR
+reskillable.requirements.format.nor=NOR
+reskillable.requirements.format.xor=XOR
+reskillable.requirements.format.xnor=XNOR
+
+# SKILL NAMES
+reskillable.skill.reskillable.mining=Minado
+reskillable.skill.reskillable.gathering=Recolecta
+reskillable.skill.reskillable.attack=Ataque
+reskillable.skill.reskillable.defense=Defensa
+reskillable.skill.reskillable.building=Fabricar
+reskillable.skill.reskillable.farming=Cosecha
+reskillable.skill.reskillable.agility=Agilidad
+reskillable.skill.reskillable.magic=Magia
+
+# UNLOCKABLE NAMES
+reskillable.unlock.reskillable.obsidian_smasher=Golpeador de obsidiana
+reskillable.unlock.reskillable.obsidian_smasher.desc=Aumenta mucho la velocidad de minado de Obsidiana usando un pico de diamante
+reskillable.unlock.reskillable.fossil_digger=Excavador de fosiles
+reskillable.unlock.reskillable.fossil_digger.desc=Probabilidad de obtener 2 Carbones por cada mineral de carbon usando un pico de hierro o superior (sin Toque de seda)
+reskillable.unlock.reskillable.ore_cascade=Cascada mineral
+reskillable.unlock.reskillable.ore_cascade.desc=Habilidad alternada: Minar un mineral hara que se mine toda la vena. El Pico recibira el doble de daño a su durabilidad
+reskillable.unlock.reskillable.lucky_fisherman=Pescador suertudo
+reskillable.unlock.reskillable.lucky_fisherman.desc=Suerte aumentada al pescar
+reskillable.unlock.reskillable.drop_guarantee=Drops garantizados
+reskillable.unlock.reskillable.drop_guarantee.desc=Mobs enemigos siempre dropearan al menos 1 de sus items (si aplica)
+reskillable.unlock.reskillable.neutralissse=DeSSactivar
+reskillable.unlock.reskillable.neutralissse.desc=Golpear a un Creeper justo despues de que se enciende, lo neutralizara por unos segundos
+reskillable.unlock.reskillable.undershirt=Camiseta
+reskillable.unlock.reskillable.undershirt.desc=Cada 60 segundos, recibir un golpe fatal cuando una extremidad vital (Cabeza o Torso) tiene mas de 2 corazones, reducira su salud a 1/2 corazon en lugar de matarte
+reskillable.unlock.reskillable.transmutation=Transmutacion
+reskillable.unlock.reskillable.transmutation.desc=Desbloquea la habilidad de usar una Fruta de chorus como un agente de Transmutacion, lo cual transformara algunos bloques en otros
+reskillable.unlock.reskillable.perfect_recover=Recuperacion perfecta
+reskillable.unlock.reskillable.perfect_recover.desc=Bloques que dropeen sus componentes (como la Piedra luminosa) siempre dropearan lo suficiente para volver a fabricarlos
+reskillable.unlock.reskillable.more_wheat=Trigo-por-montones
+reskillable.unlock.reskillable.more_wheat.desc=Probabilidad de obtener 2 Trigos al cosechar cultivos maduros de Trigo.
+reskillable.unlock.reskillable.green_thumb=Pulgar verde
+reskillable.unlock.reskillable.green_thumb.desc=Las plantas alrededor del jugador creceran mas rapido
+reskillable.unlock.reskillable.hungry_farmer=Granjero hambriento
+reskillable.unlock.reskillable.hungry_farmer.desc=Hace que comer sea automatico
+reskillable.unlock.reskillable.roadwalk=Senderismo
+reskillable.unlock.reskillable.roadwalk.desc=Aumenta tu velocidad de movimiento al correr por Senderos de pasto
+reskillable.unlock.reskillable.golden_osmosis=Osmosis dorada
+reskillable.unlock.reskillable.golden_osmosis.desc=Las herramientas de oro extraeran EXP del usuario para repararse a si mismas rapidamente
+reskillable.unlock.reskillable.sidestep=Paso lateral
+reskillable.unlock.reskillable.sidestep.desc=Presionar 2 veces las teclas "Bombardear izq" o "Bombardear der" mientras corres hacia atras hara que des un paso en diagonal a esa direccion, con un pequeño tiempo de espera
+reskillable.unlock.reskillable.safe_port=Teletransportacion segura
+reskillable.unlock.reskillable.safe_port.desc=Teletransportarse con una Perla de ender ya no te lastimara
+reskillable.unlock.reskillable.battle_spirit=Espiritu de batalla
+reskillable.unlock.reskillable.battle_spirit.desc=Matar a un monstruo te dara Fuerza por unos segundos
+reskillable.unlock.reskillable.effect_twist=Giro de efecto
+reskillable.unlock.reskillable.effect_twist.desc=Ser golpeado por un monstruo mientras tienes efectos positivos tendra una probabilidad de propagar la version negativa de esos efectos al atacante
+reskillable.unlock.reskillable.hillwalker=Caminador de colinas
+reskillable.unlock.reskillable.hillwalker.desc=Despues de un largo viaje y subidas empinadas, has alcanzado un estado de paso alto perpetuo. Ahora puedes caminar sobre bloques de 1 de altura!
+
+# RANK NAMES
+reskillable.rank.0=Novato
+reskillable.rank.1=Principiante
+reskillable.rank.2=Aprendiz
+reskillable.rank.3=Oficial
+reskillable.rank.4=Adepto
+reskillable.rank.5=Habil
+reskillable.rank.6=Experto
+reskillable.rank.7=Maestro
+reskillable.rank.8=Ascendido
+
+# TAB NAMES
+reskillable.tab.inventory=Inventario
+reskillable.tab.skills=Habilidades
+reskillable.tab.abilities=Capacidades
+
+# KEY-BINDINGS
+key.controls.reskillable=Reskillable
+key.open_gui=Abrir GUI de Habilidades
+
+# TOAST MESSAGES
+reskillable.toast.skill_desc=Nivel alcanzado: %s
+reskillable.toast.unlockable_desc=Desbloqueado!
+
+# COMMANDS
+reskillable.command.usage=/reskillable subcommand
+reskillable.command.resetskill.usage=/reskillable resetskill <player> <skill>
+reskillable.command.setskilllevel.usage=/reskillable setskilllevel <player> <skill> <level>
+reskillable.command.incrementskill.usage=/reskillable incrementskill <player> <skill> <optional_level>
+reskillable.command.resetall.usage=/reskillable resetall <player>
+reskillable.command.toggletrait.usage=/reskillable toggletrait <player> <trait>
+
+reskillable.command.success.unlocktrait=Se desbloqueo '%s' para '%s'.
+reskillable.command.success.locktrait=Se bloqueo '%s' para '%s'.
+reskillable.command.success.resetskill=Se reseto la Habilidad: '%s' para '%s'.
+reskillable.command.success.setskilllevel=Se asigno el nivel de habilidad: '%s' a '%s' para '%s'.
+reskillable.command.success.skillup=Se aumento el nivel de la Habilidad: '%s' para '%s'.
+reskillable.command.success.resetall=Se resetearon todas las Habilidades para '%s'.
+
+reskillable.command.fail.unlocktrait=Fallo al desbloquear '%s' para '%s'.
+reskillable.command.fail.locktrait=Fallo al bloquear '%s' para '%s'.
+reskillable.command.fail.resetskill=Fallo al resetear la Habilidad: '%s' para '%s'.
+reskillable.command.fail.setskilllevel=Fallo al asignar el nivel de Habilidad: '%s' a '%s' para '%s'.
+reskillable.command.fail.skillup=Fallo al subir de nivel la Habilidad: '%s' para '%s'.
+reskillable.command.fail.resetall=Fallo al resetear las Habilidades '%s' para '%s'.
+
+reskillable.command.invalid.skill=Habilidad '%s' invalida.
+reskillable.command.invalid.trait=Caracteristica '%s' invalida.
+reskillable.command.invalid.pastcap=Nivel '%s' supero el limite de '%s' para esa Habilidad.
+reskillable.command.invalid.belowmin=Nivel '%s' esta debajo del nivel minimo '1'.
+
+reskillable.command.invalid.missing.skill=Debes introducir el nombre de una Habilidad.
+reskillable.command.invalid.missing.trait=Debes introducir el nombre de una Caracteristica.
+reskillable.command.invalid.missing.player=Debes introducir el nombre de un jugador.
+reskillable.command.invalid.missing.level=Debes introducir un nivel para la Habilidad.
+reskillable.command.invalid.missing.playerskill=Debes introducir el nombre de ambos, jugaro y Habilidad.
+reskillable.command.invalid.missing.playertrait=Debes introducir el nombre de ambos, jugador y Caracteristica.
+reskillable.command.invalid.missing.playerskilllevel=Debes introducir el nombre de ambos, jugador y Habilidad, ademas de un nivel para la Habilidad.
+reskillable.command.invalid.missing.skilllevel=Debes introducir el nombre de una Habilidad y el nivel para esta.
+
+# ADVANCMENTS
+reskillable.advancement.first_level.title=Primer subida de nivel!
+reskillable.advancement.first_level.desc=Has subido tu primera Habilidad
+
+reskillable.advancement.attack_5.title=Al ataque!
+reskillable.advancement.attack_5.desc=Has subido tu nivel de Ataque a 5

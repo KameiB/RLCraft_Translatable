@@ -1,0 +1,168 @@
+##Translated by KameiB for RLCraft 2.9.2. Jan/2023
+container.forge=Forja
+container.chest_of_drawers=Cofre con cajones
+
+entity.firefly.name=Luciernaga
+
+item.black_apple.name=Manzana negra
+
+item.cincinnasite.name=Cincinnasita
+item.cincinnasite_axe.name=Hacha de cincinnasita
+item.cincinnasite_axe_diamond.name=Hacha de cincinnasita-diamante
+item.cincinnasite_pickaxe.name=Pico de cincinnasita
+item.cincinnasite_pickaxe_diamond.name=Pico de cincinnasita-diamante
+
+item.stalagnate_bowl.name=Tazon de stalagnita
+item.stalagnate_bowl_apple.name=Tazon con manzana negra
+item.stalagnate_bowl_mushroom.name=Tazon con estofado de hongos
+item.stalagnate_bowl_wart.name=Tazon con berruga
+
+itemGroup.better_nether=Better Nether
+
+message.spawn_help=§c§lDebes sostener Polvo de piedra luminosa para asignar tu spawn aqui
+message.spawn_set=§2§lTu spawn se ha asignado aqui
+
+tile.agave.name=Agave
+
+tile.barrel_cactus.name=Cactus barril
+
+tile.black_apple_seed.name=Semilla de manzana negra
+tile.black_bush.name=Arbusto negro
+
+tile.block_eyeball.name=Bloque de ojo
+tile.block_eyeball_small.name=Bloque de ojo pequeño
+
+tile.bone_block.name=Bloque liso de huesos
+tile.bone_button.name=Boton de hueso
+tile.bone_cincinnasite_door.name=Puerta de hueso-cincinnasita
+tile.bone_mushroom.name=Esporas de hongo de hueso
+tile.bone_plate.name=Placa de presion de hueso
+tile.bone_reed_door.name=Puerta de hueso-cañas
+tile.bone_slab_half.name=Losa de hueso
+tile.bone_stairs.name=Escaleras de hueso
+tile.bone_tile.name=Azulejo de hueso
+tile.bone_wall.name=Pared de hueso
+
+tile.cincinnasite_bars.name=Barras de cincinnasita
+tile.cincinnasite_block.name=Bloque de cincinnasita
+tile.cincinnasite_brick_plate.name=Placa de ladrillo de cincinnasita
+tile.cincinnasite_bricks.name=Ladrillos de cincinnasita
+tile.cincinnasite_bricks_pillar.name=Pilar de ladrillos de cincinnasita
+tile.cincinnasite_button.name=Boton de cincinnasita
+tile.cincinnasite_carved.name=Cincinnasita tallada
+tile.cincinnasite_fire_bowl.name=Brasero de cincinnasita
+tile.cincinnasite_forge.name=Horno de cincinnasita
+tile.cincinnasite_forged.name=Bloque de cincinnasita horneada
+tile.cincinnasite_frame.name=Marco de cincinnasita
+tile.cincinnasite_lantern.name=Linterna de cincinnasita
+tile.cincinnasite_ore.name=Mineral de cincinnasita
+tile.cincinnasite_pedestal.name=Pedestal de cincinnasita
+tile.cincinnasite_pillar.name=Pilar de cincinnasita
+tile.cincinnasite_plate.name=Placa de cincinnasita
+tile.cincinnasite_pot.name=Maceta de cincinnasita
+tile.cincinnasite_slab_half.name=Losa de cincinnasita
+tile.cincinnasite_stairs.name=Escaleras de cincinnasita
+tile.cincinnasite_tile_large.name=Azulejo grande de cincinnasita
+tile.cincinnasite_tile_small.name=Azulejo pequeño de cincinnasita
+tile.cincinnasite_wall.name=Pared de cincinnasita
+
+tile.egg_plant.name=Planta huevo
+
+tile.eye_seed.name=Semilla ojo
+
+tile.gray_mold.name=Moho gris
+
+tile.ink_bush.name=Arbusto de tinta
+tile.ink_bush_seed.name=Semilla de arbusto de tinta
+
+tile.lucis_spore.name=Espora de lucis
+
+tile.magma_flower.name=Semilla de flor de magma
+
+tile.nether_brick_tile_large.name=Azulejo de ladrillo grande de Nether
+tile.nether_brick_tile_slab_half.name=Losa de ladrillo pequeño de Nether
+tile.nether_brick_tile_small.name=Azulejo de ladrillo pequeño de Nether
+tile.nether_brick_tile_stairs.name=Escaleras de azulejo de ladrillo pequeño de Nether
+tile.nether_brick_wall.name=Pared de ladrillo de Nether
+tile.nether_cactus.name=Cactus del Nether
+tile.nether_grass.name=Pasto del Nether
+tile.nether_mycelium.name=Micelio del Nether
+tile.nether_reed.name=Cañas del Nether
+tile.netherrack_furnace.name=Horno de Netherrack
+tile.netherrack_moss.name=Moho del Nether
+
+tile.orange_mushroom.name=Hongo naranja
+
+tile.pig_statue_01.name=Estatua Respawner
+
+tile.potted_plant_1.name=Planta en maceta
+
+tile.quartz_glass.name=Vidrio de cuarzo
+tile.quartz_glass_framed.name=Vidrio de cuarzo enmarcado
+tile.quartz_glass_framed_pane.name=Panel de vidrio de cuarzo enmarcado
+tile.quartz_glass_pane.name=Panel de vidrio de cuarzo
+tile.quartz_stained_glass.black.name=Vidrio de cuarzo negro
+tile.quartz_stained_glass.blue.name=Vidrio de cuardo azul
+tile.quartz_stained_glass.brown.name=Vidrio de cuarzo cafe
+tile.quartz_stained_glass.cyan.name=Vidrio de cuarzo cian
+tile.quartz_stained_glass.gray.name=Vidrio de cuarzo gris
+tile.quartz_stained_glass.green.name=Vidrio de cuarzo verde
+tile.quartz_stained_glass.lightBlue.name=Vidrio de cuarzo azul claro
+tile.quartz_stained_glass.lime.name=Vidrio de cuarzo verde lima
+tile.quartz_stained_glass.magenta.name=Vidrio de cuarzo magenta
+tile.quartz_stained_glass.orange.name=Vidrio de cuarzo naranja
+tile.quartz_stained_glass.pink.name=Vidrio de cuarzo rosa
+tile.quartz_stained_glass.purple.name=Vidrio de cuarzo morado
+tile.quartz_stained_glass.red.name=Vidrio de cuarzo rojo
+tile.quartz_stained_glass.silver.name=Vidrio de cuarzo plata
+tile.quartz_stained_glass.white.name=Vidrio de cuarzo blanco
+tile.quartz_stained_glass.yellow.name=Vidrio de cuarzo amarillo
+tile.quartz_stained_glass_framed.black.name=Vidrio de cuarzo enmarcado negro
+tile.quartz_stained_glass_framed.blue.name=Vidrio de cuarzo enmarcado azul
+tile.quartz_stained_glass_framed.brown.name=Vidrio de cuarzo enmarcado cafe
+tile.quartz_stained_glass_framed.cyan.name=Vidrio de cuarzo enmarcado cian
+tile.quartz_stained_glass_framed.gray.name=Vidrio de cuarzo enmarcado gris
+tile.quartz_stained_glass_framed.green.name=Vidrio de cuarzo enmarcado verde
+tile.quartz_stained_glass_framed.lightBlue.name=Vidrio de cuarzo enmarcado azul claro
+tile.quartz_stained_glass_framed.lime.name=Vidrio de cuarzo enmarcado verde lima
+tile.quartz_stained_glass_framed.magenta.name=Vidrio de cuarzo enmarcado magenta
+tile.quartz_stained_glass_framed.orange.name=Vidrio de cuarzo enmarcado naranja
+tile.quartz_stained_glass_framed.pink.name=Vidrio de cuarzo enmarcado rosa
+tile.quartz_stained_glass_framed.purple.name=Vidrio de cuarzo enmarcado morado
+tile.quartz_stained_glass_framed.red.name=Vidrio de cuarzo enmarcado rojo
+tile.quartz_stained_glass_framed.silver.name=Vidrio de cuarzo enmarcado plata
+tile.quartz_stained_glass_framed.white.name=Vidrio de cuarzo enmarcado blanco
+tile.quartz_stained_glass_framed.yellow.name=Vidrio de cuarzo enmarcado amarillo
+
+tile.red_mold.name=Moho rojo
+
+tile.reeds_block.name=Bloque de cañas del Nether
+tile.reeds_button.name=Boton de cañas del Nether
+tile.reeds_fence.name=Valla de cañas del Nether
+tile.reeds_gate.name=Puerta de valla de cañas del Nether
+tile.reeds_ladder.name=Escalera de cañas del Nether
+tile.reeds_plate.name=Placa de presion de cañas del Nether
+tile.reeds_slab_half.name=Losa de cañas del Nether
+tile.reeds_stairs.name=Escaleras de cañas del Nether
+
+tile.smoker.name=Ahumador
+
+tile.stalagnate.name=Stalagnita
+tile.stalagnate_bark.name=Corteza de stalagnita
+tile.stalagnate_bowl_placed.name=Tazon de stalagnita
+tile.stalagnate_planks.name=Tablones de stalagnita
+tile.stalagnate_planks_button.name=Boton de stalagnita
+tile.stalagnate_planks_fence.name=Valla de stalagnita
+tile.stalagnate_planks_gate.name=Puerta de valla de stalagnita
+tile.stalagnate_planks_plate.name=Placa de presion de stalagnita
+tile.stalagnate_planks_slab_half.name=Losa de stalagnita
+tile.stalagnate_planks_stairs.name=Escaleras de stalagnita
+tile.stalagnate_seed.name=Semilla de stalagnita
+tile.wart_seed.name=Semilla de berruga
+
+commands.findnethercity.usage.console=No se introdujeron coordenadas
+commands.findnethercity.usage.coordinates=Coordenadas incorrectas
+commands.findnethercity.usage=Uso incorrecto, debe ser /findNetherCity o /findNetherCity x y z
+
+#Added by KameiB
+tile.chest_of_drawers.name=Cofre con cajones

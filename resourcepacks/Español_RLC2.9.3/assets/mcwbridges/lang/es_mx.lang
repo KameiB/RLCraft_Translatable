@@ -1,0 +1,63 @@
+## Translated by KameiB for RLCraft 2.9.2
+# --- Tabs ---
+itemGroup.macawbridgestab=Macaw's Bridges
+
+# --- MODELS ---
+tile.most1.name=Puente de hierro (centro)
+tile.most2.name=Puente de hierro (fin)
+tile.oak_log_bridge_middle.name=Puente de madera de roble (centro)
+tile.oak_log_bridge_end.name=Puente de madera de roble (fin)
+tile.birch_log_bridge_end.name=Puente de madera de abedul (fin)
+tile.birch_log_bridge_middle.name=Puente de madera de abedul (centro)
+tile.acacia_log_bridge_end.name=Puente de madera de acacia (fin)
+tile.acacia_log_bridge_middle.name=Puente de madera de acacia (centro)
+tile.spruce_log_bridge_end.name=Puente de madera de abeto (fin)
+tile.spruce_log_bridge_middle.name=Puente de madera de abeto (centro)
+tile.jungle_log_bridge_end.name=Puente de madera de jungla (fin)
+tile.jungle_log_bridge_middle.name=Puente de madera de jungla (centro)
+tile.dark_oak_log_bridge_end.name=Puente de madera de roble oscuro (fin)
+tile.dark_oak_log_bridge_middle.name=Puente de madera de roble oscuro (centro)
+
+tile.rope_oak_bridge.name=Puente colgante de roble
+tile.rope_oak_bridge_end.name=Puente colgante de roble (fin)
+tile.rope_birch_bridge.name=Puente colgante de abedul
+tile.rope_birch_bridge_end.name=Puente colgante de abedul (fin)
+tile.rope_spruce_bridge.name=Puente colgante de abeto
+tile.rope_spruce_bridge_end.name=Puente colgante de abeto (fin)
+tile.rope_jungle_bridge.name=Puente colgante de jungla
+tile.rope_jungle_bridge_end.name=Puente colgante de jungla (fin)
+tile.rope_acacia_bridge.name=Puente colgante de acacia
+tile.rope_acacia_bridge_end.name=Puente colgante de acacia (fin)
+tile.rope_dark_oak_bridge.name=Puente colgante de roble oscuro
+tile.rope_dark_oak_bridge_end.name=Puente colgante de roble oscuro (fin)
+
+tile.brick_bridge.name=Puente de ladrillos
+tile.brick_bridge_end.name=Puente de ladrillos (fin)
+tile.stone_brick_bridge.name=Puente de ladrillos de piedra
+tile.stone_brick_bridge_end.name=Puente de ladrillos de piedra (fin)
+tile.sandstone_bridge.name=Puente de arenisca
+tile.sandstone_bridge_end.name=Puente de arenisca (fin)
+tile.orange_sandstone_bridge.name=Puente de arenisca roja
+tile.orange_sandstone_bridge_end.name=Puente de arenisca roja (fin)
+tile.mossy_stone_brick_bridge.name=Puente de ladrillos de piedra mohosa
+tile.mossy_stone_brick_bridge_end.name=Puente de ladrillos de piedra mohosa (fin)
+
+tile.oak_rail_bridge.name=Puente de vias de roble
+tile.spruce_rail_bridge.name=Puente de vias de abeto
+tile.birch_rail_bridge.name=Puente de vias de abedul
+tile.jungle_rail_bridge.name=Puente de vias de jungla
+tile.acacia_rail_bridge.name=Puente de vias de acacia
+tile.dark_oak_rail_bridge.name=Puente de vias de roble oscuro
+
+tile.oak_rail_bridge_end.name=Puente de vias de roble (fin)
+tile.spruce_rail_bridge_end.name=Puente de vias de abeto (fin)
+tile.birch_rail_bridge_end.name=Puente de vias de abedul (fin)
+tile.jungle_rail_bridge_end.name=Puente de vias de jungla (fin)
+tile.acacia_rail_bridge_end.name=Puente de vias de acacia (fin)
+tile.dark_oak_rail_bridge_end.name=Puente de vias de roble oscuro (fin)
+
+tile.bamboo_bridge.name=Puente de bambu
+tile.bamboo_bridge_end.name=Puente de bambu (fin)
+
+tile.dry_bamboo_bridge.name=Puente de bambu seco
+tile.dry_bamboo_bridge_end.name=Puente de bambu (fin)

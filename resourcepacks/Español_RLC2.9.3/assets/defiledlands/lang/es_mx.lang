@@ -1,0 +1,256 @@
+## Translated by KameiB for RLCraft 2.9.2. Jan/2023
+#----------------------------
+#Creative Tabs
+#----------------------------
+itemGroup.tabDefiledLands=Defiled Lands
+
+#----------------------------
+#Blocks
+#----------------------------
+tile.defiledlands.stone_defiled.name=Piedra corrupta
+tile.defiledlands.sandstone_defiled.name=Arenisca corrupta
+tile.defiledlands.sand_defiled.name=Arena corrupta
+tile.defiledlands.dirt_defiled.name=Tierra corrupta
+tile.defiledlands.grass_defiled.name=Pasto corrupto
+tile.defiledlands.gravel_defiled.name=Grava corrupta
+
+tile.defiledlands.stone_defiled_decoration.bricks.name=Ladrillos de piedra corrupta
+tile.defiledlands.stone_defiled_decoration.bricks_cracked.name=Ladrillos agrietados de piedra corrupta
+tile.defiledlands.stone_defiled_decoration.bricks_mossy.name=Ladrillos agrietados y mohosos de piedra corrupta
+tile.defiledlands.stone_defiled_decoration.mossy.name=Piedra mohosa corrupta
+tile.defiledlands.tenebra_door.name=Puerta de tenebra
+tile.defiledlands.stone_defiled_slab.stone.name=Losa de piedra corrupta
+tile.defiledlands.stone_defiled_slab.sandstone.name=Losa de arenisca corrupta
+tile.defiledlands.stone_defiled_slab.bricks.name=Losa de ladrillos de piedra corrupta
+tile.defiledlands.wood_defiled_slab.tenebra.name=Losa de madera tenebra
+tile.defiledlands.stone_defiled_stairs.name=Escaleras de piedra corrupta
+tile.defiledlands.sandstone_defiled_stairs.name=Escaleras de arenisca corrupta
+tile.defiledlands.stone_defiled_bricks_stairs.name=Escaleras de ladrillo de piedra corrupta
+tile.defiledlands.tenebra_stairs.name=Escaleras de madera tenebra
+tile.defiledlands.ravaging_decoration.stone.name=Piedra devastadora
+tile.defiledlands.ravaging_decoration.bricks.name=Ladrillos devastadores
+tile.defiledlands.glass_obscure.name=Vidrio oscuro
+tile.defiledlands.glass_obscure.tooltip=Bloquea la luz
+
+tile.defiledlands.tenebra_log.name=Tronco de tenebra
+tile.defiledlands.tenebra_leaves.name=Hojas de tenebra
+tile.defiledlands.tenebra_sapling.name=Retoño de tenebra
+tile.defiledlands.tenebra_planks.name=Madera de tenebra
+tile.defiledlands.vilespine.name=Espina vil
+tile.defiledlands.blastem.name=Explotunia
+tile.defiledlands.scuronotte.name=Scuronota
+
+tile.defiledlands.hephaestite_ore.name=Mineral de hefestita
+tile.defiledlands.hephaestite_ore.tooltip=Caliente al tacto
+tile.defiledlands.hephaestite_block.name=Bloque de hefestita
+tile.defiledlands.hephaestite_block.tooltip=Quema al tacto
+tile.defiledlands.umbrium_ore.name=Mineral de umbranio
+tile.defiledlands.umbrium_block.name=Bloque de umbranio
+tile.defiledlands.scarlite_ore.name=Mineral de escarlita
+tile.defiledlands.scarlite_block.name=Bloque de escarlita
+
+tile.defiledlands.healing_pad.name=Base curativa
+tile.defiledlands.conjuring_altar.name=Altar de conjuros
+
+#----------------------------
+#Items
+#----------------------------
+item.defiledlands.tenebra_door.name=Puerta de tenebra
+
+item.defiledlands.hephaestite.name=Fragmento de hefestita
+item.defiledlands.umbrium_ingot.name=Lingote de umbranio
+item.defiledlands.umbrium_nugget.name=Pepita de umbranio
+item.defiledlands.scarlite.name=Escarlita
+
+item.defiledlands.blastem_seed.name=Semilla de explotunia
+item.defiledlands.blastem_seed.tooltip=Siembrala en tierra corrupta
+item.defiledlands.blastem_fruit.name=Fruta de explotunia
+item.defiledlands.blastem_fruit.tooltip=Puede ser lanzada
+item.defiledlands.blastem_fruit_blazing.name=Fruta inciendiaria de explotunia
+item.defiledlands.blastem_fruit_blazing.tooltip=Puede ser lanzada
+item.defiledlands.defilement_powder.name=Polvo de corrupcion
+item.defiledlands.defilement_powder.tooltip=Da clic derecho a un bloque para corromperlo
+
+item.defiledlands.scuttler_eye.name=Ojo de trampillaraña
+item.defiledlands.black_heart.name=Corazon negro
+item.defiledlands.foul_slime.name=Slime mugriento
+item.defiledlands.foul_candy.name=Dulce mugriento
+item.defiledlands.book_wyrm_raw.name=Carne de Librodrilo cruda
+item.defiledlands.book_wyrm_cooked.name=Carne de Librodrilo asada
+item.defiledlands.book_wyrm_scale.name=Escama de Librodrilo
+item.defiledlands.book_wyrm_scale_golden.name=Escama de Librodrilo dorado
+
+item.defiledlands.umbrium_axe.name=Hacha de umbranio
+item.defiledlands.umbrium_hoe.name=Azada de umbranio
+item.defiledlands.umbrium_pickaxe.name=Pico de umbranio
+item.defiledlands.umbrium_shovel.name=Pala de umbranio
+item.defiledlands.umbrium_sword.name=Espada de umbranio
+
+item.defiledlands.scarlite_reaver.name=Saqueador de escarlita
+item.defiledlands.scarlite_reaver.tooltip=Drena la vida de las criaturas vivas
+item.defiledlands.scarlite_razor.name=Navaja de escarlita
+item.defiledlands.scarlite_razor.tooltip=Da clic derecho para convertir salud en hambre
+
+item.defiledlands.umbra_blaster.name=Cañon umbreo
+item.defiledlands.umbra_blaster.tooltip=Dispara frutas de explotunia
+item.defiledlands.concussion_smasher.name=Taser explosivo
+item.defiledlands.concussion_smasher.tooltip=Carga y libera\npara crear una explosion
+
+item.defiledlands.umbrium_helmet.name=Casco de umbranio
+item.defiledlands.umbrium_chestplate.name=Pechera de umbranio
+item.defiledlands.umbrium_leggings.name=Pantalones de umbranio
+item.defiledlands.umbrium_boots.name=Botas de umbranio
+
+item.defiledlands.scale_helmet.name=Casco de escama de Librodrilo
+item.defiledlands.scale_chestplate.name=Pechera de escama de Librodrilo
+item.defiledlands.scale_leggings.name=Pantalones de escama de Librodrilo
+item.defiledlands.scale_boots.name=Botas de escama de Librodrilo
+item.defiledlands.scale_golden_helmet.name=Casco de escama de Librodrilo dorado
+item.defiledlands.scale_golden_chestplate.name=Pechera de escama de Librodrilo dorado
+item.defiledlands.scale_golden_leggings.name=Pantalones de escama de Librodrilo dorado
+item.defiledlands.scale_golden_boots.name=Botas de escama de Librodrilo dorado
+
+item.defiledlands.book_wyrm_analyzer.name=Analizador de Librodrilos
+item.defiledlands.book_wyrm_analyzer.tooltip=Haz clic derecho a un Librodrilo\npara conocer sus datos
+
+item.defiledlands.calling_stone.name=Piedra del llamado
+item.defiledlands.calling_stone.tooltip=Haz clic derecho a un Altar de conjuros\npara invocar a El Destructor
+item.defiledlands.essence_destroyer.name=Esencia devastadora
+item.defiledlands.ravaging_ingot.name=Lingote devastador
+item.defiledlands.ravaging_axe.name=Hacha devastadora
+item.defiledlands.ravaging_axe.tooltip=Tala extremadamente rapido\nDestruye los drops
+item.defiledlands.ravaging_pickaxe.name=Pico devastador
+item.defiledlands.ravaging_pickaxe.tooltip=Mina extremadamente rapido\nDestruye los drops
+item.defiledlands.ravaging_shovel.name=Pala devastadora
+item.defiledlands.ravaging_shovel.tooltip=Cava extremadamente rapido\nDestruye los drops
+item.defiledlands.the_ravager.name=El Devastador
+item.defiledlands.the_ravager.tooltip=Dispara bolitas
+item.defiledlands.pellet_umbrium.name=Bolita de umbranio
+item.defiledlands.pellet_spiked.name=Bolita con picos
+item.defiledlands.pellet_spiked.tooltip=Aplica Sangrado acumulable
+item.defiledlands.pellet_ravaging.name=Bolita devastadora
+item.defiledlands.pellet_ravaging.tooltip=Aplica Vulnerabilidad
+###
+item.defiledlands.idol_sorrow.name=Idolo del Dolor
+item.defiledlands.idol_sorrow.tooltip=Haz clic derecho a un Altar de conjuros\npara invocar a El Doliente
+item.defiledlands.essence_mourner.name=Esencia del remordimiento
+item.defiledlands.remorseful_gem.name=Gema del remordimiento
+item.defiledlands.tears_flame.name=Lagrimas de penitencia
+item.defiledlands.tears_flame.tooltip=Dispara bolas de fuego
+item.defiledlands.tears_shulker.name=Lagrimas de retribucion
+item.defiledlands.tears_shulker.tooltip=Dispara proyectiles de Shulker a mobs cercanos
+
+#Baubles
+
+item.defiledlands.scarlite_ring.name=Anillo de escarlita
+item.defiledlands.scarlite_ring.tooltip=Te regenera lentamente
+item.defiledlands.phytoprostasia_amulet.name=Amuleto de fitoprostasia
+item.defiledlands.phytoprostasia_amulet.tooltip=Protege de las Espinas viles y Explotunias
+
+#----------------------------
+#Enchantments
+#----------------------------
+enchantment.sharpshooter=Tiro preciso
+enchantment.economical=Economico
+enchantment.safeguard=Blindaje
+enchantment.destructive=Destructivo
+enchantment.blazing=Piromano
+
+#----------------------------
+#Enchantment Descriptions
+#----------------------------
+enchantment.defiledlands.sharpshooter.desc=Aumenta la velocidad y distancia de los proyectiles del Cañon Umbreo y El Devastador y reduce su inexactitud
+enchantment.defiledlands.economical.desc=Da una oportunidad de que tu arma lanzada no gaste municiones cuando la usas
+enchantment.defiledlands.safeguard.desc=Previene que las explosiones destruyan bloques
+enchantment.defiledlands.destructive.desc=Aumenta el tamaño de las explosiones y su daño cuando impactan directamente
+enchantment.defiledlands.blazing.desc=Convierte a la Explotunia en su variante incenidaria
+
+#----------------------------
+#Mobs
+#----------------------------
+entity.defiledlands.shambler.name=Shambler
+entity.defiledlands.shambler_twisted.name=Shambler retorcido
+entity.defiledlands.scuttler.name=Trampillaraña
+entity.defiledlands.host.name=Huesped
+entity.defiledlands.slime_defiled.name=Slime corrupto
+
+entity.defiledlands.book_wyrm.name=Librodrilo
+
+entity.defiledlands.the_destroyer.name=El Destructor
+entity.defiledlands.the_mourner.name=El Doliente
+
+#----------------------------
+#Potion effects
+#----------------------------
+potion.effect.defiledlands.vulnerability=Vulnerabilidad
+potion.effect.defiledlands.grounded=Aterrizado
+potion.effect.defiledlands.bleeding=Sangrado
+
+#----------------------------
+#Tinker's Construct
+#----------------------------
+material.umbrium.name=Umbrianio
+
+modifier.defiled.name=Corrupto
+modifier.defiled.desc=§5Peligroso y muy morado.§r\nHace daño adicional a enemigos que no son de las Tierras corruptas.
+modifier.defiled.extra=Bonus hacia No-corruptos: +%s
+
+fluid.umbrium=Umbranio fundido
+tile.defiledlands.molten_umbrium.name=Umbranio fundido
+
+#----------------------------
+#UI
+#----------------------------
+ui.defiledlands.book_wyrm_analyze.health=Salud : %s/%s
+ui.defiledlands.book_wyrm_analyze.digest_time=Tiempo de digestion : %s
+ui.defiledlands.book_wyrm_analyze.max_level=Nivel de encantamiento : %s
+ui.defiledlands.book_wyrm_analyze.digested=Niveles digeridos : %s
+ui.defiledlands.book_wyrm_analyze.digesting=Digiriendo : %s nivel(es)
+ui.defiledlands.book_wyrm_analyze.maturing=Tiempo para madurar : %s minuto(s)
+ui.defiledlands.book_wyrm_analyze.reproduce=Tiempo para siguiente apareamiento : %s minuto(s)
+ui.defiledlands.book_wyrm_analyze.ready=Listo para aparearse
+ui.defiledlands.book_wyrm_analyze.golden=Este especimen tiene un extraño cuero dorado...
+
+ui.defiledlands.pellet.damage=Daño
+
+ui.defiledlands.jei.defilement=Corrupcion
+
+#----------------------------
+#Advancements
+#----------------------------
+advancements.defiledlands.root.title=Tierras corruptas
+advancements.defiledlands.root.description=Un horrible escalofrio recorre tu espalda...
+advancements.defiledlands.hephaestite.title=Un regalo de los dioses de Fuego
+advancements.defiledlands.hephaestite.description=Mina Hefestita
+advancements.defiledlands.blastem_fruit_blazing.title=Con fuego seras saneado
+advancements.defiledlands.blastem_fruit_blazing.description=Craftea Frutas de explotunia incendiaria
+advancements.defiledlands.umbrium.title=Morado oscuro
+advancements.defiledlands.umbrium.description=Hornea Mineral de umbranio y obten su lingote
+advancements.defiledlands.umbra_blaster.title=Este es mi palo de escoba
+advancements.defiledlands.umbra_blaster.description=Craftea un Cañon umbreo
+advancements.defiledlands.scarlite.title=La Cruzada escarlata
+advancements.defiledlands.scarlite.description=Mina Escarlata en el suelo profundo
+advancements.defiledlands.summon_destroyer.title=Uno devasto el mundo...
+advancements.defiledlands.summon_destroyer.description=Usa una Piedra del llamado en un Altar de conjuros activo
+advancements.defiledlands.ravaging_tool.title=Portador de destruccion
+advancements.defiledlands.ravaging_tool.description=Fabrica una herramienta con Esencia devastadora
+advancements.defiledlands.summon_mourner.title=...el otro lloro en silencio
+advancements.defiledlands.summon_mourner.description=Usa un Idolo del dolor en un Altar de conjuros activo
+
+advancements.defiledlands.book_wyrm_breed.title=El amor esta en el aire
+advancements.defiledlands.book_wyrm_breed.description=Aparea dos Librodrilos usando Dulce mugriento
+advancements.defiledlands.book_wyrm_breed_max_level.title=Ingenieria genetica
+advancements.defiledlands.book_wyrm_breed_max_level.description=Aparea Librodrilos hasta alcanzar el nivel 30 de encantamiento
+advancements.defiledlands.book_wyrm_breed_perfect.title=El especimen perfecto
+advancements.defiledlands.book_wyrm_breed_perfect.description=Aparea Librodrilos hasta obtener un especimen perfecto
+
+advancements.defiledlands.discover_all_biomes.title=Peregrinaje impio
+advancements.defiledlands.discover_all_biomes.description=Descubre todos los biomas corruptos
+advancements.defiledlands.kill_all_mobs.title=Limpia la tierra
+advancements.defiledlands.kill_all_mobs.description=Mata uno de cada tipo de monstruo de las Tierras corruptas
+
+# Added by KameiB
+item.defiledlands.pellet_umbrium.tooltip=Municion de El Devastador
+
+# Added tooltips
+item.defiledlands.foul_candy.addedtooltip.1=Da Nauseas

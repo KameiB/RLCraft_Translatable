@@ -1,0 +1,341 @@
+## Translated by KameiB for RLCraft 2.9.2
+potion.potency.3=IV
+potion.potency.4=V
+potion.potency.5=VI
+potion.potency.6=VII
+potion.potency.7=VIII
+potion.potency.8=IX
+potion.potency.9=X
+
+attribute.name.potioncore.projectileDamage=Daño de proyectiles
+attribute.name.potioncore.magicDamage=Daño magico
+attribute.name.potioncore.attackSpeed=Velocidad de ataque
+attribute.name.potioncore.digSpeed=Velocidad de minado
+attribute.name.potioncore.stepHeight=Altura de paso
+attribute.name.potioncore.jumpHeight=Altura de salto
+attribute.name.potioncore.damageResistance=Resistencia a daños
+attribute.name.potioncore.magicShielding=Escudo magico
+
+potion.effect.nausea=Pocion de Nauseas
+splash_potion.effect.nausea=Pocion arrojadiza de Nauseas
+lingering_potion.effect.nausea=Pocion persistente de Nauseas
+tipped_arrow.effect.nausea=Flecha de Nauseas
+
+potion.effect.wither=Pocion de Descomposicion
+splash_potion.effect.wither=Pocion arrojadiza de Descomposicion
+lingering_potion.effect.wither=Pocion persistente de Descomposicion
+tipped_arrow.effect.wither=Flecha de Descomposicion
+
+potion.effect.unluck=Pocion de Mala suerte
+splash_potion.effect.unluck=Pocion arrojadiza de Mala suerte
+lingering_potion.effect.unluck=Pocion persistente de Mala suerte
+tipped_arrow.effect.unluck=Flecha de Mala suerte
+
+potion.effect.hunger=Pocion de Hambre
+splash_potion.effect.hunger=Pocion arrojadiza de Hambre
+lingering_potion.effect.hunger=Pocion persistente de Hambre
+tipped_arrow.effect.hunger=Flecha de Hambre
+
+potion.effect.mining_fatigue=Pocion de Fatiga minera
+splash_potion.effect.mining_fatigue=Pocion arrojadiza de Fatiga minera
+lingering_potion.effect.mining_fatigue=Pocion persistente de Fatiga minera
+tipped_arrow.effect.mining_fatigue=Flecha de Fatiga minera
+
+potion.effect.haste=Pocion de Prisa minera
+splash_potion.effect.haste=Pocion arrojadiza de Prisa minera
+lingering_potion.effect.haste=Pocion persistente de Prisa minera
+tipped_arrow.effect.haste=Flecha de Prisa minera
+
+potion.effect.saturation=Pocion de Saturacion
+splash_potion.effect.saturation=Pocion arrojadiza de Saturacion
+lingering_potion.effect.saturation=Pocion persistente de Saturacion
+tipped_arrow.effect.saturation=Flecha de Saturacion
+
+potion.effect.absorption=Pocion de Absorcion
+splash_potion.effect.absorption=Pocion arrojadiza de Absorcion
+lingering_potion.effect.absorption=Pocion persistente de Absorcion
+tipped_arrow.effect.absorption=Flecha de Absorcion
+
+potion.effect.resistance=Pocion de Resistencia
+splash_potion.effect.resistance=Pocion arrojadiza de Resistencia
+lingering_potion.effect.resistance=Pocion persistente de Resistencia
+tipped_arrow.effect.resistance=Flecha de Resistencia
+
+potion.effect.health_boost=Pocion de Salud mejorada
+splash_potion.effect.health_boost=Pocion arrojadiza de Salud mejorada
+lingering_potion.effect.health_boost=Pocion persistente de Salud mejorada
+tipped_arrow.effect.health_boost=Flecha de Salud mejorada
+
+potion.effect.glowing=Pocion de Luminiscencia
+splash_potion.effect.glowing=Pocion arrojadiza de Luminiscencia
+lingering_potion.effect.glowing=Pocion persistente de Luminiscencia
+tipped_arrow.effect.glowing=Flecha de Luminiscencia
+
+potion.effect.blindness=Pocion de Ceguera
+splash_potion.effect.blindness=Pocion arrojadiza de Ceguera
+lingering_potion.effect.blindness=Pocion persistente de Ceguera
+tipped_arrow.effect.blindness=Flecha de Ceguera
+
+effect.fire=Combustion
+potion.effect.fire=Pocion de Combustion espontanea
+splash_potion.effect.fire=Pocion arrojadiza de Combustion espontanea
+lingering_potion.effect.fire=Pocion persistente de Combustion espontanea
+tipped_arrow.effect.fire=Flecha de Combustion espontanea
+
+effect.lightning=Relampago
+potion.effect.lightning=Pocion de Relampago
+splash_potion.effect.lightning=Pocion arrojadiza de Relampago
+lingering_potion.effect.lightning=Pocion persistente de Relampago
+tipped_arrow.effect.lightning=Flecha de Relampago
+
+effect.explode=Explosion
+potion.effect.explode=Pocion de Explosion
+splash_potion.effect.explode=Pocion arrojadiza de Explosion
+lingering_potion.effect.explode=Pocion persistente de Explosion
+tipped_arrow.effect.explode=Flecha de Explosion
+
+effect.burst=Estallido
+potion.effect.burst=Pocion de Estallido
+splash_potion.effect.burst=Pocion arrojadiza de Estallido
+lingering_potion.effect.burst=Pocion persistente de Estallido
+tipped_arrow.effect.burst=Flecha de Estallido
+
+effect.weight=Peso
+potion.effect.weight=Pocion de Peso
+splash_potion.effect.weight=Pocion arrojadiza de Peso
+lingering_potion.effect.weight=Pocion persistente de Peso
+tipped_arrow.effect.weight=Flecha de Peso
+
+effect.recoil=Espinas
+potion.effect.recoil=Pocion de Espinas
+splash_potion.effect.recoil=Pocion arrojadiza de Espinas
+lingering_potion.effect.recoil=Pocion persistente de Espinas
+tipped_arrow.effect.recoil=Flecha de Espinas
+
+effect.drown=Branquias
+potion.effect.drown=Pocion de Branquias
+splash_potion.effect.drown=Pocion arrojadiza de Branquias
+lingering_potion.effect.drown=Pocion persistente de Branquias
+tipped_arrow.effect.drown=Flecha de Branquias
+
+effect.archery=Arqueria
+potion.effect.archery=Pocion de Arqueria
+splash_potion.effect.archery=Pocion arrojadiza de Arqueria
+lingering_potion.effect.archery=Pocion persistente de Arqueria
+tipped_arrow.effect.archery=Flecha de Arqueria
+
+effect.klutz=Mala arqueria
+potion.effect.klutz=Pocion de Mala arqueria
+splash_potion.effect.klutz=Pocion arrojadiza de Mala arqueria
+lingering_potion.effect.klutz=Pocion persistente de Mala arqueria
+tipped_arrow.effect.klutz=Flecha de Mala arqueria
+
+effect.vulnerable=Vulnerabilidad
+potion.effect.vulnerable=Pocion de Vulnerabilidad
+splash_potion.effect.vulnerable=Pocion arrojadiza de Vulnerabilidad
+lingering_potion.effect.vulnerable=Pocion persistente de Vulnerabilidad
+tipped_arrow.effect.vulnerable=Flecha de Vulnerabilidad
+
+effect.antidote=Antidoto
+potion.effect.antidote=Pocion de Antidoto
+splash_potion.effect.antidote=Pocion arrojadiza de Antidoto
+lingering_potion.effect.antidote=Pocion persistente de Antidoto
+tipped_arrow.effect.antidote=Flecha de Antidoto
+
+effect.purity=Composicion
+potion.effect.purity=Pocion de Composicion
+splash_potion.effect.purity=Pocion arrojadiza de Composicion
+lingering_potion.effect.purity=Pocion persistente de Composicion
+tipped_arrow.effect.purity=Flecha de Composicion
+
+effect.cure=Cura
+potion.effect.cure=Pocion de Cura
+splash_potion.effect.cure=Pocion arrojadiza de Cura
+lingering_potion.effect.cure=Pocion persistente de Cura
+tipped_arrow.effect.cure=Flecha de Cura
+
+effect.dispel=Disipacion
+potion.effect.dispel=Pocion de Disipacion
+splash_potion.effect.dispel=Pocion arrojadiza de Disipacion
+lingering_potion.effect.dispel=Pocion persistente de Disipacion
+tipped_arrow.effect.dispel=Flecha de Disipacion
+
+effect.slow_fall=Caida lenta
+potion.effect.slow_fall=Pocion de Caida lenta
+splash_potion.effect.slow_fall=Pocion arrojadiza de Caida lenta
+lingering_potion.effect.slow_fall=Pocion persistente de Caida lenta
+tipped_arrow.effect.slow_fall=Flecha de Caida lenta
+
+effect.solid_core=Solidez
+potion.effect.solid_core=Pocion de Solidez
+splash_potion.effect.solid_core=Pocion arrojadiza de Solidez
+lingering_potion.effect.solid_core=Pocion persistente de Solidez
+tipped_arrow.effect.solid_core=Flecha de Solidez
+
+effect.launch=Lanzamiento
+potion.effect.launch=Pocion de Lanzamiento
+splash_potion.effect.launch=Pocion arrojadiza de Lanzamiento
+lingering_potion.effect.launch=Pocion persistente de Lanzamiento
+tipped_arrow.effect.launch=Flecha de Lanzamiento
+
+effect.climb=Araña
+potion.effect.climb=Pocion de Araña
+splash_potion.effect.climb=Pocion arrojadiza de Araña
+lingering_potion.effect.climb=Pocion persistente de Araña
+tipped_arrow.effect.climb=Flecha de Araña
+
+effect.love=Amor
+potion.effect.love=Pocion de Amor
+splash_potion.effect.love=Pocion arrojadiza de Amor
+lingering_potion.effect.love=Pocion persistente de Amor
+tipped_arrow.effect.love=Flecha de Amor
+
+effect.step_up=Paso alto
+potion.effect.step_up=Pocion de Paso alto
+splash_potion.effect.step_up=Pocion arrojadiza de Paso alto
+lingering_potion.effect.step_up=Pocion persistente de Paso alto
+tipped_arrow.effect.step_up=Flecha de Paso alto
+
+effect.perplexity=Perplejidad
+potion.effect.perplexity=Pocion de Perplejidad
+splash_potion.effect.perplexity=Pocion arrojadiza de Perplejidad
+lingering_potion.effect.perplexity=Pocion persistente de Perplejidad
+tipped_arrow.effect.perplexity=Flecha de Perplejidad
+
+effect.disorganization=Desorganizacion
+potion.effect.disorganization=Pocion de Desorganizacion
+splash_potion.effect.disorganization=Pocion arrojadiza de Desorganizacion
+lingering_potion.effect.disorganization=Pocion persistente de Desorganizacion
+tipped_arrow.effect.disorganization=Flecha de Desorganizacion
+
+effect.spin=Rotacion
+potion.effect.spin=Pocion de Rotacion
+splash_potion.effect.spin=Pocion arrojadiza de Rotacion
+lingering_potion.effect.spin=Pocion persistente de Rotacion
+tipped_arrow.effect.spin=Flecha de Rotacion
+
+effect.repair=Reparacion
+potion.effect.repair=Pocion de Reparacion
+splash_potion.effect.repair=Pocion arrojadiza de Reparacion
+lingering_potion.effect.repair=Pocion persistente de Reparacion
+tipped_arrow.effect.repair=Flecha de Reparacion
+
+effect.rust=Oxidacion
+potion.effect.rust=Pocion de Oxidacion
+splash_potion.effect.rust=Pocion arrojadiza de Oxidacion
+lingering_potion.effect.rust=Pocion persistente de Oxidacion
+tipped_arrow.effect.rust=Flecha de Oxidacion
+
+effect.extension=Extension
+potion.effect.extension=Pocion de Extension
+splash_potion.effect.extension=Pocion arrojadiza de Extension
+lingering_potion.effect.extension=Pocion persistente de Extension
+tipped_arrow.effect.extension=Flecha de Extension
+
+effect.chance=Efecto aleatorio
+potion.effect.chance=Pocion del Azar
+splash_potion.effect.chance=Pocion arrojadiza del Azar
+lingering_potion.effect.chance=Pocion persistente del Azar
+tipped_arrow.effect.chance=Flecha del Azar
+
+effect.bless=Efecto positivo aleatorio
+potion.effect.bless=Pocion de Bendicion
+splash_potion.effect.bless=Pocion arrojadiza de Bendicion
+lingering_potion.effect.bless=Pocion persistente de Bendicion
+tipped_arrow.effect.bless=Flecha de Bendicion
+
+effect.curse=Efecto negativo aleatorio
+potion.effect.curse=Pocion de Maldicion
+splash_potion.effect.curse=Pocion arrojadiza de Maldicion
+lingering_potion.effect.curse=Pocion persistente de Maldicion
+tipped_arrow.effect.curse=Flecha de Maldicion
+
+effect.teleport=Dispersion
+potion.effect.teleport=Pocion de Teletransportacion aleatoria
+splash_potion.effect.teleport=Pocion arrojadiza de Teletransportacion aleatoria
+lingering_potion.effect.teleport=Pocion persistente de Teletransportacion aleatoria
+tipped_arrow.effect.teleport=Flecha de Teletransportacion aleatoria
+
+effect.teleport_surface=Teletransportacion a la superficie
+potion.effect.teleport_surface=Pocion de Escape
+splash_potion.effect.teleport_surface=Pocion arrojadiza de Escape
+lingering_potion.effect.teleport_surface=Pocion persistente de Escape
+tipped_arrow.effect.teleport_surface=Flecha de Escape
+
+effect.teleport_spawn=Regreso
+potion.effect.teleport_spawn=Pocion de Regreso a casa
+splash_potion.effect.teleport_spawn=Pocion arrojadiza de Regreso a casa
+lingering_potion.effect.teleport_spawn=Pocion persistente de Regreso a casa
+tipped_arrow.effect.teleport_spawn=Flecha de Regreso a casa
+
+effect.flight=Vuelo
+potion.effect.flight=Pocion de Vuelo
+splash_potion.effect.flight=Pocion arrojadiza de Vuelo
+lingering_potion.effect.flight=Pocion persistente de Vuelo
+tipped_arrow.effect.flight=Flecha de Vuelo
+
+effect.invert=Invierte efectos
+potion.effect.invert=Pocion de Inversion
+splash_potion.effect.invert=Pocion arrojadiza de Inversion
+lingering_potion.effect.invert=Pocion persistente de Inversion
+tipped_arrow.effect.invert=Flecha de Inversion
+
+effect.revival=Resurreccion
+potion.effect.revival=Pocion de Resurreccion
+splash_potion.effect.revival=Pocion arrojadiza de Resurreccion
+lingering_potion.effect.revival=Pocion persistente de Resurreccion
+tipped_arrow.effect.revival=Flecha de Resurreccion
+
+effect.reach=Alcance
+potion.effect.reach=Pocion de Alcance
+splash_potion.effect.reach=Pocion arrojadiza de Alcance
+lingering_potion.effect.reach=Pocion persistente de Alcance
+tipped_arrow.effect.reach=Flecha de Alcance
+
+effect.magic_focus=Enfoque magi
+potion.effect.magic_focus=Pocion de Enfoque magico
+splash_potion.effect.magic_focus=Pocion arrojadiza de Enfoque magico
+lingering_potion.effect.magic_focus=Pocion persistente de Enfoque magico
+tipped_arrow.effect.magic_focus=Flecha de Enfoque magico
+
+effect.magic_inhibition=Inhib. magi
+potion.effect.magic_inhibition=Pocion de Inhibicion magica
+splash_potion.effect.magic_inhibition=Pocion arrojadiza de Inhibicion magica
+lingering_potion.effect.magic_inhibition=Pocion persistente de Inhibicion magica
+tipped_arrow.effect.magic_inhibition=Flecha de Inhibicion magica
+
+effect.magic_shield=Escudo magi
+potion.effect.magic_shield=Pocion de Escudo magico
+splash_potion.effect.magic_shield=Pocion arrojadiza de Escudo magico
+lingering_potion.effect.magic_shield=Pocion persistente de Escudo magico
+tipped_arrow.effect.magic_shield=Flecha de Escudo magico
+
+effect.broken_magic_shield=Vulner. magi
+potion.effect.broken_magic_shield=Pocion de Vulnerabilidad magica
+splash_potion.effect.broken_magic_shield=Pocion arrojadiza de Vulnerabilidad magica
+lingering_potion.effect.broken_magic_shield=Pocion persistente de Vulnerabilidad magica
+tipped_arrow.effect.broken_magic_shield=Flecha de Vulnerabilidad magica
+
+effect.iron_skin=Piel hierro
+potion.effect.iron_skin=Pocion de Piel de hierro
+splash_potion.effect.iron_skin=Pocion arrojadiza de Piel de hierro
+lingering_potion.effect.iron_skin=Pocion persistente de Piel de hierro
+tipped_arrow.effect.iron_skin=Flecha de Piel de hierro
+
+effect.broken_armor=Penetracion
+potion.effect.broken_armor=Pocion de Penetracion
+splash_potion.effect.broken_armor=Pocion arrojadiza de Penetracion
+lingering_potion.effect.broken_armor=Pocion persistente de Penetracion
+tipped_arrow.effect.broken_armor=Flecha de Penetracion
+
+effect.diamond_skin=Piel diamante
+potion.effect.diamond_skin=Pocion de Piel de diamante
+splash_potion.effect.diamond_skin=Pocion arrojadiza de Piel de diamante
+lingering_potion.effect.diamond_skin=Pocion persistente de Piel de diamante
+tipped_arrow.effect.diamond_skin=Flecha de Piel de diamante
+
+effect.potion_sickness=Enfermedad
+potion.effect.potion_sickness=Pocion de Enfermedad por pocion
+splash_potion.effect.potion_sickness=Pocion arrojadiza de Enfermedad por pocion
+lingering_potion.effect.potion_sickness=Pocion persistente de Enfermedad por pocion
+tipped_arrow.effect.potion_sickness=Flecha de Enfermedad por pocion

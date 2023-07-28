@@ -1,0 +1,259 @@
+##Translated by KameiB for RLCraft 2.9.2. Jan/2023
+key.betterfoliage.gui=Abrir Config.
+
+betterfoliage.global.enabled=Habilitar Mod
+betterfoliage.global.enabled.tooltip=Si es false, BetterFoliage no renderizara nada
+betterfoliage.global.nVidia=GPU nVidia
+betterfoliage.global.nVidia.tooltip=Especifica si tienes una GPU nVidia
+
+betterfoliage.enabled=Habilitar
+betterfoliage.enabled.tooltip=Habilitar esta caracteristica?
+betterfoliage.hOffset=Compensacion Horizontal
+betterfoliage.hOffset.tooltip=La distancia en bloques que este elemento sera desfazado horizontalmente
+betterfoliage.vOffset=Compensacion Vertical
+betterfoliage.vOffset.tooltip=La distancia en bloques que este elemento sera desfazado verticalmente
+betterfoliage.size=Tamaño
+betterfoliage.size.tooltip=Tamaño de este elemento
+betterfoliage.heightMin=Altura minima
+betterfoliage.heightMin.tooltip=Altura minima del elemento
+betterfoliage.heightMax=Altura maxima
+betterfoliage.heightMax.tooltip=Altura maxima del elemento
+betterfoliage.population=Poblacion
+betterfoliage.population.tooltip=Probabilidad (N en 64) de que un bloque elegible tenga esta caraceristica
+betterfoliage.shaderWind=Efectos de viento con Shader
+betterfoliage.shaderWind.tooltip=Aplicar efectos de viento de los shaders de ShaderMod a este elemento?
+##This entry is not connected to the Config GUI
+betterfoliage.distance=Limite de distancia
+betterfoliage.distance.tooltip=Distancia maxima del jugador desde la cual se renderizara esta caracteristica
+
+betterfoliage.rendererror=§a[BetterFoliage]§f Error renderizando el bloque %s en la posicion %s
+
+betterfoliage.blocks=Tipos de bloque
+betterfoliage.blocks.tooltip=Configura listas de clases de bloques que tendran caracteristicas especificas aplicadas a ellos
+
+betterfoliage.blocks.dirtWhitelist=Lista blanca de Tierra
+betterfoliage.blocks.dirtBlacklist=Lista negra de Tierra
+betterfoliage.blocks.dirtWhitelist.arrayEntry=%d Entradas
+betterfoliage.blocks.dirtBlacklist.arrayEntry=%d Entradas
+betterfoliage.blocks.dirtWhitelist.tooltip=Bloques reconocidos como Tierra. Afecta a las Cañas, Algas y Pasto conectado
+betterfoliage.blocks.dirtBlacklist.tooltip=Bloques que no se aceptaran como Tierra. Afecta a las Cañas, Algas y Pasto conectado
+
+betterfoliage.blocks.grassClassesWhitelist=Lista blanca de Pasto
+betterfoliage.blocks.grassClassesBlacklist=Lista negra de Pasto
+betterfoliage.blocks.grassClassesWhitelist.arrayEntry=%d Entradas
+betterfoliage.blocks.grassClassesBlacklist.arrayEntry=%d Entradas
+betterfoliage.blocks.grassModels=Modelos de Pasto
+betterfoliage.blocks.grassModels.arrayEntry=%d Entradas
+betterfoliage.blocks.grassWhitelist.tooltip=Bloques reconocidos como Pasto. Afecta al Pasto corto y Pasto conectado
+betterfoliage.blocks.grassBlacklist.tooltip=Bloques que no se aceptaran como Pasto. Afecta al Pasto corto y Pasto conectado
+betterfoliage.blocks.grassModels.tooltip=Modelos y texturas reconocidos por los bloques de Pasto
+
+betterfoliage.blocks.leavesClassesWhitelist=Lista blanca de Hojas
+betterfoliage.blocks.leavesClassesBlacklist=Lista negra de Hojas
+betterfoliage.blocks.leavesClassesWhitelist.arrayEntry=%d Entradas
+betterfoliage.blocks.leavesClassesBlacklist.arrayEntry=%d Entradas
+betterfoliage.blocks.leavesModels=Modelos de Hojas
+betterfoliage.blocks.leavesModels.arrayEntry=%d Entradas
+betterfoliage.blocks.leavesClassesWhitelist.tooltip=Bloques reconocidos como Hojas. Afecta a las Hojas Extra y Hojas que caen. Las hojas se renderizaran con el ID de Bloque de Hojas en los programas de shader
+betterfoliage.blocks.leavesClassesBlacklist.tooltip=Bloques que no se aceptaran como Hojas. Afecta a las Hojas Extra y Hojas que caen. Las hojas se renderizaran con el ID de Bloque de Hojas en los programas de shader
+betterfoliage.blocks.leavesModels.tooltip=Modelos y texturas reconocidos por los bloques de Hojas
+
+betterfoliage.blocks.cropsWhitelist=Lista blanca de Cultivos
+betterfoliage.blocks.cropsBlacklist=Lista negra de Cultivos
+betterfoliage.blocks.cropsWhitelist.arrayEntry=%d Entradas
+betterfoliage.blocks.cropsBlacklist.arrayEntry=%d Entradas
+betterfoliage.blocks.cropsWhitelist.tooltip=Bloques reconocidos como Cultivos. Los cultivos se renderizaran con el ID de Pasto alto en los programas de shader
+betterfoliage.blocks.cropsBlacklist.tooltip=Bloques que no se aceptaran como Cultivos. Los cultivos se renderizaran con el ID de Pasto alto en los programas de shader
+
+betterfoliage.blocks.logClassesWhitelist=Lista blanca de Tronco de madera
+betterfoliage.blocks.logClassesBlacklist=Lista negra de Tronco de madera
+betterfoliage.blocks.logClassesWhitelist.arrayEntry=%d Entradas
+betterfoliage.blocks.logClassesBlacklist.arrayEntry=%d Entradas
+betterfoliage.blocks.logModels=Modelos de Tronco de madera
+betterfoliage.blocks.logModels.arrayEntry=%d Entradas
+betterfoliage.blocks.logClassesWhitelist.tooltip=Bloques reconocidos como Tronco de madera. Afecta a los Troncos redondos
+betterfoliage.blocks.logClassesBlacklist.tooltip=Bloques que no se aceptaran como Tronco de madera. Afecta a los Troncos redondos
+betterfoliage.blocks.logModels.tooltip=Modelos y texturas reconocidos por los bloques de Tronco de madera
+
+betterfoliage.blocks.sandWhitelist=Lista blanca de Arena
+betterfoliage.blocks.sandBlacklist=Lista negra de Arena
+betterfoliage.blocks.sandWhitelist.arrayEntry=%d Entradas
+betterfoliage.blocks.sandBlacklist.arrayEntry=%d Entradas
+betterfoliage.blocks.sandWhitelist.tooltip=Bloques reconocidos como Arena. Afecta al Coral
+betterfoliage.blocks.sandBlacklist.tooltip=Bloques que no se aceptaran como Arena. Afecta al Coral
+
+betterfoliage.blocks.lilypadWhitelist=Lista blanca de Nenufar
+betterfoliage.blocks.lilypadBlacklist=Lista negra de Nenufar
+betterfoliage.blocks.lilypadWhitelist.arrayEntry=%d Entradas
+betterfoliage.blocks.lilypadBlacklist.arrayEntry=%d Entradas
+betterfoliage.blocks.lilypadWhitelist.tooltip=Bloques reconocidos como Nenufar. Afecta a Better Lilypad
+betterfoliage.blocks.lilypadBlacklist.tooltip=Bloques que no se aceptaran como Nenufar. Afecta a Better Lilypad
+
+betterfoliage.blocks.cactusWhitelist=Lista blanca de Cactus 
+betterfoliage.blocks.cactusBlacklist=Lista negra de Cactus 
+betterfoliage.blocks.cactusWhitelist.arrayEntry=%d Entradas 
+betterfoliage.blocks.cactusBlacklist.arrayEntry=%d Entradas 
+betterfoliage.blocks.cactusWhitelist.tooltip=Bloques reconocidos como Cactus. Afecta a Better Cactus
+betterfoliage.blocks.cactusBlacklist.tooltip=Bloques que no se aceptaran como Cactus. Afecta a Better Cactus
+
+betterfoliage.blocks.myceliumWhitelist=Lista blanca de Mycelium
+betterfoliage.blocks.myceliumBlacklist=Lista negra de Mycelium
+betterfoliage.blocks.myceliumWhitelist.arrayEntry=%d Entradas
+betterfoliage.blocks.myceliumBlacklist.arrayEntry=%d Entradas
+betterfoliage.blocks.myceliumWhitelist.tooltip=Bloques reconocidos como Mycelium. Afecta a Better Grass
+betterfoliage.blocks.myceliumBlacklist.tooltip=Bloques que no se aceptaran como Mycelium. Afecta a Better Grass
+
+betterfoliage.blocks.netherrackWhitelist=Lista blanca de Netherrack
+betterfoliage.blocks.netherrackBlacklist=Lista negra de Netherrack
+betterfoliage.blocks.netherrackWhitelist.arrayEntry=%d Entradas
+betterfoliage.blocks.netherrackBlacklist.arrayEntry=%d Entradas
+betterfoliage.blocks.netherrackWhitelist.tooltip=Bloques reconocidos como Netherrack. Afecta a las Netherrack Vines
+betterfoliage.blocks.netherrackBlacklist.tooltip=Bloques que no se aceptaran como Netherrack. Afecta a Netherrack Vines
+
+betterfoliage.shaders=Configuracion de Shader
+betterfoliage.shaders.tooltip=Configura la integracion con shaders
+betterfoliage.shaders.leavesId=ID de Hojas
+betterfoliage.shaders.leavesId.tooltip=ID de bloque reportado a los programas de shader para todos los tipos de hojas. Si tu shader usa un archivo §6block.properties§e, probablemente necesitaras cambiar esto para que coincida con los mapeos del shader
+betterfoliage.shaders.grassId=ID de Pasto
+betterfoliage.shaders.grassId.tooltip=ID de bloque reportado a los programasd shader para todos los pastos y cultivos. Si tu shader usa un archivo §6block.properties§e, probablemente necesitaras cambiar esto para que coincida con los mapeos del shader
+
+betterfoliage.leaves=Hojas extra
+betterfoliage.leaves.tooltip=Hojas adicionales redondas en los bloques de hoja
+betterfoliage.leaves.dense=Modo denso
+betterfoliage.leaves.dense.tooltip=El modo denso agrega mas hojas redondas
+betterfoliage.leaves.snowEnabled=Habilitar nieve
+betterfoliage.leaves.snowEnabled.tooltip=Habilitar nieve sobre las hojas extra?
+betterfoliage.leaves.hideInternal=Oculta las hojas internas
+betterfoliage.leaves.hideInternal.tooltip=Omite el renderizado de las hojas extra si el bloque de hoja esta rodeado por completo por otras hojas o bloques solidos
+
+betterfoliage.shortGrass=Pasto corto y Mycelium
+betterfoliage.shortGrass.tooltip=Mechones de pasto/mycelium sobre los bloques apropiados
+betterfoliage.shortGrass.useGenerated=Usa la textura generada para el pasto
+betterfoliage.shortGrass.useGenerated.tooltip=La textura generada se obtiene cortando a la mitad la textura del pasto alto del paquete de recursos activo
+betterfoliage.shortGrass.myceliumEnabled=Habilitar para Mycelium
+betterfoliage.shortGrass.myceliumEnabled.tooltip=Habilitar esta caracteristica para bloques de mycelium?
+betterfoliage.shortGrass.grassEnabled=Habilitar para Pasto
+betterfoliage.shortGrass.grassEnabled.tooltip=Habilitar esta caracteristica para bloques de pasto?
+betterfoliage.shortGrass.snowEnabled=Habilitar bajo la nieve
+betterfoliage.shortGrass.snowEnabled.tooltip=Habilitar sobre bloques de pasto con nieve?
+betterfoliage.shortGrass.saturationThreshold=Umbral de saturacion
+betterfoliage.shortGrass.saturationThreshold.tooltip=Reduccion de saturacion de color entre bloques "descoloridos" (usando el color del bioma) y bloques "coloridos" (usando su propio color especifico)
+
+betterfoliage.hangingGrass=Pasto colgante
+betterfoliage.hangingGrass.tooltip=Mechones de pasto que cuelgan hacia abajo desde el tope de las orillas de los bloques de pasto
+betterfoliage.hangingGrass.separation=Separacion
+betterfoliage.hangingGrass.separation.tooltip=Que tanto el pasto colgante sobresale del bloque
+
+betterfoliage.cactus=Cactus mejorado
+betterfoliage.cactus.tooltip=Mejorar los cactus con retoños extra y shading suave
+betterfoliage.cactus.sizeVariation=Variacion de tamaño
+betterfoliage.cactus.sizeVariation.tooltip=Cantidad de variacion aleatoria en el tamaño del cactus
+
+betterfoliage.lilypad=Nenufar mejorado
+betterfoliage.lilypad.tooltip=Mejora los nenufares con raices y flores ocasionales
+betterfoliage.lilypad.flowerChance=Probabilidad de tener flor
+betterfoliage.lilypad.flowerChance.tooltip=Probabilidad (N en 64) de un nenufar de tener una flor sobre el
+
+betterfoliage.reed=Cañas
+betterfoliage.reed.tooltip=Cañas sobre bloques de tierra junto al agua
+betterfoliage.reed.biomes=Lista de biomas
+betterfoliage.reed.biomes.tooltip=Configura en cuales biomas estan permitidas las cañas
+betterfoliage.reed.biomes.tooltip.element=Deberian aparecer cañas en el bioma %s ?
+
+betterfoliage.algae=Algas
+betterfoliage.algae.tooltip=Algas en bloques de tierra en aguas profundas
+betterfoliage.algae.biomes=Lista de biomas
+betterfoliage.algae.biomes.tooltip=Configura en cuales biomas estan permitidas las algas
+betterfoliage.algae.biomes.tooltip.element=Deberian aparecer algas en el bioma %s ?
+
+betterfoliage.coral=Coral
+betterfoliage.coral.tooltip=Coral sobre bloques de arena en aguas profundas
+betterfoliage.coral.size=Tamaño del coral
+betterfoliage.coral.size.tooltip=Tamaño de los pedazos de coral que sobresalen
+betterfoliage.coral.crustSize=Tamaño de corteza
+betterfoliage.coral.crustSize.tooltip=Tamaño de la parte plana del coral
+betterfoliage.coral.chance=Probabilidad de coral
+betterfoliage.coral.chance.tooltip=Probabilidad (N en 64) de que una cara especifica del bloque tenga coral
+betterfoliage.coral.biomes=Lista de biomas
+betterfoliage.coral.biomes.tooltip=Configura en cuales biomas estan permitidos los corales
+betterfoliage.coral.biomes.tooltip.element=Deberian aparecer corales en el bioma %s ?
+betterfoliage.coral.shallowWater=Coral en aguas poco profundas
+betterfoliage.coral.shallowWater.tooltip=Deberian aparecer corales en agua de 1 bloque de profundidad?
+
+betterfoliage.netherrack=Lianas de Netherrack
+betterfoliage.netherrack.tooltip=Lianas colgantes bajo el netherrack
+
+betterfoliage.fallingLeaves=Hojas que caen
+betterfoliage.fallingLeaves.tooltip=Efecto de particula de hojas que caen emitidas desde el fondo de los bloques de hoja
+betterfoliage.fallingLeaves.speed=Velocidad de particula
+betterfoliage.fallingLeaves.speed.tooltip=Velocidad general de las particulas
+betterfoliage.fallingLeaves.windStrength=Fuerza del viento
+betterfoliage.fallingLeaves.windStrength.tooltip=Magnitud del efecto del viento en buen clima (esparcimiento desde la distribucion normal con centro en 0)
+betterfoliage.fallingLeaves.stormStrength=Fuerza de la tormenta
+betterfoliage.fallingLeaves.stormStrength.tooltip=Magnitud adicional de los efectos del viento en clima lluvioso (esparcimiento desde la distribucion normal con centro en 0)
+betterfoliage.fallingLeaves.size=Tamaño de particula
+betterfoliage.fallingLeaves.chance=Probabilidad de particula
+betterfoliage.fallingLeaves.chance.tooltip=Probabilidad de que cada tick aleatorio de render golpee un bloque de hoja y spawnee una particula
+betterfoliage.fallingLeaves.perturb=Perturbacion
+betterfoliage.fallingLeaves.perturb.tooltip=Magnitud del efecto de perturbacion. Agrega un movimiento en espiral a la particula, sincronizado con su rotacion
+betterfoliage.fallingLeaves.lifetime=Tiempo de vida maximo
+betterfoliage.fallingLeaves.lifetime.tooltip=Tiempo de vida maximo de la particula en segundos. El tiempo de vida minimo es 60%% de su valor
+betterfoliage.fallingLeaves.opacityHack=Particulas opacas
+betterfoliage.fallingLeaves.opacityHack.tooltip=Evitar que los bloques transparentes oscurezcan las particulas, aun cuando la particula este en frente. ADVERTENCIA: puede causar glitches.
+#fadeOut lines added by KameiB
+betterfoliage.fallingLeaves.fadeOut=Desvanecerse
+betterfoliage.fallingLeaves.fadeOut.tooltip=Desvanecer las hojas despues de un tiempo?
+
+betterfoliage.risingSoul=Almas salientes
+betterfoliage.risingSoul.tooltip=Efecto de particula de almas salientes, emitido por el tope del bloque de arena de almas
+betterfoliage.risingSoul.chance=Probabilidad de particula
+betterfoliage.risingSoul.chance.tooltip=Probabilidad de que cada tick aleatorio de render golpee un bloque de arena de almas para spawnear una particula
+betterfoliage.risingSoul.speed=Velocidad de particula
+betterfoliage.risingSoul.speed.tooltip=Velocidad vertical de las particulas de alma
+betterfoliage.risingSoul.perturb=Perturbacion
+betterfoliage.risingSoul.perturb.tooltip=Magnitud del efecto de perturbacion. Agrega un movimiento en espiral a la particula
+betterfoliage.risingSoul.headSize=Tamaño de almas
+betterfoliage.risingSoul.headSize.tooltip=Tamaño de las particulas de alma
+betterfoliage.risingSoul.trailSize=Tamaño del rastro
+betterfoliage.risingSoul.trailSize.tooltip=Tamaño inicial del rastro de la particula
+betterfoliage.risingSoul.opacity=Opacidad
+betterfoliage.risingSoul.opacity.tooltip=Opacidad del efecto de la particula
+betterfoliage.risingSoul.sizeDecay=Decaimiento del tamaño
+betterfoliage.risingSoul.sizeDecay.tooltip=Tamaño de la particula del rastro relativo a su tamaño en el tick anterior
+betterfoliage.risingSoul.opacityDecay=Decaimiento de la opacidad
+betterfoliage.risingSoul.opacityDecay.tooltip=Opacidad de la particula del rastro relativa al tick anterior
+betterfoliage.risingSoul.lifetime=Tiempo de vida maximo
+betterfoliage.risingSoul.lifetime.tooltip=Tiempo de vida maximo del efecto de particula en segundos. El tiempo de vida minimo es el 60%% de este valor
+betterfoliage.risingSoul.trailLength=Longitud del rastro
+betterfoliage.risingSoul.trailLength.tooltip=Numero del posiciones previas que la particula recuerda, en ticks
+betterfoliage.risingSoul.trailDensity=Densidad del rastro
+betterfoliage.risingSoul.trailDensity.tooltip=Renderizar cada enesima posicion previa en el rastro de la particula
+
+betterfoliage.connectedGrass=Texturas de pasto conectado
+betterfoliage.connectedGrass.tooltip=La textura de pasto se conecta entre bloques de pasto, mejorando la experiencia
+betterfoliage.connectedGrass.enabled=Habilitar
+betterfoliage.connectedGrass.enabled.tooltip=Si hay un bloque de pasto encima de un loque de tierra: dibujar la textura superior de pasto en todos los lados del bloque de pasto
+#snowEnabled lines added by KameiB
+betterfoliage.connectedGrass.snowEnabled=Habilitar nieve
+betterfoliage.connectedGrass.snowEnabled.tooltip=Habilitar nieve sobre el pasto?
+
+betterfoliage.roundLogs=Troncos redondos
+betterfoliage.roundLogs.tooltip=Hace que los troncos se vean redondos
+betterfoliage.roundLogs.connectSolids=Conectar con solidos
+betterfoliage.roundLogs.connectSolids.tooltip=Conectar los bloques redondos con los bloques solidos completos?
+betterfoliage.roundLogs.connectPerpendicular=Conectar a troncos perpendiculares
+betterfoliage.roundLogs.connectPerpendicular.tooltip=Conectar los troncos redondos a los troncos perpendiculares a lo largo de su eje?
+betterfoliage.roundLogs.lenientConnect=Rodeado indulgente
+betterfoliage.roundLogs.lenientConnect.tooltip=Conectar los troncos redondos paralelos en una forma de L tambien, no solo 2x2
+betterfoliage.roundLogs.connectGrass=Pasto conectado
+betterfoliage.roundLogs.connectGrass.tooltip=Renderizar bloques de pasto conectado bajo los arboles, en lugar de tierra si hay pasto cerca
+betterfoliage.roundLogs.radiusSmall=Radio biselado
+betterfoliage.roundLogs.radiusSmall.tooltip=Que tanto recortar desde la esquina del bloque de tronco
+betterfoliage.roundLogs.radiusLarge=Radio biselado conectado
+betterfoliage.roundLogs.radiusLarge.tooltip=Que tanto recortar desde la esquina exterior de los troncos conectados
+betterfoliage.roundLogs.dimming=Oscurecimiento
+betterfoliage.roundLogs.dimming.tooltip=Cantidad de caras oscurecidas del tronco
+betterfoliage.roundLogs.zProtection=Proteccion Z
+betterfoliage.roundLogs.zProtection.tooltip=Que tanto debe escalarsae en paralelo las uniones paralelas para evitar la pelea en Z (parpadeo). Trata de asingarlo lo mas alto posible sin tener glitches
+betterfoliage.roundLogs.defaultY=Vertical por defecto
+betterfoliage.roundLogs.defaultY.tooltip=Si es True, los bloques de tronco cuya orientacion no puede ser determinada, seran renderizados como vertical. De lo contrario, seran renderizados como bloques cubicos.

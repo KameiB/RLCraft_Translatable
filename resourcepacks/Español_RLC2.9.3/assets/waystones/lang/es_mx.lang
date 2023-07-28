@@ -1,0 +1,123 @@
+## Translated by KameiB for RLCraft 2.9.2
+tile.waystones:waystone.name=Traslador
+
+item.waystones:warp_scroll.name=Pergamino de traslado
+item.waystones:warp_scroll_bound.name=Pergamino de traslado (Destinado)
+item.waystones:return_scroll.name=Pergamino de retorno
+item.waystones:warp_stone.name=Piedra de traslado
+item.waystones:bound_scroll.name=Pergamino destinado
+
+itemGroup.waystones=Waystones
+
+waystones:noDimensionWarp=No puedes trasladarte entre mundos.
+waystones:waystoneBroken=El Traslador destinado ha sido movido o destruido.
+waystones:returnImpossible=Aun no has activado ningun Traslador.
+waystones:scrollNotBound=Este pergamino no ha sido destinado a un Traslador.
+waystones:stoneNotCharged=La Piedra de traslado no se ha cargado por completo.
+waystones:activatedWaystone=Traslador activado: %s
+waystones:nameOccupied=El nombre %s ya esta en uso.
+waystones:notTheOwner=El Traslador solo puede renombrarse por quien lo coloco.
+waystones:creativeRequired=Necesitas estar en Modo Creativo para editar un Traslador global.
+waystones:scrollBound=Pergamino destinado a: %s
+
+gui.waystones:current_location=Ubicacion actual:
+gui.waystones:warpStone.selectDestination=Elige tu destino:
+gui.waystones:warpStone.nextPage=Siguiente
+gui.waystones:warpStone.previousPage=Anterior
+gui.waystones:confirmReturn=Deseas trasladarte de vuelta a este Traslador?
+gui.waystones:confirmReturn.boundTo=Destinado a: %s
+gui.waystones:confirmReturn.noWaystoneActive=No hay un Traslador activo.
+gui.waystones:editWaystone.enterName=Escribe el nombre del Traslador:
+gui.waystones:editWaystone.isGlobal=es Global
+
+tooltip.waystones:cooldownLeft=Espera: %d segundos
+tooltip.waystones:boundTo=Destinado a: %s
+tooltip.waystones:none=Ninguno
+tooltip.waystones:returnToWaystone=Regresar al Traslador
+tooltip.waystones:openWaystoneMenu=Abrir menu de Traslador
+tooltip.waystones:levelRequirement=Requisito de nivel: %d
+
+stat.waystones:waystonesActivated=Trasladores activados
+
+# Added by KameiB. Config screen
+waystones.client=Cliente
+waystones.client.tooltip=Configuraciones de Cliente
+waystones.client.soundvolume=Volumen de sonido
+waystones.client.soundvolume.tooltip=El volumen del sonido reproducido cuando te trasladas.
+waystones.client.teleportbuttonx=Boton Trasladar. Pos X
+waystones.client.teleportbuttonx.tooltip=La posicion en X del boton Trasladar en el inventario.
+waystones.client.teleportbuttony=Boton Trasladar. Pos Y
+waystones.client.teleportbuttony.tooltip=La posicion en Y del boton Trasladar en el inventario.
+waystones.client.disableparticles=Deshabilitar particulas
+waystones.client.disableparticles.tooltip=Deshabilitar que los Trasladores emitan particulas?
+waystones.client.disabletextglow=Deshabilitar brillo del texto
+waystones.client.disabletextglow.tooltip=Deshabilitar que el texto superpuesto de los Trasladores siempre se renderice?
+waystones.client.randomlyspawnedlookmossy=Trasladores naturales tienen musgo
+waystones.client.randomlyspawnedlookmossy.tooltip=Hacer que los Trasladores generados por el modo anterior spawn-just-anywhere aparezcan con musgo?
+
+waystones.compat=Compatibilidad
+waystones.compat.tooltip=Configuraciones de compatibilidad
+waystones.compat.createjourneymapwaypoint=Crear Traslador JourneyMap
+waystones.compat.createjourneymapwaypoint.tooltip=Si es true, activar un Traslador hara que se genere un destino JourneyMap en esta posicion.
+
+waystones.general=General
+waystones.general.tooltip=Configuraciones generales
+waystones.general.teleportbutton=Boton Trasladar en GUI
+waystones.general.teleportbutton.tooltip=Deberia haber un boton en el inventario para acceder el menu del Traslador?
+waystones.general.teleportbuttontarget=Objetivo del boton Trasladar
+waystones.general.teleportbuttontarget.tooltip=Asigna esto al nombre de un Traslador global para fijar el boton de inventario a ese Traslador especifico.\nDejalo vacio para el comportamiento por defecto.
+waystones.general.teleportbuttoncooldown=Espera del boton Trasladar
+waystones.general.teleportbuttoncooldown.tooltip=El tiempo de espera entre usos del boton Trasladar (en segundos).
+waystones.general.teleportbuttonreturnonly=Boton Trasladar solo ira al Retorno
+waystones.general.teleportbuttonreturnonly.tooltip=Si se habilita, el boton Trasladar solo te dejara regresar al ultimo Traslador activado, en lugar de permitirte elegir.
+waystones.general.blocksperxplevel=Bloques por nivel de EXP
+waystones.general.blocksperxplevel.tooltip=La cantidad de bloques por nivel de EXP requerido.
+waystones.general.dimensionalxpcost=Costo por trasladarse entre dimensiones
+waystones.general.dimensionalxpcost.tooltip=La cantidad de niveles de EXP a usar para trasladarse entre dimensiones.
+waystones.general.shorttravelfree=Viajes cortos son gratis
+waystones.general.shorttravelfree.tooltip=Si es true, el costo de EXP por distancia viajada solo comenzara mas alla de la distancia por nivel, y un viaje mas corto que eso sera gratis.
+waystones.general.maximumxpcost=Costo de EXP maximo
+waystones.general.maximumxpcost.tooltip=El costo de experiencia maximo cuando se habilito Bloques por nivel de EXP
+waystones.general.waystonexpcost=Traslador cuesta EXP
+waystones.general.waystonexpcost.tooltip=Si se habilita, los Trasladores costaran experiencia al usarse, basada en la distancia viajada.
+waystones.general.inventorybuttonxpcost=Boton en inventario cuesta EXP
+waystones.general.inventorybuttonxpcost.tooltip=Si se habilita, el boton en inventario costara experiencia al usarse, basado en la distancia viajada.
+waystones.general.warpstonexpcost=Piedra de traslado cuesta EXP
+waystones.general.warpstonexpcost.tooltip=Si se habilita, la Piedra de traslado cuesta experiencia al usarse, basado en la distancia viajada.
+waystones.general.globalwaystonescostxp=Trasladores globales cuestan EXP
+waystones.general.globalwaystonescostxp.tooltip=Si se asigna a falso, todos los Trasladores globales no costaran nada de experiencia, sin importar el metodo usado.
+waystones.general.warpstonecooldown=Espera de la Piedra de traslado
+waystones.general.warpstonecooldown.tooltip=Tiempo de espera entre los usos de la Piedra de traslado (en segundos).
+waystones.general.interdimension=Traslado interdimensional
+waystones.general.interdimension.tooltip=Si se habilita, todos los Trasladores trabajan entre dimensiones.
+waystones.general.restrictrenametoowner=Restringir renombrar a solo dueño
+waystones.general.restrictrenametoowner.tooltip=Si se habilita, solo el dueño del Traslador podra renombrarlo.
+waystones.general.creativemodeonly=Solo modo Creativo
+waystones.general.creativemodeonly.tooltip=Si se habilita, los Trasladores solo podran ser colocados en modo Creativo.
+waystones.general.setspawnpoint=Asignar punto de aparicion al activar
+waystones.general.setspawnpoint.tooltip=Si se habilita, el punto de aparicion del jugador se asignara al ultimo Traslador que fue activado.
+waystones.general.globalnocooldown=Sin espera en Trasladores globales
+waystones.general.globalnocooldown.tooltip=Si se habilita, los Trasladores marcados como globales no tendran tiempo de espera.
+waystones.general.globalinterdimension=Traslado interdimensional (Trasladores globales)
+waystones.general.globalinterdimension.tooltip=Si se habilita, los Trasladores marcados como globales funcionaran entre dimensiones.
+waystones.general.alloweveryoneglobal=Permitir Trasladores globales para todos
+waystones.general.alloweveryoneglobal.tooltip=Si se habilita, todos pueden crear Trasladores globales, no solo jugadores en modo Creativo.
+waystones.general.resetuseondamage=Resetear usos al daño
+waystones.general.resetuseondamage.tooltip=El uso de una Piedra de traslado o Pergamino de traslado deberia ser interrumpido al recibir daño?\nEsto no es soportado cuando se juega con Vivecraft!
+waystones.general.disallowbreakinggenerated=No romper Trasladores naturales
+waystones.general.disallowbreakinggenerated.tooltip=Los Trasladores naturales deberian ser irrompibles para los jugadores?
+waystones.general.dropgenerated=Dropear item de Trasladores naturales
+waystones.general.dropgenerated.tooltip=Los Trasladores naturales dopearan su item cuando son rotos por jugadores?
+waystones.general.warpstoneusetime=Tiempo para usar la Piedra de traslado
+waystones.general.warpstoneusetime.tooltip=El tiempo que tarda en usar la Piedra de traslado (en ticks).\nEste es el tiempo de "carga" cuando mantienes presionado el clic derecho.
+waystones.general.warpscrollusetime=Tiempo para usar el Pergamino de traslado
+waystones.general.warpscrollusetime.tooltip=El tiempo que tarda en usar un Pergamino de traslado (en ticks).\nEste es el tiempo de "carga" cuando mantienes presionado el clic derecho.
+
+waystones.worldgen=Generacion de mundo
+waystones.worldgen.tooltip=Configuracion de generacion de mundo
+waystones.worldgen.villagechance=Generar en aldeas
+waystones.worldgen.villagechance.tooltip=Probabilidad de que un Traslador se genere en una aldea.\nAsignalo a 1 para que siempre se genere uno en las aldeas.\nAsingalo a 0 para deshabilitar.
+waystones.worldgen.legacychance=Cambiar a generar en cualquier lugar
+waystones.worldgen.legacychance.tooltip=La probabilidad de que un Traslador se genere en cualquier lugar (sin una estructura), escalado en 1/10000.
+waystones.worldgen.customnames=Nombres personalizados
+waystones.worldgen.customnames.tooltip=El Generador de nombres elegira entre estos nombres hasta que ya hayan sido usado todos, entonces volvera a generar nombres aleatorios.

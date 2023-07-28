@@ -1,0 +1,70 @@
+## Translated by KameiB for RLCraft 2.9.2. Jan/2023
+fantasticlib.literal=%s
+fantasticlib.success=§aEXITO
+
+
+fantasticlib.error.notEnoughItemFilterArgs=Argumentos insuficientes para el filtro de items: %s
+fantasticlib.error.tooManyItemFilterArgs=Demasiados argumentos para el filtro de items: %s
+fantasticlib.error.badItemName=Item con mal nombre: %s
+fantasticlib.error.badItemMeta=Item con malos metadatos: %s
+fantasticlib.error.itemForFilterNotFound=No se encontro el item para el filtro de items: %s
+fantasticlib.error.tooManyNBTValues=Cada tag NBT solo puede tener un valor!  Error en el filtro de items: %s
+
+fantasticlib.error.malformedAMod=Cadena modificadora de atributos esta mal hecha: %s
+
+fantasticlib.error.notEnoughPotionArgs=Argumentos insuficientes para efectos de pocion (como minimo debe ser 1): %s
+fantasticlib.error.tooManyPotionArgs=Demasiados argumentos para efectos de pocion (como maximo pueden ser 3): %s
+fantasticlib.error.potionNotFound=ResourceLocation para pocion no encontrado: %s
+fantasticlib.error.potionAmpNotNumber=Amplifier para pocion no es un numero: %s
+fantasticlib.error.potionDurNotNumber=Duration para pocion no es un numero: %s
+fantasticlib.error.potionIntrvNotNumber=Interval para pocion no es un numero: %s
+
+fantasticlib.error.playerEntityNotFound=No se encontro a la entidad Jugador: %s
+
+
+
+fantasticlib.config.entityRenderFixer=Arreglar Renderizado de Entidades
+fantasticlib.config.entityRenderFixer.tooltip=Si se habilita, ejecuta codigo para resetear ciertas configuraciones de openGL despues de que cada entidad es renderizada\nUsalo solo si necesitas arreglar algun problema grafico
+fantasticlib.config.inventoryDesyncFixer=Arreglar Sincronizado de Inventario
+fantasticlib.config.inventoryDesyncFixer.tooltip=Si se habilita, ejecuta codigo para sincronizar el inventario con el cliente cuando cambia del lado del servidor
+fantasticlib.config.previewRenderModeOverrides=Anteponerse al Modo Render. Previsualiz.
+fantasticlib.config.previewRenderModeOverrides.tooltip=Se antepone a los modos de renderizado cuando se previsualizan las skins AW de los items\nLa sintaxis es:\n§bSlotting, Channel@Mode, Channel@Mode, etc.\n§6Los valores validos para 'Slotting' se encuentran en: config/fantasticlib/reference/slottings.txt\nLos canales y modos validos dependen de las skins AW en el servidor (contacta al admin del servidor)\nEj: Si se instalo Tiamat Inventory y el servidor cuenta con skins validas para los hombros...\nTiamat Shoulders, ShoulderL@On, ShoulderR@On, ShoulderLControl@On, ShoulderRControl@On
+fantasticlib.config.negativeAttributes=Atributos Negativos
+fantasticlib.config.negativeAttributes.tooltip=Lista de atributos que son malos de tener, para propositos de renderizado de colores
+fantasticlib.config.tooltipScaling=Escalar Descripciones
+fantasticlib.config.tooltipScaling.tooltip=Multiplica el tamaño del renderizado de las descripciones por la cantidad indicada
+fantasticlib.config.guiSettings=Interfaz de Usuario
+fantasticlib.config.raytraceSettings=Raytrace
+
+fantasticlib.config.zoomFocusMouse=Centrar el Zoom en el Raton
+fantasticlib.config.zoomFocusMouse.tooltip=Hacer que el Zoom se enfoque en la posicion del mouse dentro de las Interfaces de Usuario?\nSi no esta habilitado, se usara el centro de la pantalla\n§bCualquiera de los modos que NO sea el predeterminado puede accederse presionando Ctrl mientras se usan los controles de Zoom
+fantasticlib.config.zoomResetButton=Resetear Zoom (Boton del Raton)
+fantasticlib.config.zoomResetButton.tooltip=El boton del raton que reseteara el nivel de zoom dentro de una Interfaz de Usuario (clic)
+fantasticlib.config.panButton=Vista Panoramica (Boton del Raton)
+fantasticlib.config.panButton.tooltip=Boton del raton que cambiara a Vista Panoramica dentro de una Interfaz de Usuario que lo soporte (Arrastrar y soltar)
+fantasticlib.config.zoomRate=Velocidad de Zoom
+fantasticlib.config.zoomRate.tooltip=Velocidad con la que se hara zoom
+fantasticlib.config.perGUIScaling=Escalado de cada Interfaz de Usuario
+fantasticlib.config.perGUIScaling.tooltip=Escalado a aplicar en cada Intefaz de Usuario que lo soporte\nLas Interfaces de Usuario que lo soportan deberian mostrarse automaticamente aqui si se ha accedido a ellas al menos una vez
+
+fantasticlib.config.rayBlockstateFilter=Filtro de Blockstate
+fantasticlib.config.rayBlockstateFilter.tooltip=Sintaxis:\ndomain:name:meta, transparent\n\n§bEjemplo:\nminecraft:stone:0, false
+fantasticlib.config.rayBlockFilter=Filtro de Bloques
+fantasticlib.config.rayBlockFilter.tooltip=Sintaxis:\ndomain:name, transparent\n\n§bEjemplo:\nminecraft:glass, true
+fantasticlib.config.rayBlockSuperclassFilter=Filtro de Superclase Bloque (Avanzado)
+fantasticlib.config.rayBlockSuperclassFilter.tooltip=Sintaxis:\npackage.package.ClassName, transparent\n\n§bEjemplo:\nnet.minecraft.block.BlockStairs, false
+fantasticlib.config.rayMaterialFilter=Filtro de Materiales
+fantasticlib.config.rayMaterialFilter.tooltip=Sintaxis:\nmaterial, transparent\n\n§bEjemplo:\nair, true\n\n§eVanilla:\nair, grass, ground, wood, rock, iron, anvil, water, lava, leaves, plants, vine, sponge, cloth, fire, sand, circuits, carpet, glass, redstone_light, tnt, coral, ice, packed_ice, snow, crafted_snow, cactus, clay, gourd, dragon_egg, portal, cake, web, piston, barrier, structure_void
+
+
+
+fantasticlib.cmd.rendermodes.get.comment=%s esta puesto como %s para %s
+fantasticlib.cmd.rendermodes.notSet.comment=%s aun no esta puesto para %s
+fantasticlib.cmd.rendermodes.noneSet.comment=No se han asignado modos de renderizado para %s
+
+fantasticlib.cmd.uptime=%s Dias, %s Horas, %s Minutos, %s Segundos
+fantasticlib.cmd.uptime.noserver=§cNo se detecto ningun servidor encendido
+
+# Added by KameiB
+fantasticlib.config.raytraceSettings.tooltip=Configuraciones por bloques y materiales para hacer Raytrace
+fantasticlib.config.guiSettings.tooltip=Configuraciones del comportamiento de las Interfaces de Usuario

@@ -1,0 +1,15 @@
+    Al colocar un Atril, pude
+interactuar haciendo clic derecho
+sobre el. El interior tiene tres
+ranuras, la mas a la izquierda es
+para un bestiario de entrada, la
+la parte inferior para manuscritos,
+y la mas a la derecha para el
+bestiario de salida. Por cada
+manuscrito, un nuevo tema aparecio
+en el bestiario.
+Estas nuevas paginas pueden ser
+informacion sobre criaturas
+miticas, diferentes tipos de gente,
+guias de crafteo e inclusive
+alquimia basica.

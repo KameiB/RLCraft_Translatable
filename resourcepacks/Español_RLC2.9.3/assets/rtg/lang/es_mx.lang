@@ -1,0 +1,313 @@
+## Translated by KameiB for RLCraft 2.9.2
+#-----------------------------
+# GUI Customize World Screen
+#-----------------------------
+gui.createWorld.worldtypename=RTG - Realista
+gui.createWorld.worldtype.line1=Realistic Terrain Generation usa un tipo de mundo personalizado.
+gui.createWorld.worldtype.line2=Si quieres usar el tipo de mundo RTG, selecciona
+gui.createWorld.worldtype.line3=§9Tipo de mundo: %s§r bajo §9Mas Opciones de Mundo§r.
+gui.createWorld.worldtype.line4=Para usarlo en un servidor dedicado, asigne
+gui.createWorld.worldtype.line5=§9level-type=RTG§r en §9server.properties§r
+
+gui.createWorld.customize.clipboard=Copiar al portapapeles
+gui.createWorld.customize.clipboard.tooltip=Copiar las configuraciones actuales al portapapeles, para pegarlas facilmente al campo generator-settings del archivo server.properties.
+
+gui.createWorld.customize.title.maintitle=Configuraciones de Mundo Personalizado RTG
+
+gui.createWorld.customize.title.PAGE1=Configuraciones de Terreno y Superficie
+
+gui.createWorld.customize.category.WORLD=Configuraciones de Mundo
+gui.createWorld.customize.setting.seaLevel=Nivel del mar
+gui.createWorld.customize.setting.fixedBiome=Bioma Fijo
+gui.createWorld.customize.setting.fixedBiome.tooltip=Elige el bioma para un mundo mono-bioma
+gui.createWorld.customize.setting.biomeSize=Tamaño de Bioma
+gui.createWorld.customize.setting.biomeSize.tooltip=Cambia el tamaño promedio de los biomas
+
+gui.createWorld.customize.category.SURFACE=Configuraciones de Superifice
+gui.createWorld.customize.setting.useBoulders=Habilitar Peñascos
+gui.createWorld.customize.setting.useBoulders.tooltip=Habilita la generacion de Peñascos
+gui.createWorld.customize.setting.boulderMult=Probab. de Peñasco 1/x
+gui.createWorld.customize.setting.boulderMult.tooltip=La probabilidad de que se genere un peñasco
+gui.createWorld.customize.setting.sandDuneHeight=Altura de Dunas de Arena
+gui.createWorld.customize.setting.sandDuneHeight.tooltip=Ajusta la altura de las dunas de arena
+gui.createWorld.customize.setting.snowDuneHeight=Altura de Dunas de Nieve
+gui.createWorld.customize.setting.snowDuneHeight.tooltip=Ajusta la altura de las dunas de nieve
+gui.createWorld.customize.setting.useSnowLayers=Capas de Nieve
+gui.createWorld.customize.setting.useSnowLayers.tooltip=Habilita capas de nieve graduales en los biomas nevados
+gui.createWorld.customize.setting.snowLayerTemp=Temp Capas de Nieve
+gui.createWorld.customize.setting.snowLayerTemp.tooltip=La temperatura a la que se generan las capas de nieve
+
+gui.createWorld.customize.category.UNDERGROUND=Configuracion Subterranea
+gui.createWorld.customize.setting.bedrockLayers=Capas de Piedra madre
+gui.createWorld.customize.setting.bedrockLayers.tooltip=Asigna el numero de Piedras madre
+gui.createWorld.customize.setting.useCaves=Cuevas
+gui.createWorld.customize.setting.useCaves.tooltip=Habilitar generacion de cuevas
+gui.createWorld.customize.setting.caveChance=Probabilidad de Cueva
+gui.createWorld.customize.setting.caveChance.tooltip=Valores MAYORES = MENOS cuevas
+gui.createWorld.customize.setting.caveDensity=Densidad de Cueva
+gui.createWorld.customize.setting.caveDensity.tooltip=Valores MAYORES = Cuevas MaS GRANDES
+gui.createWorld.customize.setting.useRavines=Habilitar Ravines
+gui.createWorld.customize.setting.useRavines.tooltip=Habilitar generacion de barrancos (Ravines)
+gui.createWorld.customize.setting.ravineChance=Prob. de Ravine
+gui.createWorld.customize.setting.ravineChance.tooltip=Valores MAYORES = MENOS barrancos (Ravines)
+
+gui.createWorld.customize.title.PAGE2=Configuracion de Caracteristicas del Agua
+
+gui.createWorld.customize.category.RIVERS=Configuracion de Rios
+gui.createWorld.customize.setting.riverSizeMult=Tamaño del río
+gui.createWorld.customize.setting.riverSizeMult.tooltip=Ajusta el ancho de los rios
+gui.createWorld.customize.setting.riverFrequency=Multip. de frecuencia
+gui.createWorld.customize.setting.riverFrequency.tooltip=Ajusta que tan frecuentemente se generan los rios
+gui.createWorld.customize.setting.riverBendMult=Multiplicador de curvas
+gui.createWorld.customize.setting.riverBendMult.tooltip=Ajusta cuantas curvas tendran los rios
+gui.createWorld.customize.setting.riverCutOffAmpl=Amplitud de Corte
+gui.createWorld.customize.setting.riverCutOffAmpl.tooltip=Numeros mayores hacen que el ruido al cortarse el agrandamiento tenga un mayor efecto
+gui.createWorld.customize.setting.riverCutOffScale=Escala de Corte
+gui.createWorld.customize.setting.riverCutOffScale.tooltip=Numeros mayores hacen que las areas con pasto cerca de los rios sean mas grandes, pero tambien mas raras
+
+gui.createWorld.customize.category.RTGLAKES=Config de Lagos RTG
+gui.createWorld.customize.setting.RTGlakeSizeMult=Multiplicador de tamaño
+gui.createWorld.customize.setting.RTGlakeSizeMult.tooltip=Tamaño de los lagos personalizados RTG (Bioma de Rio)
+gui.createWorld.customize.setting.RTGlakeFreqMult=Multip. de frecuencia
+gui.createWorld.customize.setting.RTGlakeFreqMult.tooltip=La frecuencia con que se generaran los lagos personalizados RTG
+gui.createWorld.customize.setting.RTGlakeShoreBend=Difuminacion de playa
+gui.createWorld.customize.setting.RTGlakeShoreBend.tooltip=Ajusta cuanto se difuminaran las playas.
+
+gui.createWorld.customize.category.VANILLASURFACELAKES=Config lagos de superficie Vanilla
+gui.createWorld.customize.setting.useWaterLakes=Lagos de agua
+gui.createWorld.customize.setting.useWaterLakes.tooltip=Habilitar lago de agua Vanilla en la superficie
+gui.createWorld.customize.setting.waterLakeChance=Prob. Lagos de agua 1/x
+gui.createWorld.customize.setting.waterLakeChance.tooltip=La probabiliddad de que se genere un lago de agua vanilla en la superficie
+gui.createWorld.customize.setting.useLavaLakes=Lagos de lava
+gui.createWorld.customize.setting.useLavaLakes.tooltip=Habilitar lagos de lava en la superficie
+gui.createWorld.customize.setting.lavaLakeChance=Prob. Lagos de lava 1/x
+gui.createWorld.customize.setting.lavaLakeChance.tooltip=La probabilidad de que se genere un lago de lava en la sueprficie
+
+gui.createWorld.customize.category.VANILLAUNDERGROUNDLAKES=Config Lagos Vanilla subeterraneos
+gui.createWorld.customize.setting.useWaterUndLakes=Lagos de agua
+gui.createWorld.customize.setting.useWaterUndLakes.tooltip=Habilitar lagos de agua subterraneos
+gui.createWorld.customize.setting.waterUndLakeChance=Prob. lagos de agua 1/x
+gui.createWorld.customize.setting.waterUndLakeChance.tooltip=Probabilidad de que se genere un lago de agua Vanilla subterraneo
+gui.createWorld.customize.setting.useLavaUndLakes=Lagos de lava
+gui.createWorld.customize.setting.useLavaUndLakes.tooltip=Habilitar lagos de lava subterraneos Vanilla
+gui.createWorld.customize.setting.lavaUndLakeChance=Prob. Lagos de lava 1/x
+gui.createWorld.customize.setting.lavaUndLakeChance.tooltip=Probabilidad de que se genere un lago de lava vanilla subterraneo
+
+gui.createWorld.customize.category.VANILLASPOUTS=Chorros de agua y lava (Prob. 1/x)
+gui.createWorld.customize.setting.waterSpoutChance=Prob. Chorros de agua
+gui.createWorld.customize.setting.waterSpoutChance.tooltip=Probabilidad 1/x de que se genere un chorro de agua al lado de la pared de una colina o cueva
+gui.createWorld.customize.setting.lavaSpoutChance=Lava Spout Chance
+gui.createWorld.customize.setting.lavaSpoutChance.tooltip=Prob. 1/x de que se genere un chorro de lava al lado de la pared de una colina o cueva
+
+
+gui.createWorld.customize.title.PAGE3=Configuraciones de Estructuras
+
+gui.createWorld.customize.category.VILLAGES=Config. Aldeas
+gui.createWorld.customize.setting.useVillages=Aldeas
+gui.createWorld.customize.setting.useVillages.tooltip=Habilitar generacion de Aldeas
+gui.createWorld.customize.setting.villageDistance=Distancia entre Aldeas
+gui.createWorld.customize.setting.villageDistance.tooltip=Distancia minima entre Aldeas
+gui.createWorld.customize.setting.villageSize=Tamaño de Aldea
+gui.createWorld.customize.setting.villageSize.tooltip=Ajusta el tamaño promedio de las aldeas
+
+gui.createWorld.customize.category.MINESHAFTS=Config. Minas abandonadas
+gui.createWorld.customize.setting.useMineShafts=Minas abandonadas
+gui.createWorld.customize.setting.useMineShafts.tooltip=Habilitar generacion de minas abandonadas
+gui.createWorld.customize.setting.mineShaftChance=Prob. Mina abandonada
+gui.createWorld.customize.setting.mineShaftChance.tooltip=Probabilidad de generar una mina abandonada
+
+gui.createWorld.customize.category.DUNGEONS=Config. Mazmorras
+gui.createWorld.customize.setting.useDungeons=Mazmorras
+gui.createWorld.customize.setting.useDungeons.tooltip=Habilitar generacion de mazmorras
+gui.createWorld.customize.setting.dungeonChance=Prob. de mazmorra
+gui.createWorld.customize.setting.dungeonChance.tooltip=Probabilidad de generar una mazmorra
+
+gui.createWorld.customize.category.TEMPLES=Config. estructuras esparcidas
+gui.createWorld.customize.setting.useTemples=Estructuras esparcidas
+gui.createWorld.customize.setting.useTemples.tooltip=Habilitar estructuras esparcidas (templos de desierto/jungla, cabañas de bruja, iglus, etc..)
+gui.createWorld.customize.setting.templeDistance=Dist. entre estructuras
+gui.createWorld.customize.setting.templeDistance.tooltip=Distancia entre estructuras esparcidas
+
+gui.createWorld.customize.category.MONUMENTS=Config. Monumento oceanico
+gui.createWorld.customize.setting.useMonuments=Monumentos oceanicos
+gui.createWorld.customize.setting.useMonuments.tooltip=Habilitar generacion de monumentos oceanicos
+gui.createWorld.customize.setting.monumentSeparation=Distancia min
+gui.createWorld.customize.setting.monumentSeparation.tooltip=Separacion entre monumentos oceanicos
+gui.createWorld.customize.setting.monumentSpacing=Distancia max
+gui.createWorld.customize.setting.monumentSpacing.tooltip=Espaciado de monumentos oceanicos
+
+gui.createWorld.customize.category.MANSIONS=Config. Mansion del bosque
+gui.createWorld.customize.setting.useMansions=Mansiones del bosque
+gui.createWorld.customize.setting.useMansions.tooltip=Habilitar mansiones del bosque
+# TODO [1.12]: mansionSeparation and mansionSpacing are likely to be removed
+gui.createWorld.customize.setting.mansionSeparation=Distancia min
+gui.createWorld.customize.setting.mansionSeparation.tooltip=Distancia minima entre mansiones del bosque
+gui.createWorld.customize.setting.mansionSpacing=Distancia max
+gui.createWorld.customize.setting.mansionSpacing.tooltip=Distancia maxima entre mansiones del bosque
+
+gui.createWorld.customize.category.STRONGHOLDS=Config. Fortaleza
+gui.createWorld.customize.setting.useStrongholds=Fortalezas
+gui.createWorld.customize.setting.useStrongholds.tooltip=Habilitar fortalezas
+gui.createWorld.customize.setting.strongholdCount=Conteo de fortalezas
+gui.createWorld.customize.setting.strongholdCount.tooltip=Cantidad de fortalezas que se generaran en el mundo
+gui.createWorld.customize.setting.strongholdDistance=Distancia min
+gui.createWorld.customize.setting.strongholdDistance.tooltip=Distancia minima entre fortalezas
+gui.createWorld.customize.setting.strongholdSpread=Esparcimiento
+gui.createWorld.customize.setting.strongholdSpread.tooltip=Esparcimiento de fortalezas
+
+
+gui.createWorld.customize.title.PAGE4=Config. Generacion de minerales
+
+gui.createWorld.customize.category.DIRT=Config. Generacion de tierra
+gui.createWorld.customize.setting.dirtSize=Tamaño de tierra
+gui.createWorld.customize.setting.dirtSize.tooltip=Tamaño de las zonas de tierra generadas en el mundo
+gui.createWorld.customize.setting.dirtCount=Cantidad de tierra
+gui.createWorld.customize.setting.dirtCount.tooltip=Cantidad de zonas de tierra por chunk
+gui.createWorld.customize.setting.dirtMinHeight=Altura min de tierra
+gui.createWorld.customize.setting.dirtMinHeight.tooltip=Altura minima de generacion de tierra
+gui.createWorld.customize.setting.dirtMaxHeight=Altura max de tierra
+gui.createWorld.customize.setting.dirtMaxHeight.tooltip=Altura maxima de generacion de tierra
+
+gui.createWorld.customize.category.GRAVEL=Config. Generacion de grava
+gui.createWorld.customize.setting.gravelSize=Tamaño de grava
+gui.createWorld.customize.setting.gravelSize.tooltip=Tamaño de las zonas de grava generadas en el mundo
+gui.createWorld.customize.setting.gravelCount=Cantidad de grava
+gui.createWorld.customize.setting.gravelCount.tooltip=Cantidad de zonas de grava por chunk
+gui.createWorld.customize.setting.gravelMinHeight=Altura min de grava
+gui.createWorld.customize.setting.gravelMinHeight.tooltip=Altura minima de generacion de grava
+gui.createWorld.customize.setting.gravelMaxHeight=Altura max de grava
+gui.createWorld.customize.setting.gravelMaxHeight.tooltip=Altura maxima de generacion de grava
+
+gui.createWorld.customize.category.GRANITE=Config. Generacion de granito
+gui.createWorld.customize.setting.graniteSize=Tamaño de granito
+gui.createWorld.customize.setting.graniteSize.tooltip=Tamaño de las venas de granito generadas en el mundo
+gui.createWorld.customize.setting.graniteCount=Cantidad de granito
+gui.createWorld.customize.setting.graniteCount.tooltip=Cantidad de venas de granito por chunk
+gui.createWorld.customize.setting.graniteMinHeight=Altura min de granito
+gui.createWorld.customize.setting.graniteMinHeight.tooltip=Altura minima de generacion de granito
+gui.createWorld.customize.setting.graniteMaxHeight=Altura max de granito
+gui.createWorld.customize.setting.graniteMaxHeight.tooltip=Altura maxima de generacion de granito
+
+gui.createWorld.customize.category.DIORITE=Config. Generacion de diorita
+gui.createWorld.customize.setting.dioriteSize=Tamaño de diorita
+gui.createWorld.customize.setting.dioriteSize.tooltip=Tamaño de las venas de diorita generadas en el mundo
+gui.createWorld.customize.setting.dioriteCount=Cantidad de diorita
+gui.createWorld.customize.setting.dioriteCount.tooltip=Cantidad de venas de diorita por chunk
+gui.createWorld.customize.setting.dioriteMinHeight=Altura min de diorita
+gui.createWorld.customize.setting.dioriteMinHeight.tooltip=Altura mimima de generacion de diorita
+gui.createWorld.customize.setting.dioriteMaxHeight=Altura max diorita
+gui.createWorld.customize.setting.dioriteMaxHeight.tooltip=Altura maxima de generacion de diorita
+
+gui.createWorld.customize.category.ANDESITE=Config. Generacion de andesita
+gui.createWorld.customize.setting.andesiteSize=Tamaño de andesita
+gui.createWorld.customize.setting.andesiteSize.tooltip=Tamaño de las venas de andesita generadas en el mundo
+gui.createWorld.customize.setting.andesiteCount=Cantidad de andesita
+gui.createWorld.customize.setting.andesiteCount.tooltip=Cantidad de venas de andesita por chunk
+gui.createWorld.customize.setting.andesiteMinHeight=Altura min de andesita
+gui.createWorld.customize.setting.andesiteMinHeight.tooltip=Antura minima de generacion de andesita
+gui.createWorld.customize.setting.andesiteMaxHeight=Altura max de andesita
+gui.createWorld.customize.setting.andesiteMaxHeight.tooltip=Altura maxima de generacion de andesita
+
+gui.createWorld.customize.category.COAL=config. Generacion de carbon
+gui.createWorld.customize.setting.coalSize=Tamaño de carbon
+gui.createWorld.customize.setting.coalSize.tooltip=Tamaño de las venas de carbon generadas en el mundo
+gui.createWorld.customize.setting.coalCount=Cantidad de carbon
+gui.createWorld.customize.setting.coalCount.tooltip=Cantidad de venas de carbon por chunk
+gui.createWorld.customize.setting.coalMinHeight=Altura min de carbon
+gui.createWorld.customize.setting.coalMinHeight.tooltip=Altura minima de generacion de carbon
+gui.createWorld.customize.setting.coalMaxHeight=Altura max de carbon
+gui.createWorld.customize.setting.coalMaxHeight.tooltip=Altura maxima de generacion de carbon
+
+gui.createWorld.customize.category.IRON=Config. Generacion de hierro
+gui.createWorld.customize.setting.ironSize=Tamaño de hierro
+gui.createWorld.customize.setting.ironSize.tooltip=Tamaño de las venas de hierro generadas en el mundo
+gui.createWorld.customize.setting.ironCount=Cantidad de hierro
+gui.createWorld.customize.setting.ironCount.tooltip=Cantidad de venas de hierro por chunk
+gui.createWorld.customize.setting.ironMinHeight=Altura min de hierro
+gui.createWorld.customize.setting.ironMinHeight.tooltip=Altura minima de generacion de hierro
+gui.createWorld.customize.setting.ironMaxHeight=Altura max de hierro
+gui.createWorld.customize.setting.ironMaxHeight.tooltip=Altura maxima de generacion de hierro
+
+gui.createWorld.customize.category.GOLD=Config. Generacion de oro
+gui.createWorld.customize.setting.goldSize=Tamaño de oro
+gui.createWorld.customize.setting.goldSize.tooltip=Tamaño de las venas de oro generadas en el mundo
+gui.createWorld.customize.setting.goldCount=Cantidad de oro
+gui.createWorld.customize.setting.goldCount.tooltip=Cantidad de venas de oro por chunk
+gui.createWorld.customize.setting.goldMinHeight=Altura min de oro
+gui.createWorld.customize.setting.goldMinHeight.tooltip=Altura minima de generacion de oro
+gui.createWorld.customize.setting.goldMaxHeight=Altura max de oro
+gui.createWorld.customize.setting.goldMaxHeight.tooltip=Altura maxima de generacion de oro
+
+gui.createWorld.customize.category.REDSTONE=Config. Generacion de redstone
+gui.createWorld.customize.setting.redstoneSize=Tamaño de redstone
+gui.createWorld.customize.setting.redstoneSize.tooltip=Tamaño de las venas de redstone generadas en el mundo
+gui.createWorld.customize.setting.redstoneCount=Cantidad de redstone
+gui.createWorld.customize.setting.redstoneCount.tooltip=Cantidad de venas de redstone por chunk
+gui.createWorld.customize.setting.redstoneMinHeight=Altura min de redstone
+gui.createWorld.customize.setting.redstoneMinHeight.tooltip=Altura minima de generacion de redstone
+gui.createWorld.customize.setting.redstoneMaxHeight=Atura max de redstone
+gui.createWorld.customize.setting.redstoneMaxHeight.tooltip=Altura maxima de generacion de redstone
+
+gui.createWorld.customize.category.DIAMOND=Config. Generacion de diamante
+gui.createWorld.customize.setting.diamondSize=Tamaño de diamante
+gui.createWorld.customize.setting.diamondSize.tooltip=Tamaño de las venas de diamante generadas en el mundo
+gui.createWorld.customize.setting.diamondCount=Cantidad de diamante
+gui.createWorld.customize.setting.diamondCount.tooltip=Cantidad de venas de diamante por chunk
+gui.createWorld.customize.setting.diamondMinHeight=Altura min de diamante
+gui.createWorld.customize.setting.diamondMinHeight.tooltip=Altura minima de generacion de diamante
+gui.createWorld.customize.setting.diamondMaxHeight=Altura max de diamante
+gui.createWorld.customize.setting.diamondMaxHeight.tooltip=Altura maxima de generacion de diamante
+
+gui.createWorld.customize.category.LAPIS=Config. Generacion de lapislazuli
+gui.createWorld.customize.setting.lapisSize=Tamaño de lapislazuli
+gui.createWorld.customize.setting.lapisSize.tooltip=Tamaño de las venas de lapislazuli generadas en el mundo
+gui.createWorld.customize.setting.lapisCount=Cantidad de lapislazuli
+gui.createWorld.customize.setting.lapisCount.tooltip=Cantidad de venas de lapislazuli por chunk
+gui.createWorld.customize.setting.lapisCenterHeight=Altura de lapislazuli
+gui.createWorld.customize.setting.lapisCenterHeight.tooltip=Altura promedio de generacion de lapislazuli
+gui.createWorld.customize.setting.lapisSpread=Esparcimiento de lapislazuli
+gui.createWorld.customize.setting.lapisSpread.tooltip=Altura promedio en que se esparcira la generacion de lapislazuli
+
+
+#-----------------------------
+# GUI Config (Note: tooltips that are blank should remain blank)
+#-----------------------------
+rtgconfig.title=Configuraciones globales de RTG
+rtgconfig.client=Cliente
+rtgconfig.client.tooltip=Configuraciones relevantes al Cliente
+rtgconfig.client.worldTypeNotification=Notificacion de WorldType
+rtgconfig.client.worldTypeNotification.tooltip=Si se habilita, se mostrara un mensaje de informacion acerca de RTG cuando entras a la pantalla de Personalizacion de Mundo.\nSe mostrara una sola vez y se dehabilitara a si mismo.
+rtgconfig.client.rtgWorldTypeByDefault=RTG WorldType por defecto
+rtgconfig.client.rtgWorldTypeByDefault.tooltip=Seleccionar automaticamente el tipo de mundo RTG al crear un mundo nuevo.
+rtgconfig.common=Servidor
+rtgconfig.common.tooltip=Configuraciones relevantes al Servidor
+rtgconfig.common.debug=Configuraciones de depuracion
+rtgconfig.common.debug.tooltip=
+rtgconfig.common.debug.enableDebugging=Habilita el registro especial de depuracion
+rtgconfig.common.debug.enableDebugging.tooltip=!Esta configuracion impacta severamente al rendimiento. Solo habilitalo si sabes lo que haces!
+rtgconfig.common.debug.patchBiome=Parchar bioma
+rtgconfig.common.debug.patchBiome.tooltip=Si RTG se encuentra con un bioma no soportado, generara este bioma en su lugar.\nEsto usa el formato estandar ResourceLocation: mod_id:biome_registry_name
+rtgconfig.common.surface=Config. Bioma de superficie
+rtgconfig.common.surface.tooltip=
+rtgconfig.common.surface.lushRiverbanksInDesert=Orillas de rio lujosas en el desierto
+rtgconfig.common.surface.lushRiverbanksInDesert.tooltip=Asigna esto a FALSE para evitar que se generen decoraciones en las orillas del rio en biomas calidos,\ncomo desierto y meseta. Las decoraciones lujosas consisten en pasto alto, arboles, arbustos y otra flora.
+rtgconfig.common.surface.surfaceBleedRadius=Radio de difuminado de superficie
+rtgconfig.common.surface.surfaceBleedRadius.tooltip=Distancia maxima en que las superficies se difuminaran unas con otras si se habilita para 2 biomas adyacentes.\nPor defecto, la difuminacion de superficie solo esta habilitada para las playas. Puedes controlar esto en las configuraciones de bioma
+rtgconfig.common.surface.shadowStoneBlock=Bloque de sombra de piedra
+rtgconfig.common.surface.shadowStoneBlock.tooltip=El bloque que se usara para el sombreado de terreno de piedra, normalmente se ve en los acantilados de montañas de piedra.
+rtgconfig.common.surface.shadowDesertBlock=Bloque de sombra de desierto
+rtgconfig.common.surface.shadowDesertBlock.tooltip=El bloque que se usara para el sombreado de terreno de desierto, normalmente se ve en los acantilados de montañas del desierto.
+rtgconfig.common.trees=Config. arbol RTG
+rtgconfig.common.trees.tooltip=
+rtgconfig.common.trees.rtgTreesFromSaplings=Arboles RTG de los retoños
+rtgconfig.common.trees.rtgTreesFromSaplings.tooltip=Asigna esto a TRUE para permitir que los arboles personalizados de RTG, crezcan de los retoños vanilla.\nLos arboles personalizados RTG pueden crecer solo de los retoños que pueden dropear sus hojas, y solo en los biomas donde se generarian naturalmente.
+rtgconfig.common.trees.rtgTreeChance=Prob. arbol RTG
+rtgconfig.common.trees.rtgTreeChance.tooltip=Probabilidad 1/x de que un retoño Vanilla crezca en un arbol personalizado RTG.
+rtgconfig.common.trees.treeDensityMultiplier=Multiplicador de densidad de arboles
+rtgconfig.common.trees.treeDensityMultiplier.tooltip=Esta configuracion te permite aumentar/disminuir la cantidad de arboles RTG que se generan globalmente.\nSolo afecta a los arboles generados por RTG. Los arboles generados por un decorador de biomas se atendran a sus propias reglas de densidad. Puedes anteponer esta configuracion por cada bioma usando la configuracion de biomas.
+rtgconfig.common.trees.treesCanGenerateOnSand=Arboles pueden generarse en arena
+rtgconfig.common.trees.treesCanGenerateOnSand.tooltip=Asigna esto a FALSE para evitar que los arboles se generen en la arena.\nSolo afecta a arboles generados por RTG. Los arboles generados por un decorador de biomas se atendran a sus propias reglas de generacion. (Las palmeras de RTG ignoran esta configuracion.)
+rtgconfig.common.trees.shrubsBelowSurface=Arbustos bajo la superficie
+rtgconfig.common.trees.shrubsBelowSurface.tooltip=Asigna esto a FALSE para evitar que se generen troncos de arbusto bajo la superficie.
+rtgconfig.common.trees.barkCoveredLogs=Troncos cubiertos de corteza
+rtgconfig.common.trees.barkCoveredLogs.tooltip=Asigna esto a FALSE para evitar que los troncos de los arboles RTG usen el modelo de textura 'all-bark'.\nPara mayor informacion, visita http://minecraft.gamepedia.com/Wood#Block_data

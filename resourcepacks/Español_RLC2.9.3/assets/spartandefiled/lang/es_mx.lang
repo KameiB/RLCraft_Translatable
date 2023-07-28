@@ -1,0 +1,29 @@
+## Translated by KameiB for RLCraft 2.9.2
+#Items
+item.spartandefiled:ingot_custom.name=Lingote de %s
+item.spartandefiled:dagger_custom.name=Daga de %s
+item.spartandefiled:parrying_dagger_custom.name=Daga esquivadora de %s
+item.spartandefiled:longsword_custom.name=Espada larga de %s
+item.spartandefiled:katana_custom.name=Katana de %s
+item.spartandefiled:saber_custom.name=Sable de %s
+item.spartandefiled:rapier_custom.name=Estoque de %s
+item.spartandefiled:greatsword_custom.name=Gran espada %s
+item.spartandefiled:hammer_custom.name=Martillo espartano de %s
+item.spartandefiled:warhammer_custom.name=Martillo espartano belico de %s
+item.spartandefiled:spear_custom.name=Lanza de %s
+item.spartandefiled:halberd_custom.name=Alabarda de %s
+item.spartandefiled:pike_custom.name=Pica de %s
+item.spartandefiled:lance_custom.name=Lanza de %s
+item.spartandefiled:longbow_custom.name=Arco largo reforzado de %s
+item.spartandefiled:crossbow_custom.name=Ballesta reforzada de %s
+item.spartandefiled:throwing_knife_custom.name=Cuchillo arrojadizo de %s
+item.spartandefiled:throwing_axe_custom.name=Hacha arrojadiza de %s
+item.spartandefiled:javelin_custom.name=Jabalina de %s
+item.spartandefiled:glaive_custom.name=Guja de %s
+item.spartandefiled.quarterstaff_custom.name=Baston de %s
+
+#Materials
+material.spartandefiled:umbrium=umbranio
+
+
+

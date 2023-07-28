@@ -1,0 +1,109 @@
+## Translated by KameiB for RLCraft 2.9.2
+death.attack.dehydration=%1$s murio por deshidratacion
+death.attack.hyperthermia=%1$s murio por hipertermia
+death.attack.hypothermia=%1$s murio por hipotermia
+death.attack.parasites=%1$s murio por lombrices
+
+effect.cold_resist=Resis. al frio
+effect.heat_resist=Resis. al calor
+effect.hyperthermia=Hipertermia
+effect.hypothermia=Hipotermia
+effect.parasites=Lombrices
+effect.thirsty=Sediento
+
+enchantment.chilling=Fresco
+enchantment.heating=Caliente
+
+enchantment.simpledifficulty.chilling.desc=Reduce la temperatura del jugador cuando te lo pones
+enchantment.simpledifficulty.heating.desc=Aumenta la temperatura del jugador cuando te lo pones
+
+fluid.purifiedwater=Agua purificada
+
+itemGroup.tabSimpleDifficulty=SimpleDifficulty
+
+item.simpledifficulty:canteen_broken.name=Cantimplora rota
+item.simpledifficulty:canteen_empty.name=Cantimplora vacia
+item.simpledifficulty:canteen_normal.name=Cantimplora con agua
+item.simpledifficulty:canteen_purified.name=Cantimplora con agua purificada
+
+item.simpledifficulty:charcoal_filter.name=Filtro de carbon activado
+
+item.simpledifficulty:ice_chunk.name=Fragmento de hielo
+
+item.simpledifficulty:ice_helmet.name=Casco de hielo
+item.simpledifficulty:ice_chestplate.name=Pechera de hielo
+item.simpledifficulty:ice_leggings.name=Pantalones de hielo
+item.simpledifficulty:ice_boots.name=Botas de hielo
+
+item.simpledifficulty:juice_apple.name=Jugo de manzana
+item.simpledifficulty:juice_beetroot.name=Jugo de betabel
+item.simpledifficulty:juice_cactus.name=Jugo de cactus
+item.simpledifficulty:juice_carrot.name=Jugo de zanahoria
+item.simpledifficulty:juice_chorus_fruit.name=Jugo de fruta de chorus
+item.simpledifficulty:juice_golden_melon.name=Jugo de sandia brillante
+item.simpledifficulty:juice_golden_apple.name=Jugo de manzana de oro
+item.simpledifficulty:juice_golden_carrot.name=Jugo de zanahoria de oro
+item.simpledifficulty:juice_melon.name=Jugo de sandia
+item.simpledifficulty:juice_pumpkin.name=Jugo de calabaza
+
+item.simpledifficulty:magma_chunk.name=Fragmento de magma
+
+item.simpledifficulty:purified_water_bottle.name=Botella con agua purificada
+
+item.simpledifficulty:thermometer.name=Termometro
+
+item.simpledifficulty:wool_helmet.name=Capucha de lana
+item.simpledifficulty:wool_chestplate.name=Abrigo de lana
+item.simpledifficulty:wool_leggings.name=Pantalones de lana
+item.simpledifficulty:wool_boots.name=Botas de lana
+
+lingering_potion.effect.cold_resist_type=Pocion persistente de Resistencia al frio
+lingering_potion.effect.long_cold_resist_type=Pocion persistente de Resistencia al frio
+lingering_potion.effect.heat_resist_type=Pocion persistente de Resistencia al calor
+lingering_potion.effect.long_heat_resist_type=Pocion persistente de Resistencia al calor
+
+potion.effect.cold_resist_type=Pocion de Resistencia al frio
+potion.effect.long_cold_resist_type=Pocion de Resistencia al frio
+potion.effect.heat_resist_type=Pocion de Resistencia al calor
+potion.effect.long_heat_resist_type=Pocion de Resistencia al calor
+
+splash_potion.effect.cold_resist_type=Pocion arrojadiza de Resistencia al frio
+splash_potion.effect.long_cold_resist_type=Pocion arrojadiza de Resistencia al frio
+splash_potion.effect.heat_resist_type=Pocion arrojadiza de Resistencia al calor
+splash_potion.effect.long_heat_resist_type=Pocion arrojadiza de Resistencia al calor
+
+tile.simpledifficulty:campfire.name=Fogata
+tile.simpledifficulty:chiller.name=Bobina enfriadora
+tile.simpledifficulty:heater.name=Bobina calentadora
+tile.simpledifficulty:purifiedwater.name=Agua purificada
+tile.simpledifficulty:rain_collector.name=Colector de lluvia
+tile.simpledifficulty:spit.name=Asador de fogata
+
+tipped_arrow.effect.cold_resist_type=Flecha de Resistencia al frio
+tipped_arrow.effect.long_cold_resist_type=Flecha de Resistencia al frio
+tipped_arrow.effect.heat_resist_type=Flecha de Resistencia al calor
+tipped_arrow.effect.long_heat_resist_type=Flecha de Resistencia al calor
+
+item.simpledifficulty:frost_rod.name=Vara gelida
+item.simpledifficulty:frost_powder.name=Polvo gelido
+item.simpledifficulty:iron_canteen_broken.name=Cantimplora rota
+item.simpledifficulty:iron_canteen_empty.name=Cantimplora de hierro vacia
+item.simpledifficulty:iron_canteen_normal.name=Cantimplora de hierro con agua
+item.simpledifficulty:iron_canteen_purified.name=Cantimplora de hierro con agua purificada
+item.simpledifficulty:dragon_canteen_broken.name=Cantimplora de dragon rota
+item.simpledifficulty:dragon_canteen_empty.name=Cantimplora de dragon vacia
+item.simpledifficulty:dragon_canteen_normal.name=Cantimplora de dragon con agua
+item.simpledifficulty:dragon_canteen_purified.name=Cantimplora de dragon con agua purificada
+
+death.attack.inspirationscauldronburn=%1$s murio por beber agua hirviendo
+
+# Added by KameiB from Shiv2.zs
+item.simpledifficulty:wool_helmet.addedtooltip.1=Calor (+2)
+item.simpledifficulty:wool_chestplate.addedtooltip.1=Calor (+2)
+item.simpledifficulty:wool_leggings.addedtooltip.1=Calor (+2)
+item.simpledifficulty:wool_boots.addedtooltip.1=Calor (+2)
+
+item.simpledifficulty:ice_helmet.addedtooltip.1=Frio (-2)
+item.simpledifficulty:ice_chestplate.addedtooltip.1=Frio (-2)
+item.simpledifficulty:ice_leggings.addedtooltip.1=Frio (-2)
+item.simpledifficulty:ice_boots.addedtooltip.1=Frio (-2)

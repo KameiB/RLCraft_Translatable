@@ -1,0 +1,31 @@
+#Localisation for Spartan HUD: Baubles version 1.0.x
+## Translated by KameiB for RLCraft 2.9.2
+
+#Configs
+config.spartanhudbaubles:preview_hud=Previsualizar HUD
+config.spartanhudbaubles:hover_text_example=Item de ejemplo
+config.spartanhudbaubles:client.disable_hud=Deshabilitar HUD de baubles
+config.spartanhudbaubles:client.disable_hud.tooltip=Deshabilitar este mod por completo?
+config.spartanhudbaubles:client.show_baubles_icon=Mostrar icono de HUD de baubles
+config.spartanhudbaubles:client.show_baubles_icon.tooltip=Habilita el renderizado del icono de Bauble junto al elemento de HUD de Baubles.\nNo se mostrará si el tipo de skin está como 'None'
+config.spartanhudbaubles:client.skin_type=Tipo de skin del HUD
+config.spartanhudbaubles:client.skin_type.tooltip=Variante de la skin a mostrar detrás de las Babules en el Elemento de HUD.\nNONE              §7(Ninguno)\nHOTBAR_STYLE  §7(Barra de estado)\nTOOLTIP_STYLE §7(Descripción)\nMINIMAL          §7(Minimalista)
+config.spartanhudbaubles:client.alignment=Alineacion del HUD
+config.spartanhudbaubles:client.alignment.tooltip=Alineación de el Elemento HUD de Baubles.\nTOP_LEFT        §7(Arriba Izquierda)\nTOP_CENTER     §7(Arriba Centro)\nTOP_RIGHT       §7(Arriba Derecha)\nCENTER_LEFT   §7(Centro Izquierda)\nCENTER           §7(Centro)\nCENTER_RIGHT  §7(Centro Derecha)\nBOTTOM_LEFT   §7(Abajo Izquierda)\nBOTTOM_CENTER §7(Abajo Centro)\nBOTTOM_RIGHT  §7(Abajo Derecha)
+config.spartanhudbaubles:client.offset_x=Desfase en X del HUD
+config.spartanhudbaubles:client.offset_x.tooltip=Desfase en X del Elemento HUD de Baubles.\nPuede usarse para ajustar la posición en X.
+config.spartanhudbaubles:client.offset_y=Desfase en Y del HUD
+config.spartanhudbaubles:client.offset_y.tooltip=Desfase en Y del Elemento HUD de Baubles.\nPuede usarse para ajustar la posición en Y.
+config.spartanhudbaubles:client.rotate_vertical=Rotacion vertical del HUD
+config.spartanhudbaubles:client.rotate_vertical.tooltip=§ftrue§e = Elemento HUD de Baubles vertical.\n§ffalse§e = Elemento HUD de Baubles en horizontal.
+config.spartanhudbaubles:client.tooltip_background_colour=Skin de Descripcion: Color de fondo
+config.spartanhudbaubles:client.tooltip_background_colour.tooltip=Color de fondo para la descripción de la variante de skin
+config.spartanhudbaubles:client.tooltip_frame_top_colour=Skin de descripcion: Color frontal del marco
+config.spartanhudbaubles:client.tooltip_frame_top_colour.tooltip=Color superior del marco de la descripción de la variante de skin
+config.spartanhudbaubles:client.tooltip_frame_bottom_colour=Skin de descripcion: Color de fondo del marco
+config.spartanhudbaubles:client.tooltip_frame_bottom_colour.tooltip=Color inferior del marco de la descripción de la variante de skin
+config.spartanhudbaubles:client.minimal_top_colour=Skin minimalista: Color frontal
+config.spartanhudbaubles:client.minimal_top_colour.tooltip=Color superior de la variante de skin minimalista.
+config.spartanhudbaubles:client.minimal_bottom_colour=Skin minimalista: Color de fondo
+config.spartanhudbaubles:client.minimal_bottom_colour.tooltip=Color inferior de la variante de skin minimalista.
+
