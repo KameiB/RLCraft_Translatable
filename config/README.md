@@ -25,4 +25,4 @@
 - Add this file for spanish users.  
 
 ### setbonus/1.12.2.009+.cfg
-- Lines 178-199, 222-259: Added lang keys.
+- Lines 178-199, 222-259: Spanish texts.
