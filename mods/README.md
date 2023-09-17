@@ -36,7 +36,7 @@
 > [Tooltips] Healing description now don't need Shift to show.  
 - Any corrections are welcome so it can be Pulled to the owner's project.  
 
-### [Roguelike Dungeons](https://github.com/KameiB/minecraft-roguelike)
+### [Roguelike Dungeons](https://github.com/fnar/minecraft-roguelike/pull/73)  (PR accepted by fnar, yay!) 
 > - Reworked the special items NBT tags. "Name" -> "LocName" and "Lore" -> "rldLocLore"  
 > For example, "amlp":  
 > <minecraft:shears>.withTag({ench: [{lvl: 3 as short, id: 16 as short}, {lvl: 2 as short, id: 19 as short}, {lvl: 1 as short, id: 20 as short}], display: {LocName: "novelty.roguelike.amlp.name", rldLocLore: ["novelty.roguelike.amlp.lore"]}})  
@@ -46,7 +46,7 @@
 > - Added lang keys for custom paintings, books and "trading cards" (added with config files).  
 > - Added lang keys for Command messages.  
 
-### Shield Break (pull request got accepted by fonny, yay!)
+### [Shield Break](https://github.com/fonnymunkey/ShieldBreak/pull/2)  (PR accepted by fonnymunkey, yay!) 
 > [Lang Keys] Added lang keys for tooltip and config screen texts.  
 > [Tooltip] Replaced hardcoded "Shielding Power:" text with lang key.  
 
