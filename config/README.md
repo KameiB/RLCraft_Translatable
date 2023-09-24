@@ -1,4 +1,5 @@
 # Translatable stuff
+For the localized lore of loot items, you'll need my mod [LocalizedLore](https://legacy.curseforge.com/minecraft/mc-mods/loc-lore)  
 ### bountiful/rewards.json
 - Lines 33, 521:  Added lang keys.   
 
