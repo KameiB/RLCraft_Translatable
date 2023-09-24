@@ -264,6 +264,7 @@ item.polarized_stone.0.repelmode=Modo repeler $repeltoggle:
 
 item.dragons_eye.0.name=Ojo de Dragon de fuego
 item.dragons_eye.0.ice.name=Ojo de Dragon de hielo
+item.dragons_eye.0.lightning.name=Ojo de Dragon de rayo
 item.dragons_eye.0.tooltip1=§6Da $variantresist:
 item.dragons_eye.0.tooltip2=§2Da Vision nocturna §r<§e*denvkb:§r>
 item.dragons_eye.0.tooltip3=@treasurefinder:
@@ -405,6 +406,12 @@ splash_potion.effect.xat.ice_resistance=Pocion arrojadiza de Resistencia al hiel
 lingering_potion.effect.xat.ice_resistance=Pocion persistente de Resistencia al hielo
 tipped_arrow.effect.xat.ice_resistance=Flecha de Resistencia al hielo
 xat.effect.ice_resistance=Resis. al hielo
+
+potion.effect.xat.lightning_resistance=Pocion de Resistencia al rayo
+splash_potion.effect.xat.lightning_resistance=Pocion arrojadiza de Resistencia al rayo
+lingering_potion.effect.xat.lightning_resistance=Pocion persistente de Resistencia al rayo
+tipped_arrow.effect.xat.lightning_resistance=Flecha de Resistencia al rayo
+xat.effect.lightning_resistance=Resis. al rayo
 
 potion.effect.xat.restorative=Pocion de Restauracion
 splash_potion.effect.xat.restorative=Pocion arrojadiza de Restauracion
