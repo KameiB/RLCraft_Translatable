@@ -40,6 +40,6 @@ material.spartanfire:jungle=Mirmex de jungla
 material.spartanfire:desert_venom=aguijon de Mirmex del desierto
 material.spartanfire:jungle_venom=aguijon de Mirmex de jungla
 
-
-
-
+# Lightning dragonbone stuff
+tooltip.spartanfire:lightning_dragonbone=Lanza un rayo a los enemigos, hace daño adicional a dragones de fuego y hielo
+material.spartanfire:lightning_dragonbone=Dragon electrico
