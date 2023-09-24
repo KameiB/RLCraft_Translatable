@@ -314,6 +314,7 @@ item.banner.lightningdragon.brown=Figura cafe de Dragon de rayo
 item.banner.lightningdragon.green=Figura verde de Dragon de rayo
 item.banner.lightningdragon.red=Figura roja de Dragon de rayo
 item.banner.lightningdragon.black=Figura negra de Dragon de rayo
+
 entity.firedragon.name=Dragon de fuego
 entity.icedragon.name=Dragon de hielo
 entity.dragonegg.name=Huevo de Dragon
