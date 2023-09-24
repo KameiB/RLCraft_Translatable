@@ -1,9 +1,8 @@
-## Translated by KameiB for RLCraft 2.9.2
+## Translated by KameiB for RLCraft 2.9.4
 item.debug.name=Item para depuracion
 item.crossbow.name=Ballesta
 item.bigshield.name=Escudo grande
 item.smallshield.name=Escudo redondo
-
 item.diamondhammer.name=Martillo de diamante
 item.goldhammer.name=Martillo de oro
 item.ironhammer.name=Martillo de hierro
@@ -99,6 +98,12 @@ item.firedragonbonebattleaxe.name=Hacha de batalla de Dragon flameante
 item.firedragonbonedagger.name=Daga de Dragon flameante
 item.firedragonbonenunchaku.name=Nunchaco de Dragon flameante
 
+item.lightningdragonbonehammer.name=Martillo de Dragon electrico
+item.lightningdragonbonespear.name=Hasta arrojadiza de Dragon electrica
+item.lightningdragonbonebattleaxe.name=Hacha de batalla de Dragon electrica
+item.lightningdragonbonedagger.name=Daga de Dragon electrica
+item.lightningdragonbonenunchaku.name=Nunchaco de Dragon electrico
+
 item.desertchitinhammer.name=Martillo de Mirmex del desierto
 item.desertchitinspear.name=Hasta arrojadiza de Mirmex del desierto
 item.desertchitinbattleaxe.name=Hacha de batalla de Mirmex del desierto
@@ -171,34 +176,6 @@ enchantment.mujmajnkraftsbettersurvival.versatility.desc=Aumenta ligeramente la 
 enchantment.mujmajnkraftsbettersurvival.vitality.desc=Aumenta tu velocidad de regeneracion natural.
 enchantment.mujmajnkraftsbettersurvival.weightless.desc=Bloquear no te hace tan lento. No es compatible con Pesado.
 
-mujmajnkraftsbettersurvival.configgui.title=Configuracion
-
-mujmajnkraftsbettersurvival.configgui.max_level=Niveles de encantamientos
-mujmajnkraftsbettersurvival.configgui.is_treasure=Encantamientos tesoro
-mujmajnkraftsbettersurvival.configgui.material_stats=Estatus de materiales
-mujmajnkraftsbettersurvival.configgui.other=Otras configuraciones
-
-mujmajnkraftsbettersurvival.configgui.max_level.tooltip=Personaliza el nivel maximo de los encantamientos de este mod (poner el valor en 0 deshabilitara el encantamiento por completo).
-mujmajnkraftsbettersurvival.configgui.is_treasure.tooltip=Los encantamientos de este mod son de tipo Tesoro? Los encantamientos Tesoro no apareceran en la Mesa de encantamientos.
-mujmajnkraftsbettersurvival.configgui.material_stats.tooltip=Configura el estatus de las herramientas hechas de materiales comunes (velocidad de minado, durabilidad, eficiencia, daño, encantabilidad).
-mujmajnkraftsbettersurvival.configgui.other.tooltip=Otras configuraciones
-
-mujmajnkraftsbettersurvival.configgui.copper_stats=Cobre
-mujmajnkraftsbettersurvival.configgui.bronze_stats=Bronce
-mujmajnkraftsbettersurvival.configgui.invar_stats=Invar
-mujmajnkraftsbettersurvival.configgui.aluminium_stats=Aluminio
-mujmajnkraftsbettersurvival.configgui.electrum_stats=Electrio
-mujmajnkraftsbettersurvival.configgui.silver_stats=Plata
-mujmajnkraftsbettersurvival.configgui.steel_stats=Acero
-mujmajnkraftsbettersurvival.configgui.signalum_stats=Signalio
-mujmajnkraftsbettersurvival.configgui.lumium_stats=Lumio
-mujmajnkraftsbettersurvival.configgui.enderium_stats=Enderio
-
-mujmajnkraftsbettersurvival.configgui.fov=Deshabilitar cualquier cambio de FoV
-mujmajnkraftsbettersurvival.configgui.fovshields=Deshabilitar cambios de FoV por escudos
-mujmajnkraftsbettersurvival.configgui.integration=Permitir integracion con crossmod
-mujmajnkraftsbettersurvival.configgui.allow_vanilla_shields=Permitir escudos vanilla
-
 effect.stun=Aturdimiento
 effect.warp=Teletransporte
 effect.antiwarp=Anti-teletrans.
@@ -237,6 +214,33 @@ tipped_arrow.effect.antiwarp=Flecha de Anti-teletransporte
 tipped_arrow.effect.milk=Flecha de Leche
 tipped_arrow.effect.cure=Flecha de Cura
 tipped_arrow.effect.dispel=Flecha de Disipacion
+
+mujmajnkraftsbettersurvival.configgui.title=Configuracion
+mujmajnkraftsbettersurvival.configgui.max_level=Niveles de encantamientos
+mujmajnkraftsbettersurvival.configgui.is_treasure=Encantamientos tesoro
+mujmajnkraftsbettersurvival.configgui.material_stats=Estatus de materiales
+mujmajnkraftsbettersurvival.configgui.other=Otras configuraciones
+mujmajnkraftsbettersurvival.configgui.max_level.tooltip=Personaliza el nivel maximo de los encantamientos de este mod (poner el valor en 0 deshabilitara el encantamiento por completo).
+mujmajnkraftsbettersurvival.configgui.is_treasure.tooltip=Los encantamientos de este mod son de tipo Tesoro? Los encantamientos Tesoro no apareceran en la Mesa de encantamientos.
+mujmajnkraftsbettersurvival.configgui.material_stats.tooltip=Configura el estatus de las herramientas hechas de materiales comunes (velocidad de minado, durabilidad, eficiencia, daño, encantabilidad).
+mujmajnkraftsbettersurvival.configgui.other.tooltip=Otras configuraciones
+
+mujmajnkraftsbettersurvival.configgui.copper_stats=Cobre
+mujmajnkraftsbettersurvival.configgui.bronze_stats=Bronce
+mujmajnkraftsbettersurvival.configgui.invar_stats=Invar
+mujmajnkraftsbettersurvival.configgui.aluminium_stats=Aluminio
+mujmajnkraftsbettersurvival.configgui.electrum_stats=Electrio
+mujmajnkraftsbettersurvival.configgui.silver_stats=Plata
+mujmajnkraftsbettersurvival.configgui.steel_stats=Acero
+mujmajnkraftsbettersurvival.configgui.signalum_stats=Signalio
+mujmajnkraftsbettersurvival.configgui.lumium_stats=Lumio
+mujmajnkraftsbettersurvival.configgui.enderium_stats=Enderio
+
+mujmajnkraftsbettersurvival.configgui.fov=Deshabilitar cualquier cambio de FoV
+mujmajnkraftsbettersurvival.configgui.fovshields=Deshabilitar cambios de FoV por escudos
+mujmajnkraftsbettersurvival.configgui.integration=Permitir integracion con crossmod
+mujmajnkraftsbettersurvival.configgui.allow_vanilla_shields=Permitir escudos vanilla
+
 
 # Added by KameiB. Tooltips from Shiv2.zs
 item.bettersurvival.steel_bonus.addedtooltip.1=Daño contra mobs del Nether y Elementales de fuego: +2
