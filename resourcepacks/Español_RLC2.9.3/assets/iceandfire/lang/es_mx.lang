@@ -387,11 +387,11 @@ dragon.sapphire=Zafiro §bHielo§9
 dragon.silver=§7Plata §bHielo§7
 dragon.white=Blanco §bHielo§f
 
-dragon.electric=Azul Rayo
-dragon.amethyst=Amatista §1Rayo§d
-dragon.copper=Cobre §1Rayo§6
-dragon.black=Negro §1Rayo§8
-dragon.lightning=§1Rayo
+dragon.electric=Azul §5Rayo§1
+dragon.amethyst=§5Amatista Rayo
+dragon.copper=Cobre §5Rayo§6
+dragon.black=Negro §5Rayo§8
+dragon.lightning=§5Rayo
 
 dragon.stage=Etapa 
 dragon.fire=§4Fuego§r
@@ -399,7 +399,7 @@ dragon.ice=§bHielo§r
 dragon.name=Nombre: 
 dragon.unnamed=Sin nombre
 dragon.health=Salud: 
-dragon.gender=Genero:
+dragon.gender=Genero: 
 dragon.gender.male=Masculino
 dragon.gender.female=Femenino
 dragon.hunger=Hambre: 
