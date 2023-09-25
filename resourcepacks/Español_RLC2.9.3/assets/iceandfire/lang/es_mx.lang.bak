@@ -75,6 +75,7 @@ tile.iceandfire.crackledCobblestone.name=Piedra labrada agrietada
 tile.iceandfire.crackledGravel.name=Grava agrietada
 tile.iceandfire.crackledGrassPath.name=Sendero de pasto agrietado
 tile.iceandfire.lightning_stone.name=Piedra rayo
+
 item.iceandfire.bestiary.name=Bestiario
 item.iceandfire.manuscript.name=Manuscrito
 item.iceandfire.sapphireGem.name=Zafiro
@@ -262,6 +263,7 @@ item.iceandfire.lightning_dragon_flesh.name=Carne de Dragon de rayo
 item.iceandfire.lightning_dragon_heart.name=Corazon de Dragon de rayo
 item.iceandfire.lightning_dragon_blood.name=Sangre de Dragon de rayo
 item.iceandfire.dragon_horn_lightning.name=Cuerno de Dragon de rayo
+
 item.banner.firedragon.white=Figura blanca de Dragon de fuego
 item.banner.firedragon.orange=Figura naranja de Dragon de fuego
 item.banner.firedragon.magenta=Figura magenta de Dragon de fuego
@@ -312,6 +314,7 @@ item.banner.lightningdragon.brown=Figura cafe de Dragon de rayo
 item.banner.lightningdragon.green=Figura verde de Dragon de rayo
 item.banner.lightningdragon.red=Figura roja de Dragon de rayo
 item.banner.lightningdragon.black=Figura negra de Dragon de rayo
+
 entity.firedragon.name=Dragon de fuego
 entity.icedragon.name=Dragon de hielo
 entity.dragonegg.name=Huevo de Dragon
@@ -367,6 +370,7 @@ entity.seaserpent.name=Serpiente marina
 
 entity.lightningdragon.name=Dragon de rayo
 entity.dragonlightningcharge.name=Carga de dragon de rayo
+
 sea_serpent.blue=Azul
 sea_serpent.bronze=Bronce
 sea_serpent.deepblue=Azul Marino
@@ -383,11 +387,12 @@ dragon.sapphire=Zafiro §bHielo§9
 dragon.silver=§7Plata §bHielo§7
 dragon.white=Blanco §bHielo§f
 
-dragon.electric=Azul electrico
-dragon.amethyst=Amatista §1electrico§d
-dragon.copper=Cobre §1electrico§6
-dragon.black=Negro §1electrico§8
-dragon.lightning=Electrico
+dragon.electric=Azul Rayo
+dragon.amethyst=Amatista §1Rayo§d
+dragon.copper=Cobre §1Rayo§6
+dragon.black=Negro §1Rayo§8
+dragon.lightning=§1Rayo
+
 dragon.stage=Etapa 
 dragon.fire=§4Fuego§r
 dragon.ice=§bHielo§r

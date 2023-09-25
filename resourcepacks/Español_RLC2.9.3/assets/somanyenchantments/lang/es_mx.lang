@@ -258,7 +258,7 @@ enchantment.SupremeSmite=Castigo supremo
 enchantment.somanyenchantments.supremesmite.desc=Version maxima, el nivel mas potente de Castigo (5 * Nivel).
 
 enchantment.CurseofPossession=§cMaldicion de posesion
-enchantment.somanyenchantments.curseofpossession.desc=Los objetos no pueden abandonar el inventario del jugador
+enchantment.somanyenchantments.curseofpossession.desc=El objeto no puede abandonar el inventario del jugador.  §4Si el jugador muere con el objeto en su inventario, éste DESAPARECERA!
 
 enchantment.fieryshield=Escudo ardiente
 enchantment.somanyenchantments.fieryshield.desc=Mientras bloqueas, quemas al atacante.

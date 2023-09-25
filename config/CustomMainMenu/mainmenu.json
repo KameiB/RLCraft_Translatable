@@ -136,8 +136,8 @@
     {
         "mojang":
         {
-            "text" : "menu.copyright",
-            "hoverText" : "menu.copyright.hover",
+            "text" : "Copyright Mojang AB. Do not distribute!",
+            "hoverText" : "§nCopyright Mojang AB. Do not distribute!",
             "posX" : 5,
             "posY" : 5,
             "color" : 9561599,
