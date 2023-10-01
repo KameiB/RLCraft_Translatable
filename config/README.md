@@ -20,13 +20,13 @@ For the localized lore of loot items, you'll need my mod [LocalizedLore](https:/
 
 # Spanish-only stuff
 ### enhancedvisuals.json
-- Spanish death messages (messages are sent from server).
+- Spanish death messages (server-side).
 
 ### lycanitesmobs/dungeons/schematics
-- Spanish boss names.  
+- Spanish boss names (server-side).  
 
 ### rlmixins/dsurround_chat_es_mx.cfg
-- Add this file for spanish users.  
+- Add this file for spanish users (client-side).  
 
 ### setbonus/1.12.2.009+.cfg
-- Lines 178-199, 222-259: Spanish texts.
+- Lines 178-199, 222-259: Spanish texts (server-side?).
