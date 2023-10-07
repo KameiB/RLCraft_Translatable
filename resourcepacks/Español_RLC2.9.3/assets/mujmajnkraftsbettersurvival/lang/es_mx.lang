@@ -1,8 +1,8 @@
 ## Translated by KameiB for RLCraft 2.9.4
-item.debug.name=Item para depuracion
 item.crossbow.name=Ballesta
 item.bigshield.name=Escudo grande
 item.smallshield.name=Escudo redondo
+
 item.diamondhammer.name=Martillo de diamante
 item.goldhammer.name=Martillo de oro
 item.ironhammer.name=Martillo de hierro
@@ -122,7 +122,6 @@ mujmajnkraftsbettersurvival.battleaxe.desc=Puede desarmar enemigos al golpearlos
 mujmajnkraftsbettersurvival.nunchaku.desc=Manten el clic izq para girar, golpes consecutivos aumentan su daño
 mujmajnkraftsbettersurvival.spear.desc=Golpea con largo alcance, puede lanzarse con clic derecho
 
-enchantment.mujmajnkraftsbettersurvival.vampirism=Vampirismo
 enchantment.mujmajnkraftsbettersurvival.agility=Agilidad
 enchantment.mujmajnkraftsbettersurvival.arrowrecovery=Recupera-flechas
 enchantment.mujmajnkraftsbettersurvival.assassinate=Asesinar
@@ -130,22 +129,22 @@ enchantment.mujmajnkraftsbettersurvival.bash=Aturdir
 enchantment.mujmajnkraftsbettersurvival.blast=Explosivo
 enchantment.mujmajnkraftsbettersurvival.blockpower=Poder de bloqueo
 enchantment.mujmajnkraftsbettersurvival.combo=Combo
+enchantment.mujmajnkraftsbettersurvival.diamonds=Diamantes por doquier
 enchantment.mujmajnkraftsbettersurvival.disarm=Desarmar
+enchantment.mujmajnkraftsbettersurvival.education=Educacion
+enchantment.mujmajnkraftsbettersurvival.fling=Lanzar
 enchantment.mujmajnkraftsbettersurvival.heavy=Pesado
 enchantment.mujmajnkraftsbettersurvival.highjump=Salto alto
-enchantment.mujmajnkraftsbettersurvival.impale=Empalar
-enchantment.mujmajnkraftsbettersurvival.diamonds=Diamantes por doquier
-enchantment.mujmajnkraftsbettersurvival.reflection=Reflejo
-enchantment.mujmajnkraftsbettersurvival.tunneling=Tunelador
-enchantment.mujmajnkraftsbettersurvival.smelting=Hornear
-enchantment.mujmajnkraftsbettersurvival.education=Educacion
-enchantment.mujmajnkraftsbettersurvival.versatility=Versatilidad
 enchantment.mujmajnkraftsbettersurvival.multishot=Multi-flechas
-enchantment.mujmajnkraftsbettersurvival.rapidfire=Disparo rapido
 enchantment.mujmajnkraftsbettersurvival.penetration=Penetracion
-enchantment.mujmajnkraftsbettersurvival.spellshield=Anti-magia
 enchantment.mujmajnkraftsbettersurvival.range=Distancia
-enchantment.mujmajnkraftsbettersurvival.fling=Lanzar
+enchantment.mujmajnkraftsbettersurvival.rapidfire=Disparo rapido
+enchantment.mujmajnkraftsbettersurvival.spellshield=Anti-magia
+enchantment.mujmajnkraftsbettersurvival.reflection=Reflejo
+enchantment.mujmajnkraftsbettersurvival.smelting=Hornear
+enchantment.mujmajnkraftsbettersurvival.tunneling=Tunelador
+enchantment.mujmajnkraftsbettersurvival.vampirism=Vampirismo
+enchantment.mujmajnkraftsbettersurvival.versatility=Versatilidad
 enchantment.mujmajnkraftsbettersurvival.vitality=Vitalidad
 enchantment.mujmajnkraftsbettersurvival.weightless=Escudo ligero
 
@@ -163,25 +162,24 @@ enchantment.mujmajnkraftsbettersurvival.fling.desc=Lanza a cualquier enemigo al 
 enchantment.mujmajnkraftsbettersurvival.heavy.desc=El escudo previene que te empujen cuando bloqueas. No es compatible con Escudo ligero.
 enchantment.mujmajnkraftsbettersurvival.highjump.desc=Aumenta la altura de tu salto.
 enchantment.mujmajnkraftsbettersurvival.multishot.desc=El arco dispara multiples flechas a la vez.
-enchantment.mujmajnkraftsbettersurvival.range.desc=Las flechas volaran mas rapido y lejos.
 enchantment.mujmajnkraftsbettersurvival.penetration.desc=Los ataques ignoraran armadura parcialmente. No es compatible con Filo.
+enchantment.mujmajnkraftsbettersurvival.range.desc=Las flechas volaran mas rapido y lejos.
 enchantment.mujmajnkraftsbettersurvival.rapidfire.desc=El arco/ballesta carga mas rapido.
 enchantment.mujmajnkraftsbettersurvival.reflection.desc=El escudo refleja ataques enemigos cuando bloqueas.
-enchantment.mujmajnkraftsbettersurvival.impale.desc=Este encantamiento probablemente es para las lanzas, pero no encontre informacion.
 enchantment.mujmajnkraftsbettersurvival.smelting.desc=Los bloques minados seran horneados automaticamente.
-enchantment.mujmajnkraftsbettersurvival.tunneling.desc=Puedes minar varios bloques a la vez.
 enchantment.mujmajnkraftsbettersurvival.spellshield.desc=El escudo bloquea parcialmente ataques magicos.
+enchantment.mujmajnkraftsbettersurvival.tunneling.desc=Puedes minar varios bloques a la vez.
 enchantment.mujmajnkraftsbettersurvival.vampirism.desc=Oportunidad de curarte cuando aplicas daño.
 enchantment.mujmajnkraftsbettersurvival.versatility.desc=Aumenta ligeramente la velocidad de minado de TODOS los bloques.
 enchantment.mujmajnkraftsbettersurvival.vitality.desc=Aumenta tu velocidad de regeneracion natural.
 enchantment.mujmajnkraftsbettersurvival.weightless.desc=Bloquear no te hace tan lento. No es compatible con Pesado.
 
 effect.stun=Aturdimiento
-effect.warp=Teletransporte
-effect.antiwarp=Anti-teletrans.
 effect.milk=Leche
 effect.cure=Cura
 effect.dispel=Disipacion
+effect.warp=Teletransporte
+effect.antiwarp=Anti-teletrans.
 
 potion.effect.blindness=Pocion de Ceguera
 potion.effect.decay=Pocion de Descomposicion
@@ -215,6 +213,7 @@ tipped_arrow.effect.milk=Flecha de Leche
 tipped_arrow.effect.cure=Flecha de Cura
 tipped_arrow.effect.dispel=Flecha de Disipacion
 
+# Config screen texts
 mujmajnkraftsbettersurvival.configgui.title=Configuracion
 mujmajnkraftsbettersurvival.configgui.max_level=Niveles de encantamientos
 mujmajnkraftsbettersurvival.configgui.is_treasure=Encantamientos tesoro
@@ -242,5 +241,10 @@ mujmajnkraftsbettersurvival.configgui.integration=Permitir integracion con cross
 mujmajnkraftsbettersurvival.configgui.allow_vanilla_shields=Permitir escudos vanilla
 
 
+# Backwards compatibility
+item.debug.name=Item para depuracion
 # Added by KameiB. Tooltips from Shiv2.zs
 item.bettersurvival.steel_bonus.addedtooltip.1=Daño contra mobs del Nether y Elementales de fuego: +2
+# idk why I had these lang keys, but just in case I'll leave them here
+enchantment.mujmajnkraftsbettersurvival.impale=Empalar
+enchantment.mujmajnkraftsbettersurvival.impale.desc=Este encantamiento probablemente es para las lanzas, pero no encontre informacion.

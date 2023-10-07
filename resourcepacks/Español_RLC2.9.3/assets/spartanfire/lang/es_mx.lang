@@ -1,4 +1,4 @@
-## Translated by KameiB for RLCraft 2.9.2
+## Translated by KameiB for RLCraft 2.9.4
 #Items
 item.spartanfire:ingot_custom.name=Lingote de %s
 item.spartanfire:dagger_custom.name=Daga de %s
@@ -26,6 +26,7 @@ item.spartanfire.quarterstaff_custom.name=Baston belico de %s
 
 tooltip.spartanfire:fire_dragonbone=Incendia y empuja enemigos, hace daño adicional a dragones de hielo
 tooltip.spartanfire:ice_dragonbone=Ralentiza y empuja enemigos, hace daño adicional a dragones de fuego
+tooltip.spartanfire:lightning_dragonbone=Lanza un rayo a los enemigos, hace daño adicional a dragones de fuego y hielo
 tooltip.spartanfire:jungle=Daño adicional a no-artropodos y Gusanos de la muerte: +4
 tooltip.spartanfire:desert=Daño adicional a no-artropodos y Gusanos de la muerte: +4
 tooltip.spartanfire:jungle_venom=Envenena al golpear
@@ -35,11 +36,9 @@ tooltip.spartanfire:desert_venom=Envenena al golpear
 material.spartanfire:dragonbone=Dragon
 material.spartanfire:fire_dragonbone=Dragon flameante
 material.spartanfire:ice_dragonbone=Dragon gelido
+material.spartanfire:lightning_dragonbone=Dragon electrico
 material.spartanfire:desert=Mirmex del desierto
 material.spartanfire:jungle=Mirmex de jungla
 material.spartanfire:desert_venom=aguijon de Mirmex del desierto
 material.spartanfire:jungle_venom=aguijon de Mirmex de jungla
 
-# Lightning dragonbone stuff
-tooltip.spartanfire:lightning_dragonbone=Lanza un rayo a los enemigos, hace daño adicional a dragones de fuego y hielo
-material.spartanfire:lightning_dragonbone=Dragon electrico

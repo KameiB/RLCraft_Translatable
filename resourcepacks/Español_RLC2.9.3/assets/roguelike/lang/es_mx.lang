@@ -8,3 +8,44 @@ json.roguelike.painting.babyshiv.name=§1§oFoto de Shivaxi bebé
 json.roguelike.painting.babyshiv.lore=§iNo era tierno cuando era una cría? n_n
 json.roguelike.painting.fnar.name=§2§oFotografía de Fnar
 json.roguelike.painting.fnar.lore=§iY qué rayos significa Fnar?
+
+# looting_trading_cards.json
+json.roguelike.tradingcard.mob=§cMob
+json.roguelike.tradingcard.bossmob=§4Mob Boss
+json.roguelike.tradingcard.elemental=§3Elemental
+
+json.roguelike.tradingcard.16=§7Aqua
+json.roguelike.tradingcard.17=§7Flama
+json.roguelike.tradingcard.18=§aRayo
+json.roguelike.tradingcard.19=§3Alma
+json.roguelike.tradingcard.20=§7Terra
+json.roguelike.tradingcard.21=§7Viento
+
+json.roguelike.tradingcard.40=§5Wolf
+json.roguelike.tradingcard.41=§3Ocelot
+json.roguelike.tradingcard.42=§3Parrot
+
+json.roguelike.tradingcard.43=§5Zorro
+json.roguelike.tradingcard.44=§3Panda
+json.roguelike.tradingcard.45=§aKameiB
+
+json.roguelike.tradingcard.46=§7Zombi
+json.roguelike.tradingcard.47=§7Esqueleto
+json.roguelike.tradingcard.48=§aCreeper
+json.roguelike.tradingcard.49=§7Araña
+json.roguelike.tradingcard.50=§3Slime
+json.roguelike.tradingcard.51=§aPiglin zombificado
+json.roguelike.tradingcard.52=§aGhast
+json.roguelike.tradingcard.53=§aBlaze
+json.roguelike.tradingcard.54=§aPez plateado
+json.roguelike.tradingcard.55=§3Enderman
+json.roguelike.tradingcard.56=§3Phantom
+json.roguelike.tradingcard.57=§aAldeano
+
+json.roguelike.tradingcard.64=§7Herrero de armaduras
+json.roguelike.tradingcard.65=§7Carnicero
+
+json.roguelike.tradingcard.89=§3Sierpe
+json.roguelike.tradingcard.90=§3Serpiente marina
+json.roguelike.tradingcard.91=§3Dragón de fuego
+json.roguelike.tradingcard.92=§3Dragón de hielo
