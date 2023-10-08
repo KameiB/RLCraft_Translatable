@@ -42,3 +42,10 @@ material.spartanfire:jungle=Mirmex de jungla
 material.spartanfire:desert_venom=aguijon de Mirmex del desierto
 material.spartanfire:jungle_venom=aguijon de Mirmex de jungla
 
+# Config
+config.spartanfire.general=Opciones generales
+config.spartanfire.general.tooltip=Opciones de configuración generales
+config.spartanfire.general.registerVenomThrowingRecipes=Armas arrojadizas venenosas
+config.spartanfire.general.registerVenomThrowingRecipes.tooltip=Registra el manejo de recetas personalizadas para armas arrojadizas venenosas
+config.spartanfire.general.registerFlamedIcedShockedThrowingRecipes=Armas arrojadizas flameantes/gelidas/electricas
+config.spartanfire.general.registerFlamedIcedShockedThrowingRecipes.tooltip=Registra el manejo de recetas personalizadas para armas arrojadizas flameantes/gelidas/electricas
