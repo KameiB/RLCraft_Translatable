@@ -33,8 +33,7 @@
 ### [Rough Tweaks](https://github.com/KameiB/Rough-Tweaks)
 > Changed items lang keys, so they don't conflict with mods like First Aid. (item.plaster.name -> item.roughtweaks.plaster.name, etc).  
 > [Lang Keys] Added lang keys for items description.  
-> [Tooltips] Healing description now don't need Shift to show.  
-- Any corrections are welcome so it can be Pulled to the owner's project.  
+> [Tooltips] Healing description now don't need Shift to show.   
 
 ### [Roguelike Dungeons](https://github.com/fnar/minecraft-roguelike/pull/73)  (PR accepted by fnar, yay!) 
 > - Reworked the special items NBT tags. "Name" -> "LocName" and "Lore" -> "rldLocLore"  
@@ -49,6 +48,11 @@
 ### [Shield Break](https://github.com/fonnymunkey/ShieldBreak/pull/2)  (PR accepted by fonnymunkey, yay!) 
 > [Lang Keys] Added lang keys for tooltip and config screen texts.  
 > [Tooltip] Replaced hardcoded "Shielding Power:" text with lang key.  
+
+### [Set Bonus](https://github.com/KameiB/Set-Bonus)  
+> [Tooltip] Added lang key support for sets and bonuses texts (inside cfg file).  
+> [Mod version] Fixed a little detail where it showed ${version} at Mod Config list screen.  
+> [Lang Keys] Sets and bonuses lang keys added to the resources folder.  
 
 # Modified mods
 ### [Bountiful Baubles](https://github.com/KameiB/BountifulBaubles/tree/forge-1.12.x)

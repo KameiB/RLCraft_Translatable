@@ -1,4 +1,3 @@
-# Custom Spanish cfg file
-Replace the original file with this one to show Armor set bonus texts in Spanish.
-
-(only for Singleplayer worlds or maybe Spanish-only servers).
+# Localized sets and bonuses texts
+Requires my fork to work.  
+Don't forget to add the corresponding lang files in your resources.  
