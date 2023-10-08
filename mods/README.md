@@ -67,5 +67,5 @@
 # Support Mixin
 ### [LocLore Mixin](https://github.com/KameiB/LocLoreMixin)  
 > A Mixin that adds "LocLore" NBT tag support to Minecraft's ItemStack getTooltip method.  
-> Required for DLDungeons, Bountiful, and RLDungeons config files.
+> Required for DLDungeons and Bountiful config files.
 
