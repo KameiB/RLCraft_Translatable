@@ -22,8 +22,68 @@ item.quark:ancient_tome.desc=En tu mano izquierda sosten este Tomo. En la derech
 # === RLMixins ===
 item.cleansing_talisman.desc=Craftealo con cualquier libro encantado para convertirlo en Rompe maldiciones
 
+# === Rustic ===
+# Added by KameiB. From Shiv.zs
+item.rustic.chili_pepper_seeds.addedtooltip.1=Estaciones fertiles:
+item.rustic.chili_pepper_seeds.addedtooltip.2= Verano
+item.rustic.tomato_seeds.addedtooltip.1=Estaciones fertiles:
+item.rustic.tomato_seeds.addedtooltip.2= Verano
+item.rustic.tomato_seeds.addedtooltip.3= Otoño
+
+# Added by KameiB. Useful Descriptions for wines
+item.rustic.ale.addedtooltip.1=Da Inmunizacion
+item.rustic.ale.addedtooltip.2=Al aplicarse:
+item.rustic.ale.addedtooltip.3=Inmunidad a Veneno, Hambre, Nauseas, Debilidad y Paralisis
+
+item.rustic.cider.addedtooltip.1=Da Escudo magico
+item.rustic.cider.addedtooltip.2=Al aplicarse:
+item.rustic.cider.addedtooltip.3=Escudo magico: +4
+
+item.rustic.ironwine.addedtooltip.1=Da Absorcion
+item.rustic.ironwine.addedtooltip.2=Al aplicarse:
+item.rustic.ironwine.addedtooltip.3=Corazones amarillos adicionales
+
+item.rustic.mead.addedtooltip.1=Da Revitalizacion
+item.rustic.mead.addedtooltip.2=Al aplicarse:
+item.rustic.mead.addedtooltip.3=Aumenta la salud recibida
+
+item.rustic.wine.addedtooltip.1=Extiende los efectos de pocion positivos
+
+item.rustic.wildberrywine.addedtooltip.1=Potencializa los efectos de pocion positivos
+
+item.rustic.boozerating.addedtooltip.0=DAÑINO
+item.rustic.boozerating.addedtooltip.1=PROMEDIO
+item.rustic.boozerating.addedtooltip.2=Romantico
+item.rustic.boozerating.addedtooltip.3=BUENO
+item.rustic.boozerating.addedtooltip.4=PERFECTO
+
+item.rustic.olive_oil.addedtooltip.1=Craftealo con una comida para aumentar su valor nutricional y saturacion
+item.rustic.olive_oil.addedtooltip.2=Al beberse:
+item.rustic.olive_oil.addedtooltip.3=Nauseas II (0:30)
+
+item.rustic.ironberry_juice.addedtooltip.1=Jugo tan potente que lastima!
+item.rustic.ironberry_juice.addedtooltip.2=Al beberse:
+item.rustic.ironberry_juice.addedtooltip.3=Paralisis (0:30)
+item.rustic.ironberry_juice.addedtooltip.4=Resis. al fuego (0:30)
+item.rustic.ironberry_juice.addedtooltip.5=Resistencia (0:30)
+item.rustic.ironberry_juice.addedtooltip.6=Lentitud (0:30)
+item.rustic.ironberry_juice.addedtooltip.7=Fatiga minera (0:30)
+item.rustic.ironberry_juice.addedtooltip.8=Debilidad (0:30)
+
+item.rustic.ale_wort.addedtooltip.1=Podria hacer una buena Cerveza con esto
+item.rustic.ale_wort.addedtooltip.2=Al beberse:
+item.rustic.ale_wort.addedtooltip.3=Nauseas II (0:20)
+
+tooltip.holdshift=<Shift> para Kame Vision
+
 # === Serene Seasons ===
 tile.greenhouse_glass.desc=Permite que los cultivos que esten hasta 7 bloques debajo de este cristal, crezcan en cualquier estacion
+desc.sereneseasons.fertile_seasons=Estaciones fertiles:
+desc.sereneseasons.year_round= Todo el año
+desc.sereneseasons.spring= Primavera
+desc.sereneseasons.summer= Verano
+desc.sereneseasons.autumn= Otoño
+desc.sereneseasons.winter= Invierno
 
 # === Simple Difficulty ===
 tooltip.scripts.simpledifficulty:wool_helmet=Calor (+2)

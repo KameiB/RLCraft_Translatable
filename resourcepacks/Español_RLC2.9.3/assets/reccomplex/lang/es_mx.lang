@@ -646,7 +646,6 @@ reccomplex.blockpattern.ingredients.tooltip=Informacion sobre los bloques usados
 reccomplex.blockpattern.ingredient.identifier=Identificador
 reccomplex.blockpattern.ingredient.delete=Eliminar bloques
 
-
 reccomplex.parameters.pos.x=x
 reccomplex.parameters.pos.y=y
 reccomplex.parameters.pos.z=z

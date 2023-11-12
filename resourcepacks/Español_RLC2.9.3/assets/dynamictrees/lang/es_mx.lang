@@ -29,8 +29,8 @@ species.dynamictrees:tallbirch.name=Abedul alto
 species.dynamictrees:jungle.name=Arbol de selva
 species.dynamictrees:megajungle.name=Mega arbol de selva
 species.dynamictrees:darkoak.name=Roble oscuro
-species.dynamictrees:acacia.name=Acacia
-species.dynamictrees:apple.name=Manzana
+species.dynamictrees:acacia.name=Arbol de Acacia
+species.dynamictrees:apple.name=Manzano
 species.dynamictrees:cactus.name=Cactus
 
 # Seed names
@@ -93,7 +93,7 @@ potion.gigas.description=§7Permite a un arbol crecer a tamaño Mega
 potion.burgeoning.description=§7Crece un arbol rapidamente
 potion.fertility.description=§7Fertiliza el suelo por completo
 potion.persistance.description=§7Detiene los cambios de un arbol
-potion.transform.description=§7Transforma un arbol de su especie original a un arbol §a%s
+potion.transform.description=§7Transforma un arbol de su especie original a un §a%s
 potion.transform.description.empty=§7Pocion basica de arbol para transformar especies
 
 # Seasons tooltips for seeds
@@ -123,3 +123,6 @@ tile.dynamictrees:oakbranchx.name=Rama de roble
 tile.dynamictrees:sprucebranchx.name=Rama de abeto
 tile.dynamictrees:junglebranchx.name=Rama de arbol de selva
 tile.dynamictrees:darkoakbranchx.name=Rama de roble oscuro
+tile.rustic:ironwoodbranchx.name=Rama de argan
+species.rustic:ironwood.name=Argan
+species.rustic:olive.name=Olivo
