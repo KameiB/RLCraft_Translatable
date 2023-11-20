@@ -139,7 +139,7 @@ tile.rustic.apple_seeds.name=Semillas de manzana
 tile.rustic.sapling_apple.name=Retoño de manzano
 tile.rustic.leaves_apple.name=Hojas de manzano
 tile.rustic.lantern_wood.name=Linterna de madera
-tile.rustic:olivebranch.name=Rama de olivo
+tile.rustic:olivebranch.name=Arbol de olivo
 tile.rustic:ironwoodbranch.name=Arbol de argan
 tile.rustic:leaves0.name=Hojas dinamicas
 
