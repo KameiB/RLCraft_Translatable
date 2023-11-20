@@ -49,6 +49,7 @@ notif.fishingmadebetter.tracker.twohand=No puedes sostener dos Rastreadores de P
 notif.fishingmadebetter.tracker.finish=Rastreo de peces terminado
 
 fishingmadebetter.reelingoverlay.distance=Distancia
+fishingmadebetter.reelingoverlay.move_with=Presiona [%1$s] / [%2$s]
 
 # Added by KameiB
 tooltip.fishingmadebetter.fishing_rod.reel.name=Carrete
@@ -94,29 +95,29 @@ tooltip.fishingmadebetter.reel.range=Alcance
 tooltip.fishingmadebetter.reel.speed=Velocidad
 
 # Bait Box
-tile.fishingmadebetter.baitbox.tooltip=Cuando esta llena de carnada, alimenta a los peces de este chunk, mejorando su reproduccion
+tooltip.fishingmadebetter.baitbox=Cuando contiene carnada, alimenta a los peces de este chunk, mejorando su reproduccion
 notif.fishingmadebetter.baitbox.bait_not_valid=Esta no es una carnada valida!
 notif.fishingmadebetter.baitbox.full=La Caja de carnada esta llena!
 notif.fishingmadebetter.baitbox.empty=La Caja de carnada esta vacia!
 
 # Fillet Knives
-item.fishingmadebetter.fillet_knife.tooltip=Usalo para rebanar peces
-item.fishingmadebetter.fish_slice_raw.tooltip=
+tooltip.fishingmadebetter.fillet_knife=Usalo para rebanar peces
+tooltip.fishingmadebetter.fish_slice_raw=
 
 # Scaling Knives
-item.fishingmadebetter.scaling_knife.tooltip=Usalo para descamar peces. Algunos peces tienen items entre sus escamas
+tooltip.fishingmadebetter.scaling_knife=Usalo para descamar peces. Algunos peces tienen items entre sus escamas
 
 # Bait Bucket
-item.fishingmadebetter.bait_bucket.tooltip=Si la llevas en tu mano izquierda, coloca la carnada que contiene automaticamente en tu Caña de pescar, despues de que un pez pico
-item.fishingmadebetter.bait_bucket.tooltip.contains=Contiene
-item.fishingmadebetter.bait_bucket.tooltip.none=Nada
+tooltip.fishingmadebetter.bait_bucket=Si la llevas en tu mano izquierda, coloca la carnada que contiene automaticamente en tu Caña de pescar, despues de que un pez pico
+tooltip.fishingmadebetter.bait_bucket.contains=Contiene
+tooltip.fishingmadebetter.bait_bucket.none=Nada
 
 # Fish Bucket
 notif.fishingmadebetter.fish_bucket.only_water=Este pez solo puede soltarse en el agua.
 notif.fishingmadebetter.fish_bucket.small_water=Este cuerpo de agua es muy pequeño para este pez
 notif.fishingmadebetter.fish_bucket.wrong_altitude=Este pez no puede sobrevivir a esta altura
 
-item.fishingmadebetter.fish_bucket.tooltip=Contiene
+tooltip.fishingmadebetter.fish_bucket=Contiene
 
 # Trackers
 notif.fishingmadebetter.fish_tracker.only_void=Este Rastreador solo puede usarse en bloques cerca del Vacio.
@@ -125,18 +126,18 @@ notif.fishingmadebetter.fish_tracker.only_lava=Este Rastreador solo puede usarse
 notif.fishingmadebetter.fish_tracker.too_shallow=Este lugar es muy poco profundo. El Rastreador no puede funcionar bien.
 notif.fishingmadebetter.fish_tracker.tracking_start=Rastreo iniciado. Si te mueves, podrias recibir resultados inexactos.
 
-item.fishingmadebetter.fish_tracker.tooltip.max_depth=Profundidad max
-item.fishingmadebetter.fish_tracker.tooltip.vision_bad=No puede detectar peces raros
-item.fishingmadebetter.fish_tracker.tooltip.vision_normal=Puede detectar peces raros
-item.fishingmadebetter.fish_tracker.tooltip.vision_best=Puede detectar los peces mas raros y esquivos
-item.fishingmadebetter.fish_tracker.tooltip.vision_none=Valor de rastreo no encontrado
-item.fishingmadebetter.fish_tracker.tooltip.probe_water=Puede sondear Agua
-item.fishingmadebetter.fish_tracker.tooltip.probe_lava=Puede sondear Lava
-item.fishingmadebetter.fish_tracker.tooltip.probe_void=Puede sondear el Vacio
-item.fishingmadebetter.fish_tracker.tooltip.probe_etc=Puede sondear lo que sea
-item.fishingmadebetter.fish_tracker.tooltip.right_click=Da clic derecho para sondear en busca de peces
-item.fishingmadebetter.fish_tracker.tooltip.info.1=Presiona
-item.fishingmadebetter.fish_tracker.tooltip.info.2=durante el rastreo para mas informacion
+tooltip.fishingmadebetter.fish_tracker.max_depth=Profundidad max
+tooltip.fishingmadebetter.fish_tracker.vision_bad=No puede detectar peces raros
+tooltip.fishingmadebetter.fish_tracker.vision_normal=Puede detectar peces raros
+tooltip.fishingmadebetter.fish_tracker.vision_best=Puede detectar los peces mas raros y esquivos
+tooltip.fishingmadebetter.fish_tracker.vision_none=Valor de rastreo no encontrado
+tooltip.fishingmadebetter.fish_tracker.probe_water=Puede sondear Agua
+tooltip.fishingmadebetter.fish_tracker.probe_lava=Puede sondear Lava
+tooltip.fishingmadebetter.fish_tracker.probe_void=Puede sondear el Vacio
+tooltip.fishingmadebetter.fish_tracker.probe_etc=Puede sondear lo que sea
+tooltip.fishingmadebetter.fish_tracker.right_click=Da clic derecho para sondear en busca de peces
+tooltip.fishingmadebetter.fish_tracker.info.1=Presiona
+tooltip.fishingmadebetter.fish_tracker.info.2=durante el rastreo para mas informacion
 
 notif.fishingmadebetter.fish_tracker.detected=Detectado
 notif.fishingmadebetter.fish_tracker.quantity_immense=en inmensas cantidades.
