@@ -101,7 +101,7 @@ notif.fishingmadebetter.baitbox.empty=La Caja de carnada esta vacia!
 
 # Fillet Knives
 item.fishingmadebetter.fillet_knife.tooltip=Usalo para rebanar peces
-item.fishingmadebetter.fish_slice_raw.tooltip=Rebanada de
+item.fishingmadebetter.fish_slice_raw.tooltip=
 
 # Scaling Knives
 item.fishingmadebetter.scaling_knife.tooltip=Usalo para descamar peces. Algunos peces tienen items entre sus escamas
