@@ -1,0 +1,42 @@
+Despues de que una cabeza recibe
+danio significativo, sera cortada
+y un munion sangrante tomara su
+lugar.
+
+<image><drawings_2.png 40 70 0 210 114 44 1>
+
+
+
+
+
+Pero si la criatura no esta en
+llamas en los siguientes segundos,
+del munion creceran dos nuevas
+cabezas en la bestia.
+<image><drawings_2.png 40 160 0 255 114 48 1>
+
+
+
+
+
+
+La unica manera de daniar a esta
+serpiente sin que aumente su fuerza
+es asegurarse de que esta en
+llamas. Cuando esta en llamas, la
+hidra no podra crecer nuevas
+cabezas, y cada munion eventual-
+mente se consumira. Tambien
+perdera sus efectos regenerativos
+por completo.
+
+La hidra solo puede morir del todo
+cuando le queda una cabeza. De lo
+contrario, continuara sobreviviendo.
+
+Al matarla, uno podra acceder a los
+restos de viajeros menos afortu-
+nados en la guarida de la hidra.
+La hidra muerta tambien tira dos
+objetos unicos: sus colmillos y,
+ocasionalmente, su corazon.

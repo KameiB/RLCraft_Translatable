@@ -27,6 +27,7 @@ Anfiptero.
 Cuando tienen que atacar enemigos,
 los Anfipteros tienen una variedad
 de ataques en su repertorio.
+
 A pesar de que puede que usen su
 picotazo generico la mayor parte
 del tiempo, los Anfipteros tambien

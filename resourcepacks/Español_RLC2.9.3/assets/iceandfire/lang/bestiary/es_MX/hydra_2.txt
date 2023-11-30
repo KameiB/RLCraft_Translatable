@@ -1,0 +1,43 @@
+<item><iceandfire:hydra_fang 0 34 6 1.25>
+<item><iceandfire:hydra_heart 0 110 6 1.25>
+
+
+
+
+El colmillo de hidra es un objeto
+valioso que puede usarse para
+craftear flechas especiales que
+envenenan.
+<item><iceandfire:hydra_arrow 0 34 40 1.25>
+
+
+
+
+
+Estas flechas tambien tienen una
+segunda e importante propiedad:
+al dar en el objetivo, le roban
+la vida y curan a quien la disparo.
+
+
+
+
+
+
+
+
+
+El corazon de hidra es un drop
+raro, el cual es ampliamente
+buscado por sus efectos.
+Mientras este en la barra rapida,
+este corazon da efectos de
+regeneracion, que crecen segun
+cuanta salud ha perdido el usuario.
+
+El poderoso corazon de este
+monstruo hace que su dificil batalla
+valga la pena, y tal vez explique
+por que la guarida de la hidra
+contiene tantos huesos.
+

@@ -264,6 +264,13 @@ item.iceandfire.lightning_dragon_heart.name=Corazon de Dragon de rayo
 item.iceandfire.lightning_dragon_blood.name=Sangre de Dragon de rayo
 item.iceandfire.dragon_horn_lightning.name=Cuerno de Dragon de rayo
 
+item.iceandfire.hydra_fang.name=Colmillo de Hidra
+item.iceandfire.hydra_heart.name=Corazon de Hidra
+item.iceandfire.hydra_heart.desc_0=En tu barra rapida, da Regeneracion que
+item.iceandfire.hydra_heart.desc_1=aumenta segun que tan herido estas
+item.iceandfire.hydra_arrow.name=Flecha de Hidra
+item.iceandfire.hydra_arrow.desc=Envenena y roba la vida del objetivo
+
 item.banner.firedragon.white=Figura blanca de Dragon de fuego
 item.banner.firedragon.orange=Figura naranja de Dragon de fuego
 item.banner.firedragon.magenta=Figura magenta de Dragon de fuego
@@ -371,6 +378,10 @@ entity.seaserpent.name=Serpiente marina
 entity.lightningdragon.name=Dragon de rayo
 entity.dragonlightningcharge.name=Carga de dragon de rayo
 
+entity.if_hydra.name=Hidra
+entity.hydra_breath.name=Aliento de Hidra
+entity.hydra_arrow.name=Flecha de Hidra
+
 sea_serpent.blue=Azul
 sea_serpent.bronze=Bronce
 sea_serpent.deepblue=Azul Marino
@@ -386,13 +397,6 @@ dragon.blue=Azul §bHielo
 dragon.sapphire=Zafiro §bHielo§9
 dragon.silver=§7Plata §bHielo§7
 dragon.white=Blanco §bHielo§f
-
-dragon.electric=Azul §5Rayo§1
-dragon.amethyst=§5Amatista Rayo
-dragon.copper=Cobre §5Rayo§6
-dragon.black=Negro §5Rayo§8
-dragon.lightning=§5Rayo
-
 dragon.stage=Etapa 
 dragon.fire=§4Fuego§r
 dragon.ice=§bHielo§r
@@ -415,6 +419,13 @@ dragon.days.back=Dias)
 dragon.command.sit=Este Dragon esta quieto.
 dragon.command.stand=Este Dragon esta merodeando.
 dragon.command.new_home=El hogar de este Dragon se ha asignado en %d, %d, %d.
+
+dragon.electric=Azul §5Rayo§1
+dragon.amethyst=§5Amatista Rayo
+dragon.copper=Cobre §5Rayo§6
+dragon.black=Negro §5Rayo§8
+dragon.lightning=§5Rayo
+
 hippogryph.command.sit=Este Hipogrifo esta quieto.
 hippogryph.command.stand=Este Hipogrifo esta merodeando.
 hippogryph.command.new_home=El hogar de este Hipogrifo se ha asignado en %d, %d, %d.
@@ -495,6 +506,7 @@ bestiary.troll=Trolls
 bestiary.myrmex=Mirmex
 bestiary.amphithere=Anfipteros
 bestiary.seaserpent=Serpientes marinas
+bestiary.hydra=Hidra
 
 lectern.nopages=No se puede agregar mas informacion.
 silvertools.hurt=Daño contra no-muertos: +2

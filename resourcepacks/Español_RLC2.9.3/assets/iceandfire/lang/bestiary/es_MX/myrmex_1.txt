@@ -2,7 +2,7 @@
 
 
 
-§nSoldados
+SOLDADOS
 Los Soldados son la primera linea
 de defensa de la colonia. Siguen
 a los individuos de otras castas
@@ -11,12 +11,12 @@ para protegerlos de las amenazas.
 
 
 
-§nRealeza
+REALEZA
 La Realeza son el medio de reprodu-
 ccion de la colonia y los unicos
-miembros capaces de volar. La
-Realeza solo vuela despues de estar
-mucho tiempo dentro de la colonia.
+miembros capaces de volar.
+Solo vuelan despues de estar mucho
+tiempo dentro de la colonia.
 
 Cuando 2 Realezas copulan, el macho
 muere y la hembra se vuelve Reina.
@@ -27,11 +27,11 @@ muere y la hembra se vuelve Reina.
 
 
 
-§nSentinelas
+SENTINELAS
 Los Sentinelas son la operacion
-encubierta de la colonia. Exploran
-las rutas cercanas y se esconden
-esperando emboscar posibles
-presas y depredadores de la
-colonia. Son la casta mas letal
-despues de la Reina.
+encubierta de la colonia.
+Exploran las rutas cercanas y
+se esconden esperando emboscar
+posibles presas y depredadores
+de la colonia. Son la casta mas
+letal despues de la Reina.

@@ -1,11 +1,13 @@
-El Gusano de la muerte. No hay
-criatura que aterrorize tanto a los
-habitantes del desierto como esta
-gigantesca bestia. Generalmente
-encontrada bajo la arena, esta
-criatura persigue tanto a monstruos
-como humanos, aunque su presa
-favorita es el ganado.
+El Gusano de la muerte.
+
+No hay criatura que aterrorize
+tanto a los habitantes del desierto
+como esta gigantesca bestia.
+Generalmente encontrada bajo
+la arena, esta criatura persigue
+tanto a monstruos como humanos,
+aunque su presa favorita es 
+el ganado.
 
 De variantes color amarillo arena,
 blanco palido y rojo sangre,
@@ -13,9 +15,6 @@ el simple hecho de emerger es
 suficiente para asustar a los
 cazadores que tienen la 
 finalidad de matarle.
-
-
-
 
 
 

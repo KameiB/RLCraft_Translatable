@@ -1,0 +1,42 @@
+En los pantanos y cienegas mas
+asquerosos mora una serpiente
+multi-cabeza conocida como la
+Hidra.
+<image><drawings_2.png 40 60 0 162 108 47 1>
+<image><drawings_2.png 40 110 109 162 108 47 1>
+<image><drawings_2.png 40 160 218 162 108 47 1>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Enterrada bajo su pequenia colina,
+el viajero incauto no debe acer-
+carsele. Ya que ni siquiera un gran
+Dragon de hielo ni un Ciclope
+podrian derrotar a esta bestia.
+
+La Hidra se caracteriza tanto por
+su aliento y mordida extremadamente
+venenosos, como por sus habilida-
+des magicas de regeneracion. Ya
+que cuando pierde una cabeza, dos
+tomaran su lugar. Y por cada cabe-
+za que crece, la hidra gana efectos
+regenerativos mas y mas fuertes.
+
+La hidra puede tener un maximo de
+nueve cabezas, y mientras no este
+en llamas, se cura constantemente
+a un ritmo acelerado.

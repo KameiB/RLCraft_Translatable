@@ -1,4 +1,4 @@
-## Translated by KameiB for RLCraft 2.9.2
+## Translated by KameiB for RLCraft 2.9.3
 itemGroup.trinketstab=Trinkets
 xat.config.title=Trinkets and Baubles
 
@@ -263,6 +263,7 @@ item.polarized_stone.0.magnetmode=Modo recolectar $collecttoggle:
 item.polarized_stone.0.repelmode=Modo repeler $repeltoggle:
 
 item.dragons_eye.0.name=Ojo de Dragon de fuego
+item.dragons_eye.0.fire.name=Ojo de Dragon de fuego
 item.dragons_eye.0.ice.name=Ojo de Dragon de hielo
 item.dragons_eye.0.lightning.name=Ojo de Dragon de rayo
 item.dragons_eye.0.tooltip1=§6Da $variantresist:
@@ -277,6 +278,7 @@ item.dragons_eye.0.treasurefinder.off=Creo que mi tesoro ya esta lleno $looking:
 item.dragons_eye.0.compat.tan=$typeimmune:
 item.dragons_eye.0.heatimmune=§6Inmunidad a Hipertermia
 item.dragons_eye.0.coldimmune=§6Inmunidad a Hipotermia
+item.dragons_eye.0.paralysisimmune=§6Inmunidad a Parálisis
 item.dragons_eye.0.compat.enhancedvisuals=
 item.dragons_eye.0.compat.iaf.ice.frostwalker=§6Da §3Paso helado
 
@@ -610,13 +612,19 @@ xat.config.server.dragons_eye.orefinder.blocks.list=Lista de bloques para el Bus
 xat.config.server.dragons_eye.orefinder.blocks.list.tooltip=Que bloques puede detectar el Ojo de Dragon
 xat.config.server.dragons_eye.toughasnails.immunity.heat=Inmunidad al Calor
 xat.config.server.dragons_eye.toughasnails.immunity.heat.tooltip=Si Tough as Nails o Simple Difficulty estan instalados, el jugador sera inmune al calor?
+xat.config.server.dragons_eye.toughasnails.immunity.cold=Inmunidad al Frío
+xat.config.server.dragons_eye.toughasnails.immunity.cold.tooltip=Si Tough as Nails o Simple Difficulty estan instalados, el jugador sera inmune al frío?
 
-xat.config.server.dragons_eye.iceandfire.recipe.stage=Nivel de Craneo
-xat.config.server.dragons_eye.iceandfire.recipe.stage.tooltip=Si Ice and Fire esta instalado, deberia el Ojo de Dragon requerir un craneo de un Nivel especifico para su receta?.\nAsignalo en 0 para cualquier nivel
+xat.config.server.dragons_eye.iceandfire.recipe.stage=Etapa del Craneo
+xat.config.server.dragons_eye.iceandfire.recipe.stage.tooltip=Si Ice and Fire esta instalado, deberia el Ojo de Dragon requerir un craneo de una Etapa especifica para su receta?.\nAsignalo en 0 para cualquier nivel
 xat.config.server.dragons_eye.iceandfire.ice.variant=Variante de hielo
 xat.config.server.dragons_eye.iceandfire.ice.variant.tooltip=Deberia haber una variante de hielo para el Ojo de Dragon?
 xat.config.server.dragons_eye.iceandfire.ice.frostwalker=Paso helado
 xat.config.server.dragons_eye.iceandfire.ice.frostwalker.tooltip=Deberia la variante de hielo aplicar Paso helado?
+xat.config.server.dragons_eye.iceandfire.lightning.variant=Variante de rayo
+xat.config.server.dragons_eye.iceandfire.lightning.variant.tooltip=Deberia haber una variante de rayo para el Ojo de Dragon?
+xat.config.server.dragons_eye.iceandfire.lightning.paralysis=Inmunidad a Parálisis
+xat.config.server.dragons_eye.iceandfire.lightning.paralysis.tooltip=Debería la variante de rayo aplicar inmunidad a Parálisis?
 
 xat.config.client.dragons_eye.growl.enabled=Rugido de dragon
 xat.config.client.dragons_eye.growl.enabled.tooltip=Cuando el Buscador de tesoros esta Habilitado, deberia reproducirse un rugido de dragon cuando se encuentra un tesoro?
