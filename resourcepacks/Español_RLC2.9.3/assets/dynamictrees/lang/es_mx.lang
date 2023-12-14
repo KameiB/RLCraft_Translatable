@@ -98,11 +98,11 @@ potion.transform.description.empty=§7Pocion basica de arbol para transformar es
 
 # Seasons tooltips for seeds
 tooltip.seed.season.fertile_seasons=Estaciones Fertiles:
-tooltip.seed.season.year_round=§dTodo el año
-tooltip.seed.season.spring=§aPrimavera
-tooltip.seed.season.summer=§eVerano
-tooltip.seed.season.autumn=§6Otoño
-tooltip.seed.season.winter=§bInvierno
+tooltip.seed.season.year_round=§d Todo el año
+tooltip.seed.season.spring=§a Primavera
+tooltip.seed.season.summer=§e Verano
+tooltip.seed.season.autumn=§6 Otoño
+tooltip.seed.season.winter=§b Invierno
 
 # Staff tooltips
 tooltip.woodland_staff.tree=Arbol:

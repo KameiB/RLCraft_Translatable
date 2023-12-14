@@ -241,3 +241,8 @@ fml.button.open.file=Abrir %s
 forge.container.enchant.limitedEnchantability=Encantabilidad limitada
 attribute.name.generic.reachDistance=Distancia de alcance
 attribute.name.forge.swimSpeed=Velocidad de nado
+
+# Added by KameiB
+fml.button.config=Configurar
+fml.button.disable=Deshabilitar
+fml.menu.mods.modlist=Lista de Mods

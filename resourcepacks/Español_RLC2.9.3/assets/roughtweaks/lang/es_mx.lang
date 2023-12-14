@@ -1,9 +1,9 @@
 ## Translated by KameiB for RLCraft 2.9.2
-item.salve.name=Pomada curativa
-item.plaster.name=Curita
-item.bandage.name=Vendaje
-item.medikit.name=Kit medico
-item.medikitEnchanted.name=Kit medico encantado
+#item.salve.name=Pomada curativa
+#item.plaster.name=Curita
+#item.bandage.name=Vendaje
+#item.medikit.name=Kit medico
+#item.medikitEnchanted.name=Kit medico encantado
 
 # Added by KameiB. To differentiate from other items
 item.roughtweaks.salve.name=Pomada curativa

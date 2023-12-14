@@ -199,7 +199,7 @@ message.beastiary.summonable.colors=¡Ahora puedes invocar variaciones de %creat
 message.beastiary.summonable.skins=¡Ahora puedes invocar subespecies de %creature%!
 message.beastiary.known=Ya tienes conocimiento de Rango %rank% de %creature%.
 message.beastiary.unknown=No hay nada que aprender sobre esta criatura.
-message.beastiary.study=conocimiento:
+message.beastiary.study=Conocimiento:
 message.beastiary.study.recharging=Debes esperar para volver a estudiar esta criatura.
 message.beastiary.study.cooldown=Tiempo de espera para estudio:
 message.beastiary.study.full=Conocimiento de criatura completado:
@@ -2118,7 +2118,7 @@ item.wintergiftlarge.bad=¡Ja, ja, ja, ja, ja, ja, ja! ¡Jo, jo, jo, jo, jo! Aaa
 #
 # ========== Keys ==========
 item.soulkey.name=Llave alma
-item.soulkey.description=usala para activar un altar de invocacion para llamar a una criatura rara o activar un evento de jefe.
+item.soulkey.description=Usala para activar un altar de invocacion para llamar a una criatura rara o activar un evento de jefe.
 #
 item.soulkeydiamond.name=Llave alma de diamante
 item.soulkeydiamond.description=¡Una llave de alma mas poderosa capaz de invocar jefes mas poderosos!
@@ -2129,7 +2129,7 @@ item.soulkeyemerald.description=¡Una llave de alma mas poderosa capaz de invoca
 #
 # ========== Soulstones ==========
 item.soulstone.name=Piedra alma
-item.soulstone.description=usala en tu mascota para unirla a tu alma. Una mascota unida a tu alma te permite invocarla y guardarla cuando quieras, aparte de que puede revivir despues de la muerte.
+item.soulstone.description=Usala en tu mascota para unirla a tu alma. Una mascota unida a tu alma te permite invocarla y guardarla cuando quieras, aparte de que puede revivir despues de la muerte.
 #
 item.soulstone_aberration.name=Piedra con alma de aberracion
 item.soulstone_aberration.description=Un alma misteriosa de un aberrante vive en el interior de esta piedra. ¡Liberala para que sea tu mascota!

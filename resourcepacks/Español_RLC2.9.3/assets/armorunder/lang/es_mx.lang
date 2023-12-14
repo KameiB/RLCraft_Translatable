@@ -5,29 +5,29 @@ itemGroup.armorunder=Armor Underwear
 item.auw_mod_icon.name=Icono de Armor Underwear
 
 item.auw_antifreeze_boots_liner.name=Interior Otto para botas
-tooltip_summ.item.auw_antifreeze_boots_liner=Combina con unas Botas en la mesa de crafteo para agregar una barrera anti frio de 25%.\nAplicalo a todas las piezas de tu armadura para proteccion al 100%\nUn solo uso!
+tooltip_summ.item.auw_antifreeze_boots_liner=Combina con unas Botas en la mesa de crafteo para agregar una barrera anti frio de 25%.\nAplicalo a todas las piezas de tu armadura para proteccion al 100%\n§4Un solo uso!
 item.auw_antifreeze_chestplate_liner.name=Interior Otto para pechera
-tooltip_summ.item.auw_antifreeze_chestplate_liner=Combina con una Pechera en la mesa de crafteo para agregar una barrera anti frio de 25%.\nAplicalo a todas las piezas de tu armadura para proteccion al 100%\nUn solo uso!
+tooltip_summ.item.auw_antifreeze_chestplate_liner=Combina con una Pechera en la mesa de crafteo para agregar una barrera anti frio de 25%.\nAplicalo a todas las piezas de tu armadura para proteccion al 100%\n§4Un solo uso!
 item.auw_antifreeze_helmet_liner.name=Interior Otto para casco
-tooltip_summ.item.auw_antifreeze_helmet_liner=Combina con un Casco en la mesa de crafteo para agregar una barrera anti frio de 25%.\nAplicalo a todas las piezas de tu armadura para proteccion al 100%\nUn solo uso!
+tooltip_summ.item.auw_antifreeze_helmet_liner=Combina con un Casco en la mesa de crafteo para agregar una barrera anti frio de 25%.\nAplicalo a todas las piezas de tu armadura para proteccion al 100%\n§4Un solo uso!
 item.auw_antifreeze_leggings_liner.name=Interior Otto para pantalon
-tooltip_summ.item.auw_antifreeze_leggings_liner=Combina con unos Pantalones en la mesa de crafteo para agregar una barrera anti frio de 25%.\nAplicalo a todas las piezas de tu armadura para proteccion al 100%\nUn solo uso!
+tooltip_summ.item.auw_antifreeze_leggings_liner=Combina con unos Pantalones en la mesa de crafteo para agregar una barrera anti frio de 25%.\nAplicalo a todas las piezas de tu armadura para proteccion al 100%\n§4Un solo uso!
 
 item.auw_auto_boots_liner.name=Interior Ozzy para botas
 item.auw_auto_chestplate_liner.name=Interior Ozzy para pechera
-tooltip_summ.item.auw_auto_chestplate_liner=Combina con una Pechera en la mesa de crafteo para agregar un interior que se ajusta automaticamente a la temperatura.\nSolo necesitas un interior Ozzy por armadura.\nUn solo uso!
+tooltip_summ.item.auw_auto_chestplate_liner=Combina con una Pechera en la mesa de crafteo para agregar un interior que se ajusta automaticamente a la temperatura.\nSolo necesitas un interior Ozzy por armadura.\n§4Un solo uso!
 item.auw_auto_helmet_liner.name=Interior Ozzy para casco
 item.auw_auto_leggings_liner.name=Interior Ozzy para pantalones
-tooltip_summ.item.auw_auto_leggings_liner=Combina con unos Pantalones en la mesa de crafteo para agregar un interior que se ajusta automaticamente a la temperatura.\nSolo necesitas un interior Ozzy por armadura.\nUn solo uso!
+tooltip_summ.item.auw_auto_leggings_liner=Combina con unos Pantalones en la mesa de crafteo para agregar un interior que se ajusta automaticamente a la temperatura.\nSolo necesitas un interior Ozzy por armadura.\n§4Un solo uso!
 
 item.auw_barrier_boots_liner.name=Interior Ollie para botas
-tooltip_summ.item.auw_barrier_boots_liner=Combina con unas Botas en la mesa de crafteo para agregar una barrera anti calor de 25%.\nAplicalo a todas las piezas de tu armadura para proteccion al 100%\nUn solo uso!
+tooltip_summ.item.auw_barrier_boots_liner=Combina con unas Botas en la mesa de crafteo para agregar una barrera anti calor de 25%.\nAplicalo a todas las piezas de tu armadura para proteccion al 100%\n§4Un solo uso!
 item.auw_barrier_chestplate_liner.name=Interior Ollie para pechera
-tooltip_summ.item.auw_barrier_chestplate_liner=Combina con unas Botas en la mesa de crafteo para agregar una barrera anti calor de 25%.\nAplicalo a todas las piezas de tu armadura para proteccion al 100%\nUn solo uso!
+tooltip_summ.item.auw_barrier_chestplate_liner=Combina con unas Botas en la mesa de crafteo para agregar una barrera anti calor de 25%.\nAplicalo a todas las piezas de tu armadura para proteccion al 100%\n§4Un solo uso!
 item.auw_barrier_helmet_liner.name=Interior Ollie para casco
-tooltip_summ.item.auw_barrier_helmet_liner=Combina con unas Botas en la mesa de crafteo para agregar una barrera anti calor de 25%.\nAplicalo a todas las piezas de tu armadura para proteccion al 100%\nUn solo uso!
+tooltip_summ.item.auw_barrier_helmet_liner=Combina con unas Botas en la mesa de crafteo para agregar una barrera anti calor de 25%.\nAplicalo a todas las piezas de tu armadura para proteccion al 100%\n§4Un solo uso!
 item.auw_barrier_leggings_liner.name=Interior Ollie para pantalones
-tooltip_summ.item.auw_barrier_leggings_liner=Combina con unas Botas en la mesa de crafteo para agregar una barrera anti calor de 25%.\nAplicalo a todas las piezas de tu armadura para proteccion al 100%\nUn solo uso!
+tooltip_summ.item.auw_barrier_leggings_liner=Combina con unas Botas en la mesa de crafteo para agregar una barrera anti calor de 25%.\nAplicalo a todas las piezas de tu armadura para proteccion al 100%\n§4Un solo uso!
 
 item.auw_cool_boots_liner.name=Interior enfriador para botas
 item.auw_cool_chestplate_liner.name=Interior enfriador para pechera
@@ -65,6 +65,6 @@ item.auw_auto_chestplate_liner.addedtooltip.1=Se destruye si lo quitas!
 item.auw_auto_leggings_liner.addedtooltip.1=Se destruye si lo quitas!
 
 tooltip.auw.xlining.ozzy.auto_adjust=Interior auto-ajust>
-tooltip.auw.xlining.ozzy_mild=TEMPLADO
-tooltip.auw.xlining.ozzy_warm=CALOR
-tooltip.auw.xlining.ozzy_cool=FRIO
+tooltip.auw.xlining.ozzy_mild=§6TEMPLADO
+tooltip.auw.xlining.ozzy_cool=§3FRIO
+tooltip.auw.xlining.ozzy_warm=§4CALOR

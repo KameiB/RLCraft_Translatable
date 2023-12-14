@@ -266,8 +266,8 @@ item.iceandfire.dragon_horn_lightning.name=Cuerno de Dragon de rayo
 
 item.iceandfire.hydra_fang.name=Colmillo de Hidra
 item.iceandfire.hydra_heart.name=Corazon de Hidra
-item.iceandfire.hydra_heart.desc_0=En tu barra rapida, da Regeneracion que
-item.iceandfire.hydra_heart.desc_1=aumenta segun que tan herido estas
+item.iceandfire.hydra_heart.desc_0=§aEn tu barra rapida, da Regeneracion que
+item.iceandfire.hydra_heart.desc_1=§aaumenta segun que tan herido estas
 item.iceandfire.hydra_arrow.name=Flecha de Hidra
 item.iceandfire.hydra_arrow.desc=Envenena y roba la vida del objetivo
 

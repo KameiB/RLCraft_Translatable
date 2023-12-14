@@ -12,15 +12,15 @@ tile.scalinghealth.crystalore.name=Mineral de cristal de corazon
 # Items #
 #########
 
-item.scalinghealth.crystalshard.name=Fragmento de cristal de corazon
+item.scalinghealth.crystalshard.name=Cristal de corazon
 item.scalinghealth.enchanted_heart.name=Corazon encantando
 item.scalinghealth.cursed_heart.name=Corazon maldito
 item.scalinghealth.difficultychanger.effectDesc=Dificultad %s
 item.scalinghealth.heartcontainer.name=Contenedor de corazon
 item.scalinghealth.heartcontainer.desc=Clic derecho para incrementar tu salud maxima en 1 corazon. Maximo 10 corazones.
 item.scalinghealth.heartcontainer.notEnoughXP=Necesitas %d niveles de EXP para usar esto
-item.scalinghealth.heartdust.name=Polvo de corazon
-item.scalinghealth.bandage.name=Vendaje
+item.scalinghealth.heartdust.name=Polvo de cristal de corazon
+item.scalinghealth.bandage.name=Venda
 item.scalinghealth.medkit.name=Kit de primeros auxilios
 item.scalinghealth.healingitem.healingValue=Regenera %d%% de tu salud en %d segundos.
 item.scalinghealth.healingitem.howToUse=Manten presionado el clic derecho por %d segundos para usarlo.
