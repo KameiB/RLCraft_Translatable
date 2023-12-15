@@ -1,5 +1,5 @@
 # Translatable stuff
-For the localized lore of loot items, you'll need my mod [LocalizedLore](https://legacy.curseforge.com/minecraft/mc-mods/loc-lore)  
+For the localized lore of loot items, you'll need my mod [Localizator](https://www.curseforge.com/minecraft/mc-mods/localizator)  
 ### bountiful/rewards.json
 - Lines 33, 521:  Added lang keys.   
 
@@ -16,7 +16,7 @@ For the localized lore of loot items, you'll need my mod [LocalizedLore](https:/
 - Added lang keys to all custom loot names and lore.  
 
 ### setbonus/1.12.2.009+.cfg
-- Lines 178-199, 222-259. Added lang keys. Requires my fork.  
+- Lines 178-199, 222-259. Added lang keys. Requires my "Localizator" mod.  
 
 ### trinkets/Trinkets_And_Baubles.cfg
 - Lines 613-620: Replaced oreDictionary entries with Block Ids, so they become translatable.  
