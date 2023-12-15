@@ -9,7 +9,7 @@ For full localization support, please download my mod [Localizator](https://www.
 
 ### DLDungeonsJBG/nbt.cfg
 - Lines 48, 63, 64, 65, 75, 76, 85, 86, 96, 97, 98: Added lang keys.
-- Requires most recent RLD for rldLocLore NBT tag support.    
+- Requires "Localizator" for LocLore NBT tag support.    
 
 ### lycanitesmobs/dungeons/schematics
 - Dungeons boss names (server-side).
