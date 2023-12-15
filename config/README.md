@@ -9,7 +9,7 @@ For full localization support, please download my mod [Localizator](https://www.
 
 ### DLDungeonsJBG/nbt.cfg
 - Lines 48, 63, 64, 65, 75, 76, 85, 86, 96, 97, 98: Added lang keys.
-- Requires "Localizator" for LocLore NBT tag support.    
+- Requires most recent RLD for rldLocLore NBT tag support.    
 
 ### lycanitesmobs/dungeons/schematics
 - Dungeons boss names (server-side).
@@ -20,7 +20,7 @@ For full localization support, please download my mod [Localizator](https://www.
 
 ### roguelike_dungeons/settings/fnar/vanilla/loot
 - Added lang keys to all custom loot names and lore.
-- Requires "Localizator" for LocLore NBT tag support.
+- Requires most recent RLD build for rldLocLore NBT tag support.
 
 ### setbonus/1.12.2.009+.cfg
 - Lines 178-199, 222-259. Added lang keys.
