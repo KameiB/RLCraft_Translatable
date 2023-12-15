@@ -1,33 +1,34 @@
-## From Shivaxi's scripts
+## For Shivaxi's scripts
 # === Used for multiple items ===
-tooltip.scripts.onlycrafting=§4Solo es un componente de crafteo!
-tooltip.scripts.weapon.steelbonus=§6Daño adicional a mobs del Nether y Elementales de fuego: +2
+tooltip.scripts.onlycrafting=Solo es un componente de crafteo!
+tooltip.scripts.weapon.steelbonus=Daño adicional a mobs del Nether y Elementales de fuego: +2
+
 # === Armor Underwear ===
-tooltip.scripts.ozzyliner.destroys=§4 Se destruye si lo quitas!
+tooltip.scripts.ozzyliner.destroys=Se destruye si lo quitas!
 
 # === Better Survival ===
-//tooltip.scripts.bettersurvival.steelbonus=Daño contra mobs del Nether y Elementales de fuego: +2
+tooltip.scripts.bettersurvival.steelbonus=Daño contra mobs del Nether y Elementales de fuego: +2
 
 # === Bountiful Baubles ===
-tooltip.bountifulbaubles:amuletsinwrath=§5Un trofeo perdido en el tiempo, que recuerda a otro mundo.
+tooltip.scripts.amuletSinWrath=Un trofeo perdido en el tiempo, que recuerda a otro mundo.
 
 # === Content Tweaker ===
-tooltip.contenttweaker:sentient_core=§6La llama de la vida brilla fuertemente en este objeto. El nucleo que evoluciona a las armas y armaduras.
-tooltip.contenttweaker:blood_tear=§6Una horrible lagrima, derramada por un parasito muy poderoso. Parece tener vida propia.
+item.contenttweaker.sentient_core.desc=La llama de la vida brilla fuertemente en este objeto. El nucleo que evoluciona a las armas y armaduras.
+item.contenttweaker.blood_tear.desc=Una horrible lagrima, derramada por un parasito muy poderoso. Parece tener vida propia.
 
 # === Quark ===
-tooltip.quark:ancient_tome=§6En tu mano izquierda sosten este Tomo. En la derecha el item con el mismo encantamiento. Da clic derecho y se aumentara su nivel.
+item.quark:ancient_tome.desc=En tu mano izquierda sosten este Tomo. En la derecha el item con el mismo encantamiento. Da clic derecho y se aumentara su nivel.
 
 # === RLMixins ===
 item.cleansing_talisman.desc=Craftealo con cualquier libro encantado para convertirlo en Rompe maldiciones
 
 # === Rustic ===
 # Added by KameiB. From Shiv.zs
-// item.rustic.chili_pepper_seeds.addedtooltip.1=Estaciones fertiles:
-// item.rustic.chili_pepper_seeds.addedtooltip.2= Verano
-// item.rustic.tomato_seeds.addedtooltip.1=Estaciones fertiles:
-// item.rustic.tomato_seeds.addedtooltip.2= Verano
-// item.rustic.tomato_seeds.addedtooltip.3= Otoño
+item.rustic.chili_pepper_seeds.addedtooltip.1=Estaciones fertiles:
+item.rustic.chili_pepper_seeds.addedtooltip.2= Verano
+item.rustic.tomato_seeds.addedtooltip.1=Estaciones fertiles:
+item.rustic.tomato_seeds.addedtooltip.2= Verano
+item.rustic.tomato_seeds.addedtooltip.3= Otoño
 
 # Added by KameiB. Useful Descriptions for wines
 item.rustic.ale.addedtooltip.1=Da Inmunizacion
@@ -76,27 +77,27 @@ item.rustic.ale_wort.addedtooltip.3=Nauseas II (0:20)
 tooltip.holdshift=<Shift> para Kame Vision
 
 # === Serene Seasons ===
-tooltip.sereneseasons:greenhouse_glass=§aPermite que los cultivos que esten hasta 7 bloques debajo de este cristal, crezcan en cualquier estacion
-// desc.sereneseasons.fertile_seasons=Estaciones fertiles:
-// desc.sereneseasons.year_round= Todo el año
-// desc.sereneseasons.spring= Primavera
-// desc.sereneseasons.summer= Verano
-// desc.sereneseasons.autumn= Otoño
-// desc.sereneseasons.winter= Invierno
+tile.greenhouse_glass.desc=Permite que los cultivos que esten hasta 7 bloques debajo de este cristal, crezcan en cualquier estacion
+desc.sereneseasons.fertile_seasons=Estaciones fertiles:
+desc.sereneseasons.year_round= Todo el año
+desc.sereneseasons.spring= Primavera
+desc.sereneseasons.summer= Verano
+desc.sereneseasons.autumn= Otoño
+desc.sereneseasons.winter= Invierno
 
 # === Simple Difficulty ===
-tooltip.simpledifficulty:wool_helmet=§4Calor (+2)
-tooltip.simpledifficulty:wool_chestplate=§4Calor (+2)
-tooltip.simpledifficulty:wool_leggings=§4Calor (+2)
-tooltip.simpledifficulty:wool_boots=§4Calor (+2)
-tooltip.simpledifficulty:ice_helmet=§3Frio (-2)
-tooltip.simpledifficulty:ice_chestplate=§3Frio (-2)
-tooltip.simpledifficulty:ice_leggings=§3Frio (-2)
-tooltip.simpledifficulty:ice_boots=§3Frio (-2)
+tooltip.scripts.simpledifficulty:wool_helmet=Calor (+2)
+tooltip.scripts.simpledifficulty:wool_chestplate=Calor (+2)
+tooltip.scripts.simpledifficulty:wool_leggings=Calor (+2)
+tooltip.scripts.simpledifficulty:wool_boots=Calor (+2)
+tooltip.scripts.simpledifficulty:ice_helmet=Frio (-2)
+tooltip.scripts.simpledifficulty:ice_chestplate=Frio (-2)
+tooltip.scripts.simpledifficulty:ice_leggings=Frio (-2)
+tooltip.scripts.simpledifficulty:ice_boots=Frio (-2)
 
 # === Varied Commodities ===
-tooltip.variedcommodities:heart=§aUno de los multiples corazones que tiro Rahovart. Aun late con energia demoniaca.
-tooltip.variedcommodities:skull=§aUno de los multiples craneos que tiro Asmodeus. Aun se oyen los gritos de las almas perdidas que tiene dentro.
+item.heart.desc=Uno de los multiples corazones que tiro Rahovart. Aun late con energia demoniaca.
+item.skull.desc=Uno de los multiples craneos que tiro Asmodeus. Aun se oyen los gritos de las almas perdidas que tiene dentro.
 
-### Backwards compatibility with old scripts
+# (Backwards compatibility)
 item.fishingRod.addedtooltip.1=Solo es un componente de crafteo!

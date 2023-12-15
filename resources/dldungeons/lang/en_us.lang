@@ -1,5 +1,5 @@
-## Doomlike dungeons cfg loot names and lore ##
-# nbt.cfg
+## From config/DLDungeonsJBG/nbt.cfg
+# Needs "Localizator"
 item.dldungeons.SLICE=§a§oClean Slicer
 item.dldungeons.EEGG5=§a§oFortuna Major
 item.dldungeons.EGGLORE0=Believe it or not, this comes from

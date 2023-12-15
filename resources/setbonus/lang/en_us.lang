@@ -1,4 +1,5 @@
-# SetBonus Localized bonus names and descriptions
+# SetBonus Localized bonus names and descriptions, from config/setbonus/1.12.2.009+.cfg
+# Needs "Localizator"
 set.LB=Ranger Danger
 set.NSet=Neptune's Blessing
 set.GSet=Magic Infusion

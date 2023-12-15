@@ -2449,3 +2449,29 @@ entity.fireball=Bola de fuego
 # Added for KameiB script
 #
 tile.equipmentforge_lesser.addedtooltip.1=Primero coloca una parte de tipo Base en el espacio azul. Esta puede desbloquear los espacios a los lados. El de la izquierda es la Empuñadura y el de la derecha es Cabeza. Una parte de tipo Cabeza puede desbloquear los espacios para Hacha (arriba y abajo) y/o Filo/Joya (a la derecha).
+#
+# Added by KameiB: Dungeons minibosses
+Experiment 69R=Experimento 69R
+Arachnotron=Aracnotrón
+Anarchical Hound=Sabueso Anárquico
+Asakku=Asakku
+Mantle Gorger=Gorger Magmático
+Molten Titan=Titán Fundido
+Prime Lava Soul=Alma de Lava Primigenia
+The Tyrant Dragon=El Dragón Tirano
+Baron of Hell=Barón del Infierno
+Gluttony=Gula
+Pain Elemental=Elemental del Dolor
+Azazel=Azazel
+Gilded Greatworm=Gran Gusano dorado
+Crypt Executioner=Ejecutor de la Cripta
+The Guardian Dragon=El Dragón Guardián
+Pong Kong=Pong Kong
+Princess=Princesa
+Malevolent Observer=Observador Malévolo
+Precious=Preciosa
+Chaos Serpent=Serpiente del Caos
+Night Shade=Sombra Nocturna
+Bruce=Bruno
+The Loch Ness=El Lago Ness
+Man Ray=Manta Raya

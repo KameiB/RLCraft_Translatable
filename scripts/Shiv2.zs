@@ -17,47 +17,51 @@ events.onPlayerTick(function(event as crafttweaker.event.PlayerTickEvent) {
   }
 });
 
-/*
-<simpledifficulty:wool_helmet:*>.addTooltip(format.darkRed("+2 Warmth"));
-<simpledifficulty:wool_chestplate:*>.addTooltip(format.darkRed("+2 Warmth"));
-<simpledifficulty:wool_leggings:*>.addTooltip(format.darkRed("+2 Warmth"));
-<simpledifficulty:wool_boots:*>.addTooltip(format.darkRed("+2 Warmth"));
-<simpledifficulty:ice_helmet:*>.addTooltip(format.darkAqua("+2 Cooling"));
-<simpledifficulty:ice_chestplate:*>.addTooltip(format.darkAqua("+2 Cooling"));
-<simpledifficulty:ice_leggings:*>.addTooltip(format.darkAqua("+2 Cooling"));
-<simpledifficulty:ice_boots:*>.addTooltip(format.darkAqua("+2 Cooling"));
+// If renaming an item is still necessary, let's rename the same hidden items!
+<aquaculture:iron_fishing_rod>.displayName = "Iron Fishing Rod";
+<aquaculture:gold_fishing_rod>.displayName = "Gold Fishing Rod";
+<aquaculture:diamond_fishing_rod>.displayName = "Diamond Fishing Rod";
 
-<rlmixins:scarlite_helmet:*>.displayName = "\u00A74\u00A7kScarlite\u00A7r\u00A74 Helmet";
-<rlmixins:scarlite_chestplate:*>.displayName = "\u00A74\u00A7kScarlite\u00A7r\u00A74 Chestplate";
-<rlmixins:scarlite_leggings:*>.displayName = "\u00A74\u00A7kScarlite\u00A7r\u00A74 Leggings";
-<rlmixins:scarlite_boots:*>.displayName = "\u00A74\u00A7kScarlite\u00A7r\u00A74 Boots";
+// Moved to CustomTooltips.zs. It's safe to delete these
+//<simpledifficulty:wool_helmet:*>.addTooltip(format.darkRed("+2 Warmth"));
+//<simpledifficulty:wool_chestplate:*>.addTooltip(format.darkRed("+2 Warmth"));
+//<simpledifficulty:wool_leggings:*>.addTooltip(format.darkRed("+2 Warmth"));
+//<simpledifficulty:wool_boots:*>.addTooltip(format.darkRed("+2 Warmth"));
+//<simpledifficulty:ice_helmet:*>.addTooltip(format.darkAqua("+2 Cooling"));
+//<simpledifficulty:ice_chestplate:*>.addTooltip(format.darkAqua("+2 Cooling"));
+//<simpledifficulty:ice_leggings:*>.addTooltip(format.darkAqua("+2 Cooling"));
+//<simpledifficulty:ice_boots:*>.addTooltip(format.darkAqua("+2 Cooling"));
 
-<mujmajnkraftsbettersurvival:itemsteelhammer:*>.addTooltip(format.gold("+2 damage against Nether mobs and Fire elementals"));
-<mujmajnkraftsbettersurvival:itemsteelspear:*>.addTooltip(format.gold("+2 damage against Nether mobs and Fire elementals"));
-<mujmajnkraftsbettersurvival:itemsteeldagger:*>.addTooltip(format.gold("+2 damage against Nether mobs and Fire elementals"));
-<mujmajnkraftsbettersurvival:itemsteelbattleaxe:*>.addTooltip(format.gold("+2 damage against Nether mobs and Fire elementals"));
-<mujmajnkraftsbettersurvival:itemsteelnunchaku:*>.addTooltip(format.gold("+2 damage against Nether mobs and Fire elementals"));
-<spartanweaponry:dagger_steel:*>.addTooltip(format.gold("+2 damage against Nether mobs and Fire elementals"));
-<spartanweaponry:longsword_steel:*>.addTooltip(format.gold("+2 damage against Nether mobs and Fire elementals"));
-<spartanweaponry:katana_steel:*>.addTooltip(format.gold("+2 damage against Nether mobs and Fire elementals"));
-<spartanweaponry:saber_steel:*>.addTooltip(format.gold("+2 damage against Nether mobs and Fire elementals"));
-<spartanweaponry:rapier_steel:*>.addTooltip(format.gold("+2 damage against Nether mobs and Fire elementals"));
-<spartanweaponry:greatsword_steel:*>.addTooltip(format.gold("+2 damage against Nether mobs and Fire elementals"));
-<spartanweaponry:hammer_steel:*>.addTooltip(format.gold("+2 damage against Nether mobs and Fire elementals"));
-<spartanweaponry:warhammer_steel:*>.addTooltip(format.gold("+2 damage against Nether mobs and Fire elementals"));
-<spartanweaponry:spear_steel:*>.addTooltip(format.gold("+2 damage against Nether mobs and Fire elementals"));
-<spartanweaponry:throwing_axe_steel:*>.addTooltip(format.gold("+2 damage against Nether mobs and Fire elementals"));
-<spartanweaponry:halberd_steel:*>.addTooltip(format.gold("+2 damage against Nether mobs and Fire elementals"));
-<spartanweaponry:pike_steel:*>.addTooltip(format.gold("+2 damage against Nether mobs and Fire elementals"));
-<spartanweaponry:lance_steel:*>.addTooltip(format.gold("+2 damage against Nether mobs and Fire elementals"));
-<spartanweaponry:throwing_knife_steel:*>.addTooltip(format.gold("+2 damage against Nether mobs and Fire elementals"));
-<spartanweaponry:javelin_steel:*>.addTooltip(format.gold("+2 damage against Nether mobs and Fire elementals"));
-<spartanweaponry:boomerang_steel:*>.addTooltip(format.gold("+2 damage against Nether mobs and Fire elementals"));
-<spartanweaponry:battleaxe_steel:*>.addTooltip(format.gold("+2 damage against Nether mobs and Fire elementals"));
-<spartanweaponry:mace_steel:*>.addTooltip(format.gold("+2 damage against Nether mobs and Fire elementals"));
-<spartanweaponry:glaive_steel:*>.addTooltip(format.gold("+2 damage against Nether mobs and Fire elementals"));
-<spartanweaponry:staff_steel:*>.addTooltip(format.gold("+2 damage against Nether mobs and Fire elementals"));
-*/
+//<rlmixins:scarlite_helmet:*>.displayName = "\u00A74\u00A7kScarlite\u00A7r\u00A74 Helmet";
+//<rlmixins:scarlite_chestplate:*>.displayName = "\u00A74\u00A7kScarlite\u00A7r\u00A74 Chestplate";
+//<rlmixins:scarlite_leggings:*>.displayName = "\u00A74\u00A7kScarlite\u00A7r\u00A74 Leggings";
+//<rlmixins:scarlite_boots:*>.displayName = "\u00A74\u00A7kScarlite\u00A7r\u00A74 Boots";
+
+//<mujmajnkraftsbettersurvival:itemsteelhammer:*>.addTooltip(format.gold("+2 damage against Nether mobs and Fire elementals"));
+//<mujmajnkraftsbettersurvival:itemsteelspear:*>.addTooltip(format.gold("+2 damage against Nether mobs and Fire elementals"));
+//<mujmajnkraftsbettersurvival:itemsteeldagger:*>.addTooltip(format.gold("+2 damage against Nether mobs and Fire elementals"));
+//<mujmajnkraftsbettersurvival:itemsteelbattleaxe:*>.addTooltip(format.gold("+2 damage against Nether mobs and Fire elementals"));
+//<mujmajnkraftsbettersurvival:itemsteelnunchaku:*>.addTooltip(format.gold("+2 damage against Nether mobs and Fire elementals"));
+//<spartanweaponry:dagger_steel:*>.addTooltip(format.gold("+2 damage against Nether mobs and Fire elementals"));
+//<spartanweaponry:longsword_steel:*>.addTooltip(format.gold("+2 damage against Nether mobs and Fire elementals"));
+//<spartanweaponry:katana_steel:*>.addTooltip(format.gold("+2 damage against Nether mobs and Fire elementals"));
+//<spartanweaponry:saber_steel:*>.addTooltip(format.gold("+2 damage against Nether mobs and Fire elementals"));
+//<spartanweaponry:rapier_steel:*>.addTooltip(format.gold("+2 damage against Nether mobs and Fire elementals"));
+// <spartanweaponry:greatsword_steel:*>.addTooltip(format.gold("+2 damage against Nether mobs and Fire elementals"));
+// <spartanweaponry:hammer_steel:*>.addTooltip(format.gold("+2 damage against Nether mobs and Fire elementals"));
+// <spartanweaponry:warhammer_steel:*>.addTooltip(format.gold("+2 damage against Nether mobs and Fire elementals"));
+// <spartanweaponry:spear_steel:*>.addTooltip(format.gold("+2 damage against Nether mobs and Fire elementals"));
+// <spartanweaponry:throwing_axe_steel:*>.addTooltip(format.gold("+2 damage against Nether mobs and Fire elementals"));
+// <spartanweaponry:halberd_steel:*>.addTooltip(format.gold("+2 damage against Nether mobs and Fire elementals"));
+// <spartanweaponry:pike_steel:*>.addTooltip(format.gold("+2 damage against Nether mobs and Fire elementals"));
+// <spartanweaponry:lance_steel:*>.addTooltip(format.gold("+2 damage against Nether mobs and Fire elementals"));
+// <spartanweaponry:throwing_knife_steel:*>.addTooltip(format.gold("+2 damage against Nether mobs and Fire elementals"));
+// <spartanweaponry:javelin_steel:*>.addTooltip(format.gold("+2 damage against Nether mobs and Fire elementals"));
+// <spartanweaponry:boomerang_steel:*>.addTooltip(format.gold("+2 damage against Nether mobs and Fire elementals"));
+// <spartanweaponry:battleaxe_steel:*>.addTooltip(format.gold("+2 damage against Nether mobs and Fire elementals"));
+// <spartanweaponry:mace_steel:*>.addTooltip(format.gold("+2 damage against Nether mobs and Fire elementals"));
+// <spartanweaponry:glaive_steel:*>.addTooltip(format.gold("+2 damage against Nether mobs and Fire elementals"));
+// <spartanweaponry:staff_steel:*>.addTooltip(format.gold("+2 damage against Nether mobs and Fire elementals"));
 
 //Potion Of Curse Break
 brewing.addBrew(<minecraft:potion>.withTag({Potion: "minecraft:thick"}), <rlmixins:cleansing_talisman>, <minecraft:potion>.withTag({Potion: "rlmixins:curse_break"}));
@@ -188,6 +192,7 @@ brewing.addBrew(<minecraft:splash_potion>.withTag({Potion: "rlmixins:curse_break
 //<mujmajnkraftsbettersurvival:itemjunglechitinhammer:*>.addTooltip(format.green("Secondary Attack, Stun And Knockback"));
 //<mujmajnkraftsbettersurvival:itemdesertchitinhammer:*>.addTooltip(format.green("Secondary Attack, Stun And Knockback"));
 
+// Moved to CustomTooltips.zs. It's safe to delete this
 //<sereneseasons:greenhouse_glass:*>.addTooltip(format.green("Allows crops up to 7 blocks directly beneath to grow in any season"));
 
 furnace.addRecipe(<defiledlands:umbrium_nugget> * 4, <spartandefiled:longbow_umbrium:*>, 99999);
@@ -276,6 +281,16 @@ recipes.addShaped("lolarecipe146",<betternether:stalagnate_planks_fence>*3,
 recipes.addShaped("lolarecipe147",<betternether:reeds_fence>*3,
  [[<betternether:reeds_block>,<minecraft:stick>,<betternether:reeds_block>],
   [<betternether:reeds_block>,<minecraft:stick>,<betternether:reeds_block>]]);
+
+recipes.addShaped("lolarecipe76",<simpledifficulty:dragon_canteen>,
+ [[<iceandfire:dragon_skull:0>|<iceandfire:dragon_skull:1>|<iceandfire:dragon_skull:2>],
+  [<simpledifficulty:iron_canteen:*>],
+  [<iceandfire:fire_dragon_heart>|<iceandfire:ice_dragon_heart>|<iceandfire:lightning_dragon_heart>]]);
+
+recipes.addShaped("lolarecipe60",<xat:damage_shield>,
+ [[<xat:glowing_gem>,<quark:biotite>,<xat:glowing_gem>],
+  [<quark:biotite>,<minecraft:dragon_egg>|<iceandfire:dragonegg_red>|<iceandfire:dragonegg_green>|<iceandfire:dragonegg_bronze>|<iceandfire:dragonegg_gray>|<iceandfire:dragonegg_blue>|<iceandfire:dragonegg_white>|<iceandfire:dragonegg_sapphire>|<iceandfire:dragonegg_silver>|<iceandfire:dragonegg_amethyst>|<iceandfire:dragonegg_electric>|<iceandfire:dragonegg_black>|<iceandfire:dragonegg_copper>,<quark:biotite>],
+  [<xat:glowing_gem>,<quark:biotite>,<xat:glowing_gem>]]);
 
 //===============
 //RUNE TIME

@@ -1,16 +1,11 @@
 # Custom names and translations
 ### Shiv.sz, Shiv2.sz
 - Commented all hardcoded names and tooltips.  
+- Since renaming items is necessary for some reason, I renamed the hidden Aquaculture Fishing Rods.
 
-### CustomNamesTooltips.zs
-- Replaced Shivaxi's hardcoded english names and tooltips with translatable texts.  
-  So if you plan to use this, I suggest commenting all hardcoded stuff on Shiv.zs and Shiv2.zs (or use my files)  
-- Grave scroll: Replaced default hardcoded description with a translatable one.
-- Replaced Seeds' "Fertile Seasons" hardcoded texts with translatable ones.
+### CustomTooltips.zs
+- Moved Shivaxi's hardcoded english names to resources/lang/en_us.lang.  
+- Adapted the addTooltip function, so it takes a lang key instead of a hardcoded text.  
 
-### CustomNamesTooltips2.zs (Optional)
-- Charm cakes: Replaced hardcoded names with translatable ones. (may be more elegant to make a mixin for this)  
-- Armor Under: Chestplates and Leggings with Ozzy liner MILD, WARM, COOL hardcoded texts replaced with translatable, colored ones. (may be more elegant to make a mixin for this)
-
-### UsefulTooltips.zs (For KameiB's personal use)
-- OPTIONAL. Additional useful tooltips for various items.
+### UsefulTooltips.zs
+- OPTIONAL. Adds useful tooltips for various items, including each fish bait.

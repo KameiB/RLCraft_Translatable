@@ -10,10 +10,6 @@ For full localization support, please download my mod [Localizator](https://www.
 ### DLDungeonsJBG/nbt.cfg
 - Lines 48, 63, 64, 65, 75, 76, 85, 86, 96, 97, 98: Added lang keys.
 - Requires "Localizator" for LocLore NBT tag support.    
-
-### lycanitesmobs/dungeons/schematics
-- Dungeons boss names (server-side).
-- Requires "Localizator" for Entity's localized CustomName NBT tag support.  
   
 ### quark.cfg
 - Lines 3050-3055: Added lang keys.  
