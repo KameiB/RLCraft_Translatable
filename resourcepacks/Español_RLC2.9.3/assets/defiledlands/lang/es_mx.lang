@@ -176,7 +176,7 @@ entity.defiledlands.slime_defiled.name=Slime corrupto
 
 entity.defiledlands.book_wyrm.name=Librodrilo
 
-entity.defiledlands.the_destroyer.name=El Destructor
+entity.defiledlands.the_destroyer.name=La Destructora
 entity.defiledlands.the_mourner.name=El Doliente
 
 #----------------------------
@@ -230,11 +230,11 @@ advancements.defiledlands.umbra_blaster.title=Este es mi palo de escoba
 advancements.defiledlands.umbra_blaster.description=Craftea un Cañon umbreo
 advancements.defiledlands.scarlite.title=La Cruzada escarlata
 advancements.defiledlands.scarlite.description=Mina Escarlata en el suelo profundo
-advancements.defiledlands.summon_destroyer.title=Uno devasto el mundo...
+advancements.defiledlands.summon_destroyer.title=Una devastó el mundo...
 advancements.defiledlands.summon_destroyer.description=Usa una Piedra del llamado en un Altar de conjuros activo
 advancements.defiledlands.ravaging_tool.title=Portador de destruccion
 advancements.defiledlands.ravaging_tool.description=Fabrica una herramienta con Esencia devastadora
-advancements.defiledlands.summon_mourner.title=...el otro lloro en silencio
+advancements.defiledlands.summon_mourner.title=...el otro lloró en silencio
 advancements.defiledlands.summon_mourner.description=Usa un Idolo del dolor en un Altar de conjuros activo
 
 advancements.defiledlands.book_wyrm_breed.title=El amor esta en el aire
@@ -254,3 +254,7 @@ item.defiledlands.pellet_umbrium.tooltip=Municion de El Devastador
 
 # Added tooltips
 item.defiledlands.foul_candy.addedtooltip.1=Da Nauseas
+
+# Boss names (compatibility with Localizator)
+The Mourner=El Doliente
+The Destroyer=La Destructora

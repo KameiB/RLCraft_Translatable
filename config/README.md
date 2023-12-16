@@ -26,9 +26,9 @@ For full localization support, please download my mod [Localizator](https://www.
 - Lines 613-620: Replaced oreDictionary entries with Block Ids, so they become translatable.  
 
 # Spanish-only stuff
-### enhancedvisuals.json
-- Spanish death messages (server-side).  
+### enhancedvisuals_es_mx.json
+- Spanish death messages.  
 
 ### rlmixins/dsurround_chat_es_mx.cfg
-- Add this file for spanish users (client-side).  
+- Add this file for spanish users.  
 

@@ -80,15 +80,3 @@ item.heart.name=Demonic Heart
 tooltip.variedcommodities:heart=§aOne of many hearts dropped by Rahovart, still beating with demonic energy.
 item.skull.name=Corrupted Skull
 tooltip.variedcommodities:skull=§aOne of many skulls dropped by Asmodeus, the lost souls inside can still be heard screaming.
-
-
-### Backwards compatibility with old scripts
-item.advanced-fishing.blazing_fishing_pole.addedtooltip.1=Only used for crafting!
-item.auw_auto_chestplate_liner.addedtooltip.1=Destroyed upon removal!
-item.auw_auto_leggings_liner.addedtooltip.1=Destroyed upon removal!
-item.bettersurvival.steel_bonus.addedtooltip.1=+2 damage against Nether mobs and Fire elementals
-item.bountifulbaubles.amuletSinWrath.addedtooltip.1=A trophy lost to time, reminiscent of another world.
-item.contenttweaker.sentient_core.addedtooltip.1=The flame of life shines strongly in it, almost horribly. The Core that fuels Evolved armor and weapons.
-item.quark:ancient_tome.addedtooltip.1=Use in off-hand to apply to matching enchanted item
-item.cleansing_talisman.addedtooltip.1=Craft with any enchanted book to convert the book's enchantment to Curse Break
-tile.greenhouse_glass.addedtooltip.1=Allows crops up to 7 blocks directly beneath to grow in any season

@@ -1,4 +1,5 @@
 # Custom names and translations
+## Based on scripts for InF 2.0.0
 ### Shiv.sz, Shiv2.sz
 - Commented all hardcoded names and tooltips.  
 - Since renaming items is necessary for some reason, I renamed the hidden Aquaculture Fishing Rods.
