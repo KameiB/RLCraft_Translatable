@@ -381,6 +381,7 @@ entity.dragonlightningcharge.name=Carga de dragon de rayo
 entity.if_hydra.name=Hidra
 entity.hydra_breath.name=Aliento de Hidra
 entity.hydra_arrow.name=Flecha de Hidra
+iceandfire.effect.acid=Acido
 
 sea_serpent.blue=Azul
 sea_serpent.bronze=Bronce
@@ -545,6 +546,9 @@ death.attack.dragon_ice.player_2=fue puesto en animacion suspendida por un Drago
 death.attack.dragon_lightning.player_0=fue azotado con un rayo por un dragon
 death.attack.dragon_lightning.player_1=fue energizado por un dragon
 death.attack.dragon_lightning.player_2=fue electrocutado por un dragon
+death.attack.acid.player_0=fue disuelto por un ácido
+death.attack.acid.player_1=fue derretido por un ácido
+death.attack.acid.player_2=fue convertido en sopa por un ácido
 death.attack.gorgon.player_0=fue petrificado por una Gorgona
 death.attack.gorgon.player_1=fue convertido en Gorgonzola por una Gorgona
 death.attack.gorgon.player_2=fue solidificado por una Gorgona

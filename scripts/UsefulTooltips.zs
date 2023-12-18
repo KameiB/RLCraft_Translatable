@@ -6,7 +6,7 @@ import crafttweaker.item.ITooltipFunction;
 
 print("Kame Vision Script starting!");
 // Optional script. I thought it'd be nice to have extra info on some items.
-
+game.setLocalization("en_us", "tooltip.scripts.holdshift", "Press <Shift> for Kame Vision");
 
 // === Artifacts ===
 game.setLocalization("en_us", "item.artifacts.shock_pendant.addedtooltip.1", "25% thunder chance");
@@ -809,7 +809,7 @@ game.setLocalization("en_us", "item.iceandfire.ambrosia.addedtooltip.2", "Grants
 game.setLocalization("en_us", "tile.equipmentforge_lesser.addedtooltip.1", "First, put a Base type body part in the blue slot. It could open the slots on its sides. Left is Pummel, right is Head. Adding a Head part could open the Axe slots (up and down) and/or Pike/Jewel.");
 <lycanitesmobs:equipmentforge_lesser>.addShiftTooltip(
     format.white(game.localize("tile.equipmentforge_lesser.addedtooltip.1", "en_us"))
-    , format.gray(game.localize("tooltip.holdshift", "en_us"))
+    , format.gray(game.localize("tooltip.scripts.holdshift", "en_us"))
 );
 
 
@@ -982,7 +982,7 @@ game.setLocalization("en_us", "item.rustic.ironberry_juice.addedtooltip.8", "Wea
     format.red(game.localize("item.rustic.ironberry_juice.addedtooltip.6", "en_us")) ~ ", " ~
     format.red(game.localize("item.rustic.ironberry_juice.addedtooltip.7", "en_us")) ~ ", " ~
     format.red(game.localize("item.rustic.ironberry_juice.addedtooltip.8", "en_us"))
-    ,format.gray(game.localize("tooltip.holdshift", "en_us"))
+    ,format.gray(game.localize("tooltip.scripts.holdshift", "en_us"))
 );
 
 // Olive Oil. Al beber: Náuseas II (0:30). Al aplicar a la comida: +hunger, +saturation
@@ -990,7 +990,7 @@ game.setLocalization("en_us", "item.rustic.ironberry_juice.addedtooltip.8", "Wea
 game.setLocalization("en_us", "item.rustic.olive_oil.addedtooltip.1", "Craft it with any food to increase its nutritional value and Saturation!");
 game.setLocalization("en_us", "item.rustic.olive_oil.addedtooltip.2", "When consumed:");
 game.setLocalization("en_us", "item.rustic.olive_oil.addedtooltip.3", "Nausea II (0:30)");
-game.setLocalization("en_us", "tooltip.holdshift", "<Hold Shift>");
+game.setLocalization("en_us", "tooltip.scripts.holdshift", "<Hold Shift>");
 
 <rustic:fluid_bottle>.withTag({Fluid: {FluidName:"oliveoil"}}).addTooltip(format.gold(game.localize("item.rustic.olive_oil.addedtooltip.1", "en_us")));
 
@@ -999,7 +999,7 @@ game.setLocalization("en_us", "tooltip.holdshift", "<Hold Shift>");
 <rustic:fluid_bottle>.withTag({Fluid: {FluidName:"oliveoil"}}).addShiftTooltip(
     format.darkPurple(game.localize("item.rustic.olive_oil.addedtooltip.2", "en_us")) ~ " " ~
     format.red(game.localize("item.rustic.olive_oil.addedtooltip.3", "en_us"))
-    ,format.gray(game.localize("tooltip.holdshift", "en_us"))
+    ,format.gray(game.localize("tooltip.scripts.holdshift", "en_us"))
 );
 
 // Ale Wort: Nausea II (0:20)
@@ -1013,7 +1013,7 @@ game.setLocalization("en_us", "item.rustic.ale_wort.addedtooltip.3", "Nausea II 
 <rustic:fluid_bottle>.withTag({Fluid: {FluidName:"alewort"}}).addShiftTooltip(
     format.darkPurple(game.localize("item.rustic.ale_wort.addedtooltip.2", "en_us")) ~ " " ~
     format.red(game.localize("item.rustic.ale_wort.addedtooltip.3", "en_us"))
-    ,format.gray(game.localize("tooltip.holdshift", "en_us"))
+    ,format.gray(game.localize("tooltip.scripts.holdshift", "en_us"))
 );
 
 

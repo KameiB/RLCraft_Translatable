@@ -21,10 +21,7 @@ tile.bountifulbaubles.reforger.name=Baubles Reforging Station
 item.bountifulbaubles.ringIron.name=Holy Ring
 tooltip.bountifulbaubles:amuletsinwrath=§5A trophy lost to time, reminiscent of another world.
 
-# === Corpse Complex ===
-//item.corpsecomplex.scroll.desc=Return to death location
-
-# === CraftTweaker ===
+# === Craft Tweaker ===
 tooltip.contenttweaker:sentient_core=§6The flame of life shines strongly in it, almost horribly. The Core that fuels Evolved armor and weapons.
 tooltip.contenttweaker:blood_tear=§6A horrible tear, dropped by a very powerful parasite. It almost feels alive.
 

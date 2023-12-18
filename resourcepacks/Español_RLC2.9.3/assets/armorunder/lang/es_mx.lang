@@ -56,15 +56,16 @@ item.auw_warm_leggings_liner.name=Interior calentador para pantalones
 item.auw_warm_liner_material.name=Material para Interior calentador
 
 tooltip.auw.xlining.ozzy=Interior auto-ajust> %1$s
-tooltip.auw.xlining.ozzy.warmer=Extra CALOR
-tooltip.auw.xlining.ozzy.cooler=Extra FRIO
+tooltip.auw.xlining.ozzy.warmer=Extra §4CALOR
+tooltip.auw.xlining.ozzy.cooler=Extra §3FRIO
 tooltip.auw.xlining.ollie=Interior de envoltura de obsidiana
 tooltip.auw.xlining.otto=Interior anti-congelante
 
+tooltip.auw.xlining.ozzy_mild=§6TEMPLADO
+tooltip.auw.xlining.ozzy_warm=§4CALOR
+tooltip.auw.xlining.ozzy_cool=§3FRIO
+
+# Support for old scripts
+tooltip.auw.xlining.ozzy.auto_adjust=Interior auto-ajust>
 item.auw_auto_chestplate_liner.addedtooltip.1=Se destruye si lo quitas!
 item.auw_auto_leggings_liner.addedtooltip.1=Se destruye si lo quitas!
-
-tooltip.auw.xlining.ozzy.auto_adjust=Interior auto-ajust>
-tooltip.auw.xlining.ozzy_mild=§6TEMPLADO
-tooltip.auw.xlining.ozzy_cool=§3FRIO
-tooltip.auw.xlining.ozzy_warm=§4CALOR

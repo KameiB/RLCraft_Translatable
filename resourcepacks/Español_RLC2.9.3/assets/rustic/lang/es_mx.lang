@@ -345,3 +345,47 @@ book.rustic.text.crushing=La tina de trituracion se usa para triturar solidos en
 book.rustic.text.crushing_1=Si la tina esta demasiado llena de fluido, no seguira extrayendo fluido. De ser necesario, puedes vaciar la tina agachandote y dando clic derecho con la mano vacia. Algunas recetas como las cañas de azucar produciran agua y azucar. En ese caso el azucar aparecera sobre la tina, mientras el agua estara dentro de ella.
 book.rustic.text.drying=El cuenco de secado se usa para extraer items de los fluidos, mediante evaporacion. Puede contener hasta seis botellas de fluido. Para usar el cuenco de evaporacion, colocalo en el piso. Despues, vacia botellas como de jugo de argan dando clic derecho con ellas en la mano. Remueve el fluido dando clic derecho con tu mano vacia, o agachandote y clic derecho con la mano vacia, lo que destruira cualqueir fluido en el cuenco.
 book.rustic.text.drying_1=La evaporacion ocurre sola con el paso del tiempo. El fluido en el cuenco se evapora con la velocidad de 1/50 de una cubeta por segundo (una cubeta en menos de un minuto). Una vez que suficiente fluido se ha evaporado para formar una receta valida, el resultado aparecera en el cuenco, si hay espacio para el en el inventario del cuenco. Puedes tomar los items del cuenco dando clic derecho con la mano vacia.
+
+# Added by KameiB. Useful Descriptions for wines
+item.rustic.boozerating.addedtooltip.0=DAÑINO
+item.rustic.boozerating.addedtooltip.1=PROMEDIO
+item.rustic.boozerating.addedtooltip.2=Romantico
+item.rustic.boozerating.addedtooltip.3=BUENO
+item.rustic.boozerating.addedtooltip.4=PERFECTO
+
+item.rustic.ale.addedtooltip.1=Da Inmunizacion
+item.rustic.ale.addedtooltip.2=Al aplicarse:
+item.rustic.ale.addedtooltip.3=Inmunidad a Veneno, Hambre, Nauseas, Debilidad y Paralisis
+
+item.rustic.cider.addedtooltip.1=Da Escudo magico
+item.rustic.cider.addedtooltip.2=Al aplicarse:
+item.rustic.cider.addedtooltip.3=Escudo magico: +4
+
+item.rustic.ironwine.addedtooltip.1=Da Absorcion
+item.rustic.ironwine.addedtooltip.2=Al aplicarse:
+item.rustic.ironwine.addedtooltip.3=Corazones amarillos adicionales
+
+item.rustic.mead.addedtooltip.1=Da Revitalizacion
+item.rustic.mead.addedtooltip.2=Al aplicarse:
+item.rustic.mead.addedtooltip.3=Aumenta la salud recibida
+
+item.rustic.wine.addedtooltip.1=Extiende los efectos de pocion positivos
+
+item.rustic.wildberrywine.addedtooltip.1=Potencializa los efectos de pocion positivos
+
+item.rustic.ironberry_juice.addedtooltip.1=Jugo tan potente que lastima!
+item.rustic.ironberry_juice.addedtooltip.2=Al beberse:
+item.rustic.ironberry_juice.addedtooltip.3=Paralisis (0:30)
+item.rustic.ironberry_juice.addedtooltip.4=Resis. al fuego (0:30)
+item.rustic.ironberry_juice.addedtooltip.5=Resistencia (0:30)
+item.rustic.ironberry_juice.addedtooltip.6=Lentitud (0:30)
+item.rustic.ironberry_juice.addedtooltip.7=Fatiga minera (0:30)
+item.rustic.ironberry_juice.addedtooltip.8=Debilidad (0:30)
+
+item.rustic.olive_oil.addedtooltip.1=Craftealo con una comida para aumentar su valor nutricional y saturacion
+item.rustic.olive_oil.addedtooltip.2=Al beberse:
+item.rustic.olive_oil.addedtooltip.3=Nauseas II (0:30)
+
+item.rustic.ale_wort.addedtooltip.1=Podria hacer una buena Cerveza con esto
+item.rustic.ale_wort.addedtooltip.2=Al beberse:
+item.rustic.ale_wort.addedtooltip.3=Nauseas II (0:20)
