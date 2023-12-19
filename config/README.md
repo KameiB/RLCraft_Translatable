@@ -20,7 +20,7 @@ For full localization support, please download my mod [Localizator](https://www.
 
 ### setbonus/1.12.2.009+.cfg
 - Lines 178-199, 222-259. Added lang keys.
-- Requires "Localizator" for tooltips to localize bonus names as lang keys.  
+- Requires "Localizator" for tooltips to localize bonus names lang keys.  
 
 ### trinkets/Trinkets_And_Baubles.cfg
 - Lines 613-620: Replaced oreDictionary entries with Block Ids, so they become translatable.  
