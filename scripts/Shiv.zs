@@ -56,25 +56,19 @@ events.onPlayerTick(function(event as crafttweaker.event.PlayerTickEvent) {
   }
 });
 
-// Localizator fixes this
-// <rustic:chili_pepper_seeds>.addTooltip("Fertile Seasons:");
-// <rustic:chili_pepper_seeds>.addTooltip(format.yellow(" Summer"));
-// <rustic:tomato_seeds>.addTooltip("Fertile Seasons:");
-// <rustic:tomato_seeds>.addTooltip(format.yellow(" Summer"));
-// <rustic:tomato_seeds>.addTooltip(format.gold(" Autumn"));
+//Localizator fixes these seeds tooltips
+//<rustic:chili_pepper_seeds>.addTooltip("Fertile Seasons:");
+//<rustic:chili_pepper_seeds>.addTooltip(format.yellow(" Summer"));
+//<rustic:tomato_seeds>.addTooltip("Fertile Seasons:");
+//<rustic:tomato_seeds>.addTooltip(format.yellow(" Summer"));
+//<rustic:tomato_seeds>.addTooltip(format.gold(" Autumn"));
 
-// Since renaming an item is necessary, let's rename hidden items instead!
-<aquaculture:iron_fishing_rod>.displayName = "Iron Fishing Rod";
-<aquaculture:gold_fishing_rod>.displayName = "Gold Fishing Rod";
-<aquaculture:diamond_fishing_rod>.displayName = "Diamond Fishing Rod";
-
-// Moved to CustomTooltips.zs. It's safe to delete these.
 //<minecraft:fishing_rod:*>.displayName = "Ancient Fishing Rod";
-//<minecraft:fishing_rod:*>.addTooltip(format.darkRed("Only used for crafting!"));
+<minecraft:fishing_rod:*>.addTooltip(game.localize("tooltip.scripts.onlycrafting","en_us"));
 //<advanced-fishing:blazing_fishing_pole:*>.displayName = "Ancient Lava Fishing Rod";
-//<advanced-fishing:blazing_fishing_pole:*>.addTooltip(format.darkRed("Only used for crafting!"));
+<advanced-fishing:blazing_fishing_pole:*>.addTooltip(game.localize("tooltip.scripts.onlycrafting","en_us"));
 //<iceandfire:fishing_spear:*>.displayName = "Ancient Fishing Spear";
-//<iceandfire:fishing_spear:*>.addTooltip(format.darkRed("Only used for crafting!"));
+<iceandfire:fishing_spear:*>.addTooltip(game.localize("tooltip.scripts.onlycrafting","en_us"));
 
 //<simpledifficulty:heater>.displayName = "Heating Coil";
 //<simpledifficulty:chiller>.displayName = "Cooling Coil";
@@ -83,8 +77,8 @@ events.onPlayerTick(function(event as crafttweaker.event.PlayerTickEvent) {
 //<simpledifficulty:wool_leggings:*>.displayName = "Wool Leggings";
 //<simpledifficulty:wool_boots:*>.displayName = "Wool Boots";
 
-//<armorunder:auto_chestplate_liner>.addTooltip(format.darkRed(" Destroyed upon removal!"));
-//<armorunder:auto_leggings_liner>.addTooltip(format.darkRed(" Destroyed upon removal!"));
+<armorunder:auto_chestplate_liner>.addTooltip(game.localize("tooltip.scripts.ozzyliner.destroys", "en_us"));
+<armorunder:auto_leggings_liner>.addTooltip(game.localize("tooltip.scripts.ozzyliner.destroys", "en_us"));
 
 //<notreepunching:rock/basalt>.displayName = "Basalt Rock";
 //<notreepunching:cobblestone/basalt>.displayName = "Basalt Cobblestone";
@@ -93,19 +87,26 @@ events.onPlayerTick(function(event as crafttweaker.event.PlayerTickEvent) {
 
 //<bountifulbaubles:reforger>.displayName = "Baubles Reforging Station";
 
-//<minecraft:fish:0>.displayName = "River Fish";
-//<minecraft:fish:1>.displayName = "Mountain Fish";
-//<minecraft:fish:2>.displayName = "Tropical Fish";
-//<minecraft:fish:3>.displayName = "Ocean Fish";
-//<minecraft:cooked_fish:0>.displayName = "Cooked River Fish";
-//<minecraft:cooked_fish:1>.displayName = "Cooked Mountain Fish";
+//Use lang keys instead of hardcoded texts
+game.setLocalization("en_us", "item.fish.cod.raw.name", "River Fish");
+<minecraft:fish:0>.displayName = game.localize("item.fish.cod.raw.name", "en_us");
+game.setLocalization("en_us", "item.fish.salmon.raw.name", "Mountain Fish");
+<minecraft:fish:1>.displayName = game.localize("item.fish.salmon.raw.name", "en_us");
+game.setLocalization("en_us", "item.fish.clownfish.raw.name", "Tropical Fish");
+<minecraft:fish:2>.displayName = game.localize("item.fish.clownfish.raw.name", "en_us");
+game.setLocalization("en_us", "item.fish.pufferfish.raw.name", "Ocean Fish");
+<minecraft:fish:3>.displayName = game.localize("item.fish.pufferfish.raw.name", "en_us");
+game.setLocalization("en_us", "item.fish.cod.cooked.name", "Cooked River Fish");
+<minecraft:cooked_fish:0>.displayName = game.localize("item.fish.cod.cooked.name", "en_us");
+game.setLocalization("en_us", "item.fish.salmon.cooked.name", "Cooked Mountain Fish");
+<minecraft:cooked_fish:1>.displayName = game.localize("item.fish.salmon.cooked.name", "en_us");
 
-//<quark:ancient_tome:*>.addTooltip(format.gold("Use in off-hand to apply to matching enchanted item"));
+<quark:ancient_tome:*>.addTooltip(game.localize("tooltip.quark:ancient_tome", "en_us"));
 
-//<rlmixins:cleansing_talisman>.addTooltip(format.gold("Craft with any enchanted book to convert the book's enchantment to Curse Break"));
+<rlmixins:cleansing_talisman>.addTooltip(game.localize("tooltip.rlmixins:cleansing_talisman", "en_us"));
 
 //<bountifulbaubles:ringiron>.displayName = "Holy Ring";
-//<bountifulbaubles:amuletsinwrath>.addTooltip(format.darkPurple("A trophy lost to time, reminiscent of another world."));
+<bountifulbaubles:amuletsinwrath>.addTooltip(game.localize("tooltip.bountifulbaubles:amuletsinwrath", "en_us"));
 
 //<locks:wood_lock>.addTooltip(format.green("Blast Resistance: Weak"));
 //<locks:iron_lock>.addTooltip(format.green("Blast Resistance: Average"));
@@ -114,9 +115,9 @@ events.onPlayerTick(function(event as crafttweaker.event.PlayerTickEvent) {
 //<locks:diamond_lock>.addTooltip(format.green("Blast Resistance: Supreme"));
 
 //<variedcommodities:heart>.displayName = "Demonic Heart";
-//<variedcommodities:heart>.addTooltip(format.green("One of many hearts dropped by Rahovart, still beating with demonic energy."));
+<variedcommodities:heart>.addTooltip(game.localize("tooltip.variedcommodities:heart", "en_us"));
 //<variedcommodities:skull>.displayName = "Corrupted Skull";
-//<variedcommodities:skull>.addTooltip(format.green("One of many skulls dropped by Asmodeus, the lost souls inside can still be heard screaming."));
+<variedcommodities:skull>.addTooltip(game.localize("tooltip.variedcommodities:skull", "en_us"));
 
 //<minecraft:saddle>.displayName = "Basic Saddle";
 
