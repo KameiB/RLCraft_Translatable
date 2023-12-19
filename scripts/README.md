@@ -1,4 +1,4 @@
-# Custom names and translations
+# Custom names and tooltips
 ## Based on scripts for InF 2.0.0
 ### Shiv.sz, Shiv2.sz
 - Localized names and tooltips.  
