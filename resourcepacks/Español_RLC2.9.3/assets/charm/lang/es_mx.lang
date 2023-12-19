@@ -219,6 +219,27 @@ charm.jei.boundcompass.desc=Agachate y da clic derecho con una Brujula a un Faro
 charm.jei.crates.desc=Puedes sellar las Cajas con un Lingote de hierro en el Yunque. La unica manera de liberar los items de una Caja sellada es rompiendola. Si se coloca ya no puede ser recogida y tampoco se puede acceder a su contenido.
 charm.jei.moonstone.desc=La Piedra Lunar te ayuda a ubicar las coordenadas de un bloque especifico o ayuda a alinearlo con un eje.\n\nAgachate y haz clic derecho para enlazar una Piedra lunar a un bloque. Si te alineas con el bloque, la Piedra lunar comenzara a iluminarse. Pararte sobre el bloque hara que la Piedra lunar brille.\n\nEsto funciona a traves de las dimensiones y respeta la compresion / expansion espacial del Nether, ayudandote a alinear portales de manera precisa entre el Overworld y el Nether.
 
+# From Localizator
+# Cakes
+tile.charm.cake_danger_sight.name=Pastel de Sexto sentido
+tile.charm.cake_fire_resistance.name=Pastel de Resistencia al fuego
+tile.charm.cake_invisibility.name=Pastel de Invisibilidad
+tile.charm.cake_leaping.name=Pastel de Supersalto
+tile.charm.cake_night_vision.name=Pastel de Vision nocturna
+tile.charm.cake_regeneration.name=Pastel de Regeneracion
+tile.charm.cake_resilience.name=Pastel de Estabilidad
+tile.charm.cake_resistance.name=Pastel de Resistencia
+tile.charm.cake_strength.name=Pastel de Fuerza
+tile.charm.cake_swiftness.name=Pastel de Velocidad
+tile.charm.cake_water_breathing.name=Pastel de Respiracion acuatica
+tile.charm.cake_haste.name=Pastel de Prisa minera
+
+# JEI
+charm.jei.recipe.composter=Compostador
+charm.jei.recipe.composter.compost_chance=Probab. de compostar:
+charm.jei.recipe.composter.outputs=Genera %s
+charm.jei.recipe.composter.1_item=1 item
+charm.jei.recipe.composter.many_items=1-%d items
 
 # Added by KameiB for additional cake tooltips
 charm.cake.addedtooltip.1=Al comerlo:

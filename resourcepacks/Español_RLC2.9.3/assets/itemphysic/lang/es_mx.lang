@@ -1,2 +1,5 @@
 ## Translated by KameiB for RLCraft 2.9.2
 key.pickup.item=Recoger item
+
+# From Localizator
+notif.itemphysic.throw_power=Fuerza de lanzamiento: %s

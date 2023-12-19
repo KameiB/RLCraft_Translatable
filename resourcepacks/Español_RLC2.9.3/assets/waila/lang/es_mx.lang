@@ -90,3 +90,6 @@ option.capability.tankinfo=Mostrar datos de tanques
 option.capability.energyinfo=Mostrar datos de energía
 
 nei.options.keys.showenchant=Mostrar valores de encantamiento
+
+# From Localizator
+entity.waila.unknown=Desconocido

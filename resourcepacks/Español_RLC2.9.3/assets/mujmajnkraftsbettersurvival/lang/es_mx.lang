@@ -417,6 +417,8 @@ mujmajnkraftsbettersurvival.configgui.fovshields=Deshabilitar cambios de FoV por
 mujmajnkraftsbettersurvival.configgui.integration=Permitir integracion con crossmod
 mujmajnkraftsbettersurvival.configgui.allow_vanilla_shields=Permitir escudos vanilla
 
+# From Localizator
+mujmajnkraftsbettersurvival.imbuedweapon.hitsRemaining=golpes restantes
 
 # Backwards compatibility
 item.debug.name=Item para depuracion
