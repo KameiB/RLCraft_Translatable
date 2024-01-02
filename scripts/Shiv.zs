@@ -56,13 +56,14 @@ events.onPlayerTick(function(event as crafttweaker.event.PlayerTickEvent) {
   }
 });
 
-//Localizator fixes these seeds tooltips
-//<rustic:chili_pepper_seeds>.addTooltip("Fertile Seasons:");
-//<rustic:chili_pepper_seeds>.addTooltip(format.yellow(" Summer"));
-//<rustic:tomato_seeds>.addTooltip("Fertile Seasons:");
-//<rustic:tomato_seeds>.addTooltip(format.yellow(" Summer"));
-//<rustic:tomato_seeds>.addTooltip(format.gold(" Autumn"));
+// Localizator fixes this
+// <rustic:chili_pepper_seeds>.addTooltip("Fertile Seasons:");
+// <rustic:chili_pepper_seeds>.addTooltip(format.yellow(" Summer"));
+// <rustic:tomato_seeds>.addTooltip("Fertile Seasons:");
+// <rustic:tomato_seeds>.addTooltip(format.yellow(" Summer"));
+// <rustic:tomato_seeds>.addTooltip(format.gold(" Autumn"));
 
+// Moved to CustomTooltips.zs. It's safe to delete these.
 //<minecraft:fishing_rod:*>.displayName = "Ancient Fishing Rod";
 <minecraft:fishing_rod:*>.addTooltip(game.localize("tooltip.scripts.onlycrafting","en_us"));
 //<advanced-fishing:blazing_fishing_pole:*>.displayName = "Ancient Lava Fishing Rod";
