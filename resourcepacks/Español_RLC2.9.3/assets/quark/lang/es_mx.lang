@@ -915,8 +915,8 @@ quark.biomeMap.plains_defiled=Mapa del pionero - Tierras corruptas
 quark.biomeMap.forest_vilespine=Mapa del pionero - Tierras corruptas
 quark.biomeMap.desert_defiled=Mapa del pionero - Tierras corruptas
 quark.biomeMap.iceandfire:glacier=Mapa del pionero - Glaciar
-quark.biomeMap.traverse:meadow=Mapa del pionero - Meadow
-quark.biomeMap.traverse:badlands=Mapa del pionero - Badlands
+quark.biomeMap.traverse:meadow=Mapa del pionero - Pradera
+quark.biomeMap.traverse:badlands=Mapa del pionero - Páramos
 
 # BANNER NAMES
 item.banner.quark_dragon.black=Carga de dragon negra

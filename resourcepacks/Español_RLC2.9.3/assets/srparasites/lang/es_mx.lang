@@ -494,7 +494,7 @@ fluid.deadblood=Sangre muerta
 
 entity.srparasites.anc_dreadnaut_ten.name=Extremidad de Antiguo Dreadnaut
 
-# From Localizator
+## From Localizator
 tooltip.srparasites.armor.adaptation=Adaptación actual:
 tooltip.srparasites.armor.reduction=§a  Reducción:
 
@@ -546,3 +546,6 @@ cold_fire=Fuego frío
 
 # Simple Difficulty
 parasites=Lombrices
+
+# Biomes names
+biome.srparasites:biome_parasite.name=Bioma parásito

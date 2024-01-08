@@ -607,6 +607,11 @@ achievement.jarPixie.desc=Mete un Hada en un Frasco.
 tc.aspect.mythus=Criatura mitologica, ser legendario, criptico, bicho temible
 tc.aspect.draco=Dragon
 
+## From Localizator
+# Biome name
+biome.iceandfire:glacier.name=Glaciar
+
+
 # Added by KameiB. From Shiv.sz
 item.iceandfire.fishing_spear.addedtooltip.1=Solo es un Componente de crafteo!
 
