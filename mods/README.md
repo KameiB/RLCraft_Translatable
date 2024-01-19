@@ -1,6 +1,6 @@
 # Translatable forks
 ### [Fishing Made Better](https://github.com/KameiB/fishing-made-better)
-- (Forked on top of fonny's corrections)
+- (Forked on top of fonny's corrections). Localization will be applied by Localizator.
 > [Config files] Original config json files left intact.  
 > [Fish NBTTags] Removed the text formatting because it's now handled by onItemTooltip.  
 >    Caught fish entity name is translatable now. Call setTranslatableName ("LocName") instead of setStackDisplayName ("Name").  
@@ -52,13 +52,13 @@
 > [Lang Keys] Sets and bonuses lang keys added to the resources folder.  
 
 # Modified mods
-### [Bountiful Baubles](https://github.com/KameiB/BountifulBaubles/tree/forge-1.12.x)
+### [Bountiful Baubles] (Changes applied in Localizator)
 > Added cobweb immunity to Ankh Charm and Ankh Shield.  
 > Tooltip doesn't add a space before the bauble name if the modifier text is empty in the lang file. (Localizator adds a config option to remove the Modifier from the Bauble name)   
 > Added lang keys for config items.  
 > Added es_mx.lang (texts specific for RLCraft).  
 
-### [Ice and Fire](https://github.com/KameiB/RLCraft_Translations/raw/main/mods/iceandfire-1.7.1-1.12.2.jar) ()
+### [Ice and Fire](https://github.com/KameiB/RLCraft_Translations/raw/main/mods/iceandfire-1.7.1-1.12.2.jar)
 > Just replaced the original Bestiary english text files with spanish files, because the folder route is hardcoded to en_US.
 > I'll keep this only for RLCraft 2.9.3 support.
 
