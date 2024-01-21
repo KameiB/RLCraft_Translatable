@@ -3,9 +3,9 @@ levelup.cost=Costo: %s
 levelup.levels.track=Nivel actual: %s | Nivel original: %s
 levelup.skill.increase=Aumentar
 levelup.skill.decrease=Disminuir
-levelup:mining_bonus.desc=Gana mas experiencia al minar minerales.
+levelup:mining_bonus.desc=Gana más experiencia al minar minerales.
 levelup:craft_bonus.desc=Gana experiencia al craftear.
-levelup:combat_bonus.desc=Gana mas experiencia al combatir.
+levelup:combat_bonus.desc=Gana más experiencia al combatir.
 
 levelup:woodcutting.desc=Aumenta la velocidad al talar arboles.
 levelup:woodcutting.desc.1=+4%% velocidad, por nivel.
@@ -101,15 +101,15 @@ gui.levelup.skillmenu.2=Combate
 gui.levelup.budget=Niveles gastados: %s
 levelup.prereq=Pre-requisitos: %s
 skill.inactive=Habilidad inactiva.
-flag.noplace=No puede ser colocado
+flag.noplace=No puede colocarse
 
-levelup.interact.register=Maquina vinculada a %s
-levelup.interact.unregister=Maquina desvinculada de %s
-levelup.interact.notowned=La maquina ya esta registrada a %s
+levelup.interact.register=Máquina vinculada a %s
+levelup.interact.unregister=Máquina desvinculada de %s
+levelup.interact.notowned=La máquina ya esta registrada a %s
 levelup.respec.lowlevel=§eNivel muy bajo, debe ser %s §r
 
-sneak.attack=Daño sigiloso multiplicado por %d!
-level.invalid=§e§l[Level Up!]§r§e Debes tener 5 niveles de experiencia antes de poder elegir una especializacion.§r
+sneak.attack=Daño sigiloso multiplicado x %d!
+level.invalid=§e§l[Level Up!]§r§e Debes tener 5 niveles de experiencia para poder elegir una especialización.§r
 
 # Added by KameiB
 key.categories.gui=LevelUp2

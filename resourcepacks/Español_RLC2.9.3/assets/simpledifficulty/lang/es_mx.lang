@@ -97,6 +97,10 @@ item.simpledifficulty:dragon_canteen_purified.name=Cantimplora de dragon con agu
 
 death.attack.inspirationscauldronburn=%1$s murio por beber agua hirviendo
 
+## From Localizator
+# Damage sources
+parasites=Lombrices
+
 # Added by KameiB from Shiv2.zs
 item.simpledifficulty:wool_helmet.addedtooltip.1=Calor (+2)
 item.simpledifficulty:wool_chestplate.addedtooltip.1=Calor (+2)

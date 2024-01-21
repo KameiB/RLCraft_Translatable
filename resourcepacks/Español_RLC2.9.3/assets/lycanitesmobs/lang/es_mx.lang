@@ -917,7 +917,7 @@ entity.aglebemu.habitat=Se encuentran en pantanos.
 entity.aglebemu.combat=Usan sus lenguas poderosas, largas y afiladas para atravesar a sus victimas e inyectarles una sustancia de bacterias contagiosas.
 # ========================================================================
 entity.archvile.name=Archvile (Apollyon)
-entity.archvile.description=Demonios maliciosos que gobiernan las areas del Nether. Disfrutan el olor de la carne quemada de sus victimas y disfrutan viendo a otros demonios destruir a sus victimas.
+entity.archvile.description=Demonios maliciosos que gobiernan las areas del Nether. Disfrutan el olor de la carne quemada de sus victimas y disfrutan viendo a otros demonios despedazar a sus victimas.
 entity.archvile.habitat=Viven en las profundidades del Nether.
 entity.archvile.combat=Prefieren evitar el combate directo, en su lugar, potenciaran a otros demonios cercanos e intentaran quemar a sus victimas con bolas de fuego de la perdicion.
 # ========================================================================
@@ -967,14 +967,14 @@ entity.barghest.habitat=Estas bestias se encuentran en areas montañosas y saban
 entity.barghest.combat=Saltan sobre sus presas y las desgarran provocando sangrados.
 # ========================================================================
 entity.behemoth.name=Behemoth (Behemophet)
-entity.behemoth.description=Monstruosidades demoniacas muy altas y fuertes muy empeñados en la destruccion.
+entity.behemoth.description=Monstruosidades demoniacas muy altas y fuertes, empeñadas en la destruccion.
 entity.behemoth.habitat=Se pueden encontrar en el Nether y tambien invadiran portales al Nether desprotegidos si son lo suficientemente grandes.
 entity.behemoth.combat=Lanzan bolas de fuego infernal, un fuego verde creado al destrozar almas que quema y aplica Descomposicion.
 # ========================================================================
 entity.beholder.name=Beholder (Naxiris)
 entity.beholder.description=¡Grandes masas hostiles de ojos y tentaculos con un hambre eterna de energia magica!
-entity.beholder.habitat=Aman los lugares altos, por lo que se encuentran en las montañas. Tambien les gustan los pueblos. Salen de noche.
-entity.beholder.combat=Disparan de sus bocas grandes cargas de tormenta laser arcana, capaces de explotar al impactar y tener mortales laseres en varias direcciones.
+entity.beholder.habitat=Aman los lugares altos, por lo que se encuentran en las montañas. Tambien les gustan las cuevas y ruinas grandes. Salen de noche.
+entity.beholder.combat=Estas aberraciones crean poderosas Cargas de tormenta que Disparan por sus bocas, estos ataques son capaces de explotar al impactar y liberar mortales laseres en varias direcciones.
 # ========================================================================
 entity.necrovore.name=Mascahuesos (Necrovore)
 entity.necrovore.description=Terribles sabuesos no muertos que anhelan carne podrida, ¡aunque no dudaran en consumir la tuya tambien!
@@ -983,13 +983,13 @@ entity.necrovore.combat=Estos sabuesos son rapidos e implacables con una mordedu
 # ========================================================================
 entity.belph.name=Belph (Belfegor)
 entity.belph.description=Demonios pequeños pero peligrosos con una mente centrada en matar y comer.
-entity.belph.habitat=Se pueden encontrar en el Nether e invadiran los portales al Nether.
+entity.belph.habitat=Se pueden encontrar en el Nether e invadiran a traves de sus portales.
 entity.belph.combat=Lanzan bolas de fuego de la perdicion, fuego hecho de magia del Nether con un color rojo antinatural que produce decaimiento, un efecto que anula la regeneracion.
 # ========================================================================
 entity.cacodemon.name=Cacodemon (Malwrath)
-entity.cacodemon.description=Grandes abominaciones flotantes que adoran cazar ghasts por sus deliciosas lagrimas. Pueden llegar a ser poderosas monturas.
+entity.cacodemon.description=Grandes abominaciones flotantes que adoran cazar ghasts por sus deliciosas lagrimas. Pueden domesticarse como monturas voladoras.
 entity.cacodemon.habitat=Vuelan en los cielos ardientes del Nether.
-entity.cacodemon.combat=Escupen grandes cargas de explosion demoniaca liberando tambien chispas demoniacas en el trayecto. La explosion demoniaca son bolas de energia del Nether que causan Descomposicion y explotan.
+entity.cacodemon.combat=Escupen grandes cargas de explosion demoniaca, que aunque no son electricas, son bolas de energia del Nether que causan Descomposicion al explotar y liberan chispas demoniacas en todas direcciones.
 # ========================================================================
 entity.calpod.name=Calpod
 entity.calpod.description=¡Insectos desagradables similares a las termitas que llaman a mas de su especie para acorralar a sus presas!
@@ -1059,13 +1059,13 @@ entity.dawon.combat=Se abalanzaran a sus presas dandoles afagia y lentitud.
 # ========================================================================
 entity.djinn.name=Djinn (Zephyr)
 entity.djinn.description=Elementales de aire soberbios que protegen los cielos de aquellos que no merecen estar alli, segun ellos.
-entity.djinn.habitat=Se manifiestan en lo alto del cielo.
-entity.djinn.combat=Desatan letales anillos de torbellinos que aplican Levitacion, lo que puede garantizar una caida mortal.
+entity.djinn.habitat=Siendo Elementales de aire, estas criaturas se manifiestan en lo alto del cielo.
+entity.djinn.combat=Desatan letales anillos de torbellinos que aplican Levitacion.
 # ========================================================================
 entity.dweller.name=Dweller (Ningen)
-entity.dweller.description=Anfibios capaces de salir fuera del agua durante un tiempo, pero son lentos en la tierra. Pueden sobrevivir en la lluvia.
+entity.dweller.description=Anfibios principalmente actuaticos capaces de salir fuera del agua durante un tiempo, deben regresar al agua cuando se secan demasiado, ya que se secan si permanecen mucho tiempo en tierra. Son rapidos y mortales en agua y pueden sobrevivir en tierra durante la lluvia.
 entity.dweller.habitat=Se encuentran en las aguas de los pantanos, bosques oscuros y junglas.
-entity.dweller.combat=Atacan con sus garras venenosas. En el agua sobresalen, pero en la tierra son lentos a menos que este lloviendo.
+entity.dweller.combat=Atacan con sus garras venenosas. En el agua sobresalen, pero en tierra pueden vencerse facilmente a menos que este lloviendo.
 # ========================================================================
 entity.eechetik.name=Eechetik
 entity.eechetik.description=Elementales de veneno peligrosos repletos de plagas. Jengu y Argus se pueden fusionar para crear un elemental de veneno poderoso.
@@ -1228,14 +1228,14 @@ entity.lacedon.habitat=Se encuentran en oceanos de agua salada.
 entity.lacedon.combat=Atacaran cuerpo a cuerpo e infligiran peso para arrastrarte a las profundidades.
 # ========================================================================
 entity.lobber.name=Lobber (Cherufe)
-entity.lobber.description=Golems poderosos de lava capaces de llenar zonas con lava.
+entity.lobber.description=Grandes brutos de lava, son criaturas increiblemente poderosas.
 entity.lobber.habitat=Se encuentran en lagos de lava.
 entity.lobber.combat=Escupen grandes bolas de magma a sus victimas, las cuales inundan el area con lava temporal.
 # ========================================================================
 entity.lurker.name=Lurker (Ostimien)
-entity.lurker.description=Insectos que se mezclan con su entorno. Atacaran y veran como sus toxinas hacen su trabajo. Pueden ser mascotas de batalla muy utiles.
+entity.lurker.description=Son capaces de mexclarse completamente con su entorno. Muerden con veneno caotico y una vez que sus victimas fueron envenenadas, se ocultaran, dejando que el veneno hagan su trabajo. Pueden domesticarse como excelentes mascotas, tambien son geniales contra Creepers!
 entity.lurker.habitat=Se encuentran en bosques y pantanos, pero evitan areas frias.
-entity.lurker.combat=Sus mordeduras causan Veneno y Ceguera. Una vez que te envenenan, se alejaran esperando a que el veneno haga su trabajo. Cuando el veneno desaparece, volveran a atacarte. Pueden trepar y a veces se camuflan haciendose invisibles.
+entity.lurker.combat=Sus mordeduras causan Veneno y Ceguera. Despues de morder, huira e intentara esconderse para que el veneno haga su trabajo. Volveran a atacar si el veneno se termina.
 # ========================================================================
 entity.maka.name=Maka
 entity.maka.description=Grandes herbivoros pacificos. Se pueden criar con verduras y pueden ser fundamentales gracias a su carne y su cuero.
@@ -1270,7 +1270,7 @@ entity.nymph.combat=Curaran todo a su alrededor. Si se les provoca, se defendera
 entity.pinky.name=Pinky (Kathoga)
 entity.pinky.description=Demonios glotones que aman devorar animales vivos. Solo se pueden criar alimentandolos con animales grandes. Sus crias pueden domesticarse y, cuando estas crecen, pueden usarse como monturas de batalla.
 entity.pinky.habitat=Estan en el Nether buscando algo para comer.
-entity.pinky.combat=Son increiblemente agresivos y rapidos, pero daran prioridad a presas grandes y jugosas, las cuales pueden usarse para purificarlos.
+entity.pinky.combat=Son increiblemente agresivos, pero daran prioridad a presas grandes y jugosas, las cuales pueden usarse para atraerlos.
 # ========================================================================
 entity.pixen.name=Pixen
 entity.pixen.description=Pequeños diablillos molestos que engañan a sus presas con una falsa sensacion de seguridad para finalmente atacar cuando esten en grupo.
@@ -1283,9 +1283,9 @@ entity.quetzodracl.habitat=Se pueden encontrar rara vez volando los oceanos.
 entity.quetzodracl.combat=Morderan y agarraran a sus presas para intentar tirarlas al mar con el efecto peso.
 # ========================================================================
 entity.quillbeast.name=Bestia de puas (Brucha)
-entity.quillbeast.description=Grandes roedores con puas afiladas en la espalda. Estan en constante amenaza y si no tienen otra opcion, lanzaran un monton de puas.
+entity.quillbeast.description=Grandes roedores con puas afiladas en la espalda. Estan en constante amenaza y lanzaran sus puas desde la distancia.
 entity.quillbeast.habitat=Se encuentran en llanuras, sabanas y bosques.
-entity.quillbeast.combat=Lanzaran grandes puas que cortan el pasto alto.
+entity.quillbeast.combat=Lanzaran sus mortales puas que tambien cortan el pasto alto.
 # ========================================================================
 entity.rahovart.name=Rahovart
 entity.rahovart.description=El señor del inframundo, su solo nombre causa miedo incluso en los corazones mas malvados.
@@ -1380,7 +1380,7 @@ entity.sylph.combat=Son fuertes y liberaran ondas de cielo a su alrededor coloca
 entity.tarantula.name=Tarantula (Lycosa)
 entity.tarantula.description=Arañas venenosas saltarinas que dejan un rastro de telaraña verde muy pegajosa a su paso.
 entity.tarantula.habitat=Se encuentran en junglas y pantanos.
-entity.tarantula.combat=Saltan con frecuencia y tienen una mordedura venenosa que inyecta plaga, pero lo realmente molesto son sus telarañas verdes que dificultan su matanza.
+entity.tarantula.combat=Saltan con frecuencia y tienen una mordedura venenosa que inyecta plaga, es importante tener cuidado de sus telarañas verdes y pegajosas.
 # ========================================================================
 entity.thresher.name=Trillador (Thresher)
 entity.thresher.description=Reptiles acuaticos gigantes majestuosos con un enorme apetito y poderosas aletas capaz de crear grandes remolinos para atraer a sus presas.
@@ -1498,9 +1498,9 @@ entity.bobeko.habitat=Se encuentran en areas con mucho frio como llanuras nevada
 entity.bobeko.combat=Son pacificos, pero el rastro de nubes frias que dejan aplican lentitud y hambre.
 # ========================================================================
 entity.zephyr.name=Zephyr (Raidra)
-entity.zephyr.description=Elementales de rayo feroces con un campo electrico a su alrededor. Cinders y Zephyrs se pueden fusionar para crear el poderoso elemental Raidra.
-entity.zephyr.habitat=Se manifiestan en las tormentas electrica y rara vez en las lluvias regulares.
-entity.zephyr.combat=Atacaran cuerpo a cuerpo con unos filos y usaran un aura de electricidad que daña todo a su alrededor causando paralisis, un efecto que imposibilita saltar y dificulta moverse.
+entity.zephyr.description=Elementales de rayo feroces con un poderoso campo electrico a su alrededor. Cinders y Zephyrs se pueden fusionar para crear el poderoso Raidra.
+entity.zephyr.habitat=Siendo elementales electricos, se manifiestan en las tormentas electricas y rara vez en las lluvias regulares.
+entity.zephyr.combat=Electrocutaran cualquier enemigo cercano a ellos y sus ataques causan Paralisis, un efecto que imposibilita saltar y dificulta moverse.
 # ========================================================================
 entity.zoataur.name=Zoataur
 entity.zoataur.description=Dragones increiblemente resistentes y defensivos. Aunque no puedan volar, usan sus alas densas para bloquear ataques enemigos.
@@ -1863,10 +1863,10 @@ item.equipmentpart.description=Puedes romper esta pieza para obtener cargas elem
 #
 item.woodenrod.name=Vara de madera dura
 item.woodenhilt.name=Empuñadura de madera dura
-item.woodenpaxel.name=Filo de madera dura
+item.woodenpaxel.name=Paxel de madera dura
 item.ironrod.name=Vara de acero
 item.ironhilt.name=Empuñadura de acero
-item.ironpaxel.name=Filo de acero
+item.ironpaxel.name=Paxel de acero
 item.ironpikejoint.name=Cabeza de acero para picas
 item.ironaxehead.name=Cabeza de acero para hachas
 item.goldscepterhead.name=Cabeza de oro para cetros
@@ -1937,7 +1937,7 @@ item.devil_lasagna.name=Lasaña del diablo
 item.devil_lasagna.description=¡Una deliciosa pasta carnosa llena de fuerza demoniaca! Da Fuerza II
 #
 item.raw_pinky_meat.name=Carne de pinky (Kathoga) cruda
-item.raw_pinky_meat.description=Tiene un sabor similar a la chuleta. Su energia demoniaca descompuesta sigue presente y debe ser limpiada con el fuego. Da Descomposicion II
+item.raw_pinky_meat.description=Tiene un sabor similar a la chuleta. Su energia demoniaca descompuesta late a traves de esta carne, debe ser limpiada con el fuego. Da Descomposicion II
 #
 item.raw_yale_meat.name=Carne de yale cruda
 item.raw_yale_meat.description=Tiene un sabor similar al cordero. Te hara sentir algo cansado. Da Fatiga minera
@@ -1961,7 +1961,7 @@ item.lapis_fish_and_chips.name=Pescado lapislazuli con papas fritas
 item.lapis_fish_and_chips.description=¡La gracia de un silex te acompañara en el mar! Da Respiracion
 #
 item.cooked_pinky_meat.name=Carne de pinky (Kathoga) asada
-item.cooked_pinky_meat.description=Tiene un sabor similar a la chuleta. Sabe como res salada y rica Da Fuerza
+item.cooked_pinky_meat.description=Tiene un sabor similar a la chuleta. Sabe como res salada y rica. Da Fuerza
 #
 item.bulwark_burger.name=Hamburguesa baluarte
 item.bulwark_burger.description=¡La gran defensa de maka es gruesa y engordante! Da Absorcion III
@@ -2364,8 +2364,8 @@ event.boss.started=¡%event% ha sido llamado!
 event.boss.extended=¡%event% esta viniendo!
 event.boss.finished=¡%event% ha llegado!
 event.boss.phase=fase
-boss.block.protection.place=La presencia de una fuerza poderosa te impide colocar este bloque.
-boss.block.protection.break=La presencia de una fuerza poderosa te impide destruir este bloque.
+boss.block.protection.place=La presencia de una fuerza poderosa te impide colocar ese bloque.
+boss.block.protection.break=La presencia de una fuerza poderosa te impide destruir ese bloque.
 boss.damage.protection.range=Ese ser es demasiado poderoso para ser dañado desde esta distancia.
 #
 # ========== Event Names ==========
@@ -2656,3 +2656,6 @@ Night Shade=Sombra Nocturna
 Bruce=Bruno
 The Loch Ness=El Lago Ness
 Man Ray=Manta Raya
+#
+# Damage sources
+cold_fire=Fuego frío

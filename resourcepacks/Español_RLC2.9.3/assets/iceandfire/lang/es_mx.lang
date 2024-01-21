@@ -610,7 +610,12 @@ tc.aspect.draco=Dragon
 ## From Localizator
 # Biome name
 biome.iceandfire:glacier.name=Glaciar
-
+# Damage sources
+dragon_fire=Fuego de dragón
+dragon_ice=Hielo de dragón
+gorgon=Gorgona
+dragon_lightning=Rayo de dragón
+acid=Ácido
 
 # Added by KameiB. From Shiv.sz
 item.iceandfire.fishing_spear.addedtooltip.1=Solo es un Componente de crafteo!

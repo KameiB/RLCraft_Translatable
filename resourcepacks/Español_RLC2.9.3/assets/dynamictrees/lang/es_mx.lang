@@ -118,6 +118,10 @@ substance.dynamictrees.transform.error.not_transformable=La especie %s no se pue
 substance.dynamictrees.transform.error.already_transformed=El arbol seleccionado ya es de la especie %s.
 substance.dynamictrees.transform.error.not_brewed=La pocion de Transforma-arbol debe ser destilada con una semilla de la especie deseada.
 
+## from Localizator
+# Damage sources
+fallingtree=Árbol cayendo
+
 # Added by KameiB
 tile.dynamictrees:oakbranchx.name=Rama de roble
 tile.dynamictrees:sprucebranchx.name=Rama de abeto

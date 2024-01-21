@@ -7,7 +7,7 @@ enchantment.Rune_PiercingCapabilities=§aRuna: Capacidades de perforacion
 enchantment.somanyenchantments.rune_piercingcapabilities.desc=Una de las runas. Permite que tu ataque atraviese la armadura de un enemigo. (25%% * Nivel).
 
 enchantment.AtomicDeconstructor=Deconstructor atomico
-enchantment.somanyenchantments.atomicdeconstructor.desc=Tus ataques tienen una probabilidad muy baja de provocar una muerte instantanea.
+enchantment.somanyenchantments.atomicdeconstructor.desc=Tus ataques tienen una probabilidad muy baja de desintegrar los atomos en la estructura fisica de una criatura, anulando por completo al enemigo de esta dimension visible. Cientificamente, se conoce como Borradus Alabergus.
 
 enchantment.Defusion=Desactivador
 enchantment.somanyenchantments.defusion.desc=Inflige daño adicional a los Creepers y tiene una probabilidad de desactivar su explosion.

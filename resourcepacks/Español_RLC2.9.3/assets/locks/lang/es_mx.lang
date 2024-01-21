@@ -34,7 +34,6 @@ enchantment.locks.complexity.desc=Hace que el candado sea demasiado complejo par
 death.attack.locks.shock=%1$s fue electrocutado al intentar forzar un candado encantado
 death.attack.locks.shock.player=%1$s fue electrocutado por un candado encantado cuando intentaba forzarlo mientras peleaba contra %2$s
 
-
 # GUIs
 locks.gui.lockpicking.title=Forzando candado
 locks.gui.lockpicking.open=Presiona `ESC` para abrir
@@ -59,3 +58,7 @@ locks.tooltip.strength=Fuerza: %s
 # Status messages
 locks.status.locked=Este bloque esta asegurado
 locks.status.too_complex=Este candado es demasiado complejo para esta ganzua
+
+## From Localizator
+# Damage sources
+locks.shock=Choque de candado
