@@ -424,6 +424,7 @@ mujmajnkraftsbettersurvival.imbuedweapon.hitsRemaining=golpes restantes
 item.debug.name=Item para depuracion
 # Added by KameiB. Tooltips from Shiv2.zs
 item.bettersurvival.steel_bonus.addedtooltip.1=Daño contra mobs del Nether y Elementales de fuego: +2
+
 # idk why I had these lang keys, but just in case I'll leave them here
 enchantment.mujmajnkraftsbettersurvival.impale=Empalar
 enchantment.mujmajnkraftsbettersurvival.impale.desc=Este encantamiento probablemente es para las lanzas, pero no encontre informacion.

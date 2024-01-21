@@ -1,5 +1,8 @@
 #PARSE_ESCAPES
-## Recurrent complex signs and books
+## Signs, books, items with Name & Lore, and entities with CustomName inside Recurrent Complex structures
+## Please use /#gen <structure_name> when in the correct biome/dimension and check your texts in-game!
+## During testing, you can reload all Resource Packs in-game by pressing F3+T
+
 # P_CathedralOfMadness
 sign.P_CathedralOfMadness.Jzahar.text1=Jzahar
 sign.P_CathedralOfMadness.Jzahar.text2=demands

@@ -1,6 +1,6 @@
 # Translatable forks
-### [Fishing Made Better](https://github.com/KameiB/fishing-made-better)
-- (Forked on top of fonny's corrections). Localization will be applied by Localizator.
+### [Fishing Made Better](https://github.com/KameiB/fishing-made-better) (Changes applied in my mod "Localizator")
+- (Forked on top of fonny's corrections).  
 > [Config files] Original config json files left intact.  
 > [Fish NBTTags] Removed the text formatting because it's now handled by onItemTooltip.  
 >    Caught fish entity name is translatable now. Call setTranslatableName ("LocName") instead of setStackDisplayName ("Name").  
@@ -24,8 +24,7 @@
 ### [Forgotten Items](https://github.com/KameiB/ForgottenItems) (Changes applied in my mod "Localizator")
 > [Lang Keys] Added lang keys for item descriptions.  
 > [Tooltips] Replaced hardcoded items descriptions with lang keys and call I18n at addInformation. For talismans, replaced "lore" hardcoded text with a lang key.  
-> [Server messages] Added lang keys for Ender Talisman and item recipes messages.  
-- Any corrections are welcome so it can be Pulled to the owner's project.
+> [Server messages] Added lang keys for Ender Talisman and item recipes messages.
 
 ### [Rough Tweaks](https://github.com/KameiB/Rough-Tweaks) (Changes applied in my mod "Localizator")
 > Changed items lang keys, so they don't conflict with mods like First Aid. (item.plaster.name -> item.roughtweaks.plaster.name, etc).  
@@ -46,7 +45,7 @@
 > [Lang Keys] Added lang keys for tooltip and config screen texts.  
 > [Tooltip] Replaced hardcoded "Shielding Power:" text with lang key.  
 
-### [Set Bonus](https://github.com/KameiB/Set-Bonus)  (Changes applied in my mod "Localizator")
+### [Set Bonus](https://github.com/KameiB/Set-Bonus)  (Localization changes applied in my mod "Localizator")
 > [Tooltip] Added lang key support for sets and bonuses texts (inside cfg file).  
 > [Mod version] Fixed a little detail where it showed ${version} at Mod Config list screen.  
 > [Lang Keys] Sets and bonuses lang keys added to the resources folder.  

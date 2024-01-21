@@ -467,4 +467,5 @@ item.fishingmadebetter.void_bucket.name=Cubeta con vacio
 item.fishingmadebetter.fish_void_bucket.name=Cubeta con pez del vacio
 notif.fishingmadebetter.fish_void_bucket.only_void=Este pez solo puede ponerse en el vacio de El End.
 
+# From UsefulTooltips.zs
 tooltip.fishingmadebetter.eats=Come

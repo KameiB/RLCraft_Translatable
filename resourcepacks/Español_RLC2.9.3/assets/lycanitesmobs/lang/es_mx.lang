@@ -2450,7 +2450,7 @@ entity.fireball=Bola de fuego
 #
 tile.equipmentforge_lesser.addedtooltip.1=Primero coloca una parte de tipo Base en el espacio azul. Esta puede desbloquear los espacios a los lados. El de la izquierda es la Empuñadura y el de la derecha es Cabeza. Una parte de tipo Cabeza puede desbloquear los espacios para Hacha (arriba y abajo) y/o Filo/Joya (a la derecha).
 #
-# ======= From Localizator ======
+## ======= From Localizator ======
 #
 event.started_=¡El evento %s ha comenzado!
 event.extended_=¡El evento %s ha sido extendido!
