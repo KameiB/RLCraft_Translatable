@@ -31,6 +31,8 @@ config.localizator.mixins.minecraftLocWritableBookMixin=(Minecraft) Mixin Libro 
 config.localizator.mixins.minecraftLocWritableBookMixin.tooltip=Habilita el soporte del tag NBT "locPages". \nPara páginas traducibles en los libros editables generados por comandos.\n 
 config.localizator.mixins.minecraftBiomeMixin=(Minecraft) Mixin Nombres localizados de Biomas
 config.localizator.mixins.minecraftBiomeMixin.tooltip=Localiza los nombres de los Biomas. \nPara biomas de mods, por favor crea e incluye sus respectivas claves de idioma en tu modpack.\n\nPuedes usar el comando §b/ct biomes§r de CraftTweaker para obtener todos los biomas registrados.\n 
+config.localizator.mixins.minecraftLocContainerNameMixin=(Minecraft) Mixin Nombre localizado de contenedores
+config.localizator.mixins.minecraftLocContainerNameMixin.tooltip=Localiza el CustomName de un contenedor (TileEntityLockable).\n 
 config.localizator.mixins.neatLocHealthBarMixin=(Neat) Mixin Barra de salud
 config.localizator.mixins.neatLocHealthBarMixin.tooltip=Habilita la configuración Cliente: \n- §b(Neat) Traducir nombre en barra de salud\n 
 config.localizator.mixins.armorunderOzzyLinerMixin=(ArmorUnder) Mixin Interior Ozzy
@@ -51,6 +53,8 @@ config.localizator.mixins.charmCakeNameMixin=(Charm) Mixin Nombres de pasteles
 config.localizator.mixins.charmCakeNameMixin.tooltip=Localiza los nombres hardcodeados de los pasteles especiales.\n 
 config.localizator.mixins.charmComposterRecipeMixin=(Charm) Mixin Compostador en JEI
 config.localizator.mixins.charmComposterRecipeMixin.tooltip=Localiza los textos del menú de recetas del Compostador en el JEI.\n 
+config.localizator.mixins.charmContainerNameMixin=(Charm) Mixin Localizar nombre de Contenedores
+config.localizator.mixins.charmContainerNameMixin.tooltip=Localiza los nombres personalizados de todos los contenedores de Charm en su GUI.\n 
 config.localizator.mixins.wailaEntityNameMixin=(WAILA) Mixin Nombres de Entidades
 config.localizator.mixins.wailaEntityNameMixin.tooltip=Habilita el soporte de claves de idioma en el tag CustomName de las entidades.\n 
 config.localizator.mixins.corpsecomplexScrollMixin=(CorpseComplex) Mixin Pergamino de tumba
@@ -71,6 +75,14 @@ config.localizator.mixins.variedCommoditiesLocBookMixin=(VariedComm) Mixin Libro
 config.localizator.mixins.variedCommoditiesLocBookMixin.tooltip=Habilita el soporte del tag NBT "locPages". \nPara páginas traducibles en los libros generados por comandos.\n 
 config.localizator.mixins.fishingmadebetterLocFishesEtcMixin=(FishingMadeBetter) Mixin Peces localizados
 config.localizator.mixins.fishingmadebetterLocFishesEtcMixin.tooltip=Localiza la información de los peces que pescas (Nombre, Peso, Escama, Vivo) \nTambién localiza:\n- Cubeta con pez\n- Rebanada de pez\n- Flotador\n- Mensajes de comandos y Caja de carnada.\n 
+config.localizator.mixins.fbpKeyBindsMixin=(FBP) Mixin Controles localizados
+config.localizator.mixins.fbpKeyBindsMixin.tooltip=Localiza los nombres de los controles de Fancy Block Particles en la pantalla Opciones de controles.\n 
+config.localizator.mixins.levelup2KeybindsMixin=(LevelUp2) Mixin Controles localizados
+config.localizator.mixins.levelup2KeybindsMixin.tooltip=Localiza los nombres de los controles de LevelUp Reloaded en la pantalla Opciones de controles.\n 
+config.localizator.mixins.mobendsKeybindsMixin=(Mo'Bends) Mixin Controles localizados
+config.localizator.mixins.mobendsKeybindsMixin.tooltip=Localiza los nombres de los controles de Mo'Bends en la pantalla Opciones de controles.\n 
+config.localizator.mixins.scalingHealthKeybindsMixin=(ScalingHealth) Mixin Controles localizados
+config.localizator.mixins.scalingHealthKeybindsMixin.tooltip=Localiza los nombres de los controles de Scaling Health en la pantalla Opciones de controles.\n 
 
 # Miscelaneous Mixin Config
 config.localizator.mixins.bountifulbaublesTooltipFixesMixin=(BountifulBaubles) Mixin Correcciones a descripciones
@@ -88,7 +100,7 @@ config.localizator.mixins.bountifulbaublesAnkhCharmWebImmunity.tooltip=Agrega in
 config.localizator.mixins.bountifulbaublesAnkhShieldmWebImmunity=(BountifulBaubles) Mixin Escudo Ankh inmune a telarañas
 config.localizator.mixins.bountifulbaublesAnkhShieldmWebImmunity.tooltip=Agrega inmunidad a telarañas al Escudo Ankh. \nSi también tiene sentido para tí c: \n 
 config.localizator.mixins.fishingmadebetterMinigameHelpTextMixin=(FishingMadeBetter) Mixin Instrucciones en Minijuego
-config.localizator.mixins.fishingmadebetterMinigameHelpTextMixin.tooltip=Agrega una pequeña ayuda para los jugadores que no saben cómo pescar. \n "Presiona [LEFT] / [RIGHT]".\n 
+config.localizator.mixins.fishingmadebetterMinigameHelpTextMixin.tooltip=Habilita la opción Cliente:\n- §b(FishingMadeBetter) Instrucciones en Minijuego.\n 
 
 # Server config
 config.localizator.server.minecraftLocNameOverName=(Minecraft) Mostrar LocName en lugar de Name
@@ -109,6 +121,8 @@ config.localizator.client.bountifulbaublesRemoveModifierFromName=(BountifulBaubl
 config.localizator.client.bountifulbaublesRemoveModifierFromName.tooltip=Evita que se agregue el Modificador en el nombre de las Baubles. \n\n§cMixin necesario: \n- §d(BountifulBaubles) Mixin Quitar Modificador en el Nombre\n 
 config.localizator.client.roughtweaksTooltip=(RoughTweaks) Mostrar descripción siempre
 config.localizator.client.roughtweaksTooltip.tooltip=Evita la necesidad de presionar Shift para que se muestre cuántos corazones curan los items de curación. \n\n§cMixin necesario: \n- §d(RoughTweaks) Mixin Nombres localizados y mejor descripción\n 
+config.localizator.client.fishingmadebetterMinigameHelpText=(FishingMadeBetter) Instrucciones en Minijuego
+config.localizator.client.fishingmadebetterMinigameHelpText.tooltip=Agrega una pequeña ayuda para los jugadores que no saben cómo pescar. \n "Presiona [LEFT] / [RIGHT]" \n\n§cMixin necesario: \n- §d(FishingMadeBetter) Mixin Instrucciones en Minijuego\n 
 
 # Messages
 message.localizator.newconfig.0=[Localizator] Hola hola! Soy %s!

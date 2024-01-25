@@ -50,7 +50,7 @@ sereneseasons.seasonal_fertility.winter_crops.tooltip=Cultivos fértiles en Invi
 winter_seeds=Semillas de Invierno
 winter_seeds.tooltip=Semillas fértiles en Invierno\n(Enlista la semilla)
 
-# From Localizator
+## From Localizator
 desc.sereneseasons.fertile_seasons=Estaciones fertiles:
 desc.sereneseasons.year_round= Todo el año
 desc.sereneseasons.spring= Primavera

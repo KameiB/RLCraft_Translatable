@@ -5,13 +5,11 @@ itemGroup.scalinghealth=Scaling Health
 ##########
 # Blocks #
 ##########
-
 tile.scalinghealth.crystalore.name=Mineral de cristal de corazon
 
 #########
 # Items #
 #########
-
 item.scalinghealth.crystalshard.name=Cristal de corazon
 item.scalinghealth.enchanted_heart.name=Corazon encantando
 item.scalinghealth.cursed_heart.name=Corazon maldito
@@ -25,28 +23,20 @@ item.scalinghealth.medkit.name=Kit de primeros auxilios
 item.scalinghealth.healingitem.healingValue=Regenera %d%% de tu salud en %d segundos.
 item.scalinghealth.healingitem.howToUse=Manten presionado el clic derecho por %d segundos para usarlo.
 
-
 ###########
 # Potions #
 ###########
-
 effect.scalinghealth.bandaged=Vendado
-
-
 
 ###########
 # Blights #
 ###########
-
 blight.scalinghealth.name=%s brillante
 blight.scalinghealth.killedByPlayer=¡%s brillante fue asesinado por %s!
-
-
 
 ############
 # Commands #
 ############
-
 command.scalinghealth.outOfBounds=Los valores deben variar entre %s y %s.
 command.scalinghealth.recalculate.result=Se recalcularon la dificultad y los estatus de %d entidades, revisa el log para mas detalles.
 command.scalinghealth.showDifficulty=Dificultad de %s: %s / %s
@@ -56,20 +46,21 @@ command.scalinghealth.setHealth=La salud de %s fue cambiada a %d.
 command.scalinghealth.showWorldDifficulty=Dificultad del mundo: %s / %s
 command.scalinghealth.setWorldDifficulty=La dificultad del mundo fue cambiada a %s.
 
-
-
 ########
 # Misc #
 ########
-
 misc.scalinghealth.sleepWarning=[Scaling Health] Advertencia: ¡Dormir cambiara tu dificultad!
 misc.scalinghealth.difficultyMeterText=DIFICULTAD
 
 # Sound effect subtitles
-
 scalinghealth.subtitle.cursed_heart_use=Se uso un corazon maldito
 scalinghealth.subtitle.enchanted_heart_use=Se uso un corazon encantado
 scalinghealth.subtitle.heart_container_use=Se uso un contenedor de corazon
 
 # April Fool's sounds
-scalinghealth.subtitle.player_died=Alguien murio (LOL)
+scalinghealth.subtitle.player_died=Alguien murió (LOL)
+
+## From Localizator
+# Keybinds
+key.scalinghealth.difficulty_meter=Barra de dificultad - Mostrar
+key.scalinghealth.show_always=Barra de dificultad - Siempre visible

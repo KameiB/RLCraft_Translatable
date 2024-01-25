@@ -342,8 +342,7 @@ explosion=Explosión
 player=Jugador
 mob=Mob
 
-
-# For Shivaxi's scripts
+## From Shivaxi's scripts
 item.fishingRod.name=Caña de pescar ancestral
 item.fishingRod.addedtooltip.1=Solo es un componente de crafteo!
 item.fish.cod.raw.name=Pez de rio

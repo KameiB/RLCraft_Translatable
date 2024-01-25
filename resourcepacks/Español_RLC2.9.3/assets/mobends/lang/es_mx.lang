@@ -38,3 +38,8 @@ mobends.config.item_attack_classifications=Clasificaciones de items de ataque
 mobends.config.item_attack_classifications.tooltip=Lista de mapeos de "item=classification".
 mobends.config.keep_armor_as_vanilla=Mantener armadura como vanilla
 mobends.config.keep_entity_as_vanilla=Mantener entidades como vanilla
+
+## From Localizator
+# Keybinds
+key.mobends.menu=Menú de Mo' Bends
+key.mobends.refresh_animations=Refrescar animaciones

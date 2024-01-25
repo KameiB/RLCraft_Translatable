@@ -101,7 +101,7 @@ death.attack.inspirationscauldronburn=%1$s murio por beber agua hirviendo
 # Damage sources
 parasites=Lombrices
 
-# Added by KameiB from Shiv2.zs
+## From Shiv2.zs
 item.simpledifficulty:wool_helmet.addedtooltip.1=Calor (+2)
 item.simpledifficulty:wool_chestplate.addedtooltip.1=Calor (+2)
 item.simpledifficulty:wool_leggings.addedtooltip.1=Calor (+2)

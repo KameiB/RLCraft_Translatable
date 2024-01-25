@@ -113,3 +113,6 @@ level.invalid=§e§l[Level Up!]§r§e Debes tener 5 niveles de experiencia para 
 
 # Added by KameiB
 key.categories.gui=LevelUp2
+
+## From Localizator
+key.levelup2.gui=Interfase LevelUp2

@@ -39,9 +39,6 @@ item.fishingmadebetter.fish_slice_cooked.name=Rebanada de pescado asada
 tile.fishingmadebetter.baitbox.name=Caja de Carnada
 commands.fishingmadebetter.fishing.usage=Lista de comandos disponibles de Fishing Made Better
 commands.fishingmadebetter.fishing.reload.usage=/fishing reload
-notif.fishingmadebetter.command.reload_success=Archivos de configuración recargados para Fishing Made Better.
-notif.fishingmadebetter.command.reload_fail=Los archivos de configuración no pudieron cargarse porque no existe el directorio con los datos de los peces.
-
 notif.fishingmadebetter.treasure=Encontraste algo mas al jalar la linea!
 notif.fishingmadebetter.failure.empty=No hay peces picando aqui
 notif.fishingmadebetter.failure.time=Fuiste muy lento, el pez se escapo!"
@@ -52,9 +49,7 @@ notif.fishingmadebetter.tracker.twohand=No puedes sostener dos Rastreadores de P
 notif.fishingmadebetter.tracker.finish=Rastreo de peces terminado
 
 fishingmadebetter.reelingoverlay.distance=Distancia
-fishingmadebetter.reelingoverlay.move_with=Presiona [%1$s] / [%2$s]
 
-# Added by KameiB
 tooltip.fishingmadebetter.fishing_rod.reel.name=Carrete
 tooltip.fishingmadebetter.fishing_rod.durability.title=Durabilidad
 tooltip.fishingmadebetter.fishing_rod.reel.range=Alcance
@@ -81,13 +76,9 @@ tooltip.fishingmadebetter.fishing_rod.shift.1=Presiona
 tooltip.fishingmadebetter.fishing_rod.shift.2=para mas informacion
 
 item.fishingmadebetter.bobber_basic.tooltip=Solo es un componente de crafteo!
-tooltip.fishingmadebetter.bobber.can_fish_in=Puede pescar en: %s
-tooltip.fishingmadebetter.bobber.obsidian=§cLava
-tooltip.fishingmadebetter.bobber.void=§dVacio
-tooltip.fishingmadebetter.bobber.water=§bAgua
-item.fishingmadebetter.bobber_obsidian.tooltip=Puede pescar en: Lava
-item.fishingmadebetter.bobber_void.tooltip=Puede pescar en: Vacio
-item.fishingmadebetter.bobber_water.tooltip=Puede pescar en: Agua
+item.fishingmadebetter.bobber_obsidian.tooltip=Puede pescar en: §cLava
+item.fishingmadebetter.bobber_void.tooltip=Puede pescar en: §dVacio
+item.fishingmadebetter.bobber_water.tooltip=Puede pescar en: §bAgua
 item.fishingmadebetter.bobber_heavy.tooltip=Tamaño de la Barra de tension
 item.fishingmadebetter.bobber_lightweight.tooltip=Velocidad de la Barra de tension
 
@@ -102,30 +93,29 @@ tooltip.fishingmadebetter.reel.range=Alcance
 tooltip.fishingmadebetter.reel.speed=Velocidad
 
 # Bait Box
-tooltip.fishingmadebetter.baitbox=Cuando contiene carnada, alimenta a los peces de este chunk, mejorando su reproduccion
+tile.fishingmadebetter.baitbox.tooltip=Cuando contiene carnada, alimenta a los peces de este chunk, mejorando su reproduccion
 notif.fishingmadebetter.baitbox.bait_not_valid=Esta no es una carnada valida!
 notif.fishingmadebetter.baitbox.full=La Caja de carnada esta llena!
 notif.fishingmadebetter.baitbox.empty=La Caja de carnada esta vacia!
 
 # Fillet Knives
 tooltip.fishingmadebetter.fillet_knife=Usalo para rebanar peces
-# %s = Fish Name
-tooltip.fishingmadebetter.fish_slice_raw=%s
+item.fishingmadebetter.fish_slice_raw.tooltip=Rebanada de
 
 # Scaling Knives
-tooltip.fishingmadebetter.scaling_knife=Usalo para descamar peces. Algunos peces tienen items entre sus escamas
+item.fishingmadebetter.scaling_knife.tooltip=Usalo para descamar peces. Algunos peces tienen items entre sus escamas
 
 # Bait Bucket
-tooltip.fishingmadebetter.bait_bucket=Si la llevas en tu mano izquierda, coloca la carnada que contiene automaticamente en tu Caña de pescar, despues de que un pez pico
-tooltip.fishingmadebetter.bait_bucket.contains=Contiene
-tooltip.fishingmadebetter.bait_bucket.none=Nada
+item.fishingmadebetter.bait_bucket.tooltip=Si la llevas en tu mano izquierda, coloca la carnada que contiene automaticamente en tu Caña de pescar, despues de que un pez pico
+item.fishingmadebetter.bait_bucket.tooltip.contains=Contiene
+item.fishingmadebetter.bait_bucket.tooltip.none=Nada
 
 # Fish Bucket
 notif.fishingmadebetter.fish_bucket.only_water=Este pez solo puede soltarse en el agua.
 notif.fishingmadebetter.fish_bucket.small_water=Este cuerpo de agua es muy pequeño para este pez
 notif.fishingmadebetter.fish_bucket.wrong_altitude=Este pez no puede sobrevivir a esta altura
 
-tooltip.fishingmadebetter.fish_bucket=Contiene
+item.fishingmadebetter.fish_bucket.tooltip=Contiene
 
 # Trackers
 notif.fishingmadebetter.fish_tracker.only_void=Este Rastreador solo puede usarse en bloques cerca del §dVacio§r.
@@ -134,18 +124,57 @@ notif.fishingmadebetter.fish_tracker.only_lava=Este Rastreador solo puede usarse
 notif.fishingmadebetter.fish_tracker.too_shallow=Este lugar es muy poco profundo. El Rastreador no puede funcionar bien.
 notif.fishingmadebetter.fish_tracker.tracking_start=Rastreo iniciado. Si te mueves, podrías recibir resultados inexactos.
 
-tooltip.fishingmadebetter.fish_tracker.max_depth=Profundidad max
-tooltip.fishingmadebetter.fish_tracker.vision_bad=No puede detectar peces raros
-tooltip.fishingmadebetter.fish_tracker.vision_normal=Puede detectar peces raros
-tooltip.fishingmadebetter.fish_tracker.vision_best=Puede detectar los peces mas raros y esquivos
-tooltip.fishingmadebetter.fish_tracker.vision_none=Valor de rastreo no encontrado
-tooltip.fishingmadebetter.fish_tracker.probe_water=Puede sondear §bAgua
-tooltip.fishingmadebetter.fish_tracker.probe_lava=Puede sondear §cLava
-tooltip.fishingmadebetter.fish_tracker.probe_void=Puede sondear el §dVacio
-tooltip.fishingmadebetter.fish_tracker.probe_etc=Puede sondear lo que sea
-tooltip.fishingmadebetter.fish_tracker.right_click=Da clic derecho para sondear en busca de peces
-tooltip.fishingmadebetter.fish_tracker.info.1=Presiona
-tooltip.fishingmadebetter.fish_tracker.info.2=durante el rastreo para mas informacion
+item.fishingmadebetter.fish_tracker.tooltip.max_depth=Profundidad max
+item.fishingmadebetter.fish_tracker.tooltip.vision_bad=No puede detectar peces raros
+item.fishingmadebetter.fish_tracker.tooltip.vision_normal=Puede detectar peces raros
+item.fishingmadebetter.fish_tracker.tooltip.vision_best=Puede detectar los peces mas raros y esquivos
+item.fishingmadebetter.fish_tracker.tooltip.vision_none=Valor de rastreo no encontrado
+item.fishingmadebetter.fish_tracker.tooltip.probe_water=Puede sondear §bAgua
+item.fishingmadebetter.fish_tracker.tooltip.probe_lava=Puede sondear §cLava
+item.fishingmadebetter.fish_tracker.tooltip.probe_void=Puede sondear el §dVacio
+item.fishingmadebetter.fish_tracker.tooltip.probe_etc=Puede sondear lo que sea
+item.fishingmadebetter.fish_tracker.tooltip.right_click=Da clic derecho para sondear en busca de peces
+item.fishingmadebetter.fish_tracker.tooltip.info.1=Presiona
+item.fishingmadebetter.fish_tracker.tooltip.info.2=durante el rastreo para mas informacion
+
+# %1$s = Quantity | %2$s = Fish Name | %3$s = Liquid | %4$s = minYLevel | %5$s = maxYLevel 
+notif.fishingmadebetter.fish_tracker.creative.fishQty_Y_levels=%1$s %2$s §7en %3$s §7a §fY%4$s-%5$s
+notif.fishingmadebetter.fish_tracker.creative.liquid.WATER=§bAGUA
+notif.fishingmadebetter.fish_tracker.creative.liquid.LAVA=§cLAVA
+notif.fishingmadebetter.fish_tracker.creative.liquid.VOID=§dVACIO
+notif.fishingmadebetter.fish_tracker.creative.liquid.ANY=§aDONDE SEA
+
+# %1$s = MinLine | %2$s = Time | %3$s = MaxLight | %4$s = Rain | %5$s = Thunder 
+notif.fishingmadebetter.fish_tracker.creative.fishEnvironmentConditions=§7   Dist. %1$sm§7, Hora %2$s§7, LuzMax %3$s§7, Lluvia %4$s§7, Rayos %5$s
+notif.fishingmadebetter.fish_tracker.creative.time.DAY=§eDIA
+notif.fishingmadebetter.fish_tracker.creative.time.NIGHT=§9NOCHE
+notif.fishingmadebetter.fish_tracker.creative.time.ANY=SIEMPRE
+notif.fishingmadebetter.fish_tracker.creative.rain.false=NO
+notif.fishingmadebetter.fish_tracker.creative.rain.true=SI
+notif.fishingmadebetter.fish_tracker.creative.thunder.false=NO
+notif.fishingmadebetter.fish_tracker.creative.thunder.true=SI
+
+notif.fishingmadebetter.fish_tracker.detected=Se detectó
+notif.fishingmadebetter.fish_tracker.quantity_immense=inmensas cantidades§r.
+notif.fishingmadebetter.fish_tracker.quantity_abundant=abundantes cantidades§r.
+notif.fishingmadebetter.fish_tracker.quantity_ample=amplias cantidades§r.
+notif.fishingmadebetter.fish_tracker.quantity_substantial=sustanciales cantidades§r.
+notif.fishingmadebetter.fish_tracker.quantity_numerous=numerosas cantidades§r.
+notif.fishingmadebetter.fish_tracker.quantity_light=ligeras cantidades§r.
+notif.fishingmadebetter.fish_tracker.quantity_sparse=escasas cantidades§r.
+notif.fishingmadebetter.fish_tracker.quantity_meager=pobres cantidades§r.
+notif.fishingmadebetter.fish_tracker.found_none=El Rastreador no encontró ningún pez en este lugar.
+notif.fishingmadebetter.fish_tracker.found_under_y=Peces viviendo a una menor altura
+notif.fishingmadebetter.fish_tracker.found_outside_quality=Peces fuera de las capacidades de este Rastreador
+notif.fishingmadebetter.fish_tracker.found_hibernating=Peces que no se alimentan en estas condiciones
+
+## From Localizator
+fishingmadebetter.reelingoverlay.move_with=Presiona [%1$s] / [%2$s]
+
+tooltip.fishingmadebetter.bobber.can_fish_in=Puede pescar en: %s
+tooltip.fishingmadebetter.bobber.obsidian=§cLava
+tooltip.fishingmadebetter.bobber.void=§dVacio
+tooltip.fishingmadebetter.bobber.water=§bAgua
 
 # %1$s = Quantity | %2$s = Fish Name | %3$s = Liquid | %4$s = minYLevel | %5$s = maxYLevel 
 notif.fishingmadebetter.fish_tracker.creative.fishQty_Y_levels=%1$s %2$s §7en %3$s §7a §fY%4$s-%5$s
@@ -176,10 +205,6 @@ notif.fishingmadebetter.fish_tracker.quantity_numerous_=§enumerosas cantidades
 notif.fishingmadebetter.fish_tracker.quantity_light_=§eligeras cantidades
 notif.fishingmadebetter.fish_tracker.quantity_sparse_=§6escasas cantidades
 notif.fishingmadebetter.fish_tracker.quantity_meager_=§cpobres cantidades
-notif.fishingmadebetter.fish_tracker.found_none=El Rastreador no encontró ningún pez en este lugar.
-notif.fishingmadebetter.fish_tracker.found_under_y=Peces viviendo a una menor altura
-notif.fishingmadebetter.fish_tracker.found_outside_quality=Peces fuera de las capacidades de este Rastreador
-notif.fishingmadebetter.fish_tracker.found_hibernating=Peces que no se alimentan en estas condiciones
 
 tooltip.fishingmadebetter.fish.weight=§7Peso: %s
 tooltip.fishingmadebetter.fish.scale_attached=§7Escama: §lUnida
@@ -187,17 +212,15 @@ tooltip.fishingmadebetter.fish.scale_detached=§7Escama: Removida
 tooltip.fishingmadebetter.fish.dead=§9§lMuerto
 tooltip.fishingmadebetter.fish.alive=§9§lVivo
 
-# Vanilla fishes
-item.fmb.minecraft:fish:0.name=Pez de rio
-item.fmb.minecraft:fish:1.name=Pez de montaña
-item.fmb.minecraft:fish:2.name=Pez tropical
-item.fmb.minecraft:fish:3.name=Pez de oceano
-# Overwrite originals
-item.fish.cod.raw.name=Pez de rio
-item.fish.salmon.raw.name=Pez de montaña
-item.fish.clownfish.raw.name=Pez tropical
-item.fish.pufferfish.raw.name=Pez de oceano
+# %s = Fish Name
+tooltip.fishingmadebetter.fish_slice_raw=%s
 
+# Vanilla fishes
+item.fmb.minecraft:fish:0.name=Bacalao
+item.fmb.minecraft:fish:1.name=Salmon rojo
+item.fmb.minecraft:fish:2.name=Pez payaso
+item.fmb.minecraft:fish:3.name=Pez globo amarillo
+# Aquaculture fishes
 item.fmb.aquaculture:fish:0.name=Mojarra azul
 item.fmb.aquaculture:fish:1.name=Perca
 item.fmb.aquaculture:fish:2.name=Pez aguja
@@ -206,7 +229,7 @@ item.fmb.aquaculture:fish:4.name=Pez almizclero
 item.fmb.aquaculture:fish:5.name=Trucha cafe
 item.fmb.aquaculture:fish:6.name=Pez gato
 item.fmb.aquaculture:fish:7.name=Carpa
-item.fmb.aquaculture:fish:8.name=Pez globo
+item.fmb.aquaculture:fish:8.name=Pez globo espinoso
 item.fmb.aquaculture:fish:9.name=Mero rojo
 item.fmb.aquaculture:fish:10.name=Salmon del artico
 item.fmb.aquaculture:fish:11.name=Atun
@@ -216,7 +239,7 @@ item.fmb.aquaculture:fish:14.name=Ballena
 item.fmb.aquaculture:fish:15.name=Calamar gigante
 item.fmb.aquaculture:fish:16.name=Medusa
 item.fmb.aquaculture:fish:17.name=Rana
-item.fmb.aquaculture:fish:18.name=KameiB
+item.fmb.aquaculture:fish:18.name=Tortuga
 item.fmb.aquaculture:fish:19.name=Sanguijuela
 item.fmb.aquaculture:fish:20.name=Piraña
 item.fmb.aquaculture:fish:21.name=Anguila electrica
@@ -237,48 +260,7 @@ item.fmb.aquaculture:fish:35.name=Champipez rojo
 item.fmb.aquaculture:fish:36.name=Champipez cafe
 item.fmb.aquaculture:fish:37.name=Pez dorado
 item.fmb.aquaculture:fish:38.name=Huesos de pescado
-# Overwrite originals
-item.Fish.name=Pez
-item.Fish.Bluegill.name=Mojarra azul
-item.Fish.Perch.name=Perca
-item.Fish.Gar.name=Pez aguja
-item.Fish.Bass.name=Lubina
-item.Fish.Muskellunge.name=Pez almizclero
-item.Fish.Brown_Trout.name=Trucha cafe
-item.Fish.Catfish.name=Pez gato
-item.Fish.Carp.name=Carpa
-item.Fish.Blowfish.name=Pez globo
-item.Fish.Red_Grouper.name=Mero rojo
-item.Fish.Salmon.name=Salmon del artico
-item.Fish.Tuna.name=Atun
-item.Fish.Swordfish.name=Pez espada
-item.Fish.Shark.name=Tiburon
-item.Fish.Whale.name=Ballena
-item.Fish.Squid.name=Calamar gigante
-item.Fish.Jellyfish.name=Medusa
-item.Fish.Frog.name=Rana
-item.Fish.Turtle.name=KameiB
-item.Fish.Leech.name=Sanguijuela
-item.Fish.Pirahna.name=Piraña
-item.Fish.Electric_Eel.name=Anguila electrica
-item.Fish.Tambaqui.name=Tambaqui
-item.Fish.Arapaima.name=Arapaima
-item.Fish.Cod.name=Bacalao polar
-item.Fish.Pollock.name=Abadejo
-item.Fish.Herring.name=Arenque
-item.Fish.Halibut.name=Halibut
-item.Fish.Pink_Salmon.name=Salmon real
-item.Fish.Rainbow_Trout.name=Trucha arcoiris
-item.Fish.Blackfish.name=Tautog
-item.Fish.Capitaine.name=Capitaina
-item.Fish.Boulti.name=Boulti
-item.Fish.Bagrid.name=Bagre
-item.Fish.Syndontis.name=Sinodontis
-item.Fish.Red_Shrooma.name=Champipez rojo
-item.Fish.Brown_Shrooma.name=Champipez cafe
-item.Fish.Goldfish.name=Pez dorado
-item.Fish.Fish_Bones.name=Huesos de pescado
-
+# Advanced Fishing fishes
 item.fmb.advanced-fishing:fish:0.name=Fragata portuguesa
 item.fmb.advanced-fishing:fish:1.name=Medusa magmatica
 item.fmb.advanced-fishing:fish:2.name=Atun de lodo
@@ -323,51 +305,6 @@ item.fmb.advanced-fishing:fish:40.name=Pez hueso
 item.fmb.advanced-fishing:fish:41.name=Koi maldito
 item.fmb.advanced-fishing:fish:42.name=Tetra fantasmal
 item.fmb.missingno.name=Missingno
-# Overwrite originals
-item.advanced-fishing.blue_jellyfish.name=Fragata portuguesa
-item.advanced-fishing.magma_jellyfish.name=Medusa magmatica
-item.advanced-fishing.mud_tuna.name=Atun de lodo
-item.advanced-fishing.frost_minnow.name=Pececillo de escarcha
-item.advanced-fishing.piranha.name=Piraña piel de lodo
-item.advanced-fishing.golden_koi.name=Koi dorado
-item.advanced-fishing.specular_snapper.name=Pargo especular
-item.advanced-fishing.cave_trout.name=Trucha carbonica
-item.advanced-fishing.obsidian_bream.name=Besugo de medianoche
-item.advanced-fishing.nether_sturgeon.name=Naufrago
-item.advanced-fishing.quartz_chub.name=Cacho de cuarzo
-item.advanced-fishing.flarefin_koi.name=Koi brillaleta
-item.advanced-fishing.blaze_pike.name=Ciclido ardiente
-item.advanced-fishing.ender_shad.name=Pez piedra de ender
-item.advanced-fishing.pearl_sardine.name=Pez perlado
-item.advanced-fishing.chorus_koi.name=Koi de chorus
-item.advanced-fishing.explosive_crucian.name=Carpa cruciana nitrosa
-item.advanced-fishing.ruffe.name=Acerina
-item.advanced-fishing.sparkling_eel.name=Anguila destellante
-item.advanced-fishing.angelfish.name=Pez angel
-item.advanced-fishing.angler_fish.name=Rape abisal
-item.advanced-fishing.sponge_eater.name=Señorita caribeña cabeza azul
-item.advanced-fishing.snowy_walleye.name=Lucioperca nevada
-item.advanced-fishing.squid.name=Calamar
-item.advanced-fishing.withered_crucian.name=Carpa cruciana de wither
-item.advanced-fishing.sandy_bass.name=Lubina arenosa
-item.advanced-fishing.mandarinfish.name=Dragon mandarin
-item.advanced-fishing.red_shroomfin.name=Champialeta rojo
-item.advanced-fishing.brown_shroomfin.name=Champialeta marron
-item.advanced-fishing.fungi_catfish.name=Cabeza de desgracias
-item.advanced-fishing.swamp_plaice.name=Platija de aleta verde
-item.advanced-fishing.crystal_mullet.name=Lazulicanto
-item.advanced-fishing.charged_bullhead.name=Pez toro cargado
-item.advanced-fishing.abyssal_lurker.name=Acechador abisal
-item.advanced-fishing.sunfish.name=Pez sol
-item.advanced-fishing.glacier_anchovy.name=Anchoa de glaciar
-item.advanced-fishing.catfish.name=Pez cabeza de toro cafe
-item.advanced-fishing.pike.name=Pez Lucio
-item.advanced-fishing.magikarp.name=Magikarp
-item.advanced-fishing.green_jellyfish.name=Medusa slime fluorescente
-item.advanced-fishing.bone_fish.name=Pez hueso
-item.advanced-fishing.cursed_koi.name=Koi maldito
-item.advanced-fishing.spookyfin.name=Tetra fantasmal
-
 # Vanilla fishes descriptions 
 item.fmb.minecraft:fish:0.desc=§7§oun pez grande de cuerpo robusto gris y verde, con una gran cabeza y barba alargada
 item.fmb.minecraft:fish:1.desc=§7§oun pez rojo de tamaño decente, con una mandibula ganchuda
@@ -457,6 +394,101 @@ item.fmb.advanced-fishing:fish:39.desc=§7§ouna masa verde fluorescente de desp
 item.fmb.advanced-fishing:fish:40.desc=§7§ouna masa reanimada de huesos de pez
 item.fmb.advanced-fishing:fish:41.desc=§7§oun pez raro y de escamas esmeralda, se dice que te maldecirá si causas su muerte
 item.fmb.advanced-fishing:fish:42.desc=§7§oun pez raro y traslucido, se especula que es el fantasma de un pez muerto
+
+notif.fishingmadebetter.command.reload_success=Archivos de configuración recargados para Fishing Made Better.
+notif.fishingmadebetter.command.reload_fail=Los archivos de configuración no pudieron cargarse porque no existe el directorio con los datos de los peces.
+
+## Overwrite originals
+# Vanilla fishes
+item.fish.cod.raw.name=Pez de rio
+item.fish.salmon.raw.name=Pez de montaña
+item.fish.clownfish.raw.name=Pez tropical
+item.fish.pufferfish.raw.name=Pez de oceano
+# Aquaculture
+item.Fish.name=Pez
+item.Fish.Bluegill.name=Mojarra azul
+item.Fish.Perch.name=Perca
+item.Fish.Gar.name=Pez aguja
+item.Fish.Bass.name=Lubina
+item.Fish.Muskellunge.name=Pez almizclero
+item.Fish.Brown_Trout.name=Trucha cafe
+item.Fish.Catfish.name=Pez gato
+item.Fish.Carp.name=Carpa
+item.Fish.Blowfish.name=Pez globo
+item.Fish.Red_Grouper.name=Mero rojo
+item.Fish.Salmon.name=Salmon del artico
+item.Fish.Tuna.name=Atun
+item.Fish.Swordfish.name=Pez espada
+item.Fish.Shark.name=Tiburon
+item.Fish.Whale.name=Ballena
+item.Fish.Squid.name=Calamar gigante
+item.Fish.Jellyfish.name=Medusa
+item.Fish.Frog.name=Rana
+item.Fish.Turtle.name=KameiB
+item.Fish.Leech.name=Sanguijuela
+item.Fish.Pirahna.name=Piraña
+item.Fish.Electric_Eel.name=Anguila electrica
+item.Fish.Tambaqui.name=Tambaqui
+item.Fish.Arapaima.name=Arapaima
+item.Fish.Cod.name=Bacalao polar
+item.Fish.Pollock.name=Abadejo
+item.Fish.Herring.name=Arenque
+item.Fish.Halibut.name=Halibut
+item.Fish.Pink_Salmon.name=Salmon real
+item.Fish.Rainbow_Trout.name=Trucha arcoiris
+item.Fish.Blackfish.name=Tautog
+item.Fish.Capitaine.name=Capitaina
+item.Fish.Boulti.name=Boulti
+item.Fish.Bagrid.name=Bagre
+item.Fish.Syndontis.name=Sinodontis
+item.Fish.Red_Shrooma.name=Champipez rojo
+item.Fish.Brown_Shrooma.name=Champipez cafe
+item.Fish.Goldfish.name=Pez dorado
+item.Fish.Fish_Bones.name=Huesos de pescado
+# Advanced Fishing
+item.advanced-fishing.blue_jellyfish.name=Fragata portuguesa
+item.advanced-fishing.magma_jellyfish.name=Medusa magmatica
+item.advanced-fishing.mud_tuna.name=Atun de lodo
+item.advanced-fishing.frost_minnow.name=Pececillo de escarcha
+item.advanced-fishing.piranha.name=Piraña piel de lodo
+item.advanced-fishing.golden_koi.name=Koi dorado
+item.advanced-fishing.specular_snapper.name=Pargo especular
+item.advanced-fishing.cave_trout.name=Trucha carbonica
+item.advanced-fishing.obsidian_bream.name=Besugo de medianoche
+item.advanced-fishing.nether_sturgeon.name=Naufrago
+item.advanced-fishing.quartz_chub.name=Cacho de cuarzo
+item.advanced-fishing.flarefin_koi.name=Koi brillaleta
+item.advanced-fishing.blaze_pike.name=Ciclido ardiente
+item.advanced-fishing.ender_shad.name=Pez piedra de ender
+item.advanced-fishing.pearl_sardine.name=Pez perlado
+item.advanced-fishing.chorus_koi.name=Koi de chorus
+item.advanced-fishing.explosive_crucian.name=Carpa cruciana nitrosa
+item.advanced-fishing.ruffe.name=Acerina
+item.advanced-fishing.sparkling_eel.name=Anguila destellante
+item.advanced-fishing.angelfish.name=Pez angel
+item.advanced-fishing.angler_fish.name=Rape abisal
+item.advanced-fishing.sponge_eater.name=Señorita caribeña cabeza azul
+item.advanced-fishing.snowy_walleye.name=Lucioperca nevada
+item.advanced-fishing.squid.name=Calamar
+item.advanced-fishing.withered_crucian.name=Carpa cruciana de wither
+item.advanced-fishing.sandy_bass.name=Lubina arenosa
+item.advanced-fishing.mandarinfish.name=Dragon mandarin
+item.advanced-fishing.red_shroomfin.name=Champialeta rojo
+item.advanced-fishing.brown_shroomfin.name=Champialeta marron
+item.advanced-fishing.fungi_catfish.name=Cabeza de desgracias
+item.advanced-fishing.swamp_plaice.name=Platija de aleta verde
+item.advanced-fishing.crystal_mullet.name=Lazulicanto
+item.advanced-fishing.charged_bullhead.name=Pez toro cargado
+item.advanced-fishing.abyssal_lurker.name=Acechador abisal
+item.advanced-fishing.sunfish.name=Pez sol
+item.advanced-fishing.glacier_anchovy.name=Anchoa de glaciar
+item.advanced-fishing.catfish.name=Pez cabeza de toro cafe
+item.advanced-fishing.pike.name=Pez Lucio
+item.advanced-fishing.magikarp.name=Magikarp
+item.advanced-fishing.green_jellyfish.name=Medusa slime fluorescente
+item.advanced-fishing.bone_fish.name=Pez hueso
+item.advanced-fishing.cursed_koi.name=Koi maldito
+item.advanced-fishing.spookyfin.name=Tetra fantasmal
 
 # Trying to add Fish bucket for lava and void fishes
 item.fishingmadebetter.fish_lava_bucket.name=Cubeta con pez de lava
