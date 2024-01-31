@@ -99,7 +99,7 @@ notif.fishingmadebetter.baitbox.full=La Caja de carnada esta llena!
 notif.fishingmadebetter.baitbox.empty=La Caja de carnada esta vacia!
 
 # Fillet Knives
-tooltip.fishingmadebetter.fillet_knife=Usalo para rebanar peces
+item.fishingmadebetter.fillet_knife.tooltip=Usalo para rebanar peces
 item.fishingmadebetter.fish_slice_raw.tooltip=Rebanada de
 
 # Scaling Knives
