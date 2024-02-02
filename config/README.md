@@ -23,12 +23,12 @@ For full localization support, please download my mod [Localizator](https://www.
 - Requires "Localizator" for tooltips to localize bonus names lang keys.  
 
 ### trinkets/Trinkets_And_Baubles.cfg
-- Lines 613-620: Replaced oreDictionary entries with Block Ids, so they become translatable.  
+- Lines 613-620: Replaced oreDictionary entries with Block Ids, so they become translatable.
+
+### enhancedvisuals.json
+- File now references lang keys (thanks Fonny!).  
 
 # Spanish-only stuff
-### enhancedvisuals_es_mx.json
-- Spanish death messages.  
-
 ### rlmixins/dsurround_chat_es_mx.cfg
 - Add this file for spanish users.  
 
