@@ -342,6 +342,8 @@ explosion=Explosión
 player=Jugador
 mob=Mob
 
+Ender Dragon=Dragona de Ender
+
 ## From Shivaxi's scripts
 item.fishingRod.name=Caña de pescar ancestral
 item.fishingRod.addedtooltip.1=Solo es un componente de crafteo!
