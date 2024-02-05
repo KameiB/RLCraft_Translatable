@@ -155,6 +155,7 @@ grapplemodifier.help.desc=Haz clic derecho con un Gancho\n para aplicar.\nClic d
 enchantment.grapplemod.wallrunenchantment.desc=Te permite correr horizontalmente por las paredes
 enchantment.grapplemod.doublejumpenchantment.desc=Te permite saltar una segunda vez
 enchantment.grapplemod.slidingenchantment.desc=Te permite deslizarte por el suelo si te agachas. Mantiene el momentum
+grapplemod.subtitle.double.jump=Doble salto
 
 grapplemod.client_options=Opciones del Cliente
 grapplemod.client_options.tooltip=Configuraciones del lado del Cliente
