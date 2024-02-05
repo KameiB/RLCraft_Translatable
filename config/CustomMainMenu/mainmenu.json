@@ -85,7 +85,7 @@
             "imageWidth" : 1000,
             "imageHeight" : 125,
 			"texture" : "mainmenu:buttonlong.png",
-			"hoverText" : "By BisectHosting, use code Shivaxi",
+			"hoverText" : "menu.hostyourserver.hover",
             "action" : 
             {
                 "type" : "openLink",
