@@ -137,23 +137,6 @@ item.fishingmadebetter.fish_tracker.tooltip.right_click=Da clic derecho para son
 item.fishingmadebetter.fish_tracker.tooltip.info.1=Presiona
 item.fishingmadebetter.fish_tracker.tooltip.info.2=durante el rastreo para mas informacion
 
-# %1$s = Quantity | %2$s = Fish Name | %3$s = Liquid | %4$s = minYLevel | %5$s = maxYLevel 
-notif.fishingmadebetter.fish_tracker.creative.fishQty_Y_levels=%1$s %2$s §7en %3$s §7a §fY%4$s-%5$s
-notif.fishingmadebetter.fish_tracker.creative.liquid.WATER=§bAGUA
-notif.fishingmadebetter.fish_tracker.creative.liquid.LAVA=§cLAVA
-notif.fishingmadebetter.fish_tracker.creative.liquid.VOID=§dVACIO
-notif.fishingmadebetter.fish_tracker.creative.liquid.ANY=§aDONDE SEA
-
-# %1$s = MinLine | %2$s = Time | %3$s = MaxLight | %4$s = Rain | %5$s = Thunder 
-notif.fishingmadebetter.fish_tracker.creative.fishEnvironmentConditions=§7   Dist. %1$sm§7, Hora %2$s§7, LuzMax %3$s§7, Lluvia %4$s§7, Rayos %5$s
-notif.fishingmadebetter.fish_tracker.creative.time.DAY=§eDIA
-notif.fishingmadebetter.fish_tracker.creative.time.NIGHT=§9NOCHE
-notif.fishingmadebetter.fish_tracker.creative.time.ANY=SIEMPRE
-notif.fishingmadebetter.fish_tracker.creative.rain.false=NO
-notif.fishingmadebetter.fish_tracker.creative.rain.true=SI
-notif.fishingmadebetter.fish_tracker.creative.thunder.false=NO
-notif.fishingmadebetter.fish_tracker.creative.thunder.true=SI
-
 notif.fishingmadebetter.fish_tracker.detected=Se detectó
 notif.fishingmadebetter.fish_tracker.quantity_immense=inmensas cantidades§r.
 notif.fishingmadebetter.fish_tracker.quantity_abundant=abundantes cantidades§r.
@@ -239,7 +222,7 @@ item.fmb.aquaculture:fish:14.name=Ballena
 item.fmb.aquaculture:fish:15.name=Calamar gigante
 item.fmb.aquaculture:fish:16.name=Medusa
 item.fmb.aquaculture:fish:17.name=Rana
-item.fmb.aquaculture:fish:18.name=Tortuga
+item.fmb.aquaculture:fish:18.name=KameiB
 item.fmb.aquaculture:fish:19.name=Sanguijuela
 item.fmb.aquaculture:fish:20.name=Piraña
 item.fmb.aquaculture:fish:21.name=Anguila electrica
@@ -329,7 +312,7 @@ item.fmb.aquaculture:fish:14.desc=§7§oel mamifero mas grande de este planeta
 item.fmb.aquaculture:fish:15.desc=§7§oun organismo marino muy grande, carnoso y con largos tentaculos
 item.fmb.aquaculture:fish:16.desc=§7§oun organismo marino gelatinoso con tentaculos venenosos
 item.fmb.aquaculture:fish:17.desc=§7§oun anfibio pequeño, con buena capacidad para saltar
-item.fmb.aquaculture:fish:18.desc=§7§oun pequeño reptil, con un caparazon duro para protegerse
+item.fmb.aquaculture:fish:18.desc=§7§oel reptil más hermoso, con un caparazón duro para protegerse. NO TE LO COMAS!
 item.fmb.aquaculture:fish:19.desc=§7§oun insecto parasito que se alimenta de sangre
 item.fmb.aquaculture:fish:20.desc=§7§oun pez pequeño, es un predador cruel
 item.fmb.aquaculture:fish:21.desc=§7§oun pequeño pez con forma de serpiente que electrocuta a su presa
