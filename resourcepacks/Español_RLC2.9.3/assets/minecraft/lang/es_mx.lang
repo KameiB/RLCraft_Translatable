@@ -140,8 +140,8 @@ attribute.name.generic.maxHealth=Salud maxima
 entity.Villager.librarian=Bibliotecario
 enchantment.fire=Aspecto igneo
 
-tile.dragonEgg.name=Huevo de Ender dragon
-item.skull.dragon.name=Cabeza de Ender dragon
+tile.dragonEgg.name=Huevo de Dragona de Ender
+item.skull.dragon.name=Cabeza de Dragona de Ender
 
 tile.oreGold.name=Mineral de oro
 tile.oreIron.name=Mineral de hierro
@@ -248,6 +248,8 @@ enchantment.waterWalker=Agilidad acuatica
 enchantment.waterWorker=Afinidad acuatica
 
 death.attack.drown=%1$s descanse en pez.
+
+commands.give.success=%3$s recibió %2$s de %1$s
 
 ## From Localizator
 # Biome names
@@ -368,3 +370,20 @@ effect.fireResistance.detail.1=Inmunidad a fuego y lava
 effect.waterBreathing.detail.1=Oxigeno bajo el agua
 effect.invisibility.detail.1=Deteccion de enemigos reducida
 effect.nightVision.detail.1=Vision mejorada en la oscuridad
+
+item.banner.base.white=Base blanca
+item.banner.base.orange=Base naranja
+item.banner.base.magenta=Base magenta
+item.banner.base.light_blue=Base azul claro
+item.banner.base.yellow=Base amarilla
+item.banner.base.lime=Base verde lima
+item.banner.base.pink=Base rosa
+item.banner.base.gray=Base gris
+item.banner.base.silver=Base gris claro
+item.banner.base.cyan=Base cian
+item.banner.base.purple=Base morada
+item.banner.base.blue=Base azul
+item.banner.base.brown=Base cafe
+item.banner.base.green=Base verde
+item.banner.base.red=Base roja
+item.banner.base.black=Base negra

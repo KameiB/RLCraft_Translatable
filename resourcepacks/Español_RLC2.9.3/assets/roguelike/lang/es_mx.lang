@@ -166,7 +166,7 @@ json.roguelike.tradingcard.88=§7Minotauro
 json.roguelike.tradingcard.89=§3Serpiente marina
 json.roguelike.tradingcard.90=§3Dragón de fuego
 json.roguelike.tradingcard.91=§3Dragón de hielo
-json.roguelike.tradingcard.92=§3Sierpe
+json.roguelike.tradingcard.92=§3Dragón de rayo
 
 json.roguelike.tradingcard.93=§3Ametista
 json.roguelike.tradingcard.94=§5Diamante
@@ -305,8 +305,7 @@ json.roguelike.tradingcard.89.desc.2=§7§oy tienen un gran abanico de habilidad
 json.roguelike.tradingcard.89.desc.3=§7§opresas hasta escupir burbujas de ácido, capaz de derretir madera e incluso acero.
 json.roguelike.tradingcard.90.desc=§7§oEste tipo de dragón usa principalmente fuego para quemar a sus enemigos y tiene escamas de color rojo oscuro.
 json.roguelike.tradingcard.91.desc=§7§oEste tipo de dragón usa principalmente su aliento gélido para congelar a sus enemigos y tienen muchos picos filosos cubriendo sus espaldas.
-json.roguelike.tradingcard.92.desc.1=§7§oEstas ancestrales criaturas parecidas a serpientes vuelan con sus alas,
-json.roguelike.tradingcard.92.desc.2=§7§omatan con enormes colmillos o garras y tienen cerradas e impenetrables escamas.
+json.roguelike.tradingcard.92.desc=§7§oEste tipo de dragón usa principalmente rayos para paralizar a sus enemigos y sólo vuela de noche.
 
 json.roguelike.tradingcard.93.desc=§7§oLa amatista brilla en un reluciente tono morado y puede esculpirse en muchas formas.
 json.roguelike.tradingcard.94.desc.1=§7§oEl diamante es uno de los minerales más duros, con valor de 10 en la escala de dureza mohs,

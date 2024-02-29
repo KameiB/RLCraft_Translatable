@@ -1,6 +1,6 @@
 ## Translated by KameiB for RLCraft 2.9.4
 itemGroup.iceandfire=Ice And Fire
-iceandfire.empty =Vacio
+iceandfire.empty=Vacio
 
 tile.iceandfire.lectern.name=Atril
 tile.iceandfire.podium.name=Podio
@@ -281,6 +281,12 @@ item.iceandfire.tide_trident.name=Tridente de la Marea
 item.iceandfire.tide_trident.desc_0=§aInflige mas daño cuando se arroja bajo el agua
 item.iceandfire.tide_trident.desc_1=§3Atraviesa multiples enemigos
 
+item.iceandfire.lich_staff.name=Baston de Liche del horror
+item.iceandfire.dread_shard.name=Fragmento del horror
+item.iceandfire.dread_sword.name=Espada de Esclavo del horror
+item.iceandfire.dread_knight_sword.name=Espada de Caballero del horror
+item.iceandfire.custom_banner.jei_desc=Tiene un patrón único de estandarte!
+
 item.banner.firedragon.white=Figura blanca de Dragon de fuego
 item.banner.firedragon.orange=Figura naranja de Dragon de fuego
 item.banner.firedragon.magenta=Figura magenta de Dragon de fuego
@@ -331,6 +337,23 @@ item.banner.lightningdragon.brown=Figura cafe de Dragon de rayo
 item.banner.lightningdragon.green=Figura verde de Dragon de rayo
 item.banner.lightningdragon.red=Figura roja de Dragon de rayo
 item.banner.lightningdragon.black=Figura negra de Dragon de rayo
+
+item.banner.dread.white=Figura blanca de craneo del horror
+item.banner.dread.orange=Figura naranja de craneo del horror
+item.banner.dread.magenta=Figura magenta de craneo del horror
+item.banner.dread.lightBlue=Figura azul claro de craneo del horror
+item.banner.dread.yellow=Figura amarilla de craneo del horror
+item.banner.dread.lime=Figura verde lima de craneo del horror
+item.banner.dread.pink=Figura rosa de craneo del horror
+item.banner.dread.gray=Figura gris de craneo del horror
+item.banner.dread.silver=Figura plateada de craneo del horror
+item.banner.dread.cyan=Figura cian de craneo del horror
+item.banner.dread.purple=Figura morada de craneo del horror
+item.banner.dread.blue=Figura azul de craneo del horror
+item.banner.dread.brown=Figura cafe de craneo del horror
+item.banner.dread.green=Figura verde de craneo del horror
+item.banner.dread.red=Figura roja de craneo del horror
+item.banner.dread.black=Figura negra de craneo del horror
 
 item.iceandfire.fire_dragon_blood.jei_desc=Obtenido al interactuar con un cadáver de §4Dragón de fuego§r, sosteniendo un frasco vacío.
 item.iceandfire.ice_dragon_blood.jei_desc=Obtenido al interactuar con un cadáver de §bDragón de hielo§r, sosteniendo un frasco vacío.
@@ -393,9 +416,19 @@ entity.myrmex_royal.name=Realeza Mirmex
 entity.myrmex_egg.name=Huevo de Mirmex
 entity.amphithere.name=Anfiptero
 entity.seaserpent.name=Serpiente marina
+entity.ghost.name=Fantasma
 
 entity.lightningdragon.name=Dragon de rayo
 entity.dragonlightningcharge.name=Carga de dragon de rayo
+
+entity.dread_thrall.name=Esclavo del horror
+entity.dread_ghoul.name=Necrofago del horror
+entity.dread_beast.name=Bestia del horror
+entity.dread_scuttler.name=Espantapajaros del horror
+entity.dread_lich.name=Liche del horror
+entity.dread_lich_skull.name=Craneo de Liche del horror
+entity.dread_knight.name=Caballero del horror
+entity.dread_horse.name=Caballo del Caballero del horror
 
 entity.if_hydra.name=Hidra
 entity.hydra_breath.name=Aliento de Hidra
@@ -426,6 +459,7 @@ dragon.ice=§bHielo§r
 dragon.name=Nombre: 
 dragon.unnamed=Sin nombre
 dragon.health=Salud: 
+
 dragon.gender=Genero: 
 dragon.gender.male=Masculino
 dragon.gender.female=Femenino
@@ -530,6 +564,7 @@ bestiary.myrmex=Mirmex
 bestiary.amphithere=Anfipteros
 bestiary.seaserpent=Serpientes marinas
 bestiary.hydra=Hidra
+bestiary.dread_mobs=Los No muertos
 
 lectern.nopages=No se puede agregar mas informacion.
 silvertools.hurt=Daño contra no-muertos: +2

@@ -166,7 +166,7 @@ json.roguelike.tradingcard.88=§7Minotaur
 json.roguelike.tradingcard.89=§3Sea Serpent
 json.roguelike.tradingcard.90=§3Fire Dragon
 json.roguelike.tradingcard.91=§3Ice Dragon
-json.roguelike.tradingcard.92=§3Wyrm
+json.roguelike.tradingcard.92=§3Lightning Dragon
 
 json.roguelike.tradingcard.93=§3Amethyst
 json.roguelike.tradingcard.94=§5Diamond
@@ -305,8 +305,7 @@ json.roguelike.tradingcard.89.desc.2=§7ocean and have a range of abilities rang
 json.roguelike.tradingcard.89.desc.3=§7at their foes to spitting globs of acid able to melt wood and even steel.
 json.roguelike.tradingcard.90.desc=§7This type of dragon primarily uses fire to burn its enemies and wears scales colored a deep shade of red.
 json.roguelike.tradingcard.91.desc=§7This type of dragon primarily uses icy breath to freeze its enemies and has several sharp spikes covering their backs.
-json.roguelike.tradingcard.92.desc.1=§7These ancient snakelike creatures fly around with wings,
-json.roguelike.tradingcard.92.desc.2=§7kill with huge fangs or claws, and have nigh impenetrable scales.
+json.roguelike.tradingcard.92.desc=§7This type of dragon primarily uses thunder bolts to paralyze its enemies and only flies at night.
 
 json.roguelike.tradingcard.93.desc=§7Amethyst sparkles a brilliant shade of purple and can be carved into many shapes.
 json.roguelike.tradingcard.94.desc.1=§7Diamond is one of the hardest minerals, at a mohs hardness scale rating of 10,
