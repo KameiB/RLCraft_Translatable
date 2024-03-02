@@ -1144,3 +1144,8 @@ xat.config.attributes.stepheight.amount.tooltip=Valor del modificador de Altura 
 xat.config.attributes.stepheight.amount=Valor de Altura de paso
 xat.config.attributes.stepheight.operation.tooltip=Determina las matematicas que se usaran para el modificador de Altura de paso
 xat.config.attributes.stepheight.operation=Multiplicador de Altura de paso
+
+## From Localizator
+xat.notif.ender_tiara.message.0=§6§l¡Ve, mi leal súbdito!
+xat.notif.ender_tiara.message.1=§6§l¡El vacío me protege!
+xat.tooltip.weight=Peso:
