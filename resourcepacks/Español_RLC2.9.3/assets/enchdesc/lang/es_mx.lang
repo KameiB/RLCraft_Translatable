@@ -1,7 +1,7 @@
 ## Translated by KameiB for RLCraft 2.9.2. Jan/2023
 
 #Enchantment Tooltip
-tooltip.enchdesc.name=Encantamiento
+tooltip.enchdesc.name=§fEncantamiento
 tooltip.enchdesc.addedby=Agregado por
 tooltip.enchdesc.missing=No se encontro una descripcion. Por favor pide al autor de %s que la agregue. La clave de regionalizacion es %s
 tooltip.enchdesc.activate=Presiona %s%s%s para mostrar la descripcion.
