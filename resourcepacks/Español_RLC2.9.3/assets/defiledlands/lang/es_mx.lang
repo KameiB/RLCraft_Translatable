@@ -209,7 +209,7 @@ ui.defiledlands.book_wyrm_analyze.digesting=Digiriendo : %s nivel(es)
 ui.defiledlands.book_wyrm_analyze.maturing=Tiempo para madurar : %s minuto(s)
 ui.defiledlands.book_wyrm_analyze.reproduce=Tiempo para siguiente apareamiento : %s minuto(s)
 ui.defiledlands.book_wyrm_analyze.ready=Listo para aparearse
-ui.defiledlands.book_wyrm_analyze.golden=Este especimen tiene un extraño cuero dorado...
+ui.defiledlands.book_wyrm_analyze.golden=§eEste especimen tiene un extraño cuero dorado...
 
 ui.defiledlands.pellet.damage=Daño
 
