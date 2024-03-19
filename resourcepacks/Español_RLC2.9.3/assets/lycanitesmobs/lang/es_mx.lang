@@ -553,7 +553,7 @@ tile.demonstonebrick_stairs.description=Algunos dicen que los demonios mayores e
 tile.demoncrystal.name=Linterna demoniaca
 tile.demoncrystal.description=El simbolo actua como una guarda mientras que la energia demoniaca atrapada emite una luz malvada.
 #
-tile.demonstonechiseled.name=Ladrillos de piedra demoniaca cincelados
+tile.demonstonechiseled.name=Ladrillos de piedra demoniaca grabados
 tile.demonstonechiseled.description=Se desconoce por que los demonios mayores exigen tal detalle para sus templos, ¿quizas sea un simbolo de estatus?
 #
 tile.demonstonebrick_wall.name=Pared de ladrillos de piedra demoniaca
@@ -601,7 +601,7 @@ tile.aberrantstonebrick_stairs.description=Hay algo alienigena en estos bloques 
 tile.aberrantcrystal.name=Linterna aberrante
 tile.aberrantcrystal.description=La luz que emite se siente como si viniera de otro mundo...
 #
-tile.aberrantstonechiseled.name=Piedra aberrante cincelada
+tile.aberrantstonechiseled.name=Piedra aberrante grabada
 tile.aberrantstonechiseled.description=Hay algo alienigena en estos bloques decorativos.
 #
 tile.aberrantstonebrick_wall.name=Pared de ladrillos de piedra aberrante
@@ -649,7 +649,7 @@ tile.desertstonebrick_stairs.description=Una arenisca refinada utilizada para co
 tile.desertcrystal.name=Linterna desertica
 tile.desertcrystal.description=Linterna encantada extraña que emite una luz magica.
 #
-tile.desertstonechiseled.name=Piedra desertica cincelada
+tile.desertstonechiseled.name=Piedra desertica grabada
 tile.desertstonechiseled.description=Piedra desertica finamente decorada.
 #
 tile.desertstonebrick_wall.name=Pared de ladrillos de piedra desertica
@@ -700,7 +700,7 @@ tile.lushstonebrick_stairs.description=La esencia misma de la naturaleza recorre
 tile.lushcrystal.name=Linterna lujosa
 tile.lushcrystal.description=El simbolo actua como una proteccion y la energia exuberante atrapada se enfurece emitiendo una luz malvada.
 #
-tile.lushstonechiseled.name=Piedra lujosa cincelada
+tile.lushstonechiseled.name=Piedra lujosa grabada
 tile.lushstonechiseled.description=La esencia misma de la naturaleza recorre en esta piedra.
 #
 tile.lushstonebrick_wall.name=Pared de ladrillos de piedra lujosa
@@ -749,7 +749,7 @@ tile.streamstonebrick_stairs.description=La esencia pura del oceano fluye por es
 tile.streamcrystal.name=Linterna torrente
 tile.streamcrystal.description=Este simbolo actua como guardia mientras la energia oceanica se manifiesta por esta malvada luz.
 #
-tile.streamstonechiseled.name=Piedra torrente cincelada
+tile.streamstonechiseled.name=Piedra torrente grabada
 tile.streamstonechiseled.description=La esencia pura del oceano fluye por esta piedra.
 #
 tile.streamstonebrick_wall.name=Pared de ladrillos de piedra torrente
@@ -807,7 +807,7 @@ tile.shadowcrystal.description=A medida que la runa absorbe rapidamente la luz, 
 tile.shadowstone_slab_double.name=Losa de piedra sombria doble
 tile.shadowstone_slab_double.description=Piedra creada desde las mismas sombras.
 #
-tile.shadowstonechiseled.name=Piedra sombria cincelada
+tile.shadowstonechiseled.name=Piedra sombria grabada
 tile.shadowstonechiseled.description=La manera mas eficaz de cincelar piedra sombria es utilizar los huesos de tus victimas.
 #
 tile.shadowstone.name=Piedra sombria
@@ -846,7 +846,7 @@ tile.ashenstonebrick_stairs.description=Las fuerzas primordiales de la tierra y 
 tile.ashencrystal.name=Linterna volcanica
 tile.ashencrystal.description=Un poderoso vinculo de lava y tierra magica empoderan este cristal sin limites.
 #
-tile.ashenstonechiseled.name=Piedra volcanica cincelada
+tile.ashenstonechiseled.name=Piedra volcanica grabada
 tile.ashenstonechiseled.description=Las fuerzas primordiales de la tierra y la lava surgen a traves de esta piedra.
 #
 tile.ashenstonebrick_wall.name=Pared de ladrillos de piedra volcanica
