@@ -153,7 +153,7 @@ enchantment.somanyenchantments.viper.desc=Inflige daño adicional a los objetivo
 enchantment.Desolator=Desolador
 enchantment.somanyenchantments.desolator.desc=Los ataques tienen la posibilidad de aplicar resistencia negativa. Si el objetivo tiene una resistencia positiva activa, infligira daño adicional en su lugar. Tambien le aplica Debilidad.
 
-enchantment.Disorientation=Desoriantador
+enchantment.Disorientation=Desorientador
 enchantment.somanyenchantments.disorientation.desc=Los ataques tienen la posibilidad de desorientar al enemigo (aplica efectos relacionados con la desorientacion). (Lentitud y Nauseas)
 
 enchantment.Envenomed=Envenenado
@@ -202,17 +202,17 @@ enchantment.AdvancedProjectileProtection=Proteccion contra proyectiles avanzada
 enchantment.somanyenchantments.advancedprojectileprotection.desc=Version avanzada de Proteccion contra proyectiles (24%% * Nivel).
 
 enchantment.CactusProtection=Proteccion contra cactus
-enchantment.somanyenchantments.cactusprotection.desc=Ni idea...
+enchantment.somanyenchantments.cactusprotection.desc=Protege contra el daño por cactus?
 enchantment.WitherProtection=Proteccion contra Wither
-enchantment.somanyenchantments.witherprotection.desc=Ni idea...
+enchantment.somanyenchantments.witherprotection.desc=Protege contra el daño por Descomposición?
 
-enchantment.Mathematics=Materia: Matematica
+enchantment.Mathematics=Materia: Matematicas
 enchantment.somanyenchantments.mathematics.desc=Uno de los encantamientos de Materia. Da daño adicional como Filo, y tambien te da daño adicional en funcion de la vida del objetivo (2.5 + (Nivel * 2.5))%%.
 
 enchantment.Science=Materia: Ciencias
 enchantment.somanyenchantments.science.desc=Uno de los encantamientos de Materia. ¡Los ataques tienen la posibilidad de explotar! Hacen daño masivo al objetivo y a las entidades cercanas a su alrededor. El propietario no recibe el daño de la explosion y la explosion no daña el terreno. Recuerda que toda explosion puede generar Tremors! 
 
-enchantment.English=Materia: Conocimiento
+enchantment.English=Materia: Lenguas
 enchantment.somanyenchantments.english.desc=Uno de los encantamientos de Materia. Ademas de un primer daño adicional, se añade un plus en las criaturas 'inteligentes' (ej: Aldeanos, Lobos, Hombrecerdos zombis, Golems de nieve, Brujas, Pillagers, etc.). +(Nivel * 3) de daño 
 
 enchantment.History=Materia: Historia
