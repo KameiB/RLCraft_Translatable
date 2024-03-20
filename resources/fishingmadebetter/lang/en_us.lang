@@ -1,4 +1,4 @@
-## Aquaculture Fish
+## Aquaculture
 item.Fish.name=Fish
 item.Fish.Bluegill.name=Bluegill
 item.Fish.Perch.name=Perch
@@ -40,7 +40,7 @@ item.Fish.Brown_Shrooma.name=Brown Shrooma
 item.Fish.Goldfish.name=Goldfish
 item.Fish.Fish_Bones.name=Fish Bones
 
-## Advanced Fishing Fish
+## Advanced Fishing
 item.advanced-fishing.blue_jellyfish.name=Bluebottle Jellyfish
 item.advanced-fishing.magma_jellyfish.name=Magmatic Jellyfish
 item.advanced-fishing.mud_tuna.name=Mud Tuna
@@ -85,11 +85,11 @@ item.advanced-fishing.bone_fish.name=Bonefish
 item.advanced-fishing.cursed_koi.name=Cursed Koi
 item.advanced-fishing.spookyfin.name=Phantasmal Tetra
 
-## Fishing Made Better (Localizator)
+## Advanced Fishing (caught fishes)
 item.fmb.advanced-fishing:fish:11.name=Flarefin Koi
 item.fmb.advanced-fishing:fish:15.name=Chorus Koi
 
-# Vanilla (Localizator)
+# Vanilla (caught fishes)
 item.fmb.minecraft:fish:0.name=River Fish
 item.fmb.minecraft:fish:1.name=Mountain Fish
 item.fmb.minecraft:fish:2.name=Tropical Fish
