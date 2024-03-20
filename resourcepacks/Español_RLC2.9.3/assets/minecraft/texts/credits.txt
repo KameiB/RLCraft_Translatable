@@ -1,0 +1,268 @@
+[C]§f============
+[C]§eEquipo Minecraft
+[C]§f============
+ 
+§7Creador original
+§f          Markus Persson
+ 
+§7Líder de Diseño creativo
+§f          Jens Bergensten
+ 
+§7Director de Producción
+§f          Daniel Kaplan
+ 
+§7Desarrollo del juego
+§f          Agnes Larsson
+§f          Alexander Östman
+§f          Aron Nieminen
+§f          Daniel Wustenhoff
+§f          Erik Broes
+§f          Erik Bylund
+§f          Johan Bernhardsson
+§f          Jon Maiga
+§f          Maria Lemón
+§f          Michael Stoyke
+§f          Mikael Hedberg
+§f          Måns Olson
+§f          Nathan Adams
+§f          Nathan Gilbert
+§f          Ryan Holtz
+§f          Sebastian Hindefelt
+§f          Shoghi Cervantes
+§f          Thomas Guimbretière
+§f          Tomas Alaeus
+§f          Tommaso Checchi
+ 
+§7Desarrollo de Realms
+§f          Alexandre Pretto Nunes
+§f          Amir Moulavi
+§f          Christian Westman
+§f          Daniel Frisk
+§f          David Marby
+§f          Leonard Gram
+§f          Magnus Jäderberg
+§f          Mats Henricson
+§f          Philip Vieira
+ 
+§7Programación adicional
+§f          Paul Spooner
+§f          Ryan 'Scaevolus' Hitchman
+§f          Elliot 'Hippoplatimus' Segal
+ 
+§7Productores asistentes
+§f          Adrian Östergård
+§f          Aleksandra Zajac
+§f          Warren Loo
+ 
+§7Líder de Contenido de Realms
+§f          Marc Watson
+ 
+§7Coordinador de Contenido de Realms
+§f          Matthew Dryden
+ 
+§7Director de Arte
+§f          Markus Toivonen
+ 
+§7Artistas gráficos
+§f          Johan Aronson
+§f          Kristoffer Zetterstrand
+ 
+§7Gráficos adicionales
+§f          Jonatan Pöljö
+§f          Mariana Graham Ramirez
+§f          Martin Johansson
+§f          Ninni Landin
+ 
+§7Diseño de Experiencia de usuario
+§f          Tobias Ahlin
+ 
+§7Líder de Diseño de sonido
+§f          Samuel Åberg
+ 
+§7Diseño de sonido
+§f          Daniel Rosenfeld
+ 
+§7Música compuesta por
+§f          Daniel Rosenfeld
+ 
+§7Escritor
+§f          Julian Gough
+ 
+§7Desarrolladores de Mo’ Creatures
+§f          John Olarte (DrZhark)
+§f          Kent Christian Jensen
+§f          Dan Roque
+
+[C]§f========
+[C]§eMojang
+[C]§f========
+
+§7Director ejecutivo
+§f          Jonas Mårtensson
+ 
+§7Director de Operaciones
+§f          Vu Bui
+ 
+§7Director de Finanzas
+§f          Karin Severinson
+ 
+§7Director de Marca
+§f          Lydia Winters
+ 
+§7Director de Tecnología
+§f          Rikard Herlitz
+ 
+§7Líder de Desarrollo de sistemas
+§f          Kristoffer Jelbring
+ 
+§7Desarrollo de sistemas
+§f          Pär Axelsson
+§f          Robert Sjödahl
+§f          Stefan Torstensson
+§f          Tomas Sommar
+ 
+§7Líder del equipo de Soporte al cliente
+§f          Mattias Victorin
+ 
+§7Soporte al cliente
+§f          Adam Martinsson
+§f          Amelia Lindroth Henriksson
+§f          Angehlica Walling
+§f          Anna Lundgren
+§f          Antonia Kousathana
+§f          Carl Johnsson
+§f          Cim Borg
+§f          Eliza Hearsum
+§f          Ellie Ashrafi
+§f          Jonny Hair
+§f          Marcus Forss
+§f          Nasim Derakhshan
+§f          Patrik Södergren
+§f          Rui Ribeiro
+§f          Sarah Mårtensson
+ 
+§7Director de Desarrollo de negocios
+§f          Patrick Geuder
+ 
+§7Inteligencia de negocios
+§f          Brynjólfur Erlingsson
+ 
+§7Director de Producción
+§f          Olof Carlsson
+ 
+§7Productores
+§f          Hampus Nilsson
+ 
+§7Director de Proyecto
+§f          Ulrika Höjgård
+ 
+§7Gerentes de Proyecto
+§f          Henrik Pettersson
+§f          Isabella Balk
+§f          Lisa Kempe
+§f          Nicolette Suraga
+ 
+§7Director de Comunicaciones creativas
+§f          Owen Jones
+ 
+§7Gerente de Comunicaciones creativas
+§f          Martin Davies
+ 
+§7Asistente de Comunicaciones creativas
+§f          Tom Stone
+ 
+§7Jefe de Relaciones comunitarias
+§f          Karim Walldén
+ 
+§7Jefe de Redes sociales
+§f          Amelia Dale
+ 
+§7Gerentes de oficina
+§f          David Stuart Dahlgren
+§f          Mikaela Prim
+§f          Siri Hoel Andersson
+ 
+§7Gerente de Finanzas
+§f          Marina Kostesic
+ 
+§7Contadores financieros
+§f          Josefina Axelsson
+ 
+§7Artistas gráficos
+§f          Mattis Grahm
+ 
+§7Generalista de 3D/vfx
+§f          Christian Nordgren
+ 
+§7Diseño de nivel
+§f          Max Herngren
+ 
+§7Diseño de producto
+§f          Amanda Ström
+§f          Filip Thoms
+ 
+§7Líder del equipo de Aplicación de la propiedad intelectual
+§f          Mathias Andersson
+ 
+§7Agentes de Aplicación de la propiedad intelectual
+§f          Josefin Olsson
+§f          Matilda Åkerman
+§f          Olle Personne
+ 
+[C]§f===========
+[C]§eAlumnos Mojang
+[C]§f===========
+ 
+§7Director ejecutivo
+§f          Carl Manneh
+ 
+§7Director de proyecto
+§f          Jakob Porsér
+ 
+§7Desarrollo de juego
+§f          Tobias Möllstam
+ 
+§7Desarrollo de sistemas
+§f          Martin Odhelius
+ 
+§7Artistas gráficos
+§f          Poi Poi Chen
+ 
+§7Soporte al cliente
+§f          Andreas Andersson
+§f          Andreas Jörgensen
+§f          Annika Tripke-Lund
+§f          Anton Albiin
+§f          Dante Stjernberg
+§f          David Carlsson
+§f          Elin Frykholm
+§f          Emily Richardson
+§f          Erik Nordberg
+§f          Fredrik Henriksson
+§f          Henrik Davallius
+§f          Henry Shi
+§f          Joe Liu
+§f          Kevin Vesterlund
+§f          Mike Till
+§f          Rabi Hadad
+§f          Robert Miskiewicz
+§f          Robin Cocks
+§f          Robin Thunström
+ 
+§7Gerentes de oficina
+§f          Charlotte Wredesjö
+§f          Jill Curran
+§f          Linn Hultman
+
+[C]§f============
+[C]§eGracias especiales
+[C]§f============
+
+§f          Daniel Brynolf
+§f          Pontus Hammarberg
+
+
+
+
+
+§f"Dentro de veinte años estarás más decepcionado por las cosas que no hiciste que por las que sí hiciste. Así que suelta las amarras. Navega lejos del puerto seguro. Atrapa los vientos alisios en tus velas. Explora. Sueña. Descubre." §7- Desconocido
