@@ -742,3 +742,5 @@ item.spartanweaponry:proj_tipped.srparasites:debar=%s de Exclusion
 item.spartanweaponry:proj_tipped.srparasites:foster=%s de Promocion
 item.spartanweaponry:proj_tipped.srparasites:link=%s de Enlace
 
+# From Localizator
+tooltip.spartanweaponry.material_bonus=Bono del material:
