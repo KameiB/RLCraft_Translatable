@@ -32,3 +32,11 @@ For full localization support, please download my mod [Localizator](https://www.
 ### rlmixins/dsurround_chat_es_mx.cfg
 - Add this file for spanish users.  
 
+# Error-preventing stuff
+These are files to prevent some errors.
+### levelup2/json
+I just took these files from inside the JAR, and errors disappeared
+- skills/combat/combat_bonus.json
+- crafting/craft_bonus.json
+- mining/mining_bonus.json
+
