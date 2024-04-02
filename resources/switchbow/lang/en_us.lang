@@ -40,8 +40,8 @@ entity.ArrowAirUpgrade.name=Air-Arrow(AOE)
 entity.ArrowSplitLoveUpgrade.name=Transforming Love-Arrow(AOE)
 
 # Enchantment descriptions
-enchantment.switchbow.pullspeed.desc=Aumenta la velocidad de apertura del Cambia-arco
-enchantment.switchbow.activescope.desc=Agrega una mira de francotirador a los arcos y algunas ballestas
-enchantment.switchbow.cooldownreduce.desc=Reduce el tiempo de carga de la Cambia-ballesta
+enchantment.switchbow.pullspeed.desc=Increases pull speed on Switch Bow.
+enchantment.switchbow.activescope.desc=360...scope?
+enchantment.switchbow.cooldownreduce.desc=Reduces cooldown on Switch Crossbow.
 
 
