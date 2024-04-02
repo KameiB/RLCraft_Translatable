@@ -435,7 +435,9 @@ entity.myrmex_sentinel.name=Sentinela Mirmex
 entity.myrmex_royal.name=Realeza Mirmex
 entity.myrmex_egg.name=Huevo de Mirmex
 entity.amphithere.name=Anfiptero
+entity.amphitherearrow.name=Flecha de Anfiptero
 entity.seaserpent.name=Serpiente marina
+entity.seaserpentarrow.name=Flecha de la Marea
 entity.ghost.name=Fantasma
 entity.ghost_sword.name=Navaja fantasmal
 
@@ -599,12 +601,12 @@ dragon_sword_ice.hurt2=Ralentiza y empuja a enemigos
 dragon_sword_lightning.hurt1=Daño contra Dragones de fuego y hielo: +4
 dragon_sword_lightning.hurt2=§5Golpea a los enemigos con un rayo
 
-message.iceandfire.dragonWander=Este Dragon esta merodeando.
+message.iceandfire.dragonWander=Este Dragon esta deambulando.
 message.iceandfire.dragonFollow=Este Dragon te esta siguiendo.
 message.iceandfire.dragonSit=Este Dragon esta sentado.
 message.iceandfire.dragonSleep=Este Dragon esta durmiendo.
 message.iceandfire.knownAs=El Dragon conocido como 
-message.iceandfire.dragonWanderName=, esta merodeando.
+message.iceandfire.dragonWanderName=, esta deambulando.
 message.iceandfire.dragonFollowName=, te esta siguiendo.
 message.iceandfire.dragonSitName=, esta sentado.
 message.iceandfire.dragonSleepName=, esta durmiendo.
