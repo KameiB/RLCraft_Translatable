@@ -426,7 +426,7 @@ json.roguelike.tradingcard.108.desc=§7§o
 # loot_paintings.json
 json.roguelike.painting.gothic.name=§oGótico americano
 json.roguelike.painting.gothic.lore=§fPero qué §osignifica§r§f?
-json.roguelike.painting.supper.name=§oEl último superior
+json.roguelike.painting.supper.name=§oLa última cena
 json.roguelike.painting.supper.lore=§fSí señor.
 json.roguelike.painting.adam.name=§oLa creación de Adán
 json.roguelike.painting.adam.lore=§fDos tipos tocando las yemas de los dedos.
@@ -442,7 +442,7 @@ json.roguelike.painting.man.name=§oRetrato de un hombre
 json.roguelike.painting.man.lore=§fSe ve muy solo.
 json.roguelike.painting.xxx.name=§oXXX
 json.roguelike.painting.xxx.lore=§fProbablemente no debiste encontrar esto.
-json.roguelike.painting.piglet.name=§oPiglet
+json.roguelike.painting.piglet.name=§oPuerquito
 json.roguelike.painting.piglet.lore=§fEs como si un niño hubiera pintado esto. Cómo lo consideran arte?
 json.roguelike.painting.yourmum.name=§o!!??
 json.roguelike.painting.yourmum.lore=§fEs esa una foto de tu mamá??
