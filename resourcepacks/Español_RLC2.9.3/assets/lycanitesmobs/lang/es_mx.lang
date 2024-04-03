@@ -501,36 +501,36 @@ tile.smitefire.description=Fuego sagrado que daña y aplica Alergia solar, el cu
 #
 # ========== Fluids ==========
 tile.moglava.name=Lava pura
-tile.moglava.description=Lava que fluye mas rapido y es renovable como el agua. No genera criaturas.
+tile.moglava.description=§aLava que fluye mas rapido y es renovable como el agua. No genera criaturas.
 #
 tile.ooze.name=Agua helada
-tile.ooze.description=Liquido super frio que daña y aplica Lentitud. Puede generar criaturas.
+tile.ooze.description=§aLiquido super frio que daña y aplica Lentitud. Puede generar criaturas.
 #
 tile.rabbitooze.name=Agua helada pura
-tile.rabbitooze.description=Liquido super frio que daña y aplica Lentitud. No genera criaturas.
+tile.rabbitooze.description=§aLiquido super frio que daña y aplica Lentitud. No genera criaturas.
 #
 tile.poison.name=Veneno
-tile.poison.description=Liquido dañino que aplica Plaga.
+tile.poison.description=§aLiquido dañino que aplica Plaga.
 #
 tile.acid.name=Acido
-tile.acid.description=Liquido toxico y letal que aplica Penetracion.
+tile.acid.description=§aLiquido toxico y letal que aplica Penetracion.
 #
 tile.sharacid.name=Acido puro
-tile.sharacid.description=Acido renovable como el agua. No genera criaturas y no destruye los objetos.
+tile.sharacid.description=§aAcido renovable como el agua. No genera criaturas y no destruye los objetos.
 #
 tile.vesspoison.name=Veneno puro
-tile.vesspoison.description=Veneno renovable como el agua. No genera criaturas.
+tile.vesspoison.description=§aVeneno renovable como el agua. No genera criaturas.
 #
 tile.veshoney.name=Miel de avispa
-tile.veshoney.description=Liquido dulce y extremadamente pegajoso que se encuentra en las colmenas de las avispas.
+tile.veshoney.description=§aLiquido dulce y extremadamente pegajoso que se encuentra en las colmenas de las avispas.
 #
 #
 # ========== Vespid ==========
 tile.veswax.name=Cera de avispa
-tile.veswax.description=Una sustancia como cera dura que gotea miel.
+tile.veswax.description=§aUna sustancia como cera dura que gotea miel.
 #
 tile.propolis.name=Propoleo
-tile.propolis.description=Una sustancia dura parecida a la arcilla usada por las Avispas para formar los techos y suelos de las colmenas.
+tile.propolis.description=§aUna sustancia dura parecida a la arcilla usada por las Avispas para formar los techos y suelos de las colmenas.
 # ========================================================================
 tile.soulcubedemonic.name=Cubo con almas demoniaco
 tile.soulcubedemonic.description=Una fuente de gran energia demoniaca esperando a ser desatada. Tal vez necesite un altar para funcionar...
@@ -2446,6 +2446,7 @@ entity.primeember=Llama primordial
 entity.smitefireball=Bola de fuego solar
 entity.fireball=Bola de fuego
 # ========================================================================
+entity.lycanitesmobs:ember.name=Ascuas
 entity.lycanitesmobs:whirlwind.name=Torbellino
 entity.lycanitesmobs:lightball.name=Bola de luz
 entity.lycanitesmobs:mudshot.name=Bola de lodo
@@ -2455,7 +2456,7 @@ entity.lycanitesmobs:frostbolt.name=Piedra de escarcha
 entity.lycanitesmobs:tundra.name=Tundra
 entity.lycanitesmobs:spectralbolt.name=Rayo espectral
 entity.lycanitesmobs:venomshot.name=Disparo venenoso
-entity.lycanitesmobs:devilstar.name=Estrella demoniaca
+entity.lycanitesmobs:devilstar.name=Estrella malvada
 entity.lycanitesmobs:boulderblast.name=Roca explosiva
 entity.lycanitesmobs:icefireball.name=Bola de fuego helado
 entity.lycanitesmobs:hellfireball.name=Bola de fuego infernal
@@ -2479,7 +2480,6 @@ entity.lycanitesmobs:doomfireball.name=Bola de fuego de la muerte
 entity.lycanitesmobs:waterjet.name=Chorro de agua
 entity.lycanitesmobs:poop.name=Popo
 entity.lycanitesmobs:lifedrain.name=Roba vida
-entity.lycanitesmobs:devilstar.name=Estrella malvada
 entity.lycanitesmobs:aquapulse.name=Pulso de agua
 entity.lycanitesmobs:arcanelaserstorm.name=Tormenta laser arcana
 entity.lycanitesmobs:aetherwave.name=Onda celeste

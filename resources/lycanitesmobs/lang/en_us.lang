@@ -121,7 +121,6 @@ entity.lycanitesmobs:frostbolt.name=Frostbolt
 entity.lycanitesmobs:tundra.name=Tundra
 entity.lycanitesmobs:spectralbolt.name=Spectral Bolt
 entity.lycanitesmobs:venomshot.name=Venomshot
-entity.lycanitesmobs:devilstar.name=Devilstar"
 entity.lycanitesmobs:boulderblast.name=Boulder Blast
 entity.lycanitesmobs:icefireball.name=Icefireball
 entity.lycanitesmobs:hellfireball.name=Hellfireball
@@ -152,30 +151,29 @@ entity.lycanitesmobs:aetherwave.name=Aetherwave
 entity.lycanitesmobs:summoningseed.name=Summoning Seed
 entity.lycanitesmobs:primeember.name=Prime Ember
 entity.lycanitesmobs:smitefireball.name=Smitefireball
-entity.lycanitesmobs:fireball.name=Fireball
 #
 # ========== Fluids ==========
 tile.moglava.name=Moglava
-tile.moglava.description=Clearer than regluar lava, flows slightly faster and no creatures spawn in this. Can be renewed like water.
+tile.moglava.description=§aClearer than regluar lava, flows slightly faster and no creatures spawn in this. Can be renewed like water.
 #
 tile.ooze.name=Ooze
-tile.ooze.description=An icy gel substance, causes slowness, hunger and applies low damage over time.
+tile.ooze.description=§aAn icy gel substance, causes slowness, hunger and applies low damage over time.
 #
 tile.rabbitooze.name=Rabitooze
-tile.rabbitooze.description=Just as cold and dangerous as regular Ooze but no mobs spawn in this and can be renewed like water.
+tile.rabbitooze.description=§aJust as cold and dangerous as regular Ooze but no mobs spawn in this and can be renewed like water.
 #
 tile.poison.name=Poison
-tile.poison.description=A foul liquid, causes plague.
+tile.poison.description=§aA foul liquid, causes plague.
 #
 tile.acid.name=Acid
-tile.acid.description=A deadly substance, causes penetration and applies damage over time.
+tile.acid.description=§aA deadly substance, causes penetration and applies damage over time.
 #
 tile.sharacid.name=Sharacid
-tile.sharacid.description=Refined acid, just as deadly but no mobs spawn in this and can be renewed like water.
+tile.sharacid.description=§aRefined acid, just as deadly but no mobs spawn in this and can be renewed like water.
 #
 tile.vesspoison.name=Vesspoison
-tile.vesspoison.description=Just as foul as regular poison but no mobs spawn in this and can be renewed like water.
+tile.vesspoison.description=§aJust as foul as regular poison but no mobs spawn in this and can be renewed like water.
 #
 tile.veshoney.name=Veshoney
-tile.veshoney.description=A tasty, sticky and healthy fluid formed and found in Vespid hives, causes slowness.
+tile.veshoney.description=§aA tasty, sticky and healthy fluid formed and found in Vespid hives, causes slowness.
 #
