@@ -34,9 +34,9 @@ For full localization support, please download my mod [Localizator](https://www.
 
 # Error-preventing stuff
 These are files to prevent some errors.
-### levelup2/json
+### levelup2/json/skills
 I just took these files from inside the JAR, and errors disappeared
-- skills/combat/combat_bonus.json
-- crafting/craft_bonus.json
-- mining/mining_bonus.json
+- /combat/combat_bonus.json
+- /crafting/craft_bonus.json
+- /mining/mining_bonus.json
 
