@@ -12,7 +12,7 @@ For full localization support, please download my mod [Localizator](https://www.
 - Requires "Localizator" for LocLore NBT tag support.    
   
 ### quark.cfg
-- Lines 3050-3055: Added lang keys.  
+- Lines 3089-3094: Added lang keys.  
 
 ### roguelike_dungeons/settings/fnar/vanilla/loot
 - Added lang keys to all custom loot names and lore.
