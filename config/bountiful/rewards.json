@@ -3,7 +3,7 @@
     "content": "iceandfire:silver_nugget",
     "unitWorth": 5,
     "weight": 80,
-	"amount": {
+    "amount": {
       "min": 1,
       "max": 16
     }
@@ -12,7 +12,7 @@
     "content": "minecraft:gold_nugget",
     "unitWorth": 10,
     "weight": 100,
-	"amount": {
+    "amount": {
       "min": 1,
       "max": 64
     }
@@ -21,7 +21,7 @@
     "content": "minecraft:emerald",
     "unitWorth": 1,
     "weight": 90,
-	"amount": {
+    "amount": {
       "min": 1,
       "max": 32
     }
@@ -30,7 +30,7 @@
     "content": "minecraft:iron_sword",
     "unitWorth": 750,
     "weight": 5,
-    "nbt_data": "{display:{Lore:[\"Sharper than Usual.\"],LocLore:[\"reward.bountiful.sharper.lore\"]},ench:[{id:16,lvl:1}]}",
+    "nbt_data": "{display:{LocLore:[\"reward.bountiful.sharper.lore\"]},ench:[{id:16,lvl:1}]}",
     "amount": {
       "min": 1,
       "max": 1
@@ -65,6 +65,42 @@
   },
   {
     "content": "minecraft:leather_boots",
+    "unitWorth": 100,
+    "weight": 10,
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "iceandfire:armor_copper_metal_helmet",
+    "unitWorth": 100,
+    "weight": 10,
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "iceandfire:armor_copper_metal_chestplate",
+    "unitWorth": 100,
+    "weight": 10,
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "iceandfire:armor_copper_metal_leggings",
+    "unitWorth": 100,
+    "weight": 10,
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "iceandfire:armor_copper_metal_boots",
     "unitWorth": 100,
     "weight": 10,
     "amount": {
@@ -116,7 +152,7 @@
     },
     "unitWorth": 25,
     "weight": 5,
-	"nbt_data": "{Potion: \"mujmajnkraftsbettersurvival:decay\"}"
+    "nbt_data": "{Potion: \"mujmajnkraftsbettersurvival:decay\"}"
   },
   {
     "content": "minecraft:tipped_arrow",
@@ -126,7 +162,7 @@
     },
     "unitWorth": 25,
     "weight": 5,
-	"nbt_data": "{Potion: \"minecraft:weakness\"}"
+    "nbt_data": "{Potion: \"minecraft:weakness\"}"
   },
   {
     "content": "minecraft:tipped_arrow",
@@ -136,7 +172,7 @@
     },
     "unitWorth": 25,
     "weight": 5,
-	"nbt_data": "{Potion: \"minecraft:harming\"}"
+    "nbt_data": "{Potion: \"minecraft:harming\"}"
   },
   {
     "content": "minecraft:tipped_arrow",
@@ -146,7 +182,7 @@
     },
     "unitWorth": 25,
     "weight": 5,
-	"nbt_data": "{Potion: \"minecraft:strong_poison\"}"
+    "nbt_data": "{Potion: \"minecraft:strong_poison\"}"
   },
   {
     "content": "minecraft:tipped_arrow",
@@ -156,7 +192,7 @@
     },
     "unitWorth": 25,
     "weight": 5,
-	"nbt_data": "{Potion: \"potioncore:vulnerable\"}"
+    "nbt_data": "{Potion: \"potioncore:vulnerable\"}"
   },
   {
     "content": "fishingmadebetter:fishing_rod_wood",
@@ -234,7 +270,7 @@
     "content": "bountifulbaubles:modifierbook",
     "unitWorth": 900,
     "weight": 10,
-	"nbt_data": "{baubleModifier:\"half_hearted\"}",
+    "nbt_data": "{baubleModifier:\"half_hearted\"}",
     "amount": {
       "min": 1,
       "max": 1
@@ -244,7 +280,7 @@
     "content": "bountifulbaubles:modifierbook",
     "unitWorth": 900,
     "weight": 10,
-	"nbt_data": "{baubleModifier:\"hearty\"}",
+    "nbt_data": "{baubleModifier:\"hearty\"}",
     "amount": {
       "min": 1,
       "max": 1
@@ -254,7 +290,7 @@
     "content": "bountifulbaubles:modifierbook",
     "unitWorth": 900,
     "weight": 10,
-	"nbt_data": "{baubleModifier:\"hard\"}",
+    "nbt_data": "{baubleModifier:\"hard\"}",
     "amount": {
       "min": 1,
       "max": 1
@@ -264,7 +300,7 @@
     "content": "bountifulbaubles:modifierbook",
     "unitWorth": 900,
     "weight": 10,
-	"nbt_data": "{baubleModifier:\"guarding\"}",
+    "nbt_data": "{baubleModifier:\"guarding\"}",
     "amount": {
       "min": 1,
       "max": 1
@@ -274,7 +310,7 @@
     "content": "bountifulbaubles:modifierbook",
     "unitWorth": 900,
     "weight": 10,
-	"nbt_data": "{baubleModifier:\"armored\"}",
+    "nbt_data": "{baubleModifier:\"armored\"}",
     "amount": {
       "min": 1,
       "max": 1
@@ -284,7 +320,7 @@
     "content": "bountifulbaubles:modifierbook",
     "unitWorth": 900,
     "weight": 10,
-	"nbt_data": "{baubleModifier:\"warding\"}",
+    "nbt_data": "{baubleModifier:\"warding\"}",
     "amount": {
       "min": 1,
       "max": 1
@@ -294,7 +330,7 @@
     "content": "bountifulbaubles:modifierbook",
     "unitWorth": 900,
     "weight": 10,
-	"nbt_data": "{baubleModifier:\"jagged\"}",
+    "nbt_data": "{baubleModifier:\"jagged\"}",
     "amount": {
       "min": 1,
       "max": 1
@@ -304,7 +340,7 @@
     "content": "bountifulbaubles:modifierbook",
     "unitWorth": 900,
     "weight": 10,
-	"nbt_data": "{baubleModifier:\"spiked\"}",
+    "nbt_data": "{baubleModifier:\"spiked\"}",
     "amount": {
       "min": 1,
       "max": 1
@@ -314,7 +350,7 @@
     "content": "bountifulbaubles:modifierbook",
     "unitWorth": 900,
     "weight": 10,
-	"nbt_data": "{baubleModifier:\"angry\"}",
+    "nbt_data": "{baubleModifier:\"angry\"}",
     "amount": {
       "min": 1,
       "max": 1
@@ -324,7 +360,7 @@
     "content": "bountifulbaubles:modifierbook",
     "unitWorth": 900,
     "weight": 10,
-	"nbt_data": "{baubleModifier:\"menacing\"}",
+    "nbt_data": "{baubleModifier:\"menacing\"}",
     "amount": {
       "min": 1,
       "max": 1
@@ -334,7 +370,7 @@
     "content": "bountifulbaubles:modifierbook",
     "unitWorth": 900,
     "weight": 10,
-	"nbt_data": "{baubleModifier:\"brisk\"}",
+    "nbt_data": "{baubleModifier:\"brisk\"}",
     "amount": {
       "min": 1,
       "max": 1
@@ -344,7 +380,7 @@
     "content": "bountifulbaubles:modifierbook",
     "unitWorth": 900,
     "weight": 10,
-	"nbt_data": "{baubleModifier:\"fleeting\"}",
+    "nbt_data": "{baubleModifier:\"fleeting\"}",
     "amount": {
       "min": 1,
       "max": 1
@@ -354,7 +390,7 @@
     "content": "bountifulbaubles:modifierbook",
     "unitWorth": 900,
     "weight": 10,
-	"nbt_data": "{baubleModifier:\"hasty\"}",
+    "nbt_data": "{baubleModifier:\"hasty\"}",
     "amount": {
       "min": 1,
       "max": 1
@@ -364,7 +400,7 @@
     "content": "bountifulbaubles:modifierbook",
     "unitWorth": 900,
     "weight": 10,
-	"nbt_data": "{baubleModifier:\"quick\"}",
+    "nbt_data": "{baubleModifier:\"quick\"}",
     "amount": {
       "min": 1,
       "max": 1
@@ -374,7 +410,7 @@
     "content": "bountifulbaubles:modifierbook",
     "unitWorth": 900,
     "weight": 10,
-	"nbt_data": "{baubleModifier:\"wild\"}",
+    "nbt_data": "{baubleModifier:\"wild\"}",
     "amount": {
       "min": 1,
       "max": 1
@@ -384,7 +420,7 @@
     "content": "bountifulbaubles:modifierbook",
     "unitWorth": 900,
     "weight": 10,
-	"nbt_data": "{baubleModifier:\"rash\"}",
+    "nbt_data": "{baubleModifier:\"rash\"}",
     "amount": {
       "min": 1,
       "max": 1
@@ -394,7 +430,7 @@
     "content": "bountifulbaubles:modifierbook",
     "unitWorth": 900,
     "weight": 10,
-	"nbt_data": "{baubleModifier:\"intrepid\"}",
+    "nbt_data": "{baubleModifier:\"intrepid\"}",
     "amount": {
       "min": 1,
       "max": 1
@@ -404,7 +440,7 @@
     "content": "bountifulbaubles:modifierbook",
     "unitWorth": 900,
     "weight": 10,
-	"nbt_data": "{baubleModifier:\"violent\"}",
+    "nbt_data": "{baubleModifier:\"violent\"}",
     "amount": {
       "min": 1,
       "max": 1
@@ -498,7 +534,7 @@
     "amount": {
       "min": 1,
       "max": 1
-	}
+    }
   },
   {
     "content": "minecraft:bow",
@@ -508,7 +544,7 @@
     "amount": {
       "min": 1,
       "max": 1
-	}
+    }
   },
   {
     "content": "trumpetskeleton:trumpet",
@@ -518,7 +554,7 @@
     },
     "unitWorth": 3000,
     "weight": 5,
-	"nbt_data": "{ench:[{lvl:10,id:34}],display:{Name:\"The Eternal Dooter\",LocName:\"reward.bountiful.eternaldooter.name\"}}"
+    "nbt_data": "{ench:[{lvl:10,id:34}],display:{LocName:\"reward.bountiful.eternaldooter.name\"}}"
   },
   {
     "content": "corpsecomplex:scroll",
@@ -527,7 +563,7 @@
     "amount": {
       "min": 1,
       "max": 3
-	}
+    }
   },
   {
     "content": "lycanitesmobs:cooked_bobeko_meat",
@@ -1251,170 +1287,170 @@
     "content": "classyhats:hat",
     "unitWorth": 1500,
     "weight": 10,
-	"nbt_data": "{hat:\"acornhat\"}",
+    "nbt_data": "{hat:\"acornhat\"}",
     "amount": {
       "min": 1,
       "max": 1
-	}
+    }
   },
   {
     "content": "classyhats:hat",
     "unitWorth": 1500,
     "weight": 10,
-	"nbt_data": "{hat:\"beehat\"}",
+    "nbt_data": "{hat:\"beehat\"}",
     "amount": {
       "min": 1,
       "max": 1
-	}
+    }
   },
   {
     "content": "classyhats:hat",
     "unitWorth": 1500,
     "weight": 10,
-	"nbt_data": "{hat:\"bigeyes\"}",
+    "nbt_data": "{hat:\"bigeyes\"}",
     "amount": {
       "min": 1,
       "max": 1
-	}
+    }
   },
   {
     "content": "classyhats:hat",
     "unitWorth": 1500,
     "weight": 10,
-	"nbt_data": "{hat:\"burgerhat\"}",
+    "nbt_data": "{hat:\"burgerhat\"}",
     "amount": {
       "min": 1,
       "max": 1
-	}
+    }
   },
   {
     "content": "classyhats:hat",
     "unitWorth": 1500,
     "weight": 10,
-	"nbt_data": "{hat:\"chefshat\"}",
+    "nbt_data": "{hat:\"chefshat\"}",
     "amount": {
       "min": 1,
       "max": 1
-	}
+    }
   },
   {
     "content": "classyhats:hat",
     "unitWorth": 1500,
     "weight": 10,
-	"nbt_data": "{hat:\"cyclopseye\"}",
+    "nbt_data": "{hat:\"cyclopseye\"}",
     "amount": {
       "min": 1,
       "max": 1
-	}
+    }
   },
   {
     "content": "classyhats:hat",
     "unitWorth": 1500,
     "weight": 10,
-	"nbt_data": "{hat:\"fakeblight\"}",
+    "nbt_data": "{hat:\"fakeblight\"}",
     "amount": {
       "min": 1,
       "max": 1
-	}
+    }
   },
   {
     "content": "classyhats:hat",
     "unitWorth": 1500,
     "weight": 10,
-	"nbt_data": "{hat:\"fakefire\"}",
+    "nbt_data": "{hat:\"fakefire\"}",
     "amount": {
       "min": 1,
       "max": 1
-	}
+    }
   },
   {
     "content": "classyhats:hat",
     "unitWorth": 1500,
     "weight": 10,
-	"nbt_data": "{hat:\"flies\"}",
+    "nbt_data": "{hat:\"flies\"}",
     "amount": {
       "min": 1,
       "max": 1
-	}
+    }
   },
   {
     "content": "classyhats:hat",
     "unitWorth": 1500,
     "weight": 10,
-	"nbt_data": "{hat:\"floatinghearts\"}",
+    "nbt_data": "{hat:\"floatinghearts\"}",
     "amount": {
       "min": 1,
       "max": 1
-	}
+    }
   },
   {
     "content": "classyhats:hat",
     "unitWorth": 1500,
     "weight": 10,
-	"nbt_data": "{hat:\"headshot\"}",
+    "nbt_data": "{hat:\"headshot\"}",
     "amount": {
       "min": 1,
       "max": 1
-	}
+    }
   },
   {
     "content": "classyhats:hat",
     "unitWorth": 1500,
     "weight": 10,
-	"nbt_data": "{hat:\"jesterhat\"}",
+    "nbt_data": "{hat:\"jesterhat\"}",
     "amount": {
       "min": 1,
       "max": 1
-	}
+    }
   },
   {
     "content": "classyhats:hat",
     "unitWorth": 1500,
     "weight": 10,
-	"nbt_data": "{hat:\"mohawk\"}",
+    "nbt_data": "{hat:\"mohawk\"}",
     "amount": {
       "min": 1,
       "max": 1
-	}
+    }
   },
   {
     "content": "classyhats:hat",
     "unitWorth": 1500,
     "weight": 10,
-	"nbt_data": "{hat:\"rabbitears\"}",
+    "nbt_data": "{hat:\"rabbitears\"}",
     "amount": {
       "min": 1,
       "max": 1
-	}
+    }
   },
   {
     "content": "classyhats:hat",
     "unitWorth": 1500,
     "weight": 10,
-	"nbt_data": "{hat:\"redeyes\"}",
+    "nbt_data": "{hat:\"redeyes\"}",
     "amount": {
       "min": 1,
       "max": 1
-	}
+    }
   },
   {
     "content": "classyhats:hat",
     "unitWorth": 1500,
     "weight": 10,
-	"nbt_data": "{hat:\"rubbernipple\"}",
+    "nbt_data": "{hat:\"rubbernipple\"}",
     "amount": {
       "min": 1,
       "max": 1
-	}
+    }
   },
   {
     "content": "classyhats:hat",
     "unitWorth": 1500,
     "weight": 10,
-	"nbt_data": "{hat:\"triangleshades\"}",
+    "nbt_data": "{hat:\"triangleshades\"}",
     "amount": {
       "min": 1,
       "max": 1
-	}
+    }
   }
 ]
