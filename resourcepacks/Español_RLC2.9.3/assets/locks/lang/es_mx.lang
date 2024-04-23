@@ -24,11 +24,11 @@ item.locks.key_ring.name=Llavero
 
 # Enchantments
 enchantment.locks.shocking=Electrochoque
-enchantment.locks.shocking.desc=Electrocuta a los ladrones que fallen en forzar un candado
+enchantment.locks.shocking.desc=Electrocuta a los ladrones que fallen en forzar un candado, haciendo daño magico (1.5 * Nivel).
 enchantment.locks.sturdy=Robusto
-enchantment.locks.sturdy.desc=Reduce la fuerza de las ganzuas
+enchantment.locks.sturdy.desc=Reduce la fuerza de las ganzuas.
 enchantment.locks.complexity=Complejidad
-enchantment.locks.complexity.desc=Hace que el candado sea demasiado complejo para poder forzarlo con ganzuas de menor categoria
+enchantment.locks.complexity.desc=Hace que el candado sea demasiado complejo para poder forzarlo con ganzuas de menor categoria.
 
 # Death Mesages
 death.attack.locks.shock=%1$s fue electrocutado al intentar forzar un candado encantado

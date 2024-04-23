@@ -4,52 +4,52 @@ enchantment.RinsPurity=Pureza
 enchantment.somanyenchantments.rinspurity.desc=Pureza de Rin
 
 enchantment.Rune_PiercingCapabilities=§aRuna: Capacidades de perforacion
-enchantment.somanyenchantments.rune_piercingcapabilities.desc=Una de las runas. Permite que tu ataque atraviese la armadura de un enemigo. (25%% * Nivel).
+enchantment.somanyenchantments.rune_piercingcapabilities.desc=Una de las runas. Permite que tu ataque atraviese la armadura del enemigo. (25%% * Nivel). Ignora la armadura convirtiendo ese porcentaje en daño magico.
 
 enchantment.AtomicDeconstructor=Deconstructor atomico
-enchantment.somanyenchantments.atomicdeconstructor.desc=Tus ataques tienen una probabilidad muy baja de desintegrar los atomos en la estructura fisica de una criatura, anulando por completo al enemigo de esta dimension visible. Cientificamente, se conoce como Borradus Totalus.
+enchantment.somanyenchantments.atomicdeconstructor.desc=Tus ataques tienen una probabilidad muy baja de desintegrar los atomos en la estructura fisica de una criatura, anulando por completo al enemigo de esta dimension visible. Cientificamente, se conoce como Borradus Totalis.
 
 enchantment.Defusion=Desactivador
 enchantment.somanyenchantments.defusion.desc=Inflige daño adicional a los Creepers y tiene una probabilidad de desactivar su explosion.
 
-enchantment.Inefficent=Ineficiente
+enchantment.Inefficent=§cIneficiente
 enchantment.somanyenchantments.inefficent.desc=Reduce la velocidad de minado.
 
-enchantment.HeavyWeight=Empuñadura pesada
+enchantment.HeavyWeight=§cEmpuñadura pesada
 enchantment.somanyenchantments.heavyweight.desc=Reduce la velocidad de ataque.
 
 enchantment.AdvancedBaneOfArthropods=Perdicion de los artropodos avanzada
 enchantment.somanyenchantments.advancedbaneofarthropods.desc=Version avanzada de Perdicion de los artropodos. (3.25 * Nivel).
 
 enchantment.AdvancedSharpness=Filo avanzado
-enchantment.somanyenchantments.advancedsharpness.desc=Version avanzada de Filo. (1.25 + (0.95 * Nivel)).
+enchantment.somanyenchantments.advancedsharpness.desc=Version avanzada de Filo. (1.25 + (95%% * Nivel)).
 
 enchantment.AdvancedSmite=Castigo avanzado
 enchantment.somanyenchantments.advancedsmite.desc=Version avanzada de Castigo. (3.25 * Nivel).
 
 enchantment.AdvancedEfficency=Eficiencia avanzada
-enchantment.somanyenchantments.advancedefficency.desc=Version avanzada de Eficiencia. ((Nivel + 1) * Nivel * Nivel +3).
+enchantment.somanyenchantments.advancedefficency.desc=Version avanzada de Eficiencia. (26 + Nivel^3).
 
-enchantment.Bluntness=Desafilado
-enchantment.somanyenchantments.bluntness.desc=Reduce el daño de ataque. (-0.5 - (0.5 * Nivel))
+enchantment.Bluntness=§cDesafilado
+enchantment.somanyenchantments.bluntness.desc=Reduce el daño de ataque. (-0.5 - (50%% * Nivel))
 
 enchantment.Lifesteal=Robavidas
 enchantment.somanyenchantments.lifesteal.desc=Te cura en funcion del daño infligido. (2.5 + (2.5 * Nivel))%%
 
 enchantment.PurgingBlade=Purga
-enchantment.somanyenchantments.purgingblade.desc=Tu ataque tendra probabilidad de eliminar un efecto de pocion aleatorio que tenga el enemigo.
+enchantment.somanyenchantments.purgingblade.desc=Tu ataque tendra probabilidad de remover un efecto de pocion aleatorio que tenga el enemigo.
 
 enchantment.ReviledBlade=Hoja denigrada
 enchantment.somanyenchantments.reviledblade.desc=Tu daño aumenta cuanto mas baja es la salud de tu oponente.
 
-enchantment.Rusted=Oxidado
+enchantment.Rusted=§cOxidado
 enchantment.somanyenchantments.rusted.desc=Decae (daña) el objeto si permanece en tu inventario.
 
 enchantment.SpellBreaker=Rompehechizos
-enchantment.somanyenchantments.spellbreaker.desc=Inflige daño adicional a los enemigos con magia, como brujas, invocadores e ilusionistas.
+enchantment.somanyenchantments.spellbreaker.desc=Inflige daño adicional a los enemigos magicos, como brujas, invocadores e ilusionistas.
 
 enchantment.WaterAspect=Aspecto acuatico
-enchantment.somanyenchantments.wateraspect.desc=Inflige daño adicional a blazes, endermen, cubos de magma y a enemigos a los que les afecte el agua (2.5 * Nivel). Tambien inflige daño adicional si te encuentras en el agua (0.75 * Nivel). El daño puede ser acumulable siempre que cumplan los requisitos.
+enchantment.somanyenchantments.wateraspect.desc=Inflige daño adicional a blazes, endermen, cubos de magma y a enemigos a los que les afecte el agua (2.5 * Nivel). Tambien inflige daño adicional si el enemigo esta sumergido bajo el agua (0.75 * Nivel). El daño puede ser acumulable siempre que cumplan los requisitos.
 
 enchantment.CombatRegeneration=Regeneracion de combate
 enchantment.somanyenchantments.combatregeneration.desc=Amplifica la tasa de curacion del usuario. Esto incluye efectos de curacion instantanea como pociones de salud instantaneas.
@@ -61,7 +61,7 @@ enchantment.CounterAttack=Contraataque
 enchantment.somanyenchantments.counterattack.desc=Los ataques cuerpo a cuerpo de los enemigos tienen la posibilidad de hacerte atacarlos automaticamente.
 
 enchantment.Mortalitas=Mortalidad
-enchantment.somanyenchantments.mortalitas.desc=Por cada muerte lograda con un arma encantada con este encantamiento, el asesino gana un poco de daño adicional. De la misma manera, si el portador muere usando un arma encantada con este encantamiento, la victima pierde una fraccion de su daño proporcional al nivel de este encantamiento, basada en el arma del asesino. El daño puede ser aumentado/disminuido hasta un maximo de 8 puntos.
+enchantment.somanyenchantments.mortalitas.desc=Por cada muerte lograda con un arma encantada con este encantamiento, el jugador aumentara un poco su daño base. De la misma manera, si el portador muere usando un arma encantada con este encantamiento, la victima pierde una fraccion de su daño proporcional al nivel de este encantamiento, basada en el arma del asesino. El daño puede ser aumentado/disminuido hasta un maximo de 8 puntos.
 
 enchantment.BlessedEdge=Hoja bendita
 enchantment.somanyenchantments.blessededge.desc=Te cura un porcentaje del daño infligido (3 * Nivel)%% e inflige daño adicional a los no-muertos (menor que Castigo debil)
@@ -72,23 +72,23 @@ enchantment.somanyenchantments.butchering.desc=Inflige daño adicional a los ani
 enchantment.slicing=Rebanar
 enchantment.somanyenchantments.slicing.desc=(No implementado)
 
-enchantment.CursedEdge=Hoja maldita
+enchantment.CursedEdge=§cHoja maldita
 enchantment.somanyenchantments.cursededge.desc=Mientras infliges daño adicional (20 * Nivel)%%, tambien recibiras daño en funcion de tu daño de ataque (25%%).
 
-enchantment.Unpredictable=Impredecible
+enchantment.Unpredictable=§cImpredecible
 enchantment.somanyenchantments.unpredictable.desc=Literalmente hace que tu daño sea impredecible de negativo a positivo (el negativo cura la vida del enemigo). El ataque que se aleatoriza se basa en tu daño recibido.
 
 enchantment.Purification=Purificacion
-enchantment.somanyenchantments.purification.desc=Purifica ciertas entidades si son purificables (Aldeano zombi, Hombrecerdo zombi, Cubo de magma).
+enchantment.somanyenchantments.purification.desc=El hacha purifica ciertas entidades si son purificables (Aldeano zombi, Hombrecerdo zombi, Cubo de magma).
 
 enchantment.SwifterSlashes=Cuchillas rapidas
-enchantment.somanyenchantments.swifterslashes.desc=Aumenta tu velocidad de ataque (10%% * Nivel). Ademas, te da la oportunidad de perforar el periodo de invulnerabilidad de las criaturas, lo que te permite atacar rapidamente, pero con el costo de un daño mas reducido.
+enchantment.somanyenchantments.swifterslashes.desc=Aumenta tu velocidad de ataque y te da la oportunidad de perforar el periodo de invulnerabilidad del enemigo, lo que te permite atacar rapidamente, pero con el costo de un daño mas reducido (Nivel * (+20%% Vel. de ataque y +2%% oportunidad de ignorar iframes)).
 
 enchantment.FieryEdge=Filo ardiente
-enchantment.somanyenchantments.fieryedge.desc=Una variante del Aspecto igneo que quema criaturas durante un periodo prolongado de tiempo. Tambien le da al usuario la oportunidad de ignorar la invulnerabilidad de una entidad si esta en llamas.
+enchantment.somanyenchantments.fieryedge.desc=Una variante de Aspecto igneo que quema criaturas durante un periodo prolongado de tiempo. Tambien da al usuario la oportunidad de ignorar la invulnerabilidad de una entidad si esta en llamas.
 
 enchantment.Culling=Degollar
-enchantment.somanyenchantments.culling.desc=Mientras atacas a enemigos con poca vida, te da un impulso de salto y la oportunidad de matar instantaneamente a ese enemigo, saltando y cayendo con una velocidad no menor a 0.34D en movimiento Y (en otras palabras, ya debes estar cayendo con velocidad). Si el acto se realiza con exito, esa criatura podria dejar caer su cabeza. Si, por otro lado, fallas, produces un daño critico (normal), pero agota el hambre. Si se usa en exceso, la tecnica te dara rapidamente hambre.
+enchantment.somanyenchantments.culling.desc=Cuando ataques con tu hacha a enemigos con poca vida, recibiras Supersalto y la oportunidad de matar instantaneamente a ese enemigo, saltando y cayendo con una velocidad no menor a 0.34D en movimiento Y (en otras palabras, ya debes estar cayendo con velocidad). Si el acto se realiza con exito, esa criatura podria dropear su cabeza. Si fallas, solo produces un daño critico (normal), pero agota el hambre. Si se usa en exceso, la tecnica drenara tu hambre rapidamente.
 
 enchantment.AdvancedKnockback=Empuje avanzado
 enchantment.somanyenchantments.advancedknockback.desc=Version avanzada de Empuje.
@@ -97,22 +97,22 @@ enchantment.Rune_MagicalBlessing=§aRuna: Bendicion magica
 enchantment.somanyenchantments.rune_magicalblessing.desc=Una de las runas. Convierte tu daño en magia (en otras palabras, es como si hubieras infligido un daño magico) en un 25%% con cada nivel. Tambien otorga un daño adicional (como filo).
 
 enchantment.PenetratingEdge=Hoja penetrante
-enchantment.somanyenchantments.penetratingedge.desc=Los adversarios con armaduras resistentes recibiran daño adicional.
+enchantment.somanyenchantments.penetratingedge.desc=Entre mayor armadura tenga el objetivo, mayor sera el daño que reciba.
 
 enchantment.Clearsky=Favor de los cielos despejados
 enchantment.somanyenchantments.clearsky.desc=Uno de los encantamientos del clima. Inflige daño adicional si el cielo esta despejado, pero inflige menor daño si no lo esta.
 
 enchantment.Moonlight=Bendicion de la Luna
-enchantment.somanyenchantments.moonlight.desc=Uno de los dos encantamientos diurnos y nocturnos. Inflige daño adicional y aplica Ceguera si es de noche, pero inflige menor daño si es de dia.
+enchantment.somanyenchantments.moonlight.desc=Uno de los dos encantamientos diurnos y nocturnos. Inflige daño adicional y aplica Ceguera si es de noche, pero inflige menor daño si es de dia. §4No es compatible con Bendicion del Sol
 
 enchantment.Raining=Concesion de la lluvia
 enchantment.somanyenchantments.raining.desc=Uno de los encantamientos del clima. Inflige daño adicional mientras llueva, pero inflige menor daño si no llueve.
 
 enchantment.Sunshine=Bendicion del Sol
-enchantment.somanyenchantments.sunshine.desc=Uno de los dos encantamientos diurnos y nocturnos. Inflige daño adicional y aplica brillo si es de dia, pero inflige menor daño si es de noche.
+enchantment.somanyenchantments.sunshine.desc=Uno de los dos encantamientos diurnos y nocturnos. Inflige daño adicional y aplica brillo si es de dia, pero inflige menor daño si es de noche. §4No es compatible con Bendicion de la Luna
 
 enchantment.Thunderstorm=Azota tormentas
-enchantment.somanyenchantments.thunderstorm.desc=Uno de los encantamientos del clima. Inflige daño adicional durante tormentas electricas, pero inflige menor daño si no es durante una tormentas electricas. Inflige daño normal si esta lloviendo.
+enchantment.somanyenchantments.thunderstorm.desc=Uno de los encantamientos del clima. Inflige daño adicional durante tormentas electricas, daño normal bajo la lluvia y daño menor si esta despejado.
 
 enchantment.Winter=Gracia del invierno
 enchantment.somanyenchantments.winter.desc=Uno de los encantamientos del clima, aunque solo funciona en biomas con baja temperatura. Inflige daño adicional y aplica varios efectos negativos con cada golpe, relacionados con la hipotermia.
@@ -130,7 +130,7 @@ enchantment.Strafe=Ametrallamiento
 enchantment.somanyenchantments.strafe.desc=Aumenta la velocidad de apertura del arco.
 
 enchantment.AdvancedPower=Poder avanzado
-enchantment.somanyenchantments.advancedpower.desc=Version avanzada de Poder. (1.25 + (0.75 * Nivel))%%
+enchantment.somanyenchantments.advancedpower.desc=Version avanzada de Poder. (1.25 + (75%% * Nivel))
 
 enchantment.CriticalStrike=Golpe critico
 enchantment.somanyenchantments.criticalstrike.desc=Da a tu ataque una oportunidad de aplicar mas daño basado en tu daño por golpe. Usa distribucion pseudo-aleatoria en lugar de completamente aleatoria.
@@ -139,33 +139,33 @@ enchantment.Rune_Resurrection=§aRuna: Resurreccion
 enchantment.somanyenchantments.rune_resurrection.desc=Una de las runas. Cuando el usuario (debe ser un jugador) muere, reaparecera en su punto de muerte con sus elementos intactos.
 
 enchantment.AdvancedLooting=Saqueo avanzado
-enchantment.somanyenchantments.advancedlooting.desc=Version avanzada de Saqueo. Desde [3 + (Nivel -1) * 2]%% hasta (minimo + 2 + Nivel * 2).
+enchantment.somanyenchantments.advancedlooting.desc=Version avanzada de Saqueo. Desde [3 + (Nivel - 1) * 2]%% hasta (minimo + 2 + Nivel * 2).
 
 enchantment.AshDestroyer=Destructor de cenizas
 enchantment.somanyenchantments.ashdestroyer.desc=Inflige daño adicional si el enemigo esta en llamas. Aprox. (20%% * Nivel)
 
 enchantment.PhysicalProtection=Proteccion fisica
-enchantment.somanyenchantments.physicalprotection.desc=Reduce el daño recibido de los ataques cuerpo a cuerpo (24%% * Nivel).
+enchantment.somanyenchantments.physicalprotection.desc=Reduce el daño recibido de los ataques fisicos (24%% * Nivel, maximo 80%%).
 
 enchantment.Viper=Vibora
-enchantment.somanyenchantments.viper.desc=Inflige daño adicional a los objetivos con Veneno y/o Descomposicion. 
+enchantment.somanyenchantments.viper.desc=Inflige daño adicional a los objetivos con Veneno y/o Descomposicion (1 (aumento base de daño) + 2 (si esta envenenado) + 1 (si tiene Descomposicion) + (75%% * Nivel si esta envenenado, o 50%% * Nivel si tiene Descomposicion)). 
 
 enchantment.Desolator=Desolador
-enchantment.somanyenchantments.desolator.desc=Los ataques tienen la posibilidad de aplicar resistencia negativa. Si el objetivo tiene una resistencia positiva activa, infligira daño adicional en su lugar. Tambien le aplica Debilidad.
+enchantment.somanyenchantments.desolator.desc=Los ataques tienen la posibilidad de aplicar resistencia negativa. Si el enemigo tiene una resistencia positiva activa, infligira daño adicional en su lugar. Tambien le aplica Debilidad II o superior.
 
 enchantment.Disorientation=Desorientador
 enchantment.somanyenchantments.disorientation.desc=Los ataques tienen la posibilidad de desorientar al enemigo (aplica efectos relacionados con la desorientacion). (Lentitud y Nauseas)
 
 enchantment.Envenomed=Envenenado
-enchantment.somanyenchantments.envenomed.desc=Los ataques aplican Veneno (Nivel) y Descomposicion (Nivel + 1). Los enemigos inmunes a alguno de estos efectos no lo recibira.
+enchantment.somanyenchantments.envenomed.desc=Los ataques aplican Veneno (Nivel) y Descomposicion (Nivel + 1), si aplican.
 
 enchantment.MagicProtection=Proteccion magica
-enchantment.somanyenchantments.magicprotection.desc=Reduce el daño de los ataques magicos (24%% * Nivel).
+enchantment.somanyenchantments.magicprotection.desc=Reduce el daño de los ataques magicos (24%% * Nivel, maximo 80%%).
 
 enchantment.Levitator=Levitador
 enchantment.somanyenchantments.levitator.desc=Los ataques aplican levitacion. (Nivel + 2)
 
-enchantment.Powerless=Impotente
+enchantment.Powerless=§cImpotente
 enchantment.somanyenchantments.powerless.desc=Reduce el daño de flecha disparada desde un arco. (-0.5 + (Nivel / 2))
 
 enchantment.Rune_Revival=§aRuna: Renacimiento
@@ -199,7 +199,7 @@ enchantment.AdvancedBlastProtection=Proteccion contra explosiones avanzada
 enchantment.somanyenchantments.advancedblastprotection.desc=Version avanzada de Proteccion contra explosiones. En lugar de darte resistencia contra la explosion, te da un atributo de resistencia que depende del nivel (24%% * Nivel).
 
 enchantment.AdvancedProjectileProtection=Proteccion contra proyectiles avanzada
-enchantment.somanyenchantments.advancedprojectileprotection.desc=Version avanzada de Proteccion contra proyectiles (24%% * Nivel).
+enchantment.somanyenchantments.advancedprojectileprotection.desc=Version avanzada de Proteccion contra proyectiles (24%% * Nivel), maximo 80%%.
 
 enchantment.CactusProtection=Proteccion contra cactus
 enchantment.somanyenchantments.cactusprotection.desc=Protege contra el daño por cactus?
@@ -207,19 +207,19 @@ enchantment.WitherProtection=Proteccion contra Wither
 enchantment.somanyenchantments.witherprotection.desc=Protege contra el daño por Descomposición?
 
 enchantment.Mathematics=Materia: Matematicas
-enchantment.somanyenchantments.mathematics.desc=Uno de los encantamientos de Materia. Da daño adicional como Filo, y tambien te da daño adicional en funcion de la vida del objetivo (2.5 + (Nivel * 2.5))%%.
+enchantment.somanyenchantments.mathematics.desc=Uno de los encantamientos de Materia (que aumentan el daño en (0.8 + (0.3 * Nivel))). Ademas del primer daño adicional, tambien te da daño adicional en funcion de la vida del objetivo (2.5 + (Nivel * 2.5))%%.
 
 enchantment.Science=Materia: Ciencias
-enchantment.somanyenchantments.science.desc=Uno de los encantamientos de Materia. ¡Los ataques tienen la posibilidad de explotar! Hacen daño masivo al objetivo y a las entidades cercanas a su alrededor. El propietario no recibe el daño de la explosion y la explosion no daña el terreno. Recuerda que toda explosion puede generar Tremors! 
+enchantment.somanyenchantments.science.desc=Uno de los encantamientos de Materia (que aumentan el daño en (0.8 + (0.3 * Nivel))). ¡Los ataques tienen la posibilidad de explotar! Hacen daño masivo al objetivo y a las entidades cercanas a su alrededor. El propietario no recibe el daño de la explosion y la explosion no daña el terreno. ¡Recuerda que toda explosion puede generar Tremors! 
 
 enchantment.English=Materia: Lenguas
-enchantment.somanyenchantments.english.desc=Uno de los encantamientos de Materia. Ademas de un primer daño adicional, se añade un plus en las criaturas 'inteligentes' (ej: Aldeanos, Lobos, Hombrecerdos zombis, Golems de nieve, Brujas, Pillagers, etc.). +(Nivel * 3) de daño 
+enchantment.somanyenchantments.english.desc=Uno de los encantamientos de Materia (que aumentan el daño en (0.8 + (0.3 * Nivel))). Ademas del primer daño adicional, se añade un plus en las criaturas 'inteligentes' (ej: Aldeanos, Lobos, Hombrecerdos zombis, Golems de nieve, Brujas, Pillagers, etc.). +(Nivel * 3) de daño
 
 enchantment.History=Materia: Historia
-enchantment.somanyenchantments.history.desc=Uno de los encantamientos de Materia. Da daño adicional, como Filo. Ademas de este primer daño extra, los ataques son mas fuertes cuanto mas tiempo lleve existiendo el mundo (en otras palabras, un mundo que se juega durante 4 dias en tiempo real (tiempo total jugado, por supuesto) da mas daño adicional que en un mundo recien creado).
+enchantment.somanyenchantments.history.desc=Uno de los encantamientos de Materia (que aumentan el daño en (0.8 + (0.3 * Nivel))). Ademas del primer daño adicional, los ataques son mas fuertes cuanto mas tiempo lleve existiendo el mundo (en otras palabras, un mundo que se juega durante 4 dias en tiempo real (tiempo total jugado, por supuesto) da mas daño adicional que en un mundo recien creado).
 
 enchantment.PE=Materia: Educacion fisica
-enchantment.somanyenchantments.pe.desc=Uno de los encantamientos de Materia. Da daño adicional como Filo. Los ataques tambien tienen la posibilidad de desencadenar uno o varios efectos relacionados con el ejercicio y la salud. (Ej: Prisa minera, Velocidad, Fuerza, Resistencia, Supersalto, Regeneracion) 
+enchantment.somanyenchantments.pe.desc=Uno de los encantamientos de Materia (que aumentan el daño en (0.8 + (0.3 * Nivel))). Ademas del primer daño adicional, los ataques tambien tienen la posibilidad de desencadenar uno o varios efectos relacionados con el ejercicio y la salud. (Ej: Prisa minera, Velocidad, Fuerza, Resistencia, Supersalto, Regeneracion) 
 
 enchantment.Physics=Materia: Fisica
 enchantment.somanyenchantments.physics.desc=(Aun en proceso)
@@ -231,16 +231,16 @@ enchantment.Biology=Materia: Biologia
 enchantment.somanyenchantments.biology.desc=(Aun en proceso)
 
 enchantment.Hors_de_combat=Fuera de combate
-enchantment.somanyenchantments.hors_de_combat.desc=Los ataques tienen la posibilidad de paralizar (aplica el efecto relacionado con la paralizacion).
+enchantment.somanyenchantments.hors_de_combat.desc=Los ataques tienen la posibilidad de paralizar al objetivo (aplica el efecto relacionado con la paralizacion).
 
 enchantment.Disarmament=Desarmamiento
-enchantment.somanyenchantments.disarmament.desc=Te da la oportunidad de desarmar a tu oponente de dos maneras: aplica Debilidad severa o los obliga a soltar el objeto que sostienen.
+enchantment.somanyenchantments.disarmament.desc=Los ataques tienen probabilidad de aplicar Desorientacion al objetivo.
 
 enchantment.AdvancedRespiration=Respiracion acuatica avanzada
 enchantment.somanyenchantments.advancedrespiration.desc=Version avanzada de Respiracion acuatica.
 
 enchantment.LesserSharpness=Filo debil
-enchantment.somanyenchantments.lessersharpness.desc=Nivel mas bajo de Filo (0.25 + (0.25 * Nivel)).
+enchantment.somanyenchantments.lessersharpness.desc=Nivel mas bajo de Filo (0.25 + (25%% * Nivel)).
 
 enchantment.LesserBaneOfArthropods=Perdicion de los artropodos debil
 enchantment.somanyenchantments.lesserbaneofarthropods.desc=Nivel mas bajo de Perdicion de los artropodos (1.25 * Nivel).
@@ -258,16 +258,16 @@ enchantment.SupremeSmite=Castigo supremo
 enchantment.somanyenchantments.supremesmite.desc=Version maxima, el nivel mas potente de Castigo (5 * Nivel).
 
 enchantment.CurseofPossession=§cMaldicion de posesion
-enchantment.somanyenchantments.curseofpossession.desc=El objeto no puede abandonar el inventario del jugador.  §4Si el jugador muere con el objeto en su inventario, éste DESAPARECERA!
+enchantment.somanyenchantments.curseofpossession.desc=El objeto no puede abandonar el inventario del jugador, solo guardandolo en un cofre.  §4Si el jugador muere con el objeto en su inventario, éste DESAPARECERA!
 
 enchantment.fieryshield=Escudo ardiente
-enchantment.somanyenchantments.fieryshield.desc=Mientras bloqueas, quemas al atacante.
+enchantment.somanyenchantments.fieryshield.desc=Mientras bloqueas, quemas al atacante. No niega ataques que deshabilitan el escudo.
 
 enchantment.flinging=Lanzamiento
 enchantment.somanyenchantments.flinging.desc=Similar a Retroceso, pero el movimiento es vertical.
 
 enchantment.sharperedge=Acabado afilado
-enchantment.somanyenchantments.sharperedge.desc=Aumenta el daño de las herramientas.
+enchantment.somanyenchantments.sharperedge.desc=El equivalente de Filo para las herramientas.
 
 enchantment.amplifiedsharpness=Hacha afilada
 enchantment.somanyenchantments.amplifiedsharpness=Aumenta drasticamente el daño del hacha y causa mas daño si el objetivo tiene una armadura mas debil.
@@ -276,13 +276,13 @@ enchantment.adjuster=Ajustador
 enchantment.somanyenchantments.adjuster.desc=Aumenta la velocidad de minado cuando se utilizan herramientas incorrectas.
 
 enchantment.lfa=Aspecto igneo debil
-enchantment.somanyenchantments.lfa.desc=Nivel mas bajo de Aspecto igneo. Incendia durante (2 * Nivel) segundos.
+enchantment.somanyenchantments.lfa.desc=Nivel mas bajo de Aspecto igneo. Incendia durante (2 * Nivel) segundos. §4No es compatible con Aspecto actuatico, Aspecto igneo y Filo ardiente
 
 enchantment.afa=Aspecto igneo avanzado
-enchantment.somanyenchantments.afa.desc=Nivel avanzado de Aspecto igneo. Incendia durante (8 * Nivel) segundos.
+enchantment.somanyenchantments.afa.desc=Nivel avanzado de Aspecto igneo. Incendia durante (8 * Nivel) segundos. §4No es compatible con Aspecto acuatico, Aspecto igneo debil y Filo ardiente
 
 enchantment.sfa=Aspecto igneo supremo
-enchantment.somanyenchantments.sfa.desc=Version maxima, el nivel mas potente de Aspecto igneo. Incendia durante (16 * Nivel) segundos.
+enchantment.somanyenchantments.sfa.desc=Version maxima, el nivel mas potente de Aspecto igneo. Incendia durante (16 * Nivel) segundos. §4No es compatible con Aspecto acuatico, Aspecto igneo debil y Filo ardiente
 
 enchantment.Swiper=Corte en arco
 enchantment.somanyenchantments.swiper.desc=Variante de Filo arrasador que no depende del descanso del ataque para poder cortar de nuevo (ataque de area cuerpo a cuerpo).
@@ -291,13 +291,13 @@ enchantment.freezing=Congelante
 enchantment.somanyenchantments.freezing.desc=Aplica Lentitud garantizada y un efecto de Fatiga minera en cada golpe. Cada golpe tambien aumenta el amplificador del efecto y si llega a VIII, existe la posibilidad de que la criatura quede encerrada y congelada en hielo. Daña la espada si se activa.
 
 enchantment.advancedmending=Reparacion avanzada
-enchantment.somanyenchantments.advancedmending.desc=Version avanzada de Reparacion. (3 puntos de durabilidad por orbe de EXP)
+enchantment.somanyenchantments.advancedmending.desc=Version avanzada de Reparacion. (3 puntos de durabilidad por orbe de EXP). A diferencia de Reparacion, NO repara inteligentemente
 
 enchantment.lfl=Flecha incendiaria debil
 enchantment.somanyenchantments.lfl.desc=Nivel mas bajo de Flecha incendiaria (2 segundos).
 
 enchantment.afl=Flecha incendiaria avanzada
-enchantment.somanyenchantments.afl.desc=Version avanzada de Flecha incendiaria (15 segundos).
+enchantment.somanyenchantments.afl.desc=Version avanzada de Flecha incendiaria (10 segundos).
 
 enchantment.sfl=Flecha incendiaria suprema
 enchantment.somanyenchantments.sfl.desc=Version maxima, el nivel mas potente de Flecha incendiaria (30 segundos).
@@ -306,7 +306,7 @@ enchantment.rune_starfall=§aRuna: Lluvia de estrellas
 enchantment.somanyenchantments.rune_starfall.desc=Una de las runas. Las flechas disparadas hacia el cielo crearan una pequeña tormenta de flechas.
 
 enchantment.strengthenedvitality=Vitalidad fortalecida
-enchantment.somanyenchantments.strengthenedvitality.desc=Aumenta tu salud dependiendo de tu salud maxima. (10 * Nivel)%%
+enchantment.somanyenchantments.strengthenedvitality.desc=Aumenta tu salud dependiendo de tu salud maxima actual. (10%% * Nivel)
 
 enchantment.difficultyscaled=Dotacion de la dificultad
 enchantment.somanyenchantments.difficultyscaled.desc=Aumenta o disminuye tu daño segun la dificultad de tu mundo.
@@ -318,10 +318,10 @@ enchantment.meltdown=Implosion
 enchantment.somanyenchantments.meltdown.desc=Probabilidad de explotar si eres atacado. La explosion no te hace daño, pero daña la armadura severamente.
 
 enchantment.WellTilled=Hidratacion
-enchantment.somanyenchantments.welltilled.desc=Arar hara que las tierras labradas se mojen automaticamente.
+enchantment.somanyenchantments.welltilled.desc=Arar hara que las tierras labradas se humedezcan automaticamente.
 
 enchantment.TillingPower=Labranza
-enchantment.somanyenchantments.tillingpower.desc=El area de arado aumenta, dañando la azada, dependiendo del numero de tierras labradas.
+enchantment.somanyenchantments.tillingpower.desc=El area de arado aumenta, dañando la azada, dependiendo del numero de tierras aradas.
 
 enchantment.ScytheDamage=Azada dentada
 enchantment.somanyenchantments.scythedamage.desc=Aumenta mucho el daño de la azada.
@@ -330,10 +330,10 @@ enchantment.upgrade=Potenciales mejorados
 enchantment.somanyenchantments.upgrade.desc=Resetea todo el costo de yunque de un item. Solo se puede aplicar un vez.
 
 enchantment.Adept=Adepto
-enchantment.somanyenchantments.adept.desc=Multiplica moderadamente la EXP que cae. La XP multiplicada es mayor cuando se trata de un jefe o un monstruo brillante. Se puede aplicar a arcos.
+enchantment.somanyenchantments.adept.desc=Multiplica moderadamente la EXP que un enemigo suelta. La EXP multiplicada es mayor cuando se trata de un jefe o un monstruo brillante. Se puede aplicar a arcos.
 
 enchantment.NaturalBlocking=Bloqueo natural
-enchantment.somanyenchantments.naturalblocking.desc=Al empuñar un escudo, naturalmente bloqueara un porcentaje del daño recibido. Este daño se lo lleva el escudo en lugar del portador.
+enchantment.somanyenchantments.naturalblocking.desc=Al empuñar un escudo, este bloqueara naturalmente un porcentaje del daño recibido. Este daño se lo lleva el escudo en lugar del portador (10%% * (1 + Nivel)).
 
 enchantment.Brutality=Brutalidad
 enchantment.somanyenchantments.brutality.desc=Se aumenta el daño infligido contra la armadura que lleve el enemigo.
@@ -351,19 +351,19 @@ enchantment.InnerBerserk=Berserker interno
 enchantment.somanyenchantments.innerberserk.desc=Aumenta el daño que hace el usuario cuanto mas baja su salud.
 
 enchantment.CurseofVulnerability=§cMaldicion de vulnerabilidad
-enchantment.somanyenchantments.curseofvulnerability.desc=Amplifica el daño recibido por el usuario.
+enchantment.somanyenchantments.curseofvulnerability.desc=Amplifica el daño recibido.
 
 enchantment.CurseInflicter=§cRuna: Maldiciones selladas
 enchantment.somanyenchantments.curseinflicter.desc=Los ataques dan la oportunidad de hechizar con un encantamiento de maldicion a la entidad atacada si esta usando equipo.
 
 enchantment.CurseOfInaccuracy=§cMaldicion de inexactitud
-enchantment.somanyenchantments.curseofinaccuracy.desc=Maldice al usuario, haciendo que sus golpes y flechas fallen.
+enchantment.somanyenchantments.curseofinaccuracy.desc=Maldice al arma, haciendo que sus golpes o flechas fallen.
 
 enchantment.Inhumane=Inhumano
-enchantment.somanyenchantments.inhumane.desc=Los ataques infligen daño adicional contra Pillagers. (2.5 * Nivel)
+enchantment.somanyenchantments.inhumane.desc=Los ataques infligen daño adicional contra Illagers. (2.5 * Nivel)
 
 enchantment.DarkShadows=Sombras oscuras
-enchantment.somanyenchantments.darkshadows.desc=Los ataques infligen daño adicional si tanto el usuario como el objetivo estan en areas oscuras. El nivel III y superiores aplican ceguera.
+enchantment.somanyenchantments.darkshadows.desc=Los ataques infligen daño adicional si tanto el usuario como el objetivo estan en un lugar oscuro. A partir del nivel III tus ataques aplican ceguera (75%% * Nivel).
 
 enchantment.Rune_ArrowPiercing=§aRuna: Flecha perforadora
 enchantment.somanyenchantments.rune_armorpiercing.desc=Una de las runas. Permite que tus flechas atraviesen la armadura de un enemigo. (25%% * Nivel).
@@ -381,10 +381,10 @@ enchantment.CurseofDecay=§cMaldicion de decadencia
 enchantment.somanyenchantments.curseofdecay.desc=Maldice un objeto para que se rompa muy rapido si se deja en el suelo.
 
 enchantment.LightWeight=Peso ligero
-enchantment.somanyenchantments.lightweight.desc=El usuario (debe ser un jugador) salta mas alto. Se extiende el requisito minimo para recibir daño por caida.
+enchantment.somanyenchantments.lightweight.desc=El jugador puede saltar mas alto. Se extiende el requisito minimo para recibir daño por caida.
 
 enchantment.LuckMagnification=Aumento de suerte
-enchantment.somanyenchantments.luckmagnification.desc=Te aplica el efecto Suerte mientras empuñes el arma/herramienta con este encantamiento. Ademas, aumenta tu suerte en otros aspectos de combate, incluyendo el saqueo. (Efecto Suerte = Nivel)
+enchantment.somanyenchantments.luckmagnification.desc=Te aplica el efecto Suerte mientras empuñes el arma/herramienta con este encantamiento. El efecto Suerte aumenta tu suerte en otros aspectos de combate, incluyendo el saqueo. (Efecto Suerte = Nivel)
 
 enchantment.UnderwaterStrider=Agilidad sub-acuatica
 enchantment.somanyenchantments.underwaterstrider.desc=Aumenta mucho tu velocidad de nado si estas completamente sumergido. (30 + (40 * Nivel))%%
@@ -393,13 +393,13 @@ enchantment.Quarrying=Extraccion
 enchantment.somanyenchantments.quarrying.desc=Una variante de Fortuna que tiene una mecanica diferente para aumentar la cantidad que cae de una fuente sin bloque.
 
 enchantment.Frenzy=Irrazonable
-enchantment.somanyenchantments.frenzy.desc=Destruye el razonamiento de una entidad, enloqueciendo con entidades aleatorias cercanas.
+enchantment.somanyenchantments.frenzy.desc=Destruye el razonamiento de una entidad, enloqueciendo y atacando a entidades aleatorias cercanas.
 
 enchantment.Evasion=Evasion
 enchantment.somanyenchantments.evasion.desc=Otorga al usuario la oportunidad de evadir ataques. Si se evade el ataque, el usuario realiza una accion de salto (se puede deshabilitar en la configuracion).
 
-enchantment.Instability=Inestabilidad
-enchantment.somanyenchantments.instability.desc=Una forma de maldicion que aumenta el daño de una herramienta cuanto menor es la durabilidad que tiene. La herramienta sufre al recibir daño proporcional al daño que infligio.
+enchantment.Instability=§cInestabilidad
+enchantment.somanyenchantments.instability.desc=Entre menor sea la durabilidad del arma, mayor sera el daño que inflige. La herramienta sufre al recibir daño proporcional al daño que infligio.
 
 enchantment.Pulling=Arrastrante
 enchantment.somanyenchantments.pulling.desc=Tus flechas jalaran al oponente cuando lo tocan. En otras palabras, hacen lo contrario de Retroceso.
@@ -414,7 +414,7 @@ enchantment.SwordMastery=Maestria ancestral con la espada
 enchantment.somanyenchantments.swordmastery.desc=Un encantamiento ancestral que de alguna manera convierte al usuario en un maestro con la espada. En nivel 3, tambien hace que los encantamientos de daño sean 1.5x mas efectivos. Podria no funcionar con encantamientos de otros mods.  
 
 enchantment.TrueStrike=Golpe certero
-enchantment.somanyenchantments.truestrike.desc=Permite al usuario penetrar a traves del encantamiento Evasion del oponente en un 75%% y previene que el usuario reciba la maldicion de inexactitud. 
+enchantment.somanyenchantments.truestrike.desc=Permite al usuario penetrar a traves del encantamiento Evasion del oponente en un 75%% y previene que el usuario reciba la Maldicion de inexactitud. 
 
 enchantment.Pandora=§4Maldicion de Pandora
 enchantment.somanyenchantments.pandora.desc=Esta maldicion ira maldiciendo items en tu inventario hasta que se desvanezca sola. Fase 1: Su nombre estara oculto, pero comenzara a maldecir items en tu inventario. Fase 2: Cuando haya aplicado 3 maldiciones, revelara su nombre. Fase 3: Cuando haya aplicado 5 maldiciones, dejara el item inicial, pero las maldiciones que trajo se quedaran.
