@@ -1113,8 +1113,8 @@ entity.frostweaver.habitat=Se encuentran en areas frias como taigas y lugares ne
 entity.frostweaver.combat=Escupen telerañas gelidas que aplican lentitud o colocan telarañas gelidas.
 # ========================================================================
 entity.geist.name=Espiritu (Geist)
-entity.geist.description=No muertos deformes que se esconden en cuerpos de otros no muertos. Cuando su huesped muere, ¡saldra para hacer un ataque sorpresa!
-entity.geist.habitat=Se esconden en otras criaturas no muertas, pero tambien buscan huespedes en los bosques oscuros y en el End.
+entity.geist.description=No muertos deformes que se esconden en cuerpos de otros no muertos. Cuando su anfitrion muere, ¡saldra para hacer un ataque sorpresa!
+entity.geist.habitat=Se esconden en otras criaturas no muertas, pero tambien buscan anfitriones en los bosques oscuros y en el End.
 entity.geist.combat=Atacan cuerpo a cuerpo aplicando ceguera. Cuando mueren, liberan fuego sombrio, un fuego de la sombras que no quema a su alrededor, pero daña aplicando ceguera y decaimiento.
 # ========================================================================
 entity.amalgalich.name=Amalgalich
