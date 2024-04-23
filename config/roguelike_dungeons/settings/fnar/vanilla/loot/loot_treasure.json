@@ -18,11 +18,11 @@
         {"data": {"type": "specialty", "level": 3}, "weight": 8},
         {"data": {"type": "specialty", "level": 4}, "weight": 4},
 
-        {"data": {"name": "minecraft:enchanted_book", "nbt": "{\"StoredEnchantments\": [{\"lvl\": 4, \"id\": \"protection\"}]}"}, "weight": 1},
-        {"data": {"name": "minecraft:enchanted_book", "nbt": "{\"StoredEnchantments\": [{\"lvl\": 5, \"id\": \"sharpness\"}]}"}, "weight": 1},
-        {"data": {"name": "minecraft:enchanted_book", "nbt": "{\"StoredEnchantments\": [{\"lvl\": 3, \"id\": \"looting\"}]}"}, "weight": 1},
-        {"data": {"name": "minecraft:enchanted_book", "nbt": "{\"StoredEnchantments\": [{\"lvl\": 1, \"id\": \"silk_touch\"}]}"}, "weight": 1},
-        {"data": {"name": "minecraft:enchanted_book", "nbt": "{\"StoredEnchantments\": [{\"lvl\": 3, \"id\": \"fortune\"}]}"}, "weight": 1},
+        {"data": {"name": "minecraft:enchanted_book", "nbt": "{\"StoredEnchantments\": [{\"lvl\": 4, \"id\": 0}]}"}, "weight": 1}, // Protection
+        {"data": {"name": "minecraft:enchanted_book", "nbt": "{\"StoredEnchantments\": [{\"lvl\": 5, \"id\": 16}]}"}, "weight": 1}, // Sharpness
+        {"data": {"name": "minecraft:enchanted_book", "nbt": "{\"StoredEnchantments\": [{\"lvl\": 3, \"id\": 21}]}"}, "weight": 1}, // Looting
+        {"data": {"name": "minecraft:enchanted_book", "nbt": "{\"StoredEnchantments\": [{\"lvl\": 1, \"id\": 33}]}"}, "weight": 1}, // Silk Touch
+        {"data": {"name": "minecraft:enchanted_book", "nbt": "{\"StoredEnchantments\": [{\"lvl\": 3, \"id\": 35}]}"}, "weight": 1}, // Fortune
 
         {"data": {"name": "minecraft:painting", "nbt": "{display:{LocName:\"json.roguelike.painting.gothic.name\",Lore:[\"But what does it /mean/?.\"],rldLocLore:[\"json.roguelike.painting.gothic.lore\"]}}"}, "weight": 1},
         {"data": {"name": "minecraft:painting", "nbt": "{display:{LocName:\"json.roguelike.painting.supper.name\",Lore:[\"Allegedly.\"],rldLocLore:[\"json.roguelike.painting.supper.lore\"]}}"}, "weight": 1},
