@@ -27,10 +27,10 @@ events.onPlayerTick(function(event as crafttweaker.event.PlayerTickEvent) {
 <simpledifficulty:ice_leggings:*>.addTooltip(game.localize("tooltip.simpledifficulty:ice_leggings", "en_us"));
 <simpledifficulty:ice_boots:*>.addTooltip(game.localize("tooltip.simpledifficulty:ice_boots", "en_us"));
 
-//<rlmixins:scarlite_helmet:*>.displayName = "\u00A74\u00A7kScarlite\u00A7r\u00A74 Helmet";
-//<rlmixins:scarlite_chestplate:*>.displayName = "\u00A74\u00A7kScarlite\u00A7r\u00A74 Chestplate";
-//<rlmixins:scarlite_leggings:*>.displayName = "\u00A74\u00A7kScarlite\u00A7r\u00A74 Leggings";
-//<rlmixins:scarlite_boots:*>.displayName = "\u00A74\u00A7kScarlite\u00A7r\u00A74 Boots";
+<rlmixins:scarlite_helmet:*>.displayName = game.localize("item.scarlite_helmet.name", "en_us");
+<rlmixins:scarlite_chestplate:*>.displayName = game.localize("item.scarlite_chestplate.name", "en_us");
+<rlmixins:scarlite_leggings:*>.displayName = game.localize("item.scarlite_leggings.name", "en_us");
+<rlmixins:scarlite_boots:*>.displayName = game.localize("item.scarlite_boots.name", "en_us");
 
 <mujmajnkraftsbettersurvival:itemsteelhammer:*>.addTooltip(game.localize("tooltip.scripts.weapon.steelbonus", "en_us"));
 <mujmajnkraftsbettersurvival:itemsteelspear:*>.addTooltip(game.localize("tooltip.scripts.weapon.steelbonus", "en_us"));
@@ -58,9 +58,6 @@ events.onPlayerTick(function(event as crafttweaker.event.PlayerTickEvent) {
 <spartanweaponry:mace_steel:*>.addTooltip(game.localize("tooltip.scripts.weapon.steelbonus", "en_us"));
 <spartanweaponry:glaive_steel:*>.addTooltip(game.localize("tooltip.scripts.weapon.steelbonus", "en_us"));
 <spartanweaponry:staff_steel:*>.addTooltip(game.localize("tooltip.scripts.weapon.steelbonus", "en_us"));
-
-<contenttweaker:sentient_core>.addTooltip(game.localize("tooltip.contenttweaker:sentient_core", "en_us"));
-<contenttweaker:blood_tear>.addTooltip(game.localize("tooltip.contenttweaker:blood_tear", "en_us"));
 
 //Potion Of Curse Break
 brewing.addBrew(<minecraft:potion>.withTag({Potion: "minecraft:thick"}), <rlmixins:cleansing_talisman>, <minecraft:potion>.withTag({Potion: "rlmixins:curse_break"}));
