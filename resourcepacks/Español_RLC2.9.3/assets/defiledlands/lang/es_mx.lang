@@ -87,14 +87,14 @@ item.defiledlands.umbrium_shovel.name=Pala de umbranio
 item.defiledlands.umbrium_sword.name=Espada de umbranio
 
 item.defiledlands.scarlite_reaver.name=Saqueador de escarlita
-item.defiledlands.scarlite_reaver.tooltip=Drena la vida de las criaturas vivas
+item.defiledlands.scarlite_reaver.tooltip=§5Drena la vida de las criaturas vivas
 item.defiledlands.scarlite_razor.name=Navaja de escarlita
-item.defiledlands.scarlite_razor.tooltip=Da clic derecho para convertir salud en hambre
+item.defiledlands.scarlite_razor.tooltip=§5Da clic derecho para convertir salud en hambre
 
 item.defiledlands.umbra_blaster.name=Cañon umbreo
-item.defiledlands.umbra_blaster.tooltip=Dispara frutas de explotunia
+item.defiledlands.umbra_blaster.tooltip=§5Dispara frutas de explotunia
 item.defiledlands.concussion_smasher.name=Taser explosivo
-item.defiledlands.concussion_smasher.tooltip=Carga y libera para\ncrear una explosion
+item.defiledlands.concussion_smasher.tooltip=§5Carga y libera para\n§5crear una explosion
 
 item.defiledlands.umbrium_helmet.name=Casco de umbranio
 item.defiledlands.umbrium_chestplate.name=Pechera de umbranio
@@ -118,13 +118,13 @@ item.defiledlands.calling_stone.tooltip=Haz clic derecho a un Altar de conjuros\
 item.defiledlands.essence_destroyer.name=Esencia devastadora
 item.defiledlands.ravaging_ingot.name=Lingote devastador
 item.defiledlands.ravaging_axe.name=Hacha devastadora
-item.defiledlands.ravaging_axe.tooltip=Tala extremadamente rapido\nDestruye los drops
+item.defiledlands.ravaging_axe.tooltip=§5Tala extremadamente rapido\n§5Destruye los drops
 item.defiledlands.ravaging_pickaxe.name=Pico devastador
-item.defiledlands.ravaging_pickaxe.tooltip=Mina extremadamente rapido\nDestruye los drops
+item.defiledlands.ravaging_pickaxe.tooltip=§5Mina extremadamente rapido\n§5Destruye los drops
 item.defiledlands.ravaging_shovel.name=Pala devastadora
-item.defiledlands.ravaging_shovel.tooltip=Cava extremadamente rapido\nDestruye los drops
+item.defiledlands.ravaging_shovel.tooltip=§5Cava extremadamente rapido\n§5Destruye los drops
 item.defiledlands.the_ravager.name=El Devastador
-item.defiledlands.the_ravager.tooltip=Dispara bolitas
+item.defiledlands.the_ravager.tooltip=§5Dispara bolitas corruptas
 item.defiledlands.pellet_umbrium.name=Bolita de umbranio
 item.defiledlands.pellet_spiked.name=Bolita con picos
 item.defiledlands.pellet_spiked.tooltip=Aplica Sangrado acumulable
@@ -136,9 +136,9 @@ item.defiledlands.idol_sorrow.tooltip=Haz clic derecho a un Altar de conjuros\np
 item.defiledlands.essence_mourner.name=Esencia del remordimiento
 item.defiledlands.remorseful_gem.name=Gema del remordimiento
 item.defiledlands.tears_flame.name=Lagrimas de penitencia
-item.defiledlands.tears_flame.tooltip=Dispara bolas de fuego
+item.defiledlands.tears_flame.tooltip=§5Dispara bolas de fuego
 item.defiledlands.tears_shulker.name=Lagrimas de retribucion
-item.defiledlands.tears_shulker.tooltip=Dispara proyectiles de Shulker a mobs cercanos
+item.defiledlands.tears_shulker.tooltip=§5Dispara proyectiles de Shulker a mobs cercanos
 
 #Baubles
 
@@ -160,10 +160,10 @@ enchantment.blazing=Piromano
 #Enchantment Descriptions
 #----------------------------
 enchantment.defiledlands.sharpshooter.desc=Aumenta la velocidad y distancia de los proyectiles del Cañon Umbreo y El Devastador y reduce su inexactitud
-enchantment.defiledlands.economical.desc=Da una oportunidad de que tu arma lanzada no gaste municiones cuando la usas
-enchantment.defiledlands.safeguard.desc=Previene que las explosiones destruyan bloques
-enchantment.defiledlands.destructive.desc=Aumenta el tamaño de las explosiones y su daño cuando impactan directamente
-enchantment.defiledlands.blazing.desc=Convierte a la Explotunia en su variante incenidaria
+enchantment.defiledlands.economical.desc=Da una oportunidad de que tu arma corrupta no gaste municiones cuando la usas
+enchantment.defiledlands.safeguard.desc=Previene que las explosiones del Cañon umbreo destruyan bloques
+enchantment.defiledlands.destructive.desc=Aumenta el tamaño de las explosiones de tu arma corrupta y su daño cuando impactan directamente
+enchantment.defiledlands.blazing.desc=El Cañon umbreo convertira a la Explotunia en su variante incendiaria
 
 #----------------------------
 #Mobs
@@ -171,7 +171,7 @@ enchantment.defiledlands.blazing.desc=Convierte a la Explotunia en su variante i
 entity.defiledlands.shambler.name=Shambler
 entity.defiledlands.shambler_twisted.name=Shambler retorcido
 entity.defiledlands.scuttler.name=Trampillaraña
-entity.defiledlands.host.name=Huesped
+entity.defiledlands.host.name=Anfitrion
 entity.defiledlands.slime_defiled.name=Slime corrupto
 
 entity.defiledlands.book_wyrm.name=Librodrilo
