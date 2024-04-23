@@ -9,6 +9,7 @@
 - Moved Shivaxi's hardcoded english names to [resources/scripts/lang/en_us.lang](https://github.com/KameiB/RLCraft_Translations/tree/main/resources/scripts/lang).
 
 ### [localization.sz](https://github.com/KameiB/RLCraft_Translations/blob/main/scripts/Shiv2.zs)
+- Commented Rustic seeds tooltip additions (assuming Localizator will be added)  
 - Practically all lines: Localized names and tooltips.  
 - Moved Shivaxi's hardcoded english names to [resources/scripts/lang/en_us.lang](https://github.com/KameiB/RLCraft_Translations/tree/main/resources/scripts/lang). 
 
