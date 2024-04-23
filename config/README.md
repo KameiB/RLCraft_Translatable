@@ -1,14 +1,14 @@
 # Translatable stuff
 For full localization support, please download my mod [Localizator](https://www.curseforge.com/minecraft/mc-mods/localizator)  
 ### bountiful/rewards.json
-- Lines 33, 521:  Added lang keys.
+- Lines 33, 521:  Replaced Name/Lore with LocName/LocLore, and added lang keys.
 - Requires "Localizator" for LocLore NBT tag support.   
 
 ### CustomMainMenu/mainmenu.json
 - Lines 78, 127: Added lang keys.  
 
 ### DLDungeonsJBG/nbt.cfg
-- Lines 48, 63, 64, 65, 75, 76, 85, 86, 96, 97, 98: Added lang keys.
+- Lines 48, 63, 64, 65, 66, 75, 76, 77, 85, 86, 87, 96, 97, 98, 99: Replaced Name/Lore with LocName/LocLore, and added lang keys.
 - Requires "Localizator" for LocLore NBT tag support.    
   
 ### quark.cfg
