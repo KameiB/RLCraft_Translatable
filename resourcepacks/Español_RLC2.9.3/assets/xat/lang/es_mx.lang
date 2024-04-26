@@ -31,6 +31,10 @@ xat.tooltip.on=§r(§aOn§r)
 xat.tooltip.off=§r(§cOff§r)
 xat.tooltip.enabled=§r[§aHabilitado§r]
 xat.tooltip.disabled=§r[§cDeshabilitado§r]
+xat.tooltip.weight=Peso:
+
+xat.config.race.size=Tamaño
+xat.config.race.size.tooltip=Configuraciones de tamaño
 
 key.xat.category=Trinkets and Baubles
 key.xat.trinket_target.desc=Ojo de dragon: Ciclar
@@ -75,7 +79,7 @@ ability.wither_immunity.tooltip2=Tus ataques tienen una prob. de 1 en $withercha
 ability.wither_immunity.tooltip3=Si atacas a enemigos con Descomposicion, tus ataques te curaran
 ability.weightless.name=§dSin peso
 ability.weightless.tooltip1=Te vuelves sin peso
-ability.weightless.tooltip2=Ataque para elevarte, agachate y ataca para descender
+ability.weightless.tooltip2=Ataca para elevarte, agachate y ataca para descender
 ability.well_rested.name=§bBien descansado
 ability.well_rested.tooltip1=Da varios efectos positivos cuando duermes
 ability.well_rested.tooltip2=@LycanitesFear:
@@ -262,7 +266,7 @@ item.polarized_stone.0.repel=§6Repeler flechas $repeltoggle:
 item.polarized_stone.0.magnetmode=Modo recolectar $collecttoggle:
 item.polarized_stone.0.repelmode=Modo repeler $repeltoggle:
 
-item.dragons_eye.0.name=Ojo de Dragon de fuego
+item.dragons_eye.0.name=Ojo de Dragon
 item.dragons_eye.0.fire.name=Ojo de Dragon de fuego
 item.dragons_eye.0.ice.name=Ojo de Dragon de hielo
 item.dragons_eye.0.lightning.name=Ojo de Dragon de rayo
@@ -637,7 +641,8 @@ xat.config.client.dragons_eye.orefinder.refresh.rate.tooltip=Determina que tan f
 
 xat.config.ender_tiara=Corona de Reina ender
 xat.config.ender_tiara.tooltip=Configuracion de la Corona de Reina ender
-
+xat.config.client.ender_tiara.helmet=Renderizar espacio de Casco
+xat.config.client.ender_tiara.helmet.tooltip=
 xat.config.server.ender_tiara.waterhurts=El agua hiere
 xat.config.server.ender_tiara.waterhurts.tooltip=El jugador recibira daño al estar sumergido o expuesto a la lluvia?
 xat.config.server.ender_tiara.ignoredamage=Probab. de ignorar daño
@@ -855,6 +860,8 @@ xat.config.magic.mana.cap.bonus=Limite de Mana adicional
 xat.config.magic.mana.cap.bonus.tooltip=Limite del Mana adicional obtenido de los Cristales de mana y la Rosa lunar. Asignalo en 0 para deshabilitar
 xat.config.magic.mana.recovery.list=Items que dan Mana
 xat.config.magic.mana.recovery.list.tooltip=Items para recuperar Mana\n modid:item_name;meta;amount
+xat.config.magic.mana.players_only=Sólo jugadores
+xat.config.magic.mana.players_only.tooltip=Sólo los jugadores tienen Mana?
 
 #####################################[Magic Configs End]#####################################
 
@@ -1148,4 +1155,3 @@ xat.config.attributes.stepheight.operation=Multiplicador de Altura de paso
 ## From Localizator
 xat.notif.ender_tiara.message.0=§6§l¡Ve, mi leal súbdito!
 xat.notif.ender_tiara.message.1=§6§l¡El vacío me protege!
-xat.tooltip.weight=Peso:
