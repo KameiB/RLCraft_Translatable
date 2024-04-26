@@ -1617,10 +1617,10 @@ effect.absorption.description=Añade corazones adicionales amarillos no renovabl
 effect.invisibility.description=Te hace invisible reduciendo la deteccion de los enemigos.
 #
 effect.water_breathing=Respiracion
-effect.water_breathing.description=Permite respirar bajo el agua.
+effect.water_breathing.description=Te permite respirar bajo el agua.
 #
 effect.jump_boost=Supersalto
-effect.jump_boost.description=Incrementa la altura de tu salto, pero no previene daño por caida.
+effect.jump_boost.description=Incrementa la altura de tu salto, pero no previene el daño por caida.
 #
 effect.speed=Velocidad
 effect.speed.description=Incrementa tu velocidad de movimiento.
