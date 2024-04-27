@@ -1535,35 +1535,35 @@ death.attack.cold_fire=%1$s fue quemado por congelamiento!
 # Debuffs
 effect.poison.description=Causa daño con el tiempo, sin embargo, el efecto no puede matarte.
 #
-effect.levitation.description=Causa que flotes lentamente hacia arriba. Cuando el efecto se acabe, te caeras.
+effect.levitation.description=Causa que flotes lentamente hacia arriba. Cuando el efecto se termine, caeras.
 #
 effect.glowing.description=Causa que brilles y se te pueda detectar facilmente.
 #
 effect.wither.description=Causa daño con el tiempo que puede llegar a matarte.
 #
-effect.weakness.description=Reduce el daño infligido.
+effect.weakness.description=Reduce el daño que infliges.
 #
 effect.hunger.description=Incrementa la velocidad del hambre.
 #
-effect.blindness.description=Reduce la vision y evita que puedas correr.
+effect.blindness.description=Reduce tu vision y evita que puedas correr.
 #
 effect.mining_fatigue=Fatiga minera
 effect.mining_fatigue.description=Reduce la velocidad con la que usas herramientas y armas.
 #
 effect.slowness=Lentitud
-effect.slowness.description=Reduce la velocidad de movimiento.
+effect.slowness.description=Reduce tu velocidad de movimiento.
 #
 effect.burning=Quemadura
 effect.burning.description=Causa daño con el tiempo que puede matarte. Se extingue con el agua.
 #
 effect.paralysis=Paralisis
-effect.paralysis.description=Reduce drasticamente la velocidad de movimiento y evita que puedas saltar.
+effect.paralysis.description=Reduce drasticamente tu velocidad de movimiento y evita que puedas saltar.
 #
 effect.penetration=Penetracion
-effect.penetration.description=Debilita las defensas incrementando el daño recibido.
+effect.penetration.description=Debilita tus defensas, incrementando el daño recibido.
 #
 effect.recklessness=Imprudencia
-effect.recklessness.description=Debilita las defensas, pero incrementa el daño infligido.
+effect.recklessness.description=Debilita mucho tus defensas, pero incrementa el daño que infliges.
 #
 effect.rage=Ira
 effect.rage.description=Hace que pierdas la cabeza y ataques todo a tu alrededor.
@@ -1590,7 +1590,7 @@ effect.bleed=Sangrado
 effect.bleed.description=Hace daño si te mueves.
 #
 effect.plague=Plaga
-effect.plague.description=Añade veneno adicional y esparce el mismo efecto a los de tu alrededor envenenandolos tambien.
+effect.plague.description=Añade veneno adicional y esparce el mismo efecto a los de tu alrededor, envenenandolos tambien.
 #
 effect.aphagia=Afagia
 effect.aphagia.description=Causa que no puedas comer y usar algunos objetos.
@@ -1602,37 +1602,37 @@ effect.smited=Alergia solar
 effect.smited.description=Causa que la luz del sol te queme.
 #
 effect.smouldering=Combustion
-effect.smouldering.description=Te aplica quemaduras por fuego. El agua puede prevenir las quemaduras, pero no el efecto.
+effect.smouldering.description=Te aplica quemaduras por fuego. El agua previene las quemaduras, pero no elimina el efecto.
 #
 #
 # Buffs
-effect.resistance.description=Reduce el daño recibido.
+effect.resistance.description=Reduce el daño recibido (15%% * Nivel).
 #
 effect.saturation.description=Disminuye la velocidad del hambre.
 #
-effect.regeneration.description=Causa que te cures con el tiempo.
+effect.regeneration.description=Causa que te cures con el tiempo (0.5 corazones cada 2.5s/Nivel).
 #
-effect.absorption.description=Añade corazones adicionales amarillos no renovables.
+effect.absorption.description=Añade corazones adicionales amarillos no renovables (2 corazones * Nivel).
 #
-effect.invisibility.description=Te hace invisible reduciendo la deteccion de los enemigos.
+effect.invisibility.description=Te hace invisible, reduciendo la deteccion de los enemigos.
 #
 effect.water_breathing=Respiracion
 effect.water_breathing.description=Te permite respirar bajo el agua.
 #
 effect.jump_boost=Supersalto
-effect.jump_boost.description=Incrementa la altura de tu salto, pero no previene el daño por caida.
+effect.jump_boost.description=Incrementa la altura de tu salto, pero no previene el daño por caida (+0.75 * Nivel).
 #
 effect.speed=Velocidad
-effect.speed.description=Incrementa tu velocidad de movimiento.
+effect.speed.description=Incrementa tu velocidad de movimiento (20%% * Nivel).
 #
 effect.strength=Fuerza
-effect.strength.description=Incrementa tu daño por golpe.
+effect.strength.description=Incrementa tu daño por golpe (+3 * Nivel).
 #
 effect.haste=Prisa minera
-effect.haste.description=Incrementa la velocidad con la que usas herramientas y armas.
+effect.haste.description=Incrementa la velocidad con la que usas herramientas 20%% y armas 10%%.
 #
-effect.fire_resistance=Res. al fuego
-effect.fire_resistance.description=Previene cualquier tipo de quemadura.
+effect.fire_resistance=Resis. al fuego
+effect.fire_resistance.description=Te vuelve inmune al fuego y lava.
 #
 effect.night_vision=Vision nocturna
 effect.night_vision.description=Incrementa tu visibilidad en lugares oscuros.
@@ -1647,7 +1647,7 @@ effect.fallresist=Resis. a caidas
 effect.fallresist.description=Previene el daño por caida.
 #
 effect.rejuvenation=Revitalizacion
-effect.rejuvenation.description=Potencia los medios de curacion.
+effect.rejuvenation.description=Potencia la curacion que recibes.
 #
 effect.immunization=Inmunizacion
 effect.immunization.description=Remueve y da inmunidad a veneno, hambre, debilidad, nauseas y paralisis.
