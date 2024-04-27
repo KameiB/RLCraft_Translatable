@@ -8,6 +8,61 @@ itemGroup.rustic.alchemy=Rustic: Alquimia
 tooltip.rustic.olive_oil=Con aceite de oliva
 tooltip.rustic.quality=Calidad: 
 tooltip.rustic.empty=Vacio
+tooltip.rustic.quality.desc=Calidad: %1$s §8[%2$s]
+#Quality - Highest
+tooltip.rustic.quality.highest.0=Celestial
+tooltip.rustic.quality.highest.1=Excepcional
+tooltip.rustic.quality.highest.2=Improbablemente delicioso
+tooltip.rustic.quality.highest.3=Divino
+tooltip.rustic.quality.highest.4=Ambrosíaco
+tooltip.rustic.quality.highest.5=Tentador
+tooltip.rustic.quality.highest.6=Sensual
+tooltip.rustic.quality.highest.7=Calidad Dios
+#Quality - High
+tooltip.rustic.quality.high.0=Sabroso
+tooltip.rustic.quality.high.1=Muy bueno
+tooltip.rustic.quality.high.2=Disfrutable
+tooltip.rustic.quality.high.3=Agradable
+tooltip.rustic.quality.high.4=Espléndido
+tooltip.rustic.quality.high.5=Encantador
+tooltip.rustic.quality.high.6=Deleitable
+tooltip.rustic.quality.high.7=Delicioso
+#Quality - High-ish
+tooltip.rustic.quality.highish.0=Aceptable
+tooltip.rustic.quality.highish.1=Justo
+tooltip.rustic.quality.highish.2=Bebible
+tooltip.rustic.quality.highish.3=Moderado
+tooltip.rustic.quality.highish.4=Inofensivo
+tooltip.rustic.quality.highish.5=Tolerable
+tooltip.rustic.quality.highish.6=Comestible
+tooltip.rustic.quality.highish.7=Pasable
+#Quality - Low-ish
+tooltip.rustic.quality.lowish.0=Dudoso
+tooltip.rustic.quality.lowish.1=Malo
+tooltip.rustic.quality.lowish.2=No muy bebible
+tooltip.rustic.quality.lowish.3=Cuestionable
+tooltip.rustic.quality.lowish.4=Poco placentero
+tooltip.rustic.quality.lowish.5=Poco fiable
+tooltip.rustic.quality.lowish.6=Desagradable
+tooltip.rustic.quality.lowish.7=Sospechoso
+#Quality - Low
+tooltip.rustic.quality.low.0=Asqueroso
+tooltip.rustic.quality.low.1=De verdad muy malo
+tooltip.rustic.quality.low.2=Repugnante
+tooltip.rustic.quality.low.3=Nauseabundo
+tooltip.rustic.quality.low.4=Enfermizo
+tooltip.rustic.quality.low.5=Mugroso
+tooltip.rustic.quality.low.6=Repelente
+tooltip.rustic.quality.low.7=Grosero
+#Quality - Lowest
+tooltip.rustic.quality.lowest.0=Atroz
+tooltip.rustic.quality.lowest.1=Ofensivamente malo
+tooltip.rustic.quality.lowest.2=Imbebible
+tooltip.rustic.quality.lowest.3=Vil
+tooltip.rustic.quality.lowest.4=Repulsivo
+tooltip.rustic.quality.lowest.5=Nocivo
+tooltip.rustic.quality.lowest.6=Rancio
+tooltip.rustic.quality.lowest.7=Peor que pipí
 
 #Containers
 container.rustic.cabinet=Gabinete
@@ -152,7 +207,7 @@ item.rustic.tallow.name=Sebo
 item.rustic.ironberries.name=Bayas de argan
 item.rustic.olives.name=Oliva
 item.rustic.fluid_bottle.name=Botella con %s
-item.rustic.dust_tiny_iron.name=Polvo de hierro
+item.rustic.dust_tiny_iron.name=Pila pequeña de polvo de hierro
 item.tile.rustic.cloudsbluff.name=Nube
 item.tile.rustic.core_root.name=Raiz central
 item.tile.rustic.ginseng.name=Raiz de ginseng
@@ -165,6 +220,9 @@ item.rustic.wildberries.name=Moras
 item.rustic.grapes.name=Uvas
 item.tile.rustic.olive_door.name=Puerta de olivo
 item.tile.rustic.ironwood_door.name=Puerta de argan
+item.rustic.lamb_seed.name=Semilla de canonigo
+item.rustic.muttont.name=Corderon't
+item.rustic.cheese.name=Queso
 item.rustic:oliveseed.name=Pepita de olivo
 item.rustic:ironwoodseed.name=Semillas de argan
 
@@ -197,14 +255,32 @@ effect.feather=Pluma
 effect.blazing_trail=Rastro igneo
 effect.shame=Deshonor
 effect.full=Panza llena
-effect.magic_resistance=Res. magi
+effect.magic_resistance=Resis. magi
 effect.wither_ward=Prot. a Wither
-
 effect.tipsy=Embriaguez
+effect.fullmetal=Fullmetal
 
 #Elixirs
 rustic.elixir.prefix=Elixir de 
 rustic.elixir.separator=, 
+
+#Entities
+entity.rustic.tomato.name=Tomate
+entity.rustic.chair.name=Silla
+entity.rustic.vegetable_lamb=Canónigo
+
+#Advancements
+advancements.rustic.root=Rústico
+advancements.rustic.root.desc=Qué pintoresco
+advancements.rustic.almanac=Aprendiendo de los libros
+advancements.rustic.almanac.desc=Obtén un almanaque
+advancements.rustic.the_good_stuff=Lo mero bueno
+advancements.rustic.the_good_stuff.desc=Destila una bebida con calidad de al menos 90%%
+advancements.rustic.winemaxxing=Mami está winemaxxeando
+#advancements.rustic.winemaxxing.desc=Ahora no cariño, mami está winemaxxeando
+advancements.rustic.winemaxxing.desc=Ahora no cariño, mami está winemaxxeando, mami es una vicodinchad winemaxxeada. Mami está medicada y totalmente embellecida, mi cielo. Ve a jugar tus jueguitos, corazón, ve a ser un buen gamercel por mami.
+advancements.rustic.max_drunk=Sin arropentimientos
+advancements.rustic.max_drunk.desc=Alcanza niveles peligrosos de embriaguez
 
 #JEI Categories
 rustic.jei.recipe.crushing_tub=Tina de trituracion
@@ -236,7 +312,7 @@ book.rustic.entry.chairs=Sillas
 book.rustic.entry.gargoyles=Gargolas
 book.rustic.entry.slate=Pizarra
 book.rustic.entry.pillars=Pilares
-book.rustic.entry.clay_walls=Adobe
+book.rustic.entry.clay_walls=Paredes de Adobe
 book.rustic.entry.painted_wood=Madera pintada
 
 book.rustic.entry.bees=Abejas
