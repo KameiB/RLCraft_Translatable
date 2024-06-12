@@ -2,3 +2,6 @@
 fluid.deadblood=Dead blood
 
 entity.srparasites.anc_dreadnaut_ten.name=Ancient Dreadnaut Tendril
+
+# From CFG files
+message.srparasites.node_warning=Corruption Spreads

@@ -498,4 +498,17 @@ entity.srparasites.anc_dreadnaut_ten.name=Extremidad de Antiguo Dreadnaut
 tooltip.srparasites.armor.adaptation=Adaptación actual:
 tooltip.srparasites.armor.reduction=§a  Reducción:
 # Biome names
-biome.srparasites:biome_parasite.name=Bioma parásito
+biome.srparasites:biome_parasite.name=Bioma parasitario
+
+# From CFG files
+message.srparasites.phase_0_warning=CERO
+message.srparasites.phase_1_warning=Uno
+message.srparasites.phase_2_warning=Dos
+message.srparasites.phase_3_warning=Tres
+message.srparasites.phase_4_warning=Cuatro
+message.srparasites.phase_5_warning=Cinco
+message.srparasites.phase_6_warning=Seis
+message.srparasites.phase_7_warning=Siete
+message.srparasites.phase_8_warning=Ocho
+message.srparasites.node_warning=La infección se esparce...
+message.srparasites.colony_warning=Colonia
