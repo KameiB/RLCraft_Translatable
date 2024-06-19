@@ -34,9 +34,9 @@ For full localization support, please download my mod [Localizator](https://www.
 
 # Error-preventing stuff
 These are files to prevent some errors.
-### bettermineshafts/1_12_2
+### bettermineshafts/1_12_2/variants.json
 - Lines 138-141: Replaced "quark:bark_dark_oak_stairs" with "minecraft:dark_oak_stairs"
-- variants.json
+
 ### levelup2/json/skills
 I just took these files from inside the JAR, and errors disappeared
 - /combat/combat_bonus.json
