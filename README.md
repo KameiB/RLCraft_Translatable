@@ -6,7 +6,7 @@
 - [mods]  
   - Forks I worked in
   - Link to my mod Localizator  
-- [resourcepacks] All files inside my Spanish Resource Pack (lang, ogg, png)  
+- [resourcepacks] A link to a template Resource Pack for translators.    
 - **[resources]** en_us lang files needed to support the modified config and scripts  
 - **[scripts]** Scripts for the latest version of RLCraft  
 
