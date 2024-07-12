@@ -3,9 +3,6 @@
 
 ### This repository includes all the changes needed to make RLCraft translatable.  
 - **[config]** Config files for the lastest RLCraft (cfg, json)  
-- [mods]  
-  - Forks I worked in
-  - Link to my mod Localizator  
 - [resourcepacks] A link to a template Resource Pack for translators.    
 - **[resources]** en_us lang files needed to support the modified config and scripts  
 - **[scripts]** Scripts for the latest version of RLCraft  
