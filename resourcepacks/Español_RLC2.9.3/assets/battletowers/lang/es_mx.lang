@@ -1,9 +1,0 @@
-##Translated by KameiB for RLCraft 2.9.2. Jan/2023
-entity.BattleTowers.Battletower Golem.name=Golem de Torre de batalla
-entity.Battletower Golem.name=Golem de Torre de batalla
-
-# Added by KameiB. Thanks Zolu!
-A Battletower's Guardian has fallen! Without it's power, the Tower will collapse...=El guardián de la Torre de batalla ha caído! Sin su poder, la torre colapsará...
-
-# From Localizator
-notif.battletowers.golem_defeated=El guardián de la Torre de batalla ha caído! Sin su poder, la torre colapsará...
